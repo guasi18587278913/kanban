@@ -1,0 +1,32 @@
+刘小排(liuxiaopai) 11-23 01:23:29
+[链接|Google Antigravity 竟然能直接调用 Nano Banana Pro 画图](https://mp.weixin.qq.com/s?t=pages/image_detail&scene=1&__biz=MzI1MTUxNzgxMA==&mid=2247499706&idx=1&sn=3c9da410317d4f675e426bd13b6897b9&sharer_shareinfo_first=01bedbc7bf61c2ccf495234f0837e31b&sharer_shareinfo=01bedbc7bf61c2ccf495234f0837e31b#wechat_redirect)
+
+刘小排(liuxiaopai) 11-23 01:23:30
+好功能
+
+新世界(wxid_98g2m3mfrobz31) 11-23 23:05:48
+选择creem支付，这里填自己身份证名字是吧，地址填自己国内的居住地址就行
+
+新世界(wxid_98g2m3mfrobz31) 11-23 23:05:50
+![图片](http://127.0.0.1:5030/image/22d82d4bb62e5599898d13eb56be15e6)
+
+刘小排(liuxiaopai) 11-23 23:08:09
+是的
+
+新世界(wxid_98g2m3mfrobz31) 11-23 23:08:59
+好的，文档关于正式提交上线这块的流程 最好写下，我认真看了没有，都是讲的开发模式下
+
+刘小排(liuxiaopai) 11-23 23:10:21
+回头我补一下
+
+刘小排(liuxiaopai) 11-23 23:10:21
+"${liuxiaopai}" 拍了拍 "${wxid_98g2m3mfrobz31}"
+
+新世界(wxid_98g2m3mfrobz31) 11-23 23:30:00
+![图片](http://127.0.0.1:5030/image/df496e77865c98d92d44c724ad5ae0a8)
+
+新世界(wxid_98g2m3mfrobz31) 11-23 23:30:04
+![图片](http://127.0.0.1:5030/image/26bc8fa90a73b81a662b6433e342752b)
+
+新世界(wxid_98g2m3mfrobz31) 11-23 23:31:11
+正式提交整 隐藏的好深，是要在这里先creat new  account才能出现审核界面了？

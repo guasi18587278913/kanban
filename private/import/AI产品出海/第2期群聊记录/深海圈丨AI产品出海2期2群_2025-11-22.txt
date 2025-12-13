@@ -1,0 +1,62 @@
+小明(wxid_at9px5nf07qm22) 11-22 14:38:19
+昨天大家反馈的 DevTools 教程，已更新哈，在内功篇倒数第二章
+
+https://scys.com/course/detail/92?chapterId=4206
+
+张丁元(kay_zdy) 11-22 14:47:04
+"${kay_zdy}" 拍了拍 "${wxid_at9px5nf07qm22}"
+
+Penny(wxid_6cr3xm6917ih21) 11-22 21:07:50
+![图片](http://127.0.0.1:5030/image/cef10056a5aa7f4cd012fa0cd8f1dba2)
+
+Penny(wxid_6cr3xm6917ih21) 11-22 21:08:12
+#举手 supabase停机了，有替代品么？
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-22 21:17:24
+neno
+
+Penny(wxid_6cr3xm6917ih21) 11-22 21:21:08
+neon？
+
+我 11-22 21:22:52
+"生财-领队-土豆君" 撤回了一条消息
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-22 21:23:13
+课程模板用的也是这个
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-22 21:23:38
+neon.com
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-22 21:23:43
+打错了[捂脸]
+
+Penny(wxid_6cr3xm6917ih21) 11-22 21:32:42
+![动画表情](http://wxapp.tc.qq.com/262/20304/stodownload?m=4cf98367eaf27765b141e3ace1c22bf2&filekey=30350201010421301f020201060402535a04104cf98367eaf27765b141e3ace1c22bf20203086905040d00000004627466730000000132&hy=SZ&storeid=267ea4556000be58f4e8ad8180000010600004f50535a0e0fc011578a81a37&bizid=1023)
+
+Penny(wxid_6cr3xm6917ih21) 11-22 21:32:51
+好的好的
+
+永远在路上(wxid_3v8mpj5kae3y22) 11-22 22:58:49
+在做支付这个章节练习，最后一步支付，这个地址要什么填，随便填好像不行吧
+
+永远在路上(wxid_3v8mpj5kae3y22) 11-22 22:58:50
+![图片](http://127.0.0.1:5030/image/cdfd76f277a710768f781d2bd2d51301)
+
+小明(wxid_at9px5nf07qm22) 11-22 23:18:51
+@永远在路上-福州 让 AI 给你个支付填写信息
+
+毛海山Sam(wxid_yd7njlmm3ibf21) 11-22 23:29:51
+https://www.meiguodizhi.com/ 美国地址生成器
+
+Shining佳伟～一烟火龙果(wxid_x22nbgzmxqcs22) 11-22 23:53:37
+或者你改为中国
+
+Shining佳伟～一烟火龙果(wxid_x22nbgzmxqcs22) 11-22 23:53:54
+信息就可以随意填了，也可以过，亲测有用
+
+Shining佳伟～一烟火龙果(wxid_x22nbgzmxqcs22) 11-22 23:54:15
+![图片](http://127.0.0.1:5030/image/ffe3d3b90728b69c263b5c6518c3943f)
+
+> Shining～一烟火龙果(wxid_x22nbgzmxqcs22) 11-22 23:54:15
+> ![图片](http://127.0.0.1:5030/image/ffe3d3b90728b69c263b5c6518c3943f)
+在做支付这个章节练习，最后一步支付，付款成功后，未返回购买记录，案例模板就是这样的吗

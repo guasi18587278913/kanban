@@ -1,0 +1,13 @@
+闻鉴(wxid_cdtcq1czmsgf22) 09-14 04:44:09
+购买的claude code100美元的套餐，没有到期，claude code就不能用了；但网页可以。大家有碰到这个问题吗？
+
+闻鉴(wxid_cdtcq1czmsgf22) 09-14 04:44:09
+![图片](http://127.0.0.1:5030/image/bb999dc4958c73cf62f69acba4ae3cd2)
+
+闻鉴(wxid_cdtcq1czmsgf22) 09-14 04:44:10
+![图片](http://127.0.0.1:5030/image/9f152e5fd3faf113417edf3353042862)
+
+A梦 (知牧)(mrleoxu) 09-14 05:24:28
+> 闻鉴-广州(wxid_cdtcq1czmsgf22) 09-14 04:44:09
+> 购买的claude code100美元的套餐，没有到期，claude code就不能用了；但网页可以。大家有碰到这个问题吗？
+大概率网络环境不好，🪜的IP不干净了。你看看开隐身窗口访问 claude.ai 的时候会不会弹出真人验证，如果需要验证就是环境不行了，建议换个IP，否则这种状态用久了 容易被封号

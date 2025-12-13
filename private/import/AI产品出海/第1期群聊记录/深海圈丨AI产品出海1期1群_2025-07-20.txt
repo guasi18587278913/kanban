@@ -1,0 +1,645 @@
+银河星游(wxid_6253072530112) 07-20 00:39:57
+兄弟们，我感觉以后这种旅游规划，信息查询，购物对比，要被大公司一波占领高地了
+
+银河星游(wxid_6253072530112) 07-20 00:39:57
+[分享]
+
+银河星游(wxid_6253072530112) 07-20 00:40:11
+评论区：manus已死
+
+银河星游(wxid_6253072530112) 07-20 00:41:42
+还是得做垂直的呀，通用的感觉，咋说呢，干不过大公司呀
+
+斌斌(wxid_q7elckbk00lc22) 07-20 06:59:32
+是的，用小排老师的话说，要number1，only1，first1。
+针尖市场做到世界第一。
+在多大的针尖跳舞取决于有多大的功力。
+
+刘小排(liuxiaopai) 07-20 11:57:53
+不会在针尖跳舞，就是不会跳舞[呲牙]
+
+刘小排(liuxiaopai) 07-20 12:08:47
+话说后来你搞定支付了吗
+
+斌斌(wxid_q7elckbk00lc22) 07-20 13:15:18
+还没有，今天继续弄[捂脸]
+
+刘小排(liuxiaopai) 07-20 13:22:52
+要不你先弄creem呢。。
+
+斌斌(wxid_q7elckbk00lc22) 07-20 13:24:38
+creem永久拒绝了
+
+青竹(wxid_1348793487711) 07-20 13:25:48
+调试的时候，把密钥、签名、报文都打印出来看看，有了这些就可以本地做测试了，每次都依赖webhook很慢
+
+青竹(wxid_1348793487711) 07-20 13:27:35
+几个方向：密钥不对、报文格式不对、算法不对
+
+刘小排(liuxiaopai) 07-20 13:35:03
+paddle不支持AIGC哦。
+
+刘小排(liuxiaopai) 07-20 13:35:19
+如果你creem拒接了，你可以先试试paypro和stripe
+paddle不支持AIGC应用的。
+
+毛豆角(wxid_ydo5b2thifzq22) 07-20 14:35:42
+章晗(wxid_ux74p8kp09do21) 07-20 14:44:43
+> 毛豆角-北京(wxid_ydo5b2thifzq22) 07-20 14:35:42
+> > [引用]
+> 哇 太有用了！正好最近在跟着手册补课，如果能信息折叠，比如 群聊里面的关键信息如果也能折叠到教程里面 像飞书的右侧评论那种格式  ，感觉会比现在遇到问题开搜索要更高效一些
+技术难度系数好高[Lol]
+
+章晗(wxid_ux74p8kp09do21) 07-20 14:45:03
+得同步群聊和智能汇总
+
+毛豆角(wxid_ydo5b2thifzq22) 07-20 14:47:22
+> 章晗(wxid_ux74p8kp09do21) 07-20 14:45:03
+> 得同步群聊和智能汇总
+昂 还得定位到具体是教程的哪一小结 还有排版 还有去重  ，过时信息更新之类的[Lol]
+
+斌斌(wxid_q7elckbk00lc22) 07-20 15:25:51
+> 青竹-上海嘉定(wxid_1348793487711) 07-20 13:25:48
+> 调试的时候，把密钥、签名、报文都打印出来看看，有了这些就可以本地做测试了，每次都依赖webhook很慢
+谢谢
+
+斌斌(wxid_q7elckbk00lc22) 07-20 15:26:12
+> 刘小排(liuxiaopai) 07-20 13:35:19
+> 如果你creem拒接了，你可以先试试paypro和stripe
+> paddle不支持AIGC应用的。
+好的，我申请了一个目前是通过的
+
+stewart🤔(stewart) 07-20 16:28:43
+[视频号|98年INFJ女孩裸辞创业，靠AI一人做产品出海#大树学AI #AI创业 #AI #访谈](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibusn4vVFEyiapk7ZShiav2FENibzhnSpJIUkOHRlyia66iaJhGDYfKOWShMYbCM7lAulZ29U8rg6L0FzIg7PLf2kGcrdrkfYiaBVhxzJDu96nWK3Ikcct2WAicJKMA&hy=SZ&idx=1&m=c4231f0667a6a6eb714523d93a9a4b1b&uzid=7a260&token=cztXnd9GyrGqeE7eznib1lwg7liaEFKniaqKo1WyBl2AU0AQvSH4mTj2Astso2TnG6K8vlWoicWMxajKCicXIEogXSYnpKPibP1DWhcepExAXC756CibhcOfoic4aUJvwtrZgNrzhue7mJePOiaCeON7UdB4ooWeL0FbeWsvZE6ib3np6Sccw&ctsc=39&extg=10ebd00&svrbypass=AAuL%2FQsFAAABAAAAAADug4eA%2F3DAY3%2FLhah8aBAAAADnaHZTnGbFfAj9RgZXfw6VORtjsVNP128ZGC0rKXUoTea4zPwgtGCXcs78XWPkTT38teYHNy8k&svrnonce=1753000069)
+
+青竹(wxid_1348793487711) 07-20 16:44:41
+Mac 下需要语音输入的，也可以尝试用一下 Mac 自带的语音输入（我本地安装豆包之后，感觉它占用资源太多了）
+
+青竹(wxid_1348793487711) 07-20 16:44:41
+![图片](http://127.0.0.1:5030/image/8446c526bc624e888f2de04975f6188c)
+
+刘小排(liuxiaopai) 07-20 16:47:01
+我Mac自带以前我也用，后来觉得识别得太差了
+
+刘小排(liuxiaopai) 07-20 16:47:08
+录课程视频的时候，用的是Mac自带的
+
+青竹(wxid_1348793487711) 07-20 16:47:12
+实际用下来，效果还行，就是要说的稍微慢一些，太快了效果就不好了
+
+青竹(wxid_1348793487711) 07-20 16:47:21
+[Chuckle]
+
+arlen(skyarlen) 07-20 16:53:20
+You've saved $51 on API model usage this month with Pro. Switch to Auto for more requests or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 8/13/2025.
+
+刘小排(liuxiaopai) 07-20 16:53:50
+kira吧。周末挺快的
+
+刘小排(liuxiaopai) 07-20 16:53:59
+kiro
+
+arlen(skyarlen) 07-20 16:54:09
+昨天申请了
+
+arlen(skyarlen) 07-20 16:54:12
+不知道通过没
+
+arlen(skyarlen) 07-20 16:55:16
+看起来没有
+
+arlen(skyarlen) 07-20 16:55:31
+闲鱼？
+
+梅丽玲(wxid_1232452323212) 07-20 16:58:12
+我今天发现 cursor 也没那么差[偷笑]，我这两天要改一个产品功能bug，CC反反复复都没有给我整好，结果cursor给我修好了。
+因为这个bug ，CC没找对原因，cursor找到原因了[强]
+
+arlen(skyarlen) 07-20 16:59:04
+选的啥模型，o3么
+
+tothegump(wxid_0g5n7pj8j3qg21) 07-20 16:59:20
+嗯，其实跟提示词关系也挺大的
+
+梅丽玲(wxid_1232452323212) 07-20 16:59:48
+瞬间理解小排老师说得要围绕问题本质和AI沟通，cursor在沟通交流上，比CC灵活一点
+
+梅丽玲(wxid_1232452323212) 07-20 17:01:08
+> arlen(skyarlen) 07-20 16:59:04
+> 选的啥模型，o3么
+不确定是不是问的我[Lol]，我都是用的sonnet-4
+
+刘小排(liuxiaopai) 07-20 17:02:53
+把cc用成这样也太爽了，每分钟58万token
+
+刘小排(liuxiaopai) 07-20 17:02:53
+![图片](http://127.0.0.1:5030/image/0c0df7768e8713f0812f41505b5dae55)
+
+arlen(skyarlen) 07-20 17:03:09
+[坏笑]sonnet-4非常好
+
+arlen(skyarlen) 07-20 17:03:13
+够用了
+
+arlen(skyarlen) 07-20 17:03:31
+> 刘小排(liuxiaopai) 07-20 17:02:53
+> 把cc用成这样也太爽了，每分钟58万token
+薅
+
+沈林易(wxid_o8kuhnmysy3r22) 07-20 17:03:37
+> arlen(skyarlen) 07-20 16:53:20
+> You've saved $51 on API model usage this month with Pro. Switch to Auto for more requests or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 8/13/2025.
+你的cc是被限速了吗？
+
+沈林易(wxid_o8kuhnmysy3r22) 07-20 17:03:40
+[发呆]
+
+刘小排(liuxiaopai) 07-20 17:04:06
+还没有，17点是我的刷新窗口。刚刷新。
+
+梅丽玲(wxid_1232452323212) 07-20 17:08:17
+> 刘小排(liuxiaopai) 07-20 17:02:53
+> 把cc用成这样也太爽了，每分钟58万token
+我的神啊，anthropic要哭了/:,@P
+
+arlen(skyarlen) 07-20 17:14:34
+![图片](http://127.0.0.1:5030/image/dd74c81e60f0b96800eefa87fefc92d4)
+
+arlen(skyarlen) 07-20 17:14:41
+我是不是得等到下个月
+
+简单(wxid_jw8gsadauynk21) 07-20 17:15:33
+给官方发邮件 改为旧版500次计费
+
+简单(wxid_jw8gsadauynk21) 07-20 17:15:45
+edu的不行
+
+简单(wxid_jw8gsadauynk21) 07-20 17:15:48
+正价可以
+
+arlen(skyarlen) 07-20 17:16:11
+不是edu
+
+简单(wxid_jw8gsadauynk21) 07-20 17:16:28
+那就给官方发邮件
+
+简单(wxid_jw8gsadauynk21) 07-20 17:17:26
+![图片](http://127.0.0.1:5030/image/e332cccdee660e95b097b33ecda11ede)
+
+简单(wxid_jw8gsadauynk21) 07-20 17:17:38
+![图片](http://127.0.0.1:5030/image/7e655710f5eebac1fa55fc70d4b833fe)
+
+顺利(wxid_n6kjtdjnivea21) 07-20 17:19:04
+ cursor 现在给人一种特别着急赚钱的感觉[捂脸]
+
+arlen(skyarlen) 07-20 17:20:18
+可能被中国人薅秃噜了
+
+arlen(skyarlen) 07-20 17:20:26
+再不赚就没机会了
+
+arlen(skyarlen) 07-20 17:24:24
+![图片](http://127.0.0.1:5030/image/15a2fe1334952e39b3dab89792bf77fc)
+
+arlen(skyarlen) 07-20 17:24:30
+完犊子，公司里的产品和开发都可以下岗了
+
+老朱(wxid_redtsshstijr22) 07-20 17:26:37
+你们kiro的模型都正常用嘛，我选择claude 4 文件基本都写入不了，3.7还可以。有没有办法接触限制
+
+arlen(skyarlen) 07-20 17:27:26
+![图片](http://127.0.0.1:5030/image/f79c87271ec7d11d4537da2c7a53d57b)
+
+arlen(skyarlen) 07-20 17:27:33
+我靠，还有验收标准……
+
+arlen(skyarlen) 07-20 17:27:58
+我教了公司那帮BA很久，都他妈不想写
+
+arlen(skyarlen) 07-20 17:28:02
+这下好了
+
+arlen(skyarlen) 07-20 17:29:29
+![图片](http://127.0.0.1:5030/image/1b5ab2950ccb2923ca652bf419cd8219)
+
+arlen(skyarlen) 07-20 17:29:34
+这太牛逼了
+
+arlen(skyarlen) 07-20 17:29:54
+排总一句话，打开一个新世界
+
+刘小排(liuxiaopai) 07-20 17:31:57
+> arlen(skyarlen) 07-20 17:27:58
+> 我教了公司那帮BA很久，都他妈不想写
+BA是保安的意思吗
+
+老朱(wxid_redtsshstijr22) 07-20 17:33:22
+老师们 这个问题怎么解决的[流泪]你们kiro的模型都正常用嘛，我选择claude 4 文件基本都写入不了，3.7还可以。有没有办法接触限制
+
+刘小排(liuxiaopai) 07-20 17:33:40
+不知道耶，我没遇到
+
+刘小排(liuxiaopai) 07-20 17:33:42
+正常使用的。
+
+刘小排(liuxiaopai) 07-20 17:33:46
+你先用着3.7吧。3.7也很强
+
+arlen(skyarlen) 07-20 17:34:16
+> 刘小排(liuxiaopai) 07-20 17:31:57
+> > [引用]
+> BA是保安的意思吗
+/:B-)我感觉他们体力应该不如保安
+
+老朱(wxid_redtsshstijr22) 07-20 17:34:38
+好吧 不知道是不是我网络问题 撸不到4[捂脸]
+
+arlen(skyarlen) 07-20 17:34:42
+> 老朱一青岛(wxid_redtsshstijr22) 07-20 17:33:22
+> 老师们 这个问题怎么解决的[流泪]你们kiro的模型都正常用嘛，我选择claude 4 文件基本都写入不了，3.7还可以。有没有办法接触限制
+是不是要以管理员运行
+
+老朱(wxid_redtsshstijr22) 07-20 17:35:07
+回去试试[旺柴]
+
+清仔(wxid_4oz7hsqrg8y722) 07-20 17:36:02
+> 刘小排(liuxiaopai) 07-20 17:31:57
+> > [引用]
+> BA是保安的意思吗
+这是付航的梗么hhh
+
+刘小排(liuxiaopai) 07-20 17:37:16
+[旺柴]
+
+刘小排(liuxiaopai) 07-20 17:37:20
+我最喜欢付航了
+
+超然同学(wxid_lgfk7wufz9b651) 07-20 17:37:34
+喜欢+1
+
+arlen(skyarlen) 07-20 17:38:03
+我觉得我们最终都会变保安
+
+鲲鹏(wxid_xzasd4j871fq31) 07-20 17:38:08
+[动画表情]
+
+鲲鹏(wxid_xzasd4j871fq31) 07-20 17:38:24
+> arlen(skyarlen) 07-20 17:38:03
+> 我觉得我们最终都会变保安
+？
+
+arlen(skyarlen) 07-20 17:41:27
+付航居然上了长安的荔枝
+
+袁智翔(wxid_7483c6zwueat22) 07-20 17:42:15
+现在有办法在 claude code 干活结束后弹个通知出来么？
+
+沈林易(wxid_o8kuhnmysy3r22) 07-20 17:43:37
+kiro需要等吗？
+
+沈林易(wxid_o8kuhnmysy3r22) 07-20 17:43:37
+![图片](http://127.0.0.1:5030/image/12147fcf629f98d9fdf6cbf0272ed6d4)
+
+沈林易(wxid_o8kuhnmysy3r22) 07-20 17:43:55
+我是不是找错了网站[破涕为笑]
+
+刘小排(liuxiaopai) 07-20 17:44:12
+dmg发给你
+
+刘小排(liuxiaopai) 07-20 17:44:28
+[文件|202507152330-Kiro-dmg-darwin-arm64.dmg](http://127.0.0.1:5030/file/b0ad516e77657e410822cd1c219a6de8)
+
+沈林易(wxid_o8kuhnmysy3r22) 07-20 17:44:46
+我是win，老师[破涕为笑]
+
+袁智翔(wxid_7483c6zwueat22) 07-20 17:44:47
+> 袁气森林(wxid_7483c6zwueat22) 07-20 17:42:14
+> 现在有办法在 claude code 干活结束后弹个通知出来么？
+找到办法了，可以自己写个钩子
+
+沈林易(wxid_o8kuhnmysy3r22) 07-20 17:45:03
+> 袁气森林(wxid_7483c6zwueat22) 07-20 17:44:47
+> > 袁气森林(wxid_7483c6zwueat22) 07-20 17:42:14
+> > 现在有办法在 claude code 干活结束后弹个通知出来么？
+> 找到办法了，可以自己写个钩子
+/:strong
+
+沈林易(wxid_o8kuhnmysy3r22) 07-20 17:45:16
+让他写完调这个钩子？
+
+夕远(wxid_0kb3l3xk63ag21) 07-20 17:48:33
+> 袁气森林(wxid_7483c6zwueat22) 07-20 17:42:15
+> 现在有办法在 claude code 干活结束后弹个通知出来么？
+我加了一个完成的提示音的 hooks, 挺好用的, 直接在全局的 .claude/settings.json 中加
+
+"hooks": {
+"Stop": [{
+"matcher": "",
+"hooks": [{
+"type": "command",
+"command": "afplay /System/Library/Sounds/Glass.aiff"
+}]}],
+"Notification": [{
+"matcher": "",
+"hooks": [{
+"type": "command",
+"command": "afplay /System/Library/Sounds/Submarine.aiff"
+}]}]}
+
+袁智翔(wxid_7483c6zwueat22) 07-20 17:48:39
+对，每次写完都调一下钩子，钩子触发通知
+
+袁智翔(wxid_7483c6zwueat22) 07-20 17:49:58
+> 夕远(wxid_0kb3l3xk63ag21) 07-20 17:48:33
+> > [引用]
+> 我加了一个完成的提示音的 hooks, 挺好用的, 直接在全局的 .claude/settings.json 中加
+> "hooks": {
+> "Stop": [{
+> "matcher": "",
+> "hooks": [{
+> "type": "command",
+> "command": "afplay /System/Library/Sounds/Glass.aiff"
+> }]}],
+> "Notification": [{
+> "matcher": "",
+> "hooks": [{
+> "type": "command",
+> "command": "afplay /System/Library/Sounds/Submarine.aiff"
+> }]}]}
+我试试
+
+arlen(skyarlen) 07-20 17:52:41
+![图片](http://127.0.0.1:5030/image/4dd9c0dc66d3101569e233aeb28a9540)
+
+arlen(skyarlen) 07-20 17:52:52
+这个应该发邮件没有用了吧？
+
+清仔(wxid_4oz7hsqrg8y722) 07-20 17:53:29
+> 沈林易(wxid_o8kuhnmysy3r22) 07-20 17:44:46
+> 我是win，老师[破涕为笑]
+@沈林易 我用夸克网盘分享了「202507160015-Kiro-win32-x64.exe」，点击链接即可保存。打开「夸克APP」，无需下载在线播放视频，畅享原画5倍速，支持电视投屏。
+链接：https://pan.quark.cn/s/80d8f02633f0
+
+arlen(skyarlen) 07-20 17:53:36
+> 清仔-广州(wxid_4oz7hsqrg8y722) 07-20 17:36:02
+> > [引用]
+> 这是付航的梗么hhh
+脱口秀我只认徐志胜
+
+Ash焚芯(wxid_siqp6j111tho22) 07-20 18:04:27
+把 kiro 里的前两项，直接复制给 v0 出原型也很惊艳
+
+Ash焚芯(wxid_siqp6j111tho22) 07-20 18:04:27
+![图片](http://127.0.0.1:5030/image/8e9b7f6960cb16ec7f94c5e2d90cf521)
+
+Moore(xiaobei1984) 07-20 18:05:29
+核心是把需求讲清楚
+
+王珣(wangxiaojian162088) 07-20 18:05:46
+刚刚看到一句话，没有枪没有炮，AI 给我们造[奸笑]
+
+Lily 兰心 18038099581(wxid_55i7xj4ozfa022) 07-20 18:05:46
+kiro你们能用吗，我都转不动
+
+Ash焚芯(wxid_siqp6j111tho22) 07-20 18:06:46
+可以
+
+arlen(skyarlen) 07-20 18:18:06
+[小程序|腾讯视频](https://m.v.qq.com/x/m/play?vid=u1442nl7ge8&cid=&ptag=share_11_11&pageType=immerse&url_from=share&second_share=0&share_from=wxf)
+
+arlen(skyarlen) 07-20 18:25:49
+> Ash焚芯-临沂(wxid_siqp6j111tho22) 07-20 18:04:27
+> 把 kiro 里的前两项，直接复制给 v0 出原型也很惊艳
+好主意
+
+arlen(skyarlen) 07-20 18:25:58
+kiro改bug的能力太差了
+
+Moore(xiaobei1984) 07-20 18:26:36
+kiro 核心有三块：requirements.md 、design.md、hooks
+
+Moore(xiaobei1984) 07-20 18:26:55
+生成文档后，直接在claudecode效果非常好
+
+Moore(xiaobei1984) 07-20 18:27:11
+改bug我有什么用 geminicli 很快
+
+arlen(skyarlen) 07-20 18:42:29
+![图片](http://127.0.0.1:5030/image/b16264e5d4b3270c0cf55be4656fc1e1)
+
+arlen(skyarlen) 07-20 18:42:32
+找bug太弱了
+
+arlen(skyarlen) 07-20 18:43:07
+cursor+o3改bug可以
+
+arlen(skyarlen) 07-20 19:00:38
+还是得冲cursor才行
+
+arlen(skyarlen) 07-20 19:14:32
+没有回退到checkpoint么？
+
+arlen(skyarlen) 07-20 19:14:41
+我。。
+
+梅丽玲(wxid_1232452323212) 07-20 19:23:52
+> arlen(skyarlen) 07-20 19:14:32
+> 没有回退到checkpoint么？
+点击你想checkpoint的那条指令，修改成你现在想发的指令发送
+
+梅丽玲(wxid_1232452323212) 07-20 19:24:18
+那条指令后面的操作就相当于都取消了，回滚了
+
+我 07-20 19:49:33
+"arlen" 撤回了一条消息
+
+arlen(skyarlen) 07-20 19:50:12
+好的，谢谢啦
+
+青竹(wxid_1348793487711) 07-20 20:11:13
+Mac 可以用 brew install --cask kiro 来安装，已经被 brew 收录了
+
+北(wxid_h2x4q8b8vmvj12) 07-20 20:12:34
+[强]
+
+银河星游(wxid_6253072530112) 07-20 21:16:56
+我靠，现在申请英国公司不能只花77英镑了，要买那个175英镑的非英国公民套餐了吗？我靠，直接多出1000块
+
+银河星游(wxid_6253072530112) 07-20 21:16:58
+![图片](http://127.0.0.1:5030/image/a381fe46866485a508764a789ab697a9)
+
+故事、自己写(jiang_shaobo) 07-20 21:20:34
+100%，卡住了
+
+故事、自己写(jiang_shaobo) 07-20 21:20:34
+![图片](http://127.0.0.1:5030/image/257341ea1c349a9187d282159182b0a3)
+
+银河星游(wxid_6253072530112) 07-20 21:22:16
+我打算上淘宝注册了，1267元，自己注册要175英镑，1684元，我擦
+
+银河星游(wxid_6253072530112) 07-20 21:27:07
+群里有没有群友最近注册英国公司的？花了多少钱呀？
+
+故事、自己写(jiang_shaobo) 07-20 21:28:08
+TB可以问问报税情况
+
+故事、自己写(jiang_shaobo) 07-20 21:28:08
+![图片](http://127.0.0.1:5030/image/d3d687dd8d23e37642ecf16d7e9e9094)
+
+tothegump(wxid_0g5n7pj8j3qg21) 07-20 21:29:14
+> 银河星游(wxid_6253072530112) 07-20 21:22:16
+> 我打算上淘宝注册了，1267元，自己注册要175英镑，1684元，我擦
+这么贵了吗？这个价格是不是可以注册一个美国公司了？
+
+银河星游(wxid_6253072530112) 07-20 21:30:07
+> tothegump-上海(wxid_0g5n7pj8j3qg21) 07-20 21:29:14
+> > [引用]
+> 这么贵了吗？这个价格是不是可以注册一个美国公司了？
+美国300刀起步吧？
+
+Sitin彭涛|出海 ing(taotao120peng) 07-20 21:30:21
+美国公司我花了 7000 多
+
+不晚(wxid_uey4xxzk35lj22) 07-20 21:31:13
+> 银河星游(wxid_6253072530112) 07-20 21:27:07
+> 群里有没有群友最近注册英国公司的？花了多少钱呀？
+我6月份注册的
+
+AIQ(wachyd2010) 07-20 21:31:22
+公司要提前注册还是用到才注册？
+
+不晚(wxid_uey4xxzk35lj22) 07-20 21:31:26
+700多人民币
+
+乐天(txwxlt) 07-20 21:31:30
+真贵
+
+银河星游(wxid_6253072530112) 07-20 21:31:43
+你只要不在英国的话是不用交税的呀？
+
+银河星游(wxid_6253072530112) 07-20 21:32:20
+![图片](http://127.0.0.1:5030/image/a381fe46866485a508764a789ab697a9)
+
+不晚(wxid_uey4xxzk35lj22) 07-20 21:32:23
+5天就下来了
+
+Sitin彭涛|出海 ing(taotao120peng) 07-20 21:32:23
+我是刚刚注册了，搞了 1 个多月，各种坑都踩完了
+
+银河星游(wxid_6253072530112) 07-20 21:32:29
+你选的是不是这个privacy的
+
+Sitin彭涛|出海 ing(taotao120peng) 07-20 21:32:36
+主打一个折腾
+
+银河星游(wxid_6253072530112) 07-20 21:32:40
+你们用的是1st information吗？
+
+不晚(wxid_uey4xxzk35lj22) 07-20 21:32:45
+是的
+
+Sitin彭涛|出海 ing(taotao120peng) 07-20 21:32:59
+firstbase 我用的
+
+银河星游(wxid_6253072530112) 07-20 21:33:24
+> 不晚(wxid_uey4xxzk35lj22) 07-20 21:32:45
+> 是的
+啊？为啥我这里说中国的不能用了，我擦，要买175英镑的套餐。。。
+
+银河星游(wxid_6253072530112) 07-20 21:33:30
+> Sitin彭涛(taotao120peng) 07-20 21:32:59
+> firstbase 我用的
+我试试firstbase
+
+银河星游(wxid_6253072530112) 07-20 21:33:44
+你注册有什么UTR什么的吗？我看淘宝服务还提供信件扫描服务
+
+银河星游(wxid_6253072530112) 07-20 21:33:52
+还有年审
+
+不晚(wxid_uey4xxzk35lj22) 07-20 21:34:45
+没，我就在公众号按照大家常注册的那种教程注册下来的。应该不包括年审
+
+银河星游(wxid_6253072530112) 07-20 21:35:15
+> 不晚(wxid_uey4xxzk35lj22) 07-20 21:34:45
+> 没，我就在公众号按照大家常注册的那种教程注册下来的。应该不包括年审
+你是用的1st information吗？
+
+舒未读(wxid_1814638146314) 07-20 21:35:25
+@不晚 哪个文章，分享出来，我也去搞一个。
+
+不晚(wxid_uey4xxzk35lj22) 07-20 21:35:34
+> 银河星游(wxid_6253072530112) 07-20 21:35:15
+> > [引用]
+> 你是用的1st information吗？
+是的
+
+银河星游(wxid_6253072530112) 07-20 21:36:01
+啊？我擦，你付款的银行卡地址是china吧？我擦，难不成是最近几天才加的新的监管要求？
+
+不晚(wxid_uey4xxzk35lj22) 07-20 21:36:35
+https://mp.weixin.qq.com/s/eRRz6c-cmW8LoGdiVtj40g?clicktime=1753018587&enterid=1753018587&scene=126&sessionid=1753018583&subscene=227
+
+不晚(wxid_uey4xxzk35lj22) 07-20 21:36:52
+英国公司+wise
+
+不晚(wxid_uey4xxzk35lj22) 07-20 21:37:44
+45那个入金的话，我在咸鱼找的代入金服务，手续费就20元，是我找的最便宜的，淘宝的都是200多
+
+银河星游(wxid_6253072530112) 07-20 21:37:53
+我是说你注册的时候那75英镑付的时候是用的国内信用卡吗？
+
+不晚(wxid_uey4xxzk35lj22) 07-20 21:37:55
+需要的话我可以推给你咸鱼链接
+
+不晚(wxid_uey4xxzk35lj22) 07-20 21:38:10
+> 银河星游(wxid_6253072530112) 07-20 21:37:53
+> 我是说你注册的时候那75英镑付的时候是用的国内信用卡吗？
+是的
+
+银河星游(wxid_6253072530112) 07-20 21:38:15
+我就是照着你这个文章做的，然后卡住了，弹出来说中国的要额外监管，要上175的套餐
+
+银河星游(wxid_6253072530112) 07-20 21:38:24
+干，那估计是7月新加的
+
+不晚(wxid_uey4xxzk35lj22) 07-20 21:38:30
+应该是新加的。。。
+
+银河星游(wxid_6253072530112) 07-20 21:38:43
+倒霉了，早知道早点搞了
+
+银河星游(wxid_6253072530112) 07-20 21:38:57
+> Sitin彭涛(taotao120peng) 07-20 21:32:59
+> firstbase 我用的
+我看看firstbase如何
+
+银河星游(wxid_6253072530112) 07-20 21:43:25
+> Sitin彭涛(taotao120peng) 07-20 21:30:21
+> 美国公司我花了 7000 多
+我擦 ，399刀，有限责任公司，2800。。。算了，我还是上淘宝吧。。。
+
+Sitin彭涛|出海 ing(taotao120peng) 07-20 21:43:27
+好勒，有啥不清楚的问我就行
+
+银河星游(wxid_6253072530112) 07-20 21:43:44
+![图片](http://127.0.0.1:5030/image/5054a27275b51c0d34861e4cf9d5fea2)
+
+Sitin彭涛|出海 ing(taotao120peng) 07-20 21:43:47
+哈哈哈
+
+陈旭(wxid_0aukhndssr7s21) 07-20 23:37:20
+问一下，现在的o3 都是秒回信息了吗？ 更新了？
+
+刘小排(liuxiaopai) 07-20 23:42:01
+o3如果秒回信息，说明你o3降智了。
+
+陈旭(wxid_0aukhndssr7s21) 07-20 23:43:06
+好吧 - -
+
+王马扎(wxid_3zuzcesouarv22) 07-20 23:44:14
+我的o3从昨晚开始也是很多时候秒回，感觉被降智的感觉，前几天还有几次思考10多分钟[撇嘴]
+
+> 王马扎-杭州(wxid_3zuzcesouarv22) 07-20 23:44:14
+> 我的o3从昨晚开始也是很多时候秒回，感觉被降智的感觉，前几天还有几次思考10多分钟[撇嘴]
+10分钟太牛了

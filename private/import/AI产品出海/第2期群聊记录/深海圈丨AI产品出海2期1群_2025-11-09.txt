@@ -1,0 +1,147 @@
+文身艺术家_补丁(wxid_8983149830812) 11-09 04:48:42
+#举手 codepen中这一段代码里信息换行了，但实际效果并没有换行，请问为什么要这么写呢？这只是一个bug吗？
+
+文身艺术家_补丁(wxid_8983149830812) 11-09 04:48:42
+![图片](http://127.0.0.1:5030/image/672260c62cc4458596b0fa52f9adbb8f)
+
+文身艺术家_补丁(wxid_8983149830812) 11-09 04:48:54
+![图片](http://127.0.0.1:5030/image/bac556deaf9fc30f93a5473f2beb4895)
+
+杜正华(wxid_hnz72y09ffrf21) 11-09 06:58:37
+@补丁 不是 bug ，html 里回车不是换行，真正的换行得用
+标签。
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-09 08:51:32
+Arvin ᕕ(ᐛ)ᕗ(wxid_2112171123022) 11-09 09:29:42
+#举手 想使用gemini 2.5 pro的视频输入解析能力，但openrouter的gemini 2.5 API不支持视频URL参数，只有谷歌官方的API可以，但是需要用谷歌的 fire API来实现。请教下，直接使用谷歌官方的API是好的选择么，有没有更便捷使用gemini 2.5 pro视频解析能力的方法
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-09 11:46:06
+gpt反pua了
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-09 11:46:07
+![图片](http://127.0.0.1:5030/image/c4516365b0b2c1a19ff83118a8b8da84)
+
+刘小排(liuxiaopai) 11-09 11:48:22
+> Arvin ᕕ(ᐛ)ᕗ(wxid_2112171123022) 11-09 09:29:42
+> #举手 想使用gemini 2.5 pro的视频输入解析能力，但openrouter的gemini 2.5 API不支持视频URL参数，只有谷歌官方的API可以，但是需要用谷歌的 fire API来实现。请教下，直接使用谷歌官方的API是好的选择么，有没有更便捷使用gemini 2.5 pro视频解析能力的方法
+用官方的吧。
+
+Arvin ᕕ(ᐛ)ᕗ(wxid_2112171123022) 11-09 12:31:35
+> 刘小排(liuxiaopai) 11-09 11:48:22
+> > [引用]
+> 用官方的吧。
+okk
+
+剑廿三(nianlvting) 11-09 12:47:45
+> Newbie_成都(wxid_p6ohfe1htnil22) 11-09 11:46:06
+> gpt反pua了
+试试：“你也不想xxx被xxx知道吧”句式[旺柴]
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-09 12:50:09
+> 剑廿三-重庆(nianlvting) 11-09 12:47:45
+> > [引用]
+> 试试：“你也不想xxx被xxx知道吧”句式[旺柴]
+[旺柴]我试试，之前看周鸿祎说有人puaAI，把数据套出来了
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-09 12:50:47
+之前我上传excel文件也是，带宏的，上传不了
+
+tison(tison_csu) 11-09 15:08:22
+pua ai 挺好玩的 哈哈
+
+tison(tison_csu) 11-09 15:08:22
+![图片](http://127.0.0.1:5030/image/6bc7ed7da04f817c64af9c97d08c8ccc)
+
+小辰在路上(wxid_8kdse5oms99722) 11-09 15:34:31
+苹果电脑用不了claude code CLI，dangerously-skip-permissions模式吗
+
+小辰在路上(wxid_8kdse5oms99722) 11-09 15:34:53
+老是被苹果系统直接杀死进程
+
+小辰在路上(wxid_8kdse5oms99722) 11-09 15:35:11
+![图片](http://127.0.0.1:5030/image/637144c9c828f2f199552ae61970a70f)
+
+文身艺术家_补丁(wxid_8983149830812) 11-09 15:39:36
+"${wxid_8983149830812}" 拍了拍 "${wxid_hnz72y09ffrf21}"
+
+文身艺术家_补丁(wxid_8983149830812) 11-09 15:41:59
+说起来，我也是mac用CC，经常它干着干着就自己重启终端了。。但对话还能继续，也没啥影响[破涕为笑]
+
+小辰在路上(wxid_8kdse5oms99722) 11-09 15:43:42
+![图片](http://127.0.0.1:5030/image/7b9783bf2e5aa28b584e52703b420be4)
+
+小辰在路上(wxid_8kdse5oms99722) 11-09 15:43:44
+难绷
+
+文身艺术家_补丁(wxid_8983149830812) 11-09 16:00:55
+默默咽下这口气
+
+剑廿三(nianlvting) 11-09 16:45:31
+我怎么发现一个日期控件都找不到合适的[捂脸]从github上找不是这里不合适就是那里不对头
+
+沙漠孤影(zhangtao891112) 11-09 16:46:09
+#举手 进一步加快开发过程,中要用 Starter Kit 开发的后半部分什么时候更新呢
+
+沙漠孤影(zhangtao891112) 11-09 16:46:09
+![图片](http://127.0.0.1:5030/image/6ed79e3fa2f8730c6f5d99447b0ddc5b)
+
+高挺(wxid_tlxgf1ygecci12) 11-09 18:53:02
+请问在 Cusor 或者 VS code 中使用Sonnet 4.5 的时候，如果让 AI 修改代码后对代码不满意如何在 IDE 环境里面回滚？我看到教材里面有一个办法是可以通过 Github Desktop 提交修改后再回滚，那么对于还没有提交的代码变更有没有类似 Windows 里面 Ctrl+Z 的“撤销键”？ ：）
+
+前行(gejinpeng123) 11-09 19:17:26
+如果你是用Claude code，你可以直接让它撤销刚才的修改，如果在一个窗口改太多内容，你就要精准说明撤回那些修改，避免想要的修改也被撤回了
+
+高挺(wxid_tlxgf1ygecci12) 11-09 19:18:15
+明白了，谢谢。
+
+高挺(wxid_tlxgf1ygecci12) 11-09 19:18:46
+之前试过这个方法，但是说得不够精准，结果回滚了 N 个版本。
+
+高挺(wxid_tlxgf1ygecci12) 11-09 19:19:09
+感谢指导
+
+前行(gejinpeng123) 11-09 19:20:07
+所以最好一个窗口修改一个问题
+
+前行(gejinpeng123) 11-09 19:20:36
+然后记得多提交git
+
+高挺(wxid_tlxgf1ygecci12) 11-09 19:21:00
+明白，经验之谈啊
+
+大螃蟹(milly-you) 11-09 21:10:59
+各位大神 ， 我们要不要设置 cursor project rule ， always 里面不允许 访问主目录， 和敏感文件 ssh .env  ? 
+
+大螃蟹(milly-you) 11-09 21:17:06
+dia 说 会有可能泄露 如果不设置 但我看老师的文档里面没有设置这个
+
+大螃蟹(milly-you) 11-09 21:50:12
+哦哦 最后结论 我们转向更聪明的 claude code 哈哈
+
+高挺(wxid_tlxgf1ygecci12) 11-09 22:21:08
+> yoyo-天津(milly-you) 11-09 21:10:59
+> 各位大神 ， 我们要不要设置 cursor project rule ， always 里面不允许 访问主目录， 和敏感文件 ssh .env  ? 
+我记得教程里面说不用，小排老师的 project rule 里面就一句话，让 cursor 用中文回复
+
+我 11-09 22:31:04
+"lily" 撤回了一条消息
+
+lily(wxid_pqa4321nguy021) 11-09 22:31:33
+> 高挺(wxid_tlxgf1ygecci12) 11-09 22:21:08
+> > [引用]
+> 我记得教程里面说不用，小排老师的 project rule 里面就一句话，让 cursor 用中文回复
+中文回复的不是项目规则，是前面那个，意思是全局规则的
+
+高挺(wxid_tlxgf1ygecci12) 11-09 22:40:58
+哦，对的，谢谢指正
+
+王帆(wxid_i4ja4qz84kad21) 11-09 23:24:07
+花了三天时间，html+css 差不多都能看懂，但是关键词间歇性的卡壳，就让 chatgpt 把这几天教我的路径整成了手册，分享给大家，基本涵盖了常用的技术专用词，希望能对大家有帮助，用小白能看懂的方式写的，界面很友好
+https://uq19md8zj19.feishu.cn/wiki/N0NhwPQCsiSnSqkaAuycnwrOnUh?from=from_copylink
+
+Ruiqin袁锐钦(wetas6) 11-09 23:36:22
+"${wetas6}" 拍了拍 "${wxid_i4ja4qz84kad21}" 搞钱才是硬道理
+
+> Arvin ᕕ(ᐛ)ᕗ(wxid_2112171123022) 11-09 09:29:42
+> #举手 想使用gemini 2.5 pro的视频输入解析能力，但openrouter的gemini 2.5 API不支持视频URL参数，只有谷歌官方的API可以，但是需要用谷歌的 fire API来实现。请教下，直接使用谷歌官方的API是好的选择么，有没有更便捷使用gemini 2.5 pro视频解析能力的方法
+有了，这个

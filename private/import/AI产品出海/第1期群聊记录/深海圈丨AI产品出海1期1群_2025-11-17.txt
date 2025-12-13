@@ -1,0 +1,22 @@
+Ash焚芯(wxid_siqp6j111tho22) 11-17 03:04:08
+vercel一直卡在排队，搞了1小时也没搞好，原来不是我的问题  https://www.vercel-status.com/
+
+Ash焚芯(wxid_siqp6j111tho22) 11-17 03:04:08
+![图片](http://127.0.0.1:5030/image/c113c74c290c2568bdee0b5ae5671ea2)
+
+前行(gejinpeng123) 11-17 15:32:25
+请问下，中转的Claude 模型api是不是没法在Claude code里使用skills？大家有试过吗
+
+银河星游(wxid_6253072530112) 11-17 19:54:15
+> 前行-深圳龙华(gejinpeng123) 11-17 15:32:25
+> 请问下，中转的Claude 模型api是不是没法在Claude code里使用skills？大家有试过吗
+都能用啊
+
+银河星游(wxid_6253072530112) 11-17 19:54:18
+没区别啊
+
+银河星游(wxid_6253072530112) 11-17 19:54:24
+skills是本地的啊
+
+前行(gejinpeng123) 11-17 19:56:28
+哦哦，那就是先下载下来就能用了

@@ -1,0 +1,1296 @@
+光脚踢球(guangjiaotiqiu001) 07-16 00:03:23
+![图片](http://127.0.0.1:5030/image/d847cb0f7210e1155ab57559395204e2)
+
+刘小排(liuxiaopai) 07-16 00:03:46
+服务器算力不够了
+
+刘小排(liuxiaopai) 07-16 00:03:54
+全世界都缺claude的算力，哈哈哈
+
+光脚踢球(guangjiaotiqiu001) 07-16 00:04:14
+@刘小排 我还在想啥原因，一直提示这个[捂脸]
+
+哩厘锂力(zizhazhu) 07-16 00:04:37
+用的人太多了[流泪]
+
+小陈老师(wxid_1f5f4iwhhiqc22) 07-16 00:04:42
+原来是官方问题么，下午用anyrouter连不上，我还以为是anyrouter 的问题呢
+
+刘小排(liuxiaopai) 07-16 00:04:52
+是的，官方的问题
+
+元宝团子(wxid_vubiet2domdh22) 07-16 00:05:08
+我也是尤其今天一直在提示due    ，快要急死我啦[捂脸]
+
+元宝团子(wxid_vubiet2domdh22) 07-16 00:05:36
+然后我还给克劳德发有邮件，让他们解决
+
+小陈老师(wxid_1f5f4iwhhiqc22) 07-16 00:10:03
+是怎么确定是官方算力问题的，官方发公告了？
+
+刘小排(liuxiaopai) 07-16 00:12:09
+因为我用的正版
+
+刘小排(liuxiaopai) 07-16 00:12:37
+有明确报错提示，服务器超负荷
+
+小陈老师(wxid_1f5f4iwhhiqc22) 07-16 00:13:11
+[好的][好的]了解
+
+光脚踢球(guangjiaotiqiu001) 07-16 00:15:30
+基础不够的，还是继续用cursor学习内功。但是额度又用完了，小排老师有啥好的建议吗？现在cursor的auto模式感觉就是之前cursor small之类的模式，不会自动执行
+
+小陈老师(wxid_1f5f4iwhhiqc22) 07-16 00:16:01
+用小排老师刚推荐的kiro 试试[旺柴]
+
+光脚踢球(guangjiaotiqiu001) 07-16 00:17:19
+一直算力不足，我最近是结合gemini和ChatGPT一起用，改些小问题还好，有时候cursor给的方向都是错的，改了好久[捂脸]
+
+A梦 (知牧)(mrleoxu) 07-16 00:17:33
+A梦 (知牧)(mrleoxu) 07-16 00:18:04
+可以提早休息了[叹气]
+
+A梦 (知牧)(mrleoxu) 07-16 00:18:04
+![图片](http://127.0.0.1:5030/image/79268052388da4c0ed8afb7eca7ae819)
+
+无极(wxid_wdl7p3msdupm22) 07-16 01:00:08
+> 深圳-小陈老师(wxid_1f5f4iwhhiqc22) 07-16 00:16:01
+> 用小排老师刚推荐的kiro 试试[旺柴]
+好用的，刚刚已经用了
+
+刘小排(liuxiaopai) 07-16 01:15:29
+现在kiro速度飞快
+
+刘小排(liuxiaopai) 07-16 01:15:35
+中国人睡了
+
+百威(wxid_aaxezeq72q0321) 07-16 01:17:03
+哈哈哈哈
+
+百威(wxid_aaxezeq72q0321) 07-16 01:17:14
+kiro都是中国人再用吗？
+
+星城祝大家2025健康快乐(yowsss) 07-16 01:17:33
+Kimi-K2接入Claude Code 需要claude的正版吗？
+
+刘小排(liuxiaopai) 07-16 01:17:36
+中国人睡了，竞争对手少了一大半。。
+
+刘小排(liuxiaopai) 07-16 01:17:46
+> 星城祝大家2025健康快乐(yowsss) 07-16 01:17:33
+> Kimi-K2接入Claude Code 需要claude的正版吗？
+看我公众号，写了。
+
+闻鉴(wxid_cdtcq1czmsgf22) 07-16 01:20:32
+> 刘小排(liuxiaopai) 07-16 01:17:36
+> 中国人睡了，竞争对手少了一大半。。
+/:@)没睡的，冒个泡
+
+闻鉴(wxid_cdtcq1czmsgf22) 07-16 01:21:16
+小排老师发了篇公众号，搞的我现在睡不着了。看完了，不玩一下，睡不着。
+
+刘小排(liuxiaopai) 07-16 01:23:33
+刚才公众号有人留言告诉我，我的https://fast3d.io 的网站博客图片有点大。
+我只说了“博客图片有点大”，Kiro帮我一口气全部改完了！包括压缩图片、更换博客引用的图片，还梳理了文档。
+
+刘小排(liuxiaopai) 07-16 01:23:33
+![图片](http://127.0.0.1:5030/image/373b7c80550957099d3e7a563f271f6a)
+
+百威(wxid_aaxezeq72q0321) 07-16 01:23:50
+太牛了
+
+小陈老师(wxid_1f5f4iwhhiqc22) 07-16 01:24:16
+kiro需要增加项目规则吗
+
+刘小排(liuxiaopai) 07-16 01:24:40
+我公众号写了，一进去它会自动提示你，点一个按钮就加号了
+
+小陈老师(wxid_1f5f4iwhhiqc22) 07-16 01:27:19
+是指那三个文档？
+
+刘小排(liuxiaopai) 07-16 01:28:09
+是的
+
+闻鉴(wxid_cdtcq1czmsgf22) 07-16 01:30:53
+之前我写好了产品需求文档，里面包含了所有内容，kiro会自动帮我拆成3个文件。
+
+小陈老师(wxid_1f5f4iwhhiqc22) 07-16 01:39:13
+小排老师用过kiro的spec工作流程了么，咱感觉生成design.md的时候很慢[破涕为笑]
+
+卫斯理🤍(wxid_cap2car89b7811) 07-16 01:44:15
+> 刘小排(liuxiaopai) 07-16 01:23:33
+> 刚才公众号有人留言告诉我，我的https://fast3d.io 的网站博客图片有点大。
+> 我只说了“博客图片有点大”，Kiro帮我一口气全部改完了！包括压缩图片、更换博客引用的图片，还梳理了文档。
+小排老师新的网站好叼呀，生成的3D 模型速度怎么那么快，什么api来的
+
+刘小排(liuxiaopai) 07-16 01:47:37
+自研的。效果比我好的应该都比我慢，比我快的应该效果都没我好[憨笑]
+
+刘小排(liuxiaopai) 07-16 01:47:46
+不过整体来说生成质量还是不太行，还有很大的优化空间
+
+卫斯理🤍(wxid_cap2car89b7811) 07-16 01:55:09
+是的，速度是很快很丝滑，效果是还有很大提升空间[憨笑]
+
+Y(kobeyuan000) 07-16 02:44:01
+不试一下睡不着[捂脸]
+
+Y(kobeyuan000) 07-16 02:44:08
+[GIF表情]
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 07-16 08:25:49
+cursor两百刀都快又要限额了
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 07-16 08:25:49
+![图片](http://127.0.0.1:5030/image/015518edfa45887ad825818503e25ae8)
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 07-16 08:26:09
+还是换kiro+k2+cc 抛弃cursor吧
+
+Raymond(mordecai) 07-16 08:26:54
+cc一个会话也很快就限额等重置
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 07-16 08:27:17
+200usd cc极少遇到
+
+Raymond(mordecai) 07-16 08:27:33
+我是200的
+
+Raymond(mordecai) 07-16 08:27:48
+基本上好一点2个半小时左右，
+
+Raymond(mordecai) 07-16 08:27:56
+刚刚一个小时就提醒，已经50%了
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 07-16 08:28:50
+官方的吗
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 07-16 08:29:07
+那开个20倍400usd的看看
+
+Raymond(mordecai) 07-16 08:29:55
+[捂脸]
+
+Raymond(mordecai) 07-16 08:29:58
+是官方的
+
+Raymond(mordecai) 07-16 08:30:17
+400刀的先缓缓[破涕为笑]
+
+Moore(xiaobei1984) 07-16 08:50:57
+[旺柴] 3000块（400刀）一个高级工程师
+
+我 07-16 08:52:04
+"小诸葛" 撤回了一条消息
+
+小诸葛(gezhipeng002) 07-16 08:53:51
+claude使用  kimi k2，使用报错，环境变量设置了，api key正常，有遇到相同问题的吗？
+
+小诸葛(gezhipeng002) 07-16 08:53:52
+![图片](http://127.0.0.1:5030/image/fc713681b2f8c0eadaecfdd32749a6b2)
+
+Moore(xiaobei1984) 07-16 09:00:26
+apikey没有配置
+
+Raymond(mordecai) 07-16 09:02:21
+![图片](http://127.0.0.1:5030/image/14aeecbac0db7336f4e3e320a1867cd0)
+
+Raymond(mordecai) 07-16 09:02:31
+两个小时就限额了
+
+caozhao(wxid_jx61lwo363tr21) 07-16 09:02:38
+> 刘小排(liuxiaopai) 07-16 01:23:33
+> 刚才公众号有人留言告诉我，我的https://fast3d.io 的网站博客图片有点大。
+> 我只说了“博客图片有点大”，Kiro帮我一口气全部改完了！包括压缩图片、更换博客引用的图片，还梳理了文档。
+小排老师，pc端排版很靓，移动端访问 排版 也很哇塞，怎么做的
+
+张圣兰(zhangshenglan9033) 07-16 09:05:16
+#举手 Kiro 无法登录，前三种方式都试过了，请教咋怎么登录
+
+张圣兰(zhangshenglan9033) 07-16 09:05:18
+![图片](http://127.0.0.1:5030/image/822c2582a3f6bf7526800af4d0e2b280)
+
+我 07-16 09:05:20
+"张圣兰" 撤回了一条消息
+
+张圣兰(zhangshenglan9033) 07-16 09:05:28
+一直卡这个页面
+
+Moore(xiaobei1984) 07-16 09:06:03
+> Raymond(mordecai) 07-16 09:02:21
+> ![图片](http://127.0.0.1:5030/image/14aeecbac0db7336f4e3e320a1867cd0)
+[Doge] 现在这么缺卡的情况，有可能claudecode 未来会消减额度，未来可能是根据场景使用claudecode
+
+Moore(xiaobei1984) 07-16 09:07:46
+> 张圣兰(zhangshenglan9033) 07-16 09:05:18
+> ![图片](http://127.0.0.1:5030/image/822c2582a3f6bf7526800af4d0e2b280)
+一般都是网络问题，看看你的节点，点google会跳到网页登录，成功后会告诉你关闭窗口,再切回kiro就成功了
+
+天天(wxid_c5wni049a7il22) 07-16 09:09:11
+google登录很顺畅
+
+天天(wxid_c5wni049a7il22) 07-16 09:09:11
+![图片](http://127.0.0.1:5030/image/b29bb5339a69304301c28f2c629fa4b9)
+
+张圣兰(zhangshenglan9033) 07-16 09:12:28
+我再试试
+
+我 07-16 09:16:24
+"小诸葛" 撤回了一条消息
+
+我 07-16 09:16:24
+"小诸葛" 撤回了一条消息
+
+Moore(xiaobei1984) 07-16 09:17:39
+> 小诸葛(gezhipeng002) 07-16 08:53:52
+> ![图片](http://127.0.0.1:5030/image/fc713681b2f8c0eadaecfdd32749a6b2)
+肯定没有设置成功，因为你这里只显示了API的路由，没有key
+
+小诸葛(gezhipeng002) 07-16 09:17:53
+我看到了  是的  我再试试
+
+Moore(xiaobei1984) 07-16 09:18:03
+你看看welcome 框框里没有key
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 09:18:28
+> caozhao(wxid_jx61lwo363tr21) 07-16 09:02:38
+> > 刘小排(liuxiaopai) 07-16 01:23:33
+> > 刚才公众号有人留言告诉我，我的https://fast3d.io 的网站博客图片有点大。
+> > 我只说了“博客图片有点大”，Kiro帮我一口气全部改完了！包括压缩图片、更换博客引用的图片，还梳理了文档。
+> 小排老师，pc端排版很靓，移动端访问 排版 也很哇塞，怎么做的
+一般是响应式设计
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 09:18:58
+这玩意我已经被折腾到吐了，我觉得还是分开设计会好一点，我打算下一个站分开搞
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 09:19:36
+昨天晚上的直播回放看了，江老师太赞了
+
+🥷🏿 发呆.(wxid_767zp9hgv7b922) 07-16 10:19:45
+#举手 kiro 一直报错这个aborted. The agent has seen this error and will try a different approach to write the file if needed.
+请问要怎么处理呀
+
+Moore(xiaobei1984) 07-16 10:19:59
+处理不了，用的人太多
+
+🥷🏿 发呆.(wxid_767zp9hgv7b922) 07-16 10:24:13
+okk 这个样子我还以为是跟 claude code 文件写入一样的问题
+
+陈星空(wxid_ss7s5srpsw4x21) 07-16 10:26:26
+大家 GPT 能用么
+
+陈星空(wxid_ss7s5srpsw4x21) 07-16 10:26:28
+![图片](http://127.0.0.1:5030/image/007b1f0c82972cc5c2e6b9eec73b79cf)
+
+Moore(xiaobei1984) 07-16 10:26:33
+随便用
+
+陈星空(wxid_ss7s5srpsw4x21) 07-16 10:26:51
+今天GPT 一直报错[捂脸]
+
+Moore(xiaobei1984) 07-16 10:27:36
+你网络问题
+
+Moore(xiaobei1984) 07-16 10:27:37
+不用想
+
+陈星空(wxid_ss7s5srpsw4x21) 07-16 10:28:29
+网络是独享 IP，接近住宅了
+
+陈星空(wxid_ss7s5srpsw4x21) 07-16 10:28:33
+![图片](http://127.0.0.1:5030/image/f819258f49bb8924c1bcb2955a3d888d)
+
+陈星空(wxid_ss7s5srpsw4x21) 07-16 10:29:02
+GPT 现在好像自己有问题
+
+Moore(xiaobei1984) 07-16 10:29:52
+2种情况，要么账号被封，要么网络问题，可以自行检查一下
+
+silence(wxid_qfrdwbb1853b22) 07-16 10:30:28
+Unusual activity has been detected from your device. Try again later. (95fe112bede78f9f-BOS)
+
+陈星空(wxid_ss7s5srpsw4x21) 07-16 10:30:30
+https://status.openai.com/
+
+陈星空(wxid_ss7s5srpsw4x21) 07-16 10:30:31
+OK
+
+silence(wxid_qfrdwbb1853b22) 07-16 10:30:33
+我今天也是这样
+
+陈星空(wxid_ss7s5srpsw4x21) 07-16 10:30:37
+> silence(wxid_qfrdwbb1853b22) 07-16 10:30:28
+> Unusual activity has been detected from your device. Try again later. (95fe112bede78f9f-BOS)
+是的
+
+silence(wxid_qfrdwbb1853b22) 07-16 10:30:50
+住宅IP[可怜]
+
+Moore(xiaobei1984) 07-16 10:31:53
+![图片](http://127.0.0.1:5030/image/943566058fc30d83548f952c6aeda698)
+
+Moore(xiaobei1984) 07-16 10:32:24
+一直在用，而且我还没有用住宅IP，直接使用我的专线飞机，目前还没有场景需要住宅ip，因为我不用官方 claudecode
+
+Moore(xiaobei1984) 07-16 10:33:41
+![图片](http://127.0.0.1:5030/image/13b34694e5797f1e3f76f71d881433f2)
+
+Moore(xiaobei1984) 07-16 10:33:57
+[吃瓜] 我切到我的链式+住宅ip是没问题的
+
+silence(wxid_qfrdwbb1853b22) 07-16 10:34:10
+好嘞好嘞，不知道是封了还是网络有问题，过段时间再看看[让我看看][抱拳][抱拳][抱拳]
+
+冯小夏(adongdonggua) 07-16 10:36:15
+我也是，刚网络突然不好
+
+黑鹰(yangxin0917) 07-16 10:38:13
+> silence(wxid_qfrdwbb1853b22) 07-16 10:30:28
+> Unusual activity has been detected from your device. Try again later. (95fe112bede78f9f-BOS)
+我也遇到了
+
+陈星空(wxid_ss7s5srpsw4x21) 07-16 10:38:33
+> 陈星空(wxid_ss7s5srpsw4x21) 07-16 10:30:30
+> https://status.openai.com/
+可以看下这个
+
+silence(wxid_qfrdwbb1853b22) 07-16 10:42:21
+我现在可以用了 但是输出得很慢 应该过段时间就好了[让我看看]
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 10:46:50
+kiro太强了，它可以随时打断工作流，可以多窗口同时运行，可以自动trust，可以自然语言设置hooks，可以定义rules，可以自主安装mcp server，specs走三步符合实现方案，简直就是个结合了vscode copilot cc cursor roocode的巨型缝合怪，太强了太强了
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 10:47:39
+但是web research可能不好，要结合ref和context7同时使用
+
+金子。(wxid_lfipf3htcv6m22) 07-16 10:49:41
+我也用不了gpt
+
+陈星空(wxid_ss7s5srpsw4x21) 07-16 10:51:32
+现在应该恢复了
+
+微雨(wxid_pqu6niufod2222) 07-16 10:51:59
+![图片](http://127.0.0.1:5030/image/b8b552048b72c46906211762846faabb)
+
+陈星空(wxid_ss7s5srpsw4x21) 07-16 10:52:06
+![图片](http://127.0.0.1:5030/image/6fd695241528c980b35de1638f3e0a80)
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 10:55:30
+看claude code 高频出现，搜了一下 好像有些词可能有机会  跟gpts流量相当
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 10:55:31
+![图片](http://127.0.0.1:5030/image/c4087777c2c3df15a6d0b7fc0b687a15)
+
+金子。(wxid_lfipf3htcv6m22) 07-16 10:55:44
+现在可以了
+
+CHK(wxid_t9mefurnptvz21) 07-16 11:09:59
+> 轩辕(wxid_4m8bzf34d67v22) 07-16 10:55:31
+> ![图片](http://127.0.0.1:5030/image/c4087777c2c3df15a6d0b7fc0b687a15)
+这个是什么工具？
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:19:55
+https://www.indiekeywords.com/root/claude%20code
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:20:29
+喜欢用 登录后  把邮箱发我 我给圈友免费安排一下会员
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 11:21:22
+这是你自己写的吗，好赞呀
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:21:53
+哈哈 是的  我对比了一下 从搜索量准确度来说 semrush 没有我准 哈哈
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:22:18
+![图片](http://127.0.0.1:5030/image/dc07b70c44a9df8b67fd9688538dbf12)
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:22:32
+![图片](http://127.0.0.1:5030/image/b6e7f87f4c947839c0d5765915296088)
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:22:50
+这个词已经近期开始起来了  semrush显示的搜索量依然很低
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:23:53
+但功能当然是没semrush强大 只能找差异化了[破涕为笑]
+
+CHK(wxid_t9mefurnptvz21) 07-16 11:24:21
+这个蛮屌的
+
+CHK(wxid_t9mefurnptvz21) 07-16 11:24:44
+我也觉得semrush不准，你用的什么数据源，
+
+CHK(wxid_t9mefurnptvz21) 07-16 11:25:29
+你那个网站的字体看的也挺舒服的
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:26:16
+> 轩辕(wxid_4m8bzf34d67v22) 07-16 10:55:30
+> ![图片](http://127.0.0.1:5030/image/c4087777c2c3df15a6d0b7fc0b687a15)
+我用的是就是google trends一致的数据源，按gpts 日5000搜索量归一化处理计算，所以 cloude code mcp 搜索量显示6k 一天
+
+超人Lee(wxid_ibh5imm7h6wy22) 07-16 11:27:42
+> 轩辕(wxid_4m8bzf34d67v22) 07-16 11:20:29
+> 喜欢用 登录后  把邮箱发我 我给圈友免费安排一下会员
+谢谢，帮我整一个会员，学习一下。
+a1530633034@gmail.com
+
+Moore(xiaobei1984) 07-16 11:28:49
+[吃瓜] 看起来这个站的方式，就是拿一个 5000 每日搜索量的事，然后通过 trends 换算出 目标词的量。用的是trends api
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:30:19
+@超人Lee 已赠送
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:30:48
+是的 助教 是这样
+
+Es muss sein(wxid_qfhct3hwtuj022) 07-16 11:30:59
+@Moore 助教 助教有好的魔法推荐吗？我这个不是很稳定
+
+王玮(wxid_94jbos68gn3b22) 07-16 11:31:27
+wangwill121@gmail.com，帮忙开个会员哈！感谢感谢@轩辕 
+
+Moore(xiaobei1984) 07-16 11:31:35
+[吃瓜] 问 o3 要一个 专线的机场
+
+h(wxid_dql9oy4hurtq22) 07-16 11:32:10
+thhhhhh991@gmail.com 麻烦帮忙开一下 感谢大佬@轩辕 
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 11:32:35
+> 轩辕(wxid_4m8bzf34d67v22) 07-16 11:26:16
+> > 轩辕(wxid_4m8bzf34d67v22) 07-16 10:55:30
+> > ![图片](http://127.0.0.1:5030/image/c4087777c2c3df15a6d0b7fc0b687a15)
+> 我用的是就是google trends一致的数据源，按gpts 日5000搜索量归一化处理计算，所以 cloude code mcp 搜索量显示6k 一天
+同求会员，zhcnzhihao@gmail.com
+
+超人Lee(wxid_ibh5imm7h6wy22) 07-16 11:32:51
+> 轩辕(wxid_4m8bzf34d67v22) 07-16 11:30:19
+> @超人Lee 已赠送
+谢谢！！！
+
+Moore(xiaobei1984) 07-16 11:32:52
+![图片](http://127.0.0.1:5030/image/8694f58d452c9511f5930e34c831a7a7)
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 11:33:07
+助教太强了，一眼看出来是怎么实现的[破涕为笑]
+
+Moore(xiaobei1984) 07-16 11:33:08
+专线就是这样的，13ms，有自己的客户端很快，如果用小狐狸就会变成 100多ms
+
+Moore(xiaobei1984) 07-16 11:33:33
+> 轩辕(wxid_4m8bzf34d67v22) 07-16 11:26:16
+> > [引用]
+> 我用的是就是google trends一致的数据源，按gpts 日5000搜索量归一化处理计算，所以 cloude code mcp 搜索量显示6k 一天
+@智昊｜回家吃饭 这是他说的啊，我只是推导一下
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:33:44
+@王玮 已赠送
+
+王玮(wxid_94jbos68gn3b22) 07-16 11:34:02
+> 轩辕(wxid_4m8bzf34d67v22) 07-16 11:33:44
+> @王玮 已赠送
+感谢感谢/:@)/:@)
+
+Es muss sein(wxid_qfhct3hwtuj022) 07-16 11:34:13
+> Moore 助教(xiaobei1984) 07-16 11:31:35
+> [吃瓜] 问 o3 要一个 专线的机场
+好滴，谢谢
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:34:18
+@T H 已赠送
+
+h(wxid_dql9oy4hurtq22) 07-16 11:34:29
+> 轩辕(wxid_4m8bzf34d67v22) 07-16 11:34:18
+> @T H 已赠送
+谢谢
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:35:00
+@智昊｜回家吃饭 你还没有登录
+
+roderickོ(wxid_vc3bimw9zofj21) 07-16 11:35:02
+> 轩辕(wxid_4m8bzf34d67v22) 07-16 11:26:16
+> > [引用]
+> 我用的是就是google trends一致的数据源，按gpts 日5000搜索量归一化处理计算，所以 cloude code mcp 搜索量显示6k 一天
+不知道是不是我用的方式不对，semrush 好像延迟好多天。另外请教下，以 gpts = 5000 为基准，这个词的量是怎么保证准确的呢？
+
+曦演(wxid_6w1vpi0p6kp922) 07-16 11:35:55
+vullnetleka429@gmail.com 求个会员，谢谢大佬[合十][合十]@轩辕 
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:36:06
+> roderickོ(wxid_vc3bimw9zofj21) 07-16 11:35:02
+> > [引用]
+> 不知道是不是我用的方式不对，semrush 好像延迟好多天。另外请教下，以 gpts = 5000 为基准，这个词的量是怎么保证准确的呢？
+哈哈 大概呗  而且这个词的量本来就会不断增长  就可以理解为  你做的流量  每天有 gpts的搜索量 就好了  具体多少很重要么
+
+养生谷(wxid_p9q0srx8tdbc22) 07-16 11:36:15
+@轩辕 shanlong521@gmali.com 来一个[机智]
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:36:22
+10k就是 两倍 gpts
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:36:42
+@曦演 已赠送
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:37:02
+@养生谷 已赠送
+
+曦演(wxid_6w1vpi0p6kp922) 07-16 11:37:03
+> 轩辕(wxid_4m8bzf34d67v22) 07-16 11:36:42
+> @曦演 已赠送
+感谢感谢[Worship][Worship]
+
+江坤(wxid_x8f52rye1agm21) 07-16 11:37:48
+kimjhon0917@gmail.com @轩辕  大佬来一个，感谢！[抱拳]
+
+Raymond(mordecai) 07-16 11:38:01
+11825237@qq.com @轩辕  大佬来一个，感谢！[抱拳]
+
+养生谷(wxid_p9q0srx8tdbc22) 07-16 11:38:05
+感谢
+
+养生谷(wxid_p9q0srx8tdbc22) 07-16 11:38:14
+没有中文显示吗
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:38:39
+自己用沉浸式翻译点翻译哦  还没做多语言
+
+养生谷(wxid_p9q0srx8tdbc22) 07-16 11:38:48
+ok
+
+Lava（早睡早起版）(wxid_hw1kjo8pbxzm22) 07-16 11:38:55
+lavacourage07@gmail.com
+我也想试用，麻烦大佬了@轩辕 
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:39:19
+@江坤 你没登录 送不了
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:39:33
+@Raymond 一样
+
+江坤(wxid_x8f52rye1agm21) 07-16 11:39:37
+已登录
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:39:55
+@Lava 一样
+
+江坤(wxid_x8f52rye1agm21) 07-16 11:40:00
+![图片](http://127.0.0.1:5030/image/8b73d0fe5eb9fdee4c06bdfcbb14b492)
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:40:18
+@江坤 已赠送
+
+卫斯理🤍(wxid_cap2car89b7811) 07-16 11:40:33
+Kenyoujames@gmail.com
+我也想试用，麻烦大佬了@轩辕 
+
+公子时(wxid_aps202eloac522) 07-16 11:40:39
+1203992808@qq.com 试用一下，麻烦大佬@轩辕 
+
+Lava（早睡早起版）(wxid_hw1kjo8pbxzm22) 07-16 11:41:02
+> 轩辕(wxid_4m8bzf34d67v22) 07-16 11:39:55
+> @Lava 一样
+登录啦/:sun
+
+微雨(wxid_pqu6niufod2222) 07-16 11:41:32
+wanan6e@gmail.com登入啦，同求会员@轩辕 
+
+江坤(wxid_x8f52rye1agm21) 07-16 11:41:37
+感谢
+
+Raymond(mordecai) 07-16 11:42:28
+[抱拳]
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:42:41
+@卫斯理🤍广州 没登录 大家能先登录么 节省来回沟通时间
+
+我 07-16 11:42:41
+"BRIANYJ" 撤回了一条消息
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:43:05
+@公子时 已赠送
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:43:23
+@Lava 已赠送
+
+公子时(wxid_aps202eloac522) 07-16 11:43:27
+感谢
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:43:48
+@微雨 已赠送
+
+Lava（早睡早起版）(wxid_hw1kjo8pbxzm22) 07-16 11:43:48
+感谢大佬[跳跳][跳跳]
+
+微雨(wxid_pqu6niufod2222) 07-16 11:43:55
+> 轩辕(wxid_4m8bzf34d67v22) 07-16 11:43:48
+> @微雨 已赠送
+感谢
+
+李澹归(wxid_ixr3b2qghvtx22) 07-16 11:44:10
+yimiaoc2@gmail.com
+
+求一个，感谢！
+
+天天(wxid_c5wni049a7il22) 07-16 11:44:23
+handing880408@gmail.com 感谢
+
+rain(wxid_9302913028612) 07-16 11:44:55
+JuleneHershfield730@gmail.com 已登录，求一个会员
+
+BRIANYJ(wxid_e1wf77725cn122) 07-16 11:45:12
+@轩辕  brian.yang951125@gmail.com 来一个 [机智]
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:45:59
+> 李澹归(wxid_ixr3b2qghvtx22) 07-16 11:44:10
+> yimiaoc2@gmail.com
+> 求一个，感谢！
+已赠送
+
+CHK(wxid_t9mefurnptvz21) 07-16 11:45:59
+@轩辕 chenv0717@gmail.com  已登录，求一个会员
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:46:18
+@天天 已赠送
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:46:39
+@明道 没登录
+
+NewBoy(wxid_64zlj8qxd93l22) 07-16 11:49:21
+@轩辕 大佬，求一个试用下[呲牙]，已登录，
+
+l1137622803@gmail.com
+
+rain(wxid_9302913028612) 07-16 11:49:55
+已登录，刚才关闭了页面
+
+roderickོ(wxid_vc3bimw9zofj21) 07-16 11:52:38
+@轩辕 已登录，帮加一个，谢谢。7u7ang4u@gmail.com。
+
+Moore(xiaobei1984) 07-16 11:52:40
+![图片](http://127.0.0.1:5030/image/15f0a2e9f548f5f94df149d10518aaa6)
+
+刘镇斌(wxid_ybfhp0w6kejh22) 07-16 11:52:48
+@轩辕 已登录，帮忙加一个，谢谢。liuzhenbin96@163.com
+
+Moore(xiaobei1984) 07-16 11:52:56
+gpts 这个词，每天都是5~10k的搜索量
+
+🥷🏿 发呆.(wxid_767zp9hgv7b922) 07-16 11:53:34
+求个会员 kennysyue3@gmail.com
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 07-16 11:53:50
+> 轩辕(wxid_4m8bzf34d67v22) 07-16 10:55:30
+> 看claude code 高频出现，搜了一下 好像有些词可能有机会  跟gpts流量相当
+claudelog.com 分享一下
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 07-16 11:53:54
+![图片](http://127.0.0.1:5030/image/6a26650dcc195e735a88a0e225f806ed)
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 07-16 11:53:56
+![图片](http://127.0.0.1:5030/image/ffc79195b9da7d0db93c15951aad2212)
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:58:08
+@NewBoy 已赠送
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:58:33
+@roderickོ 已赠送
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:59:08
+@刘镇斌 已赠送
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 11:59:36
+@🥷🏿 发呆. 已赠送
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 12:00:26
+> 良辰美 | 助教(wxid_8riqfa4drs6222) 07-16 11:53:50
+> > [引用]
+> claudelog.com 分享一下
+/:strong助教对关键词的挖掘 心得颇多呀
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 12:02:37
+我先去吃饭了哈  兄弟们有啥反馈随时私聊我
+
+王玮(wxid_94jbos68gn3b22) 07-16 12:03:17
+https://traffic.cv
+这个网站的New Website Discoveries和Fastest Growing Websites功能挺好的，看看能不能加到你的网站上去啊[旺柴][旺柴]@轩辕 
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 12:03:24
+后面 需要会员的可以私聊我  不用群里发了 免得干扰了 日常信息[破涕为笑]不然迟些我被小排老师骂就完蛋了。
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 12:03:46
+@王玮 好 我吃完饭参考  谢谢建议
+
+🥷🏿 发呆.(wxid_767zp9hgv7b922) 07-16 12:03:56
+> 轩辕(wxid_4m8bzf34d67v22) 07-16 11:59:36
+> @🥷🏿 发呆. 已赠送
+感谢感谢
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 12:07:46
+> 轩辕(wxid_4m8bzf34d67v22) 07-16 11:35:00
+> @智昊｜回家吃饭 你还没有登录
+好啦
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 12:17:18
+kiro报 aborted. The agent has seen this error and will try a different approach to write the file if needed. 这个是什么意思呀
+
+刘小排(liuxiaopai) 07-16 12:18:10
+可能是服务器负载爆炸了。
+
+JsonChao（晚10点睡觉）(wxid_txyrbyqpqhcc22) 07-16 12:19:40
+@轩辕 已登录，大佬求个会员🙏 chao.qu521@gmail.com
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 12:20:18
+[捂脸]你才是大佬 都开单了 吃完饭处理哈
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 12:22:08
+这玩意我感觉比cc强
+
+刘小排(liuxiaopai) 07-16 12:22:53
+哈哈哈，你刚才不是报错了吗
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 12:23:12
+[偷笑]我上了一美元积分包 送的会员要用用完了 你们给我打赏一美元 今天调支付流程
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 12:23:38
+让我感受一下开单
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 12:23:42
+[偷笑]
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 12:25:36
+那是它服务器的问题，不是软件的问题哈哈哈哈
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 12:27:13
+cc没有三段式的计划模型，我上周六线下给圈友分享的时候就特地讲了这个 需求-产品-开发计划 的产品构建模型可以把cc的范围给固定死以获取特别好的生成效果，结果复盘文章还没写完今天kiro就出来了
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 12:27:30
+![图片](http://127.0.0.1:5030/image/8284a44bfbc3e2b29b4c568bec7146a7)
+
+刘小排(liuxiaopai) 07-16 12:28:41
+[强]
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 12:28:52
+我看了操作手册，这个specs hooks agentsteering 还有 mcp servers这四个也强无敌，而且它的交互逻辑不是accept，而是follow，follow的逻辑是展示完整的修改部分让你一个一个自己看，还可以自己diff，这个交互逻辑真的深得我心
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 12:29:09
+这才是给开发用的ai agent
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 12:29:36
+还可以根据单文件回滚，这个也强无敌
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 12:29:52
+cursor回滚只能按checkpoint回滚
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 12:30:13
+太多了，我今天两台电脑同时重构两个应用，效率炸裂
+
+rain(wxid_9302913028612) 07-16 12:30:57
+现在卷的是怎么让用户便宜地使用最先进的算力和模型
+
+李政｜注册营养师ᴿᴰ(wxid_fvan0qwmrwek22) 07-16 12:31:15
+@轩辕 已登录，大佬求个会员🙏 azhenghendali@gmail.com
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 12:32:22
+因为亚马逊买了anthropic的股份[旺柴]
+
+青壮年狗哥(wxid_24tlj7t6c34k12) 07-16 12:34:47
+@轩辕 大佬求个会员，非常感谢🙏zyclovelife123@gmail.com
+
+JsonChao（晚10点睡觉）(wxid_txyrbyqpqhcc22) 07-16 12:35:16
+> 轩辕(wxid_4m8bzf34d67v22) 07-16 12:20:18
+> [捂脸]你才是大佬 都开单了 吃完饭处理哈
+好滴，灰常感谢/:@)
+
+rain(wxid_9302913028612) 07-16 12:35:29
+比较好奇same.new有没有实现PMF
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 12:45:14
+目前已经有给我邮箱的 已登录的 都已赠送完毕  
+
+后面还有兄弟看到 先不用急着给我发邮箱  我调完支付 用 creem做些免费会员卡出来  到时候直接点链接（好像是这样，我研究一下）
+
+特别急用的 就私聊我 不是很急的  等一等
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 12:53:16
+![图片](http://127.0.0.1:5030/image/1d3098eea06486624f49c865f2964f15)
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 12:54:15
+![图片](http://127.0.0.1:5030/image/e5af7e9e8a5ffdb582ddbe83cc04d680)
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 12:54:28
+兄弟们  这词不就是机会么
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 12:54:44
+https://www.indiekeywords.com/root/kiro
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 12:55:16
+哦 不对 这种有品牌的 域名注册不了
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 12:56:24
+看了一下 semrush  依然没有我网站分析出来的词  滞后挺严重 嘿嘿 开心
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 12:56:24
+![图片](http://127.0.0.1:5030/image/e9e1471fa68cb0d920e6647a1e099129)
+
+小陈老师(wxid_1f5f4iwhhiqc22) 07-16 13:16:22
+kiro执行任务要好久，通过spec创建个需求文档都要弄好久，还不一定能搞好，是服务器算力的问题吗[破涕为笑][破涕为笑]
+
+Moore(xiaobei1984) 07-16 13:46:15
+![图片](http://127.0.0.1:5030/image/3102279f92aa593b3c08b84095b1402f)
+
+Moore(xiaobei1984) 07-16 13:46:23
+看起来是每周 200 次 o3
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 07-16 13:47:47
+我开了200usd o3 用o3pro感觉也还是套话连篇 后面每次对话都是用o3了
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 07-16 13:47:54
+感觉一天不用100次o3回不了本
+
+我 07-16 13:48:36
+"Moore 助教" 撤回了一条消息
+
+Moore(xiaobei1984) 07-16 13:48:45
+[旺柴] 哈哈，多数我是用来调研用，有时候发现 4o + 效果+速度还不错
+
+Moore(xiaobei1984) 07-16 13:50:07
+> 深圳-小陈老师(wxid_1f5f4iwhhiqc22) 07-16 13:16:22
+> kiro执行任务要好久，通过spec创建个需求文档都要弄好久，还不一定能搞好，是服务器算力的问题吗[破涕为笑][破涕为笑]
+[Onlooker] 现在知道的人多了，用户量也飚起来了，速度肯定就慢了。
+
+刘小排(liuxiaopai) 07-16 13:52:07
+我用o3-pro的频率也比较低。太慢太慢了
+
+刘小排(liuxiaopai) 07-16 13:52:10
+o3好使
+
+小陈老师(wxid_1f5f4iwhhiqc22) 07-16 13:52:52
+感觉还是得半夜用kiro哈哈哈 昨晚还能给出结果，今天是一点都不行了[破涕为笑]
+
+Moore(xiaobei1984) 07-16 13:54:00
+[旺柴] 习惯就好，本质就是 claude + spec，自己抄一下它的结构，让它帮你生成文档，用claudecode跑K2也行
+
+宇古(yuxiuyu) 07-16 14:31:16
+用惯了Claude code，镜像那边挂了，真不习惯[破涕为笑]
+不过用kiro试了下，生成的是3个spec doc，真贴心，tasks.md 里面的任务还能点。
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 14:32:12
+gaccode昨天晚上好了，但是经常api断联
+
+宇古(yuxiuyu) 07-16 14:32:45
+现在也不行
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 14:32:59
+果然
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 14:33:08
+我刚刚登上去又是重要通知
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 14:33:18
+唉，我还是继续我的kimi k2吧
+
+Moore(xiaobei1984) 07-16 14:33:46
+不用想了，现在claude 大规模封号，商家也不敢放太多号进池子里
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 14:33:47
+昨天刚充了100块用了10块
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 14:35:30
+#举手 小排老师，现在的课程完成开发部分都闭环很好，推广部分有提及，但是比起开发部分的课程还是比较少，刚好看到老师你在做 fast3d.io  不知道能否以此为例  来制作一下 推广的部分 和 判断  ，无论数据结果如何，我们能知道你到某个节点会用什么途径 怎么去判断  啥数据 继续加码 怎么加  啥数据放一放  都会有莫大的帮助。
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 14:36:00
+求追加推广部分的课程内容，想照葫芦画瓢[合十]
+
+小陈老师(wxid_1f5f4iwhhiqc22) 07-16 14:36:41
+> 智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 14:33:18
+> 唉，我还是继续我的kimi k2吧
+用得感觉如何，我还没用过k2
+
+刘小排(liuxiaopai) 07-16 14:37:43
+> 轩辕(wxid_4m8bzf34d67v22) 07-16 14:35:30
+> #举手 小排老师，现在的课程完成开发部分都闭环很好，推广部分有提及，但是比起开发部分的课程还是比较少，刚好看到老师你在做 fast3d.io  不知道能否以此为例  来制作一下 推广的部分 和 判断  ，无论数据结果如何，我们能知道你到某个节点会用什么途径 怎么去判断  啥数据 继续加码 怎么加  啥数据放一放  都会有莫大的帮助。
+可以的。我还没开始推呢哈哈哈。那我们课程最后一次直播讲讲它的推广，是一个实际例子
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 14:38:34
+那太好了 每次开发的课程  看文字 跟你实操  那差太远了  你实操的录屏有很多细节 和 工具
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 14:38:46
+感谢老师[合十]
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 14:51:06
+完了，两个电脑的kiro都罢工了，疯狂报错 An unexpected error occurred, please retry
+
+卫斯理🤍(wxid_cap2car89b7811) 07-16 14:51:20
+[动画表情]
+
+Moore(xiaobei1984) 07-16 14:51:25
+爆火了
+
+卫斯理🤍(wxid_cap2car89b7811) 07-16 14:51:28
+> 刘小排(liuxiaopai) 07-16 14:37:43
+> > [引用]
+> 可以的。我还没开始推呢哈哈哈。那我们课程最后一次直播讲讲它的推广，是一个实际例子
+太好了
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 14:51:35
+这claudecode好像也接不回来[捂脸]
+
+Insight(lyo_jo) 07-16 14:53:42
+![图片](http://127.0.0.1:5030/image/84eaa74447c51f85e95a8e531e87a607)
+
+Insight(lyo_jo) 07-16 14:54:18
+订阅 Claude Code Max 200 美元那个，试了 4 张信用卡都不行，以前从来没出现过这种情况
+
+Moore(xiaobei1984) 07-16 14:54:48
+国内和大陆的卡不行
+
+刘小排(liuxiaopai) 07-16 15:01:03
+香港的也不行
+
+Insight(lyo_jo) 07-16 15:04:45
+那要搞个美国的信用卡？
+
+刘小排(liuxiaopai) 07-16 15:06:18
+除了大陆、伊朗、香港、朝鲜、俄罗斯，基本上都可以
+
+亿豪(wxid_8rqui0adacvp12) 07-16 15:09:28
+@刘小排 不能google pay 吗？google pay 可以绑定国内visa卡
+
+Insight(lyo_jo) 07-16 15:09:45
+> 亿豪(wxid_8rqui0adacvp12) 07-16 15:09:28
+> @刘小排 不能google pay 吗？google pay 可以绑定国内visa卡
+我刚试了不行
+
+亿豪(wxid_8rqui0adacvp12) 07-16 15:09:55
+[破涕为笑]
+
+Insight(lyo_jo) 07-16 15:10:12
+![图片](http://127.0.0.1:5030/image/823cb24fb7f6a1767b3c26fee98c6080)
+
+刘小排(liuxiaopai) 07-16 15:10:13
+google pay你第一次需要绑定外国卡
+
+亿豪(wxid_8rqui0adacvp12) 07-16 15:10:49
+@刘小排 招商银行visa 不算国外卡？
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 15:11:28
+不算
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 15:11:31
+我被拒过
+
+亿豪(wxid_8rqui0adacvp12) 07-16 15:11:42
+懂了
+
+我 07-16 15:13:29
+"金子。" 撤回了一条消息
+
+金子。(wxid_lfipf3htcv6m22) 07-16 15:14:01
+绑定之前在海鲜市场找人代充gpt的，用的google账号，他应该是绑卡了，现在发现就能绑定visa卡
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-16 15:17:14
+啊，visa境外卡也不行啊，白申请
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 15:17:46
+我理解应该是 “国外的银行”的银行卡
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 15:18:02
+去新加坡办一张哈哈哈哈哈
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-16 15:18:09
+[破涕为笑]
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-16 15:18:21
+得找第三方办吧
+
+卫斯理🤍(wxid_cap2car89b7811) 07-16 15:26:36
+> Paradise Quest(wxid_g27abmn3c4ws21) 07-16 15:17:14
+> 啊，visa境外卡也不行啊，白申请
+不是吧，我刚申请了一个招行国际visa卡[Lol]
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 15:27:42
+没事，办了也有好处，stripe支付的软件都能用
+
+枫宇翔(wxid_g83uvjmroaje21) 07-16 15:30:22
+最简单，你们整个fiat24的卡就可以了，或者n26、MyFin等等都可以
+
+极客信条(kongfulive) 07-16 15:31:02
+需要注册离岸公司吗？
+
+枫宇翔(wxid_g83uvjmroaje21) 07-16 15:32:14
+有的是护照，有的是身份证
+
+枫宇翔(wxid_g83uvjmroaje21) 07-16 15:32:56
+国外visa卡之类太多了，多得不想办理太多
+
+宇古(yuxiuyu) 07-16 15:40:54
+野卡可以登录了
+
+宇古(yuxiuyu) 07-16 15:40:56
+![图片](http://127.0.0.1:5030/image/cdf739bd7c6f42eb46834fbaee6e083c)
+
+JACKIE(qq573729221) 07-16 15:44:07
+这些公司是根据发卡机构的国家来判断和禁止的
+
+JACKIE(qq573729221) 07-16 15:44:19
+只要国内银行发的都过不了
+
+JACKIE(qq573729221) 07-16 15:44:28
+跟visa和master 这种卡组织没关系
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-16 15:46:40
+原来如此
+
+CHK(wxid_t9mefurnptvz21) 07-16 15:50:22
+试试把google play的商店地址换了
+
+小明(wxid_at9px5nf07qm22) 07-16 16:25:56
+cursor ban大陆ip了，cursor使用中，需要开🪜了哈
+
+落尘(wxid_2d9fw2ta1t9n22) 07-16 16:34:50
+#提问
+除了开通海外信用卡或注册执照，还有哪些更容易上手的插件付费渠道？
+
+刘小排(liuxiaopai) 07-16 16:38:54
+没太明白，什么叫插件付费渠道
+
+落尘(wxid_2d9fw2ta1t9n22) 07-16 16:49:58
+插件收钱问题，如果绕开申请海外信用卡，执照和企业，还有没有什么办法能收钱
+
+刘小排(liuxiaopai) 07-16 16:54:20
+收钱不需要信用卡
+
+刘小排(liuxiaopai) 07-16 16:54:44
+插件收钱本质上就是网站收钱。你用我们课程推荐的creem，把收钱做到网站上。
+
+刘小排(liuxiaopai) 07-16 16:55:01
+就好比 cursor虽然看起来是一个客户端，他收钱也是在网站上完成的
+
+桑桑(wxid_q2c7fp10z2522) 07-16 17:27:56
+@所有人  实战手册文档更新啦，这次新增了如何使用 K2 驱动 Claude Code和一个新的快速接入支付方法，点击下方链接可直达[转圈]
+
+【新增】如何使用K2驱动的Claude Code？
+链接：https://scys.com/view/docx/TPt3dhdjBoBwWvxJB1Qcybl5nQe#OtQsd3pAmovQeOx0gKacow4fne0
+
+【新增】如何快速接入支付方法三：把教程文档发给 Cursor，让 Cursor 阅读教程后再做
+链接：https://scys.com/view/docx/TPt3dhdjBoBwWvxJB1Qcybl5nQe#doxcnFk6AXvOEkr4pWC0Sem7lNe
+
+星吟(wxid_ivo4n28g15qj21) 07-16 17:32:51
+7天、1200个3D图标、1000美金——Thiings把AI生成图像变成了真金白银。上周我在写Reddit分享贴时偶然挖到它，发现这是一个普通人也能复刻的赚钱范例。于是这周我加足马力：将这个网站的盈利模式和冷启动路径认真分析了一遍。并且作为开发小白，我尝试复刻这个项目，做了个低配版demo。希望这份案例拆解，能给想做AI产品出海的圈友带来一点信心和灵感！
+
+星吟(wxid_ivo4n28g15qj21) 07-16 17:32:51
+[链接|AI图像变现案例拆解：Thiings
+
+7天、1200个3D图标、1000美金——Thiings把AI生成图像变成了真金白银。上周我在写Reddit分享贴时偶然挖到它，发现这是一个普通人也能复刻的赚钱范例。于是这周我加足马力：将这个网站的盈利模式和冷启动路径认真分析了一遍。并且作为开发小白，我尝试复刻这个项目，做了个低配版demo。希望这份案例拆解，能给想做AI产品出海的圈友带来一点信心和灵感！
+
+链接直达➡️https://gwlxqear42r.feishu.cn/wiki/UYK1wIDRji2RxD](https://t.zsxq.com/oIAkk)
+
+陳Frank(wxid_bydr83d9xhgs22) 07-16 17:48:38
+[强]
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-16 17:49:45
+[强]
+
+alon(alon1020) 07-16 17:52:25
+> 轩辕(wxid_4m8bzf34d67v22) 07-16 11:20:29
+> 喜欢用 登录后  把邮箱发我 我给圈友免费安排一下会员
+求个会员 alon.dai@gmail.com [Awesome]
+
+MagicLee(li505508354) 07-16 17:59:09
+> 轩辕(wxid_4m8bzf34d67v22) 07-16 11:20:29
+> 喜欢用 登录后  把邮箱发我 我给圈友免费安排一下会员
+同求 li173734811@gmail.com
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 18:03:44
+已赠送
+
+后面还有兄弟看到 先不用急着给我发邮箱  我调完支付 用 creem做些免费会员卡出来  到时候直接点链接（好像是这样，我研究一下）
+
+特别急用的 就私聊我 不是很急的  等一等
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 18:03:58
+支付已经在审核中
+
+闻鉴(wxid_cdtcq1czmsgf22) 07-16 18:45:49
+> 智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 14:51:06
+> 完了，两个电脑的kiro都罢工了，疯狂报错 An unexpected error occurred, please retry
+开科学上网就可以了
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 18:51:37
+开了，美国节点，tun模式，就是单纯的他们服务器炸了
+
+Moore(xiaobei1984) 07-16 18:52:21
+kiro 应该用的是 aws 的 claude 节点，应该不是官方的
+
+wxid_iyevr7we4vxr11 07-16 18:52:33
+我有半个小时也是unexpected error 我把对话框都关了，再开了一个就能用了
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 19:13:19
+> 良辰美 | 助教(wxid_8riqfa4drs6222) 07-16 11:53:50
+> > [引用]
+> claudelog.com 分享一下
+kirolog.net  域名还在  没人参考这个搞一个么  应该资料一给AI  让AI写 很快就有了吧
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 19:14:05
+> 轩辕(wxid_4m8bzf34d67v22) 07-16 12:54:15
+> ![图片](http://127.0.0.1:5030/image/e5af7e9e8a5ffdb582ddbe83cc04d680)
+万一kiro火了呢
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 19:14:35
+![图片](http://127.0.0.1:5030/image/273b3f8acd2543a442a2ff3f2973a242)
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 19:14:41
+[破涕为笑]就这样的网站
+
+轩辕(wxid_4m8bzf34d67v22) 07-16 19:15:53
+![图片](http://127.0.0.1:5030/image/6266ce72024576746188ac96b88526ce)
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 19:22:22
+> 小瑶|助教(wxid_iyevr7we4vxr11) 07-16 18:52:33
+> 我有半个小时也是unexpected error 我把对话框都关了，再开了一个就能用了
+我开了好几个对话框，最后都是同一个结果，完全用不了现在
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 19:22:33
+爽是真爽
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 19:22:53
+代码质量相当高
+
+Insight(lyo_jo) 07-16 19:24:17
+kiro 用户交互做得好，给人可控的感觉
+
+天青色等烟雨(wxid_vwoqk3aok14122) 07-16 20:41:51
+![图片](http://127.0.0.1:5030/image/a2122ed676f42d898157b787316e8390)
+
+天青色等烟雨(wxid_vwoqk3aok14122) 07-16 20:41:51
+![图片](http://127.0.0.1:5030/image/4c9b81970afd366c02554e6b7c1754e2)
+
+天青色等烟雨(wxid_vwoqk3aok14122) 07-16 20:42:19
+今天是正儿八经的体会到claude code的强大了
+
+Daniel(liaozhichao504125) 07-16 20:43:34
+#举手 求手册更新一个kiro使用教程，今天试玩了一天，感觉还没玩明白。
+
+天青色等烟雨(wxid_vwoqk3aok14122) 07-16 20:44:59
+我买了claude max一直是自己在玩，平时做做小工具自己开发着用，前两天感觉也不知道还能用的干啥，有种‘拿着锤子在找钉子’的感觉，所以索性就把账号给我们团队研发组的伙伴去用，让他们在项目开发中试试。
+
+Moore(xiaobei1984) 07-16 20:46:07
+[视频号|详解 Kiro AI IDE，最强规范模式！超越 Claude Code
+
+你是否厌倦了AI编程助手只会“头痛医头、脚痛医脚”地生成零散代码？亚马逊最新推出的AI编程IDE——Kiro，带来了全新的开发范式！
+
+在本期视频中，我将带你深度体验Kiro的核心魅力：
+
+- 创新性的“规范模式”：见证AI如何像一个资深架构师一样，在写代码前进行详细的需求分析、技术选型和实施计划，并一步步执行。
+- 强大的自动化“Agent Hooks”：了解如何通过事件驱动的钩子，实现文档自动更新、代码风格检查等自动化工作流，彻底解放你的双手。
+- 持久化上下文“Steering”：学习如何为你的项目设定全局规则，让Kiro始终记住你的技术栈、编码规范和项目目标。
+
+我将通过两个实战项目展示Kiro从零到一的开发全过程。同时，我也会深入剖析它的优缺点，以及它与Cursor、VS Code等主流工具有何不同。
+
+如果你想体验一种更有序、更智能、更接近人类高级工程师思维的AI编程方式，那么这期视频绝对不容错过！
+
+时间戳
+
+00:00 - Kiro初印象与安装
+
+00:38 - 两大模式：Vibe与“规范模式”
+
+06:01 - 核心功能深度解析：规范、Hooks与Steering
+
+14:48 - 总结与思考](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQDWSmnpYs5DCgyHrclzUbhnACIJLV6iajfIBtwZa7ITQHlFFdKqp6HVlttdzfTm4aIzWgaEGasWzSKdNJ2EzSXKr&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a1fc)
+
+Moore(xiaobei1984) 07-16 20:46:26
+@Daniel 看这里
+
+Daniel(liaozhichao504125) 07-16 20:47:07
+感谢
+
+天青色等烟雨(wxid_vwoqk3aok14122) 07-16 20:47:12
+结果，他们今天一个劲儿的在群里‘卧槽’，我以为发生啥事情了，结果后面才知道他们把这个用到上个月接的一个项目中。claude code 用了2个多小时把25.7万的项目快干完了[捂脸][捂脸]  
+
+天青色等烟雨(wxid_vwoqk3aok14122) 07-16 20:49:10
+这会儿谁也没下班，都在公司debug 
+
+谢东怀(blackangleS) 07-16 20:49:24
+牛
+
+我 07-16 20:58:26
+"HelloCsl 陈穗轮" 撤回了一条消息
+
+HelloCsl 陈穗轮(qq-664867596) 07-16 20:58:44
+> 轩辕(wxid_4m8bzf34d67v22) 07-16 11:20:29
+> 喜欢用 登录后  把邮箱发我 我给圈友免费安排一下会员
+cslgogogo@gmail.com/:@) @轩辕 
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 07-16 21:10:42
+![图片](http://127.0.0.1:5030/image/854e7465d284a95b647436dc45dbdb1c)
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 07-16 21:10:56
+美国人起来了，服务器炸了
+
+Insight(lyo_jo) 07-16 21:15:08
+![图片](http://127.0.0.1:5030/image/bfc1a2b9ba53b01821abc944518c5baa)
+
+Insight(lyo_jo) 07-16 21:15:32
+kiro 人机交互做的好
+
+刘小排(liuxiaopai) 07-16 21:17:10
+下班
+
+DHJ - EvoLInk.AI(jinger0907) 07-16 21:19:17
+![图片](http://127.0.0.1:5030/image/812f88b6c6fec9af8ee71e3d94375c91)
+
+Insight(lyo_jo) 07-16 21:19:46
+对于专业人员来说，处理复杂任务，还是需要一定程度的可见性/可介入性
+
+宇古(yuxiuyu) 07-16 21:24:43
+> 智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-16 19:22:22
+> > [引用]
+> 我开了好几个对话框，最后都是同一个结果，完全用不了现在
+回复继续就可以了
+
+宇古(yuxiuyu) 07-16 21:25:36
+![图片](http://127.0.0.1:5030/image/23ca5fbc79552d3f0ce2b90039da2b19)
+
+闻鉴(wxid_cdtcq1czmsgf22) 07-16 22:01:49
+不好意思。弱弱的问一句，在cursor中显示“cursor终端中，安装claude code时，出现这个错误。
+✻ Welcome to Claude Code │
+╰──────────────────────────╯
+
+ Unable to connect to Anthropic services
+
+ Failed to connect to api.anthropic.com: ERR_BAD_REQUEST”
+
+是科学上网的问题吗？已经开了，但如何在cursor中开代理呢？
+
+亿豪(wxid_8rqui0adacvp12) 07-16 22:03:42
+@闻鉴-广州
+
+亿豪(wxid_8rqui0adacvp12) 07-16 22:03:42
+![图片](http://127.0.0.1:5030/image/1e7a886edb9289d18d42e608c9cf8913)
+
+亿豪(wxid_8rqui0adacvp12) 07-16 22:03:50
+康康
+
+辛亥(wxid_0ytooiqh4iio22) 07-16 22:04:43
+> 闻鉴-广州(wxid_cdtcq1czmsgf22) 07-16 22:01:49
+> 不好意思。弱弱的问一句，在cursor中显示“cursor终端中，安装claude code时，出现这个错误。
+> ✻ Welcome to Claude Code │
+> ╰──────────────────────────╯
+>  Unable to connect to Anthropic services
+>  Failed to connect to api.anthropic.com: ERR_BAD_REQUEST”
+> 是科学上网的问题吗？已经开了，但如何在cursor中开代理呢？
+换英区
+
+辛亥(wxid_0ytooiqh4iio22) 07-16 22:05:05
+我遇到过跟你一样的问题
+
+闻鉴(wxid_cdtcq1czmsgf22) 07-16 22:06:20
+好的，感谢。昨天尝试申请claude code，发现现在有7天的免费试用期。
+
+阿漫(wxid_0jm70wtbqehf21) 07-16 22:49:52
+#举手，看竞品收入情况等数据的网站推荐哪些呀？
+
+宁王（加油！）(wxid_5182881829312) 07-16 23:09:05
+收入情况，假如特别大的话，可以看看在不在toolify.ai收入榜[旺柴]
+
+阿漫(wxid_0jm70wtbqehf21) 07-16 23:27:18
+@宁王（加油！） 哦哦，谢谢[玫瑰]

@@ -1,0 +1,1165 @@
+GavinHawk(genius711) 06-29 00:38:36
+土豆君(wxid_gzr7bvbdlvlv22) 06-29 00:45:28
+[视频号|因为我的AI挑战，认识了红杉资本投资人#人工智能#ai创业 #红杉资本#超级个体](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibFeI6caGYwFFNn3TRnGIwVknYu341KoeYInrLibDyG1TkZ9flibxrSmVBExmJb9rNibdJFW7GpoercMPjEcib3wtv6abZruhGJibfiaUaPfndgaVstAMXFgCBFQ8Q&hy=SH&idx=1&m=ff8c63de27b3faba788903785ed35310&uzid=7a15c)
+
+土豆君(wxid_gzr7bvbdlvlv22) 06-29 00:45:28
+这个人做产品思路感觉和小排老师的思路很一致~
+
+土豆君(wxid_gzr7bvbdlvlv22) 06-29 00:47:58
+我感受核心就是就围绕一个人群不断做mvp反复迭代
+
+刘小排(liuxiaopai) 06-29 01:05:46
+是的。做产品都是这样
+
+My Dream(wxid_08zu1t0wtnm822) 06-29 09:10:59
+#举手 Google Trends中的相关词老是出现这种情况怎么办
+
+My Dream(wxid_08zu1t0wtnm822) 06-29 09:10:59
+![图片](http://127.0.0.1:5030/image/602ef3652d1ce5b6d26ddca9a939cbc8)
+
+坐忘...知行(wxid_8el8nvvcryhi22) 06-29 09:15:09
+给大家分享一个Claude Code使用小技巧：
+如果想法还不是很明确的时候，不想让Claude Code直接就动手改代码，可以先按Shift + Tab键，切换到plan mode模式，跟Claude Code聊深入了确认了方案，再让Claude Code动手干活，掌控性更大些。感觉很好使，大家可以试一下[Grin]
+
+坐忘...知行(wxid_8el8nvvcryhi22) 06-29 09:15:15
+![图片](http://127.0.0.1:5030/image/0df592f3e397668c3c8bdc6f717ea084)
+
+Rainy_day(wxid_skascbpg57dy21) 06-29 09:20:32
+> My Dream(wxid_08zu1t0wtnm822) 06-29 09:10:59
+> #举手 Google Trends中的相关词老是出现这种情况怎么办
+就是你的词搜索量很少
+
+码叔编程(wxid_awv5vp6602ju22) 06-29 09:21:59
+![图片](http://127.0.0.1:5030/image/3d5db26c0fa28aad6c4b39da7eae3e86)
+
+我 06-29 09:22:30
+"码叔编程" 撤回了一条消息
+
+码叔编程(wxid_awv5vp6602ju22) 06-29 09:22:48
+bolt周末免费 [愉快] 赶紧薅羊毛，
+
+银河星游(wxid_6253072530112) 06-29 10:09:18
+哈哈小排老师推荐的这个完美的适配了终端，好用哈哈。看着牛马给我干活，还能薅claude 羊毛真爽啊
+
+银河星游(wxid_6253072530112) 06-29 10:09:18
+![图片](http://127.0.0.1:5030/image/2aeab5a973bcba88ab6c0b032071d429)
+
+YS(wxid_erhr16xan1j122) 06-29 11:14:07
+刚刚让gemini梳理了小排老师starter kit的用户购买流程交互图，终于能看懂交互逻辑了
+
+YS(wxid_erhr16xan1j122) 06-29 11:14:12
+![图片](http://127.0.0.1:5030/image/b58e3f03d6efa7d15eb29c09c139c11f)
+
+刘小排(liuxiaopai) 06-29 11:24:38
+[强][强]
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 14:27:46
+#举手  cursor 让提示付费、进入官网也没找到哪里可以付款、哪位助教或圈友知道啥情况、感谢！
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 14:27:53
+![图片](http://127.0.0.1:5030/image/28c899388ebb95e0beeb4560d9af6e7d)
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 14:28:08
+进去官网
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 14:28:13
+![图片](http://127.0.0.1:5030/image/293c588f0ec6e2c96c7145e6fdb906bb)
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 14:28:14
+![图片](http://127.0.0.1:5030/image/e091d36c0125f983e3f4130989701e28)
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 14:28:15
+![图片](http://127.0.0.1:5030/image/7a54f20d465da93a6802a6f3cecb2440)
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 14:28:19
+没看到哪里付费
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 14:28:22
+[动画表情]
+
+Moore(xiaobei1984) 06-29 14:30:53
+管理订阅
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 14:34:08
+![图片](http://127.0.0.1:5030/image/c3df3f13fdc79f0e19741fd4c58b1c93)
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 14:34:45
+@Moore 助教 买的账号也可以付费的吧
+
+Moore(xiaobei1984) 06-29 14:42:45
+没试过，不知道，你得看失败原因
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 14:44:12
+我通过野卡付费了
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 14:44:24
+感谢 助教
+
+刘小排(liuxiaopai) 06-29 14:49:57
+> ⁰ 牧羊人⁰ |志愿🚲(wxid_9ip1optw2gfd22) 06-29 14:34:45
+> @Moore 助教 买的账号也可以付费的吧
+@⁰ 牧羊人⁰ |志愿🚲 你买的账号大概率是绑定了别人的黑卡，里面没钱，需要你重新绑卡才能付钱
+
+刘小排(liuxiaopai) 06-29 14:50:22
+去后台绑定新的卡
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 14:55:30
+@刘小排 已经绑卡付费了
+
+刘小排(liuxiaopai) 06-29 14:55:39
+[OK]
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 14:56:09
+现在cursor没有免费了么。免费额度用完都要付费了么
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 14:56:12
+@刘小排 
+
+刘小排(liuxiaopai) 06-29 14:56:45
+Cursor是$20美元无限的。除非你用max mode
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 14:56:59
+![图片](http://127.0.0.1:5030/image/52e196af004a2eb4310ed17dcb37d72b)
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 14:57:17
+模型选择的不对么
+
+刘小排(liuxiaopai) 06-29 14:57:42
+![图片](http://127.0.0.1:5030/image/76009f5c0439d446d2ba04b11d8125e0)
+
+刘小排(liuxiaopai) 06-29 14:57:49
+打开了这个，才会让你额外付费。
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 14:59:14
+![图片](http://127.0.0.1:5030/image/de9c8950a788685c23d2945c7a36723a)
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 14:59:27
+@刘小排 关了就好了吧
+
+刘小排(liuxiaopai) 06-29 14:59:43
+嗯
+
+刘小排(liuxiaopai) 06-29 14:59:56
+但是你得把之前欠人家的20美元结算了
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 15:00:13
+已经结算了
+
+刘小排(liuxiaopai) 06-29 15:00:13
+> ⁰ 牧羊人⁰ |志愿🚲(wxid_9ip1optw2gfd22) 06-29 14:34:08
+> ![图片](http://127.0.0.1:5030/image/c3df3f13fdc79f0e19741fd4c58b1c93)
+你人家钱没付呢嘿嘿
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 15:00:34
+结算了
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 15:05:02
+@刘小排 关了只能选择自动的[呲牙]
+
+刘小排(liuxiaopai) 06-29 15:05:13
+不是吧
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 15:05:19
+是的
+
+刘小排(liuxiaopai) 06-29 15:05:32
+你应该弄错了
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 15:05:33
+就不好好干活了
+
+刘小排(liuxiaopai) 06-29 15:05:39
+可以选择所有不带“MAX Only”的标的
+
+刘小排(liuxiaopai) 06-29 15:05:40
+![图片](http://127.0.0.1:5030/image/611cd3cacce1a613e949b865b871d0ae)
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 15:06:09
+![图片](http://127.0.0.1:5030/image/ae4f77d37631ab1f87e05bf2c5c77860)
+
+刘小排(liuxiaopai) 06-29 15:06:09
+到这里设置
+
+刘小排(liuxiaopai) 06-29 15:06:09
+![图片](http://127.0.0.1:5030/image/fa1a8cfe458bce93ca24124556bdc16f)
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 15:06:51
+![图片](http://127.0.0.1:5030/image/ffba53bfa8f4a376ad0ef85f06737205)
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 06-29 15:07:37
+> ⁰ 牧羊人⁰ |志愿🚲(wxid_9ip1optw2gfd22) 06-29 15:05:02
+> @刘小排 关了只能选择自动的[呲牙]
+因为cursor的计费还有一个提问速率
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 15:07:38
+![图片](http://127.0.0.1:5030/image/4a04993cbc4ae361042bf57122173146)
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 06-29 15:08:16
+不开启计费模式，短时间内大量提问，确实是会要自动降级用agent模式
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 15:08:24
+选择自动 基本就干不了啥活了、小问题都处理不了啦[晕]
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 06-29 15:08:47
+去咸鱼买教育版cursor会员无限额度，一百多一年
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 15:09:15
+我现在这个就是教育会员
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 06-29 15:09:15
+cursor折扣结束后，开会员跟不开没啥区别，如果猛用的话
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 06-29 15:09:25
+多几个号去切换
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 06-29 15:09:34
+这是另一个群友告诉我的
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 15:09:53
+你说只能切换去操作了吧
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 06-29 15:10:03
+如果你不想被扣很多钱的话
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 06-29 15:10:16
+我网络环境慢，有几个图片在发
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 15:11:16
+好吧
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 06-29 15:11:31
+![图片](http://127.0.0.1:5030/image/27e8e60d106fa9da30623917a0d701ce)
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 06-29 15:12:48
+![图片](http://127.0.0.1:5030/image/7d6a293c8de3b5d1154ce616611a1efe)
+
+蒙奇(liumengtan2010) 06-29 15:12:50
+> 刘小排(liuxiaopai) 06-29 14:56:45
+> Cursor是$20美元无限的。除非你用max mode
+要是 Auto 才是无限的，我一直选 Claude 4 Sonnet 提示不让用了[破涕为笑]
+
+蒙奇(liumengtan2010) 06-29 15:12:50
+![图片](http://127.0.0.1:5030/image/45beb214de67613d2f5e9773be7def07)
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 06-29 15:13:28
+[合并转发|群聊的聊天记录]
+arlen(skyarlen) 06-29 15:14:43
+> 蒙奇-杭州(liumengtan2010) 06-29 15:12:50
+> > [引用]
+> 要是 Auto 才是无限的，我一直选 Claude 4 Sonnet 提示不让用了[破涕为笑]
+歇一歇就又能用
+
+刘小排(liuxiaopai) 06-29 15:14:51
+歇一歇就能用
+
+刘小排(liuxiaopai) 06-29 15:15:13
+防沉迷系统
+
+刘小排(liuxiaopai) 06-29 15:15:16
+[呲牙]
+
+蒙奇(liumengtan2010) 06-29 15:15:21
+是的，昨天到了歇了一下，今天用了几次又不让用了 [捂脸]
+
+蒙奇(liumengtan2010) 06-29 15:15:32
+> 刘小排(liuxiaopai) 06-29 15:15:13
+> 防沉迷系统
+形象！[ThumbsUp]
+
+Anatta(wxid_9ip1optw2gfd22) 06-29 15:15:39
+废了估计
+
+蒙奇(liumengtan2010) 06-29 15:15:59
+现在是 o3 和 gemini 2.5 pro 来回切换着用
+
+岑西(wxid_hh73nehsjeml22) 06-29 15:16:40
+500快速用完后，还能不能切回无限模式
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 06-29 15:17:11
+> 蒙奇-杭州(liumengtan2010) 06-29 15:12:50
+> > [引用]
+> 要是 Auto 才是无限的，我一直选 Claude 4 Sonnet 提示不让用了[破涕为笑]
+这个回答你了
+
+岑西(wxid_hh73nehsjeml22) 06-29 15:19:55
+[OK]
+
+蒙奇(liumengtan2010) 06-29 15:20:23
+> 蒙奇-杭州(liumengtan2010) 06-29 15:12:49
+> ![图片](http://127.0.0.1:5030/image/45beb214de67613d2f5e9773be7def07)
+看到这种就很开心，一个月就值回票价，这个月都花了 $167 了 
+
+能动小排老师用 Claude Code 的那种感觉了
+
+刘小排(liuxiaopai) 06-29 15:21:37
+哈哈哈哈，那你用claude code只会更开心
+
+刘小排(liuxiaopai) 06-29 15:22:01
+今天6月29日还没过完呢，已经$239了
+
+刘小排(liuxiaopai) 06-29 15:22:01
+![图片](http://127.0.0.1:5030/image/69b33dea13c225b983b4c4fca1739159)
+
+刘小排(liuxiaopai) 06-29 15:22:22
+我挑战一下今天能不能干上单日$400的API消耗。。
+
+蒙奇(liumengtan2010) 06-29 15:22:34
+怪不得这么费钱哦，都是在用最顶的 opus-4 在跑
+
+刘小排(liuxiaopai) 06-29 15:22:50
+不一定哦。这个我正在琢磨
+
+刘小排(liuxiaopai) 06-29 15:22:54
+opus-4太慢了
+
+刘小排(liuxiaopai) 06-29 15:22:59
+可能还是结合一下更好。我还不确定。
+
+蒙奇(liumengtan2010) 06-29 15:23:29
+嗯嗯，还是得看任务复杂度来，兼顾开发效率
+
+刘小排(liuxiaopai) 06-29 15:23:36
+是的。
+
+蒙奇(liumengtan2010) 06-29 15:28:20
+![图片](http://127.0.0.1:5030/image/312def5489191e8f74ab8688079846f6)
+
+刘小排(liuxiaopai) 06-29 15:28:40
+这是你做的吗
+
+蒙奇(liumengtan2010) 06-29 15:28:59
+是的，这两天疯狂搞这个，所以把 Cursor 用完了
+
+刘小排(liuxiaopai) 06-29 15:29:04
+好歹让它能显示下群里的图片啊 哈哈哈
+
+蒙奇(liumengtan2010) 06-29 15:29:18
+> 刘小排(liuxiaopai) 06-29 15:29:04
+> 好歹让它能显示下群里的图片啊 哈哈哈
+是的，这个没搞定，在迭代列表里面
+
+刘小排(liuxiaopai) 06-29 15:30:10
+有点好玩。未来还打算迭代什么有趣的功能呢。
+
+李香君(lichengjun395269) 06-29 15:30:37
+这个是rpa抓的吗
+
+蒙奇(liumengtan2010) 06-29 15:31:07
+> 刘小排(liuxiaopai) 06-29 15:30:10
+> 有点好玩。未来还打算迭代什么有趣的功能呢。
+受亦仁启发，我才动手做的。
+
+毛韩(wxid_gml844sez8tk12) 06-29 15:31:39
+#举手 请问老师们，我电脑装好claude code使用claude命令执行时一直提示网络问题连接不上。
+
+而使用curl 直接访问curl -I https://api.anthropic.com/v1 --proxy socks5h://127.0.0.1:7890
+
+返回404，我问了GPT，说这说明IP是可以访问的，但是使用claude命令一直提示网络问题。
+————
+我也换了个搬瓦工的CN2 GIA的ip也是同样提示链接不上api.anthropic.com，有老师遇到过这种问题吗
+
+蒙奇(liumengtan2010) 06-29 15:33:35
+> 刘小排(liuxiaopai) 06-29 15:30:10
+> 有点好玩。未来还打算迭代什么有趣的功能呢。
+* 聊天记录导出
+* AI 洞察：支持选定群聊、联系人搜索，AI总结提炼关注点
+* 聊天数据可视化：类似生成卡兹克那个网页
+* 聊天数据统计
+* 还有好多可以做的…
+
+蒙奇(liumengtan2010) 06-29 15:34:29
+> 李香君(lichengjun395269) 06-29 15:30:37
+> 这个是rpa抓的吗
+GitHub 的 Chatlog 库，解密微信本地的聊天记录后，我去调用它的 API，
+
+毛韩(wxid_gml844sez8tk12) 06-29 15:35:59
+> 蒙奇-杭州(liumengtan2010) 06-29 15:34:29
+> > [引用]
+> GitHub 的 Chatlog 库，解密微信本地的聊天记录后，我去调用它的 API，
+这个支持在网页端直接发送消息给好友吗
+
+刘小排(liuxiaopai) 06-29 15:36:06
+> 毛韩(wxid_gml844sez8tk12) 06-29 15:31:39
+> #举手 请问老师们，我电脑装好claude code使用claude命令执行时一直提示网络问题连接不上。
+> 而使用curl 直接访问curl -I https://api.anthropic.com/v1 --proxy socks5h://127.0.0.1:7890
+> 返回404，我问了GPT，说这说明IP是可以访问的，但是使用claude命令一直提示网络问题。
+> ————
+> 我也换了个搬瓦工的CN2 GIA的ip也是同样提示链接不上api.anthropic.com，有老师遇到过这种问题吗
+TUN模式比较靠谱
+
+毛韩(wxid_gml844sez8tk12) 06-29 15:36:59
+> 刘小排(liuxiaopai) 06-29 15:36:06
+> > [引用]
+> TUN模式比较靠谱
+也开了试了试，还是无法访问。我昨晚试了clash（5个版本的）、小火箭、v2ray 都试了试，都没法访问[捂脸]
+
+Min(szm800717) 06-29 15:37:34
+> 蒙奇-杭州(liumengtan2010) 06-29 15:34:29
+> > [引用]
+> GitHub 的 Chatlog 库，解密微信本地的聊天记录后，我去调用它的 API，
+太实用了[强]
+
+李香君(lichengjun395269) 06-29 15:37:59
+> 毛韩(wxid_gml844sez8tk12) 06-29 15:31:39
+> #举手 请问老师们，我电脑装好claude code使用claude命令执行时一直提示网络问题连接不上。
+> 而使用curl 直接访问curl -I https://api.anthropic.com/v1 --proxy socks5h://127.0.0.1:7890
+> 返回404，我问了GPT，说这说明IP是可以访问的，但是使用claude命令一直提示网络问题。
+> ————
+> 我也换了个搬瓦工的CN2 GIA的ip也是同样提示链接不上api.anthropic.com，有老师遇到过这种问题吗
+我感觉是这个CN2 GIA ip是不是能让claude知道你是中国用户，所以不通
+
+Rainy_day(wxid_skascbpg57dy21) 06-29 15:38:15
+@毛韩 ClaudeCode报啥错
+
+蒙奇(liumengtan2010) 06-29 15:38:23
+> 毛韩(wxid_gml844sez8tk12) 06-29 15:35:59
+> > [引用]
+> 这个支持在网页端直接发送消息给好友吗
+那不支持，没必要和微信官方客户端抢饭吃 [Facepalm]
+
+毛韩(wxid_gml844sez8tk12) 06-29 15:38:42
+> 李香君(lichengjun395269) 06-29 15:37:59
+> > [引用]
+> 我感觉是这个CN2 GIA ip是不是能让claude知道你是中国用户，所以不通
+我换了两个IP，都是同样的结果，一个新加坡的阿里云买的，一个搬瓦工的CN2 GIA
+
+土豆君(wxid_gzr7bvbdlvlv22) 06-29 15:38:52
+https://docs.anthropic.com/en/docs/claude-code/settings
+可以尝试在 ~/.claude/settings.json 设置对应的环境变量。
+
+土豆君(wxid_gzr7bvbdlvlv22) 06-29 15:38:53
+![图片](http://127.0.0.1:5030/image/ed3d2acb51f3a039fbba8ea868720e7b)
+
+土豆君(wxid_gzr7bvbdlvlv22) 06-29 15:39:23
+claudecode访问加环境变量就行了，我不用tun
+
+蒙奇(liumengtan2010) 06-29 15:39:31
+> 蒙奇-杭州(liumengtan2010) 06-29 15:38:23
+> > [引用]
+> 那不支持，没必要和微信官方客户端抢饭吃 [Facepalm]
+不过会实时把数据同步自动过来的，只能查看，你看我把中间的聊天窗口都去掉了。
+
+tothegump(wxid_0g5n7pj8j3qg21) 06-29 15:39:32
+> 毛韩(wxid_gml844sez8tk12) 06-29 15:38:42
+> > [引用]
+> 我换了两个IP，都是同样的结果，一个新加坡的阿里云买的，一个搬瓦工的CN2 GIA
+阿里云的肯定不行
+
+土豆君(wxid_gzr7bvbdlvlv22) 06-29 15:40:05
+![图片](http://127.0.0.1:5030/image/89b4c2c79f0856965391ac8f9d483066)
+
+土豆君(wxid_gzr7bvbdlvlv22) 06-29 15:40:18
+> 毛韩(wxid_gml844sez8tk12) 06-29 15:31:39
+> #举手 请问老师们，我电脑装好claude code使用claude命令执行时一直提示网络问题连接不上。
+> 而使用curl 直接访问curl -I https://api.anthropic.com/v1 --proxy socks5h://127.0.0.1:7890
+> 返回404，我问了GPT，说这说明IP是可以访问的，但是使用claude命令一直提示网络问题。
+> ————
+> 我也换了个搬瓦工的CN2 GIA的ip也是同样提示链接不上api.anthropic.com，有老师遇到过这种问题吗
+我配的这个
+
+毛韩(wxid_gml844sez8tk12) 06-29 15:41:02
+> Rainy_day-广州(wxid_skascbpg57dy21) 06-29 15:38:15
+> @毛韩 ClaudeCode报啥错
+│ ✻ Welcome to Claude Code │
+╰──────────────────────────╯
+
+ Unable to connect to Anthropic services
+
+ Failed to connect to api.anthropic.com: ERR_BAD_REQUEST
+
+ Please check your internet connection and network settings.
+
+ Note: Claude Code might not be available in your country. Check supported countries at
+ https://anthropic.com/supported-countries
+bogon:Nine maohan$ 
+
+刘小排(liuxiaopai) 06-29 15:41:52
+网
+
+毛韩(wxid_gml844sez8tk12) 06-29 15:43:15
+> 土豆君(wxid_gzr7bvbdlvlv22) 06-29 15:40:05
+> ![图片](http://127.0.0.1:5030/image/89b4c2c79f0856965391ac8f9d483066)
+晚会试试，感谢
+
+蒙奇(liumengtan2010) 06-29 15:44:39
+> 刘小排(liuxiaopai) 06-29 15:36:06
+> > [引用]
+> TUN模式比较靠谱
+小排老师用 Claude Code 是那个机场还是自己搭的？
+
+银河星游(wxid_6253072530112) 06-29 15:47:37
+> 蒙奇-杭州(liumengtan2010) 06-29 15:44:39
+> > [引用]
+> 小排老师用 Claude Code 是那个机场还是自己搭的？
+新加坡的可以看看，youtube上自己搜搜看嘛，稳定的机场
+
+刘小排(liuxiaopai) 06-29 15:49:04
+> 蒙奇-杭州(liumengtan2010) 06-29 15:44:39
+> > [引用]
+> 小排老师用 Claude Code 是那个机场还是自己搭的？
+我买的。这个。。群里就别聊太多了啊。
+
+蒙奇(liumengtan2010) 06-29 15:49:25
+明白，不继续聊。
+
+土豆君(wxid_gzr7bvbdlvlv22) 06-29 15:54:38
+推荐大家用claude code一定要上mac[嘿哈]
+痛定思痛，我把买了半年血亏的mac mini拿出来用了[破涕为笑]
+踩了一两周的坑，不折腾wsl了，虽然能用，但各种隐藏bug以及不够方便
+
+土豆君(wxid_gzr7bvbdlvlv22) 06-29 15:55:51
+比如
+wsl claude code mcp我昨晚配了好久一堆bug
+另一个硬伤 wsl 截图很不方便
+
+刘小排(liuxiaopai) 06-29 15:56:08
+谢谢分享。是的。
+
+超然同学(wxid_lgfk7wufz9b651) 06-29 15:56:29
+所以我用的真Ubuntu
+
+土豆君(wxid_gzr7bvbdlvlv22) 06-29 16:02:22
+[666]
+
+土豆君(wxid_gzr7bvbdlvlv22) 06-29 16:08:13
+补充下之前小排老师介绍的Claudia我wsl也跑起来了，但是效果就emmmm
+
+土豆君(wxid_gzr7bvbdlvlv22) 06-29 16:08:19
+![图片](http://127.0.0.1:5030/image/24c658c055cd592b869c84e9a92bacab)
+
+超然同学(wxid_lgfk7wufz9b651) 06-29 16:08:56
+主要是mac完全开发不了gpu相关的东西，再加上同价位的mac运行速度远不如win11。卡毛了最近我把开发环境从mac全盘迁移到了win11
+
+超然同学(wxid_lgfk7wufz9b651) 06-29 16:09:58
+不开发ios程序应该不会用mac了
+
+土豆君(wxid_gzr7bvbdlvlv22) 06-29 16:10:19
+学到了[666]
+
+stewart🤔(stewart) 06-29 16:12:06
+> 土豆君(wxid_gzr7bvbdlvlv22) 06-29 16:08:13
+> 补充下之前小排老师介绍的Claudia我wsl也跑起来了，但是效果就emmmm
+很拉胯啊，卡的不想用哎
+
+蒙奇(liumengtan2010) 06-29 16:18:47
+> 超然同学(wxid_lgfk7wufz9b651) 06-29 16:08:56
+> 主要是mac完全开发不了gpu相关的东西，再加上同价位的mac运行速度远不如win11。卡毛了最近我把开发环境从mac全盘迁移到了win11
+好奇是在什么场景下运行速度不如 Win 11
+
+超然同学(wxid_lgfk7wufz9b651) 06-29 16:19:02
+什么场景都不入
+
+超然同学(wxid_lgfk7wufz9b651) 06-29 16:20:16
+很多人总觉得mac更流畅，特别是MacBook和win笔记本比，都是假象。但凡用过1万多的win性能本，就说不出这种话
+
+天空之城(wxid_185q9g2shldo22) 06-29 16:33:50
+cursor怎么感觉这500次这么不经用了，26号刚开始这个月的，今天就没了
+
+王马扎(wxid_3zuzcesouarv22) 06-29 16:37:39
+> 天空之城(wxid_185q9g2shldo22) 06-29 16:33:50
+> cursor怎么感觉这500次这么不经用了，26号刚开始这个月的，今天就没了
+如果还是用的500次积分，Claude 4 sonnet thinking 每次对话消耗2个积分了，之前是0.75
+
+天空之城(wxid_185q9g2shldo22) 06-29 16:40:11
+我在官网现在已经看不到500次的额度了
+
+天空之城(wxid_185q9g2shldo22) 06-29 16:40:21
+基本就用一个一个周六就没了。。
+
+J.Wang(wxid_bxuwo4dto9t122) 06-29 16:46:42
+> 土豆君(wxid_gzr7bvbdlvlv22) 06-29 16:08:13
+> 补充下之前小排老师介绍的Claudia我wsl也跑起来了，但是效果就emmmm
+@土豆君 wsl是什么？
+
+刘小排(liuxiaopai) 06-29 16:47:17
+Windows系统自带的Linux虚拟机。
+
+J.Wang(wxid_bxuwo4dto9t122) 06-29 16:49:29
+哦哦
+
+Rainy_day(wxid_skascbpg57dy21) 06-29 16:57:34
+@天空之城 官网可以改回老的计费方式
+
+Rainy_day(wxid_skascbpg57dy21) 06-29 16:58:53
+![图片](http://127.0.0.1:5030/image/2bad967ff6f3dad7cf1280bc198035b1)
+
+天空之城(wxid_185q9g2shldo22) 06-29 16:59:31
+是不是老的比较划算，老的划算我就改回去
+
+arlen(skyarlen) 06-29 17:01:37
+#举手 工具站没有太多内容页给谷歌爬，是不是要做些博客一样的内容页
+
+Moore(xiaobei1984) 06-29 17:09:38
+把你的页面和问题给o3或者Gemini 2.5 联网 提问
+
+刘小排(liuxiaopai) 06-29 17:11:37
+> arlen(skyarlen) 06-29 17:01:37
+> #举手 工具站没有太多内容页给谷歌爬，是不是要做些博客一样的内容页
+可以做博客
+
+arlen(skyarlen) 06-29 17:13:09
+收到！
+
+云涯(Hackermyth) 06-29 19:05:26
+#举手  项目迁移： 各位圈友，我有个疑问哈，我现在是按手册，开发完MVP需求后再借助cursor+手动复制文件，迁移到starter kit模版项目，换皮肤，切换过程会遇到各种问题，废了不少精力；那我们能不能直接在starter kit模版项目中直接开发功能呢，基本路径：O3-----> MVP需求文档 + starter kit模版 ----> Cursor打磨功能 ---> 部署上线  这种模式有什么弊端么？
+
+arlen(skyarlen) 06-29 19:10:38
+![图片](http://127.0.0.1:5030/image/b9239fb2a1dd865d167a8f931b4406b6)
+
+arlen(skyarlen) 06-29 19:11:43
+看了亦仁大佬的之前一篇文章，我们确定能做这些？
+
+何慢慢(wxid_jktjwjue5t2i22) 06-29 19:14:38
+> arlen(skyarlen) 06-29 19:11:43
+> 看了亦仁大佬的之前一篇文章，我们确定能做这些？
+这个很简单呀，去年12月的航海ai编程都有这个，一个提示词就出来了
+
+tothegump(wxid_0g5n7pj8j3qg21) 06-29 19:18:52
+> 云涯(Hackermyth) 06-29 19:05:26
+> #举手  项目迁移： 各位圈友，我有个疑问哈，我现在是按手册，开发完MVP需求后再借助cursor+手动复制文件，迁移到starter kit模版项目，换皮肤，切换过程会遇到各种问题，废了不少精力；那我们能不能直接在starter kit模版项目中直接开发功能呢，基本路径：O3-----> MVP需求文档 + starter kit模版 ----> Cursor打磨功能 ---> 部署上线  这种模式有什么弊端么？
+其实是可以的，看个人习惯吧
+
+云涯(Hackermyth) 06-29 19:22:05
+> tothegump-上海(wxid_0g5n7pj8j3qg21) 06-29 19:18:52
+> > [引用]
+> 其实是可以的，看个人习惯吧
+非常感谢
+
+AIQ(wachyd2010) 06-29 19:25:37
+怎么这2个文件不一致的。
+
+AIQ(wachyd2010) 06-29 19:25:37
+![图片](http://127.0.0.1:5030/image/c653cb900033c72af4be71cd16b64f4a)
+
+arlen(skyarlen) 06-29 19:30:35
+> 何慢慢(wxid_jktjwjue5t2i22) 06-29 19:14:38
+> > [引用]
+> 这个很简单呀，去年12月的航海ai编程都有这个，一个提示词就出来了
+我意思是这个可能违规，容易封站
+
+我 06-29 19:34:09
+"Moore 助教" 撤回了一条消息
+
+Moore(xiaobei1984) 06-29 19:34:19
+违规举报的话，可能会被封站，其实需要思考下载的目的是什么，包装起来，比如视频逐帧分析这种安全度会高一些
+
+Moore(xiaobei1984) 06-29 19:34:43
+比如视频切片
+
+HP(wxid_7p8wu94j6gr822) 06-29 19:35:37
+> 云涯(Hackermyth) 06-29 19:05:26
+> #举手  项目迁移： 各位圈友，我有个疑问哈，我现在是按手册，开发完MVP需求后再借助cursor+手动复制文件，迁移到starter kit模版项目，换皮肤，切换过程会遇到各种问题，废了不少精力；那我们能不能直接在starter kit模版项目中直接开发功能呢，基本路径：O3-----> MVP需求文档 + starter kit模版 ----> Cursor打磨功能 ---> 部署上线  这种模式有什么弊端么？
+我就是这么做的，目前产品已经上线了，先干了再说
+
+HP(wxid_7p8wu94j6gr822) 06-29 19:37:00
+也可以先把mvp做出来之后，再做一遍，这样相当于细化了产品（个人拙见）
+
+何慢慢(wxid_jktjwjue5t2i22) 06-29 19:44:14
+> arlen(skyarlen) 06-29 19:30:35
+> > [引用]
+> 我意思是这个可能违规，容易封站
+那就不确定了，我觉得有需求可以做了再说
+
+老布(wxid_yzwwhv6xs0s822) 06-29 19:59:24
+#举手 想做个将照模糊照片变清晰的网站，找了对标网站，也在replicate 上找了一些API，但测试下来效果都不如对标网站，这种是不只能放弃了，还是有什么其他思路
+
+银河星游(wxid_6253072530112) 06-29 20:00:20
+> 老布(wxid_yzwwhv6xs0s822) 06-29 19:59:24
+> #举手 想做个将照模糊照片变清晰的网站，找了对标网站，也在replicate 上找了一些API，但测试下来效果都不如对标网站，这种是不只能放弃了，还是有什么其他思路
+prompt是不是能改改
+
+老布(wxid_yzwwhv6xs0s822) 06-29 20:01:26
+replicate 的 API 有的没有 prompt，都是固定选项
+
+银河星游(wxid_6253072530112) 06-29 20:04:41
+[奸笑]那也可以调整参数的吧
+
+银河星游(wxid_6253072530112) 06-29 20:04:57
+让O3挑一个然后生成prompt嘛
+
+武晓亮(wxid_kv9rjsiyjgp322) 06-29 20:05:04
+我最近也在做个，我也发现了这个问题，我目前使用的是单个的，现在有个想法就是用多个API，然后根据图片情况调用不同API不知道能实现不
+
+银河星游(wxid_6253072530112) 06-29 20:05:51
+那是不是一个describe的API，然后一个文本大模型输出json用什么清晰API，最后再调用最终的API？
+
+老布(wxid_yzwwhv6xs0s822) 06-29 20:07:04
+我试试
+
+Moore(xiaobei1984) 06-29 20:09:29
+> 老布(wxid_yzwwhv6xs0s822) 06-29 19:59:24
+> #举手 想做个将照模糊照片变清晰的网站，找了对标网站，也在replicate 上找了一些API，但测试下来效果都不如对标网站，这种是不只能放弃了，还是有什么其他思路
+高清一般都是自己训练模型的，API只是裸API，只有基础能力
+
+Moore(xiaobei1984) 06-29 20:09:51
+因为这样成本可以低到0.0002
+
+刘小排(liuxiaopai) 06-29 20:11:42
+> 老布(wxid_yzwwhv6xs0s822) 06-29 19:59:24
+> #举手 想做个将照模糊照片变清晰的网站，找了对标网站，也在replicate 上找了一些API，但测试下来效果都不如对标网站，这种是不只能放弃了，还是有什么其他思路
+这个叫image upscale， replicate和fal上的模型代表开源的最高水平了。如果还要想超过，需要你自己训练模型
+
+arlen(skyarlen) 06-29 21:20:01
+o3跟claude 4 sonnet比，好像写代码还厉害一些？
+
+arlen(skyarlen) 06-29 21:20:15
+今天搞个多语言，只有o3搞成了
+
+刘小排(liuxiaopai) 06-29 21:20:30
+你说的是cursor里吧。
+
+arlen(skyarlen) 06-29 21:20:38
+嗯
+
+刘小排(liuxiaopai) 06-29 21:20:49
+那是因为cursor为了省token
+
+刘小排(liuxiaopai) 06-29 21:20:53
+[偷笑]
+
+刘小排(liuxiaopai) 06-29 21:21:14
+实际上如果放开token的话，每个模型，做多语言这种简单任务，都能一次通过
+
+arlen(skyarlen) 06-29 21:21:28
+看来还是得上max大排量
+
+蒙奇(liumengtan2010) 06-29 21:22:35
+我用下来真实复杂点的任务，其实Cursor各个模型要想一把过我感觉是概率，有点看运气 [破涕为笑]
+
+刘小排(liuxiaopai) 06-29 21:22:45
+没错。
+
+刘小排(liuxiaopai) 06-29 21:23:09
+> arlen(skyarlen) 06-29 21:21:28
+> 看来还是得上max大排量
+如果舍不得用claude code可以试试gemini cli，大概率也可以一次过。毕竟..它也不省token
+
+蒙奇(liumengtan2010) 06-29 21:23:48
+> 刘小排(liuxiaopai) 06-29 21:23:09
+> > [引用]
+> 如果舍不得用claude code可以试试gemini cli，大概率也可以一次过。毕竟..它也不省token
+有道理，官方的不心疼
+
+arlen(skyarlen) 06-29 21:24:28
+> 刘小排(liuxiaopai) 06-29 21:23:09
+> > [引用]
+> 如果舍不得用claude code可以试试gemini cli，大概率也可以一次过。毕竟..它也不省token
+我试哈子
+
+大铭🌱(wxid_c7zf4hpjug5322) 06-29 21:24:55
+昨天Cursor 活动分享的上下文相关的内容，枪版，大家凑合看
+
+大铭🌱(wxid_c7zf4hpjug5322) 06-29 21:24:55
+[视频号|与 AI 高效协作的编程新范式与 AI 高效协作的编程新范式
+
+以"上下文管理"为核心，实现精准可控的 AI 驱动开发
+
+核心思想：AI 协作的本质是上下文管理
+
+我们的工作流：
+敏捷规划 (Milestone -> Story): 定义"做什么"
+RR & 技术讨论: 填充"现状"和初步的"怎么做"
+创建 `plan` 文件: 固化和锁定最终的"怎么做"
+基于 `plan` 执行: 精准驱动 AI 完成任务
+
+最终价值：变被动的"AI 辅助"为主动的"AI 驱动"，实现复杂工程任务的可靠交付
+
+#VibeCode #Cursor #Vibe #AI编程
+](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQCJFicZoCV8kcHfbCOV1gicjHQxjGwmsXs3pq86PYWDuNmHXAXod9AorIkWFWLL1ydIRNPGb7ISiaFunsgWScahXOC&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a1fc)
+
+arlen(skyarlen) 06-29 21:27:21
+柱子有点大
+
+arlen(skyarlen) 06-29 21:27:22
+![图片](http://127.0.0.1:5030/image/07f250066231eac174bd01e1f8be5759)
+
+乐天(txwxlt) 06-29 21:27:41
+枪版
+
+arlen(skyarlen) 06-29 21:28:38
+我想搞个爬虫，好费劲
+
+arlen(skyarlen) 06-29 21:29:01
+针对目标网站的自适应太差了
+
+arlen(skyarlen) 06-29 21:29:22
+本来以为这个是AI特长
+
+刘小排(liuxiaopai) 06-29 21:29:42
+你用AI的方式去做爬虫就没问题
+
+刘小排(liuxiaopai) 06-29 21:29:57
+browser-use
+fire crawl
+了解一下
+
+arlen(skyarlen) 06-29 21:30:18
+秘方收到[坏笑]，我试试
+
+刘小排(liuxiaopai) 06-29 21:30:34
+"${liuxiaopai}" 拍了拍 "${skyarlen}"
+
+刘小排(liuxiaopai) 06-29 21:30:35
+等你消息
+
+金龙(wxid_4zaur79woix122) 06-29 21:31:37
+![图片](http://127.0.0.1:5030/image/3830ed72ae89d57204bf6ba2c0a95863)
+
+金龙(wxid_4zaur79woix122) 06-29 21:31:48
+日入万刀
+
+arlen(skyarlen) 06-29 21:32:57
+今天跟o3聊的时候，推荐了这个所谓现代化数据收集器：
+ * 使用 Playwright + AI 提取，替代传统Puppeteer爬虫
+
+arlen(skyarlen) 06-29 21:33:32
+> 金龙(wxid_4zaur79woix122) 06-29 21:31:37
+> ![图片](http://127.0.0.1:5030/image/3830ed72ae89d57204bf6ba2c0a95863)
+没赶上直播，错过一个亿
+
+叫我果果（潇洒版）(guoguoxiaodian) 06-29 21:33:37
+O3也推荐我用playwright
+
+arlen(skyarlen) 06-29 21:33:56
+排总咋看o3的这个idea
+
+金龙(wxid_4zaur79woix122) 06-29 21:34:16
+现在还在直播 颁奖呢
+
+arlen(skyarlen) 06-29 21:34:19
+反正我一个下午还是没跑通
+
+乐天(txwxlt) 06-29 21:34:28
+@李荣禄 · 热心秃头预备役群众 ❤️ 我觉得那天咱们聊到的自动 p 图改变构图光线的，人家的这个场景可能更好
+
+乐天(txwxlt) 06-29 21:34:28
+![图片](http://127.0.0.1:5030/image/4bca55fc599f7caee9884d6d2263b9d5)
+
+arlen(skyarlen) 06-29 21:35:26
+哥飞怎么老是偷偷直播
+
+金龙(wxid_4zaur79woix122) 06-29 21:35:42
+[捂脸]
+
+arlen(skyarlen) 06-29 21:36:59
+排总，我研究几天了，AI生成gif动图有招不
+
+刘小排(liuxiaopai) 06-29 21:37:10
+AI生成视频，视频转GIF
+
+arlen(skyarlen) 06-29 21:37:15
+"${skyarlen}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+arlen(skyarlen) 06-29 21:38:14
+[握手]
+
+arlen(skyarlen) 06-29 21:41:27
+看着像我们的starterkit[坏笑]
+
+arlen(skyarlen) 06-29 21:41:27
+![图片](http://127.0.0.1:5030/image/ff6cce97a14720176132d19288279ecf)
+
+Moore(xiaobei1984) 06-29 21:46:20
+> 果潇洒-热心小白(guoguoxiaodian) 06-29 21:33:37
+> O3也推荐我用playwright
+接API是最快的，[旺柴] crawl这些，playwright要自己解决 防爬 + ip 自动轮换
+
+Moore(xiaobei1984) 06-29 21:47:13
+给你来个cf的人机验证，就爬不到数据了
+
+arlen(skyarlen) 06-29 21:48:11
+哈哈，爬国内的还好
+
+arlen(skyarlen) 06-29 21:48:40
+> Moore 助教(xiaobei1984) 06-29 21:46:20
+> > [引用]
+> 接API是最快的，[旺柴] crawl这些，playwright要自己解决 防爬 + ip 自动轮换
+数据类的API还是有成本的
+
+Moore(xiaobei1984) 06-29 21:49:20
+[旺柴] 国内度只要不是大厂都可以
+
+李荣禄(lrl584520) 06-29 21:49:52
+"${lrl584520}" 拍了拍 "${txwxlt}" ，什么也没说
+
+乐天(txwxlt) 06-29 22:33:28
+@Moore 助教 助教，如果KRG 将近600，但是搜索结果第一页里只有第一个站是首页用的这个词创建的，其他的都是子页面。这种词怎么判断能做还是不能做呀
+
+刘小排(liuxiaopai) 06-29 22:35:41
+做了再说，当成练手
+
+乐天(txwxlt) 06-29 22:36:18
+好
+
+Moore(xiaobei1984) 06-29 22:39:42
+> 乐天(txwxlt) 06-29 22:33:28
+> @Moore 助教 助教，如果KRG 将近600，但是搜索结果第一页里只有第一个站是首页用的这个词创建的，其他的都是子页面。这种词怎么判断能做还是不能做呀
+你最好是按照课程的内容来找需求。 做久了，你会发现这些过度抽象的数据没有什么用。只会浪费更多的时间
+
+Moore(xiaobei1984) 06-29 22:40:34
+免费流量才是最贵的
+
+乐天(txwxlt) 06-29 22:46:14
+“你会发现这些过度抽象的数据没有什么用。只会浪费更多的时间”
+这句怎么理解  助教
+
+乐天(txwxlt) 06-29 22:46:30
+下面的看懂了
+
+刘小排(liuxiaopai) 06-29 22:48:09
+[呲牙] 新手就是无脑先做，多踩些坑就明白啦
+
+刘小排(liuxiaopai) 06-29 22:48:25
+不能回答这个问题的产品，都是不值得浪费时间的。如果你的目标是赚钱的话
+
+刘小排(liuxiaopai) 06-29 22:48:27
+[动画表情]
+
+Moore(xiaobei1984) 06-29 22:48:34
+[旺柴]  课程之外的东西，我不愿意聊太多。
+
+刘小排(liuxiaopai) 06-29 22:48:37
+跟KD没有太大的相关关系
+
+Moore(xiaobei1984) 06-29 22:51:12
+DR / KD ，还有一堆各种数据结合在一起的算法指标 ，仅供参考，如果作为你找需求锚点，就属于一波流
+
+乐天(txwxlt) 06-29 22:51:16
+明白，还是多研究需求 对吧
+
+Moore(xiaobei1984) 06-29 22:51:57
+三大 SEO 工具，KD 数值都不一样，都是算法生成，你觉得哪个是正确的？
+
+乐天(txwxlt) 06-29 22:52:32
+都不是很正确 [捂脸] 我今天看榜单  有一个特别热的词，人家一样做了 AI 产品
+
+乐天(txwxlt) 06-29 22:52:49
+流量还很大
+
+Moore(xiaobei1984) 06-29 22:52:51
+[生病] 再举个例子，veo3 出来，直接无脑做，需要看这些数据吗
+
+乐天(txwxlt) 06-29 22:54:19
+明白
+
+乐天(txwxlt) 06-29 22:54:25
+谢谢助教 谢谢小排老师指点
+
+我 06-29 22:59:32
+"Moore 助教" 撤回了一条消息
+
+Moore(xiaobei1984) 06-29 23:00:21
+再举一个例子 游戏 wordless 这个关键词在 simlarweb KD 是 53，semrush kd 是 65 ，是不是  > 40 ，但是就是有人做了 上站3个月 4.5k 访问，不照样有流量。
+
+数据只是参考，真正要做的是需求，如果你以数据为核心，不是以产品需求为核心。那你失败的概率会很大。 投流也是，只要你有本事把 ROI > 3x，只要投流就有 3x 钱赚，还需要投入大量精力到 SEO ？ SEO 只是很小一部分。
+
+乐天(txwxlt) 06-29 23:03:16
+明白了，那我这么理解对不对：总有人可以更好的满足客户的需求，做出用户更喜欢的产品，而获得一部分流量。
+
+Moore(xiaobei1984) 06-29 23:07:41
+新词主要靠判断力，你虽然可以通过 google trends 获取得到，哪怕接一个 trends api 天天刷，你要靠建100个站以上才能够找到感觉。但是如果你关注 AI 赛道社媒 会洞察，只要词一出来，都不用刷，直接就上了。只不过你需要通过 google 生态去挖掘更多的搜索关键词来辅助分析需求。
+
+只要你产品做出来，剩下就是找渠道搞流量啊，见效最快是投流，还有在高权重平台发文，比如 ph / reddit 等等，自然流量就有了。
+
+Moore(xiaobei1984) 06-29 23:09:25
+要么你就拼外链数量和质量
+
+Moore(xiaobei1984) 06-29 23:09:55
+找长尾词切入
+
+arlen(skyarlen) 06-29 23:14:10
+![图片](http://127.0.0.1:5030/image/5509d226c7c8de287d43e375504a78d7)
+
+arlen(skyarlen) 06-29 23:14:19
+老师，这种词有做的必要不
+
+arlen(skyarlen) 06-29 23:14:28
+月1k的搜索量
+
+Moore(xiaobei1984) 06-29 23:14:31
+没有，低于 10K以下不看
+
+arlen(skyarlen) 06-29 23:14:48
+难度看起来低[坏笑]
+
+Moore(xiaobei1984) 06-29 23:15:04
+那你还不如做个 fluxkontext
+
+arlen(skyarlen) 06-29 23:15:18
+高搜索量的都很难做，是我有幸存者偏差么
+
+Moore(xiaobei1984) 06-29 23:16:18
+[笑脸] 搜索量低，说明市场不热啊。就跟炒股，要跟龙头啊。你去炒银行股存钱吗？
+
+乐天(txwxlt) 06-29 23:16:32
+谢谢
+
+arlen(skyarlen) 06-29 23:16:40
+[坏笑]
+
+乐天(txwxlt) 06-29 23:16:41
+我再反复多看几遍
+
+Moore(xiaobei1984) 06-29 23:17:44
+你产品能力和营销能力强一些，可以做 100K以上的 KD < 60 都可以做
+
+Moore(xiaobei1984) 06-29 23:19:12
+> arlen(skyarlen) 06-29 23:15:18
+> 高搜索量的都很难做，是我有幸存者偏差么
+[吃瓜] 现在做 fluxkcontext 的竞品站都只是一个工具落地页，很好竞争。而且这个词流量在 5000+日，这个词才出来1个月左右
+
+我 06-29 23:19:42
+"Moore 助教" 撤回了一条消息
+
+Moore(xiaobei1984) 06-29 23:19:49
+扩词空间大
+
+arlen(skyarlen) 06-29 23:22:32
+我马上干
+
+arlen(skyarlen) 06-29 23:24:47
+![图片](http://127.0.0.1:5030/image/d78beba5955b49f03cf760a51f8d9a2f)
+
+arlen(skyarlen) 06-29 23:24:50
+这搜索量不对吧
+
+我 06-29 23:25:06
+"Moore 助教" 撤回了一条消息
+
+Moore(xiaobei1984) 06-29 23:25:24
+月 1K 流量能干啥？平均每天 33 个流量，你还要和 google 前 n 个竞争 ，当然你找 1 万个这个词都塞到一个站是可以赚钱的。
+
+arlen(skyarlen) 06-29 23:25:39
+> Moore 助教(xiaobei1984) 06-29 23:25:24
+> 月 1K 流量能干啥？平均每天 33 个流量，你还要和 google 前 n 个竞争 ，当然你找 1 万个这个词都塞到一个站是可以赚钱的。
+有道理
+
+Moore(xiaobei1984) 06-29 23:25:39
+新词看 trends
+
+arlen(skyarlen) 06-29 23:25:52
+> Moore 助教(xiaobei1984) 06-29 23:25:39
+> 新词看 trends
+got it!
+
+Moore(xiaobei1984) 06-29 23:26:06
+你用 o3 调研一下就有数据了
+
+小林日入万$(wxid_ezwxect889j422) 06-29 23:26:18
+助教说的很对，流量大 新词 竞争很激烈但是可以喝到汤
+
+arlen(skyarlen) 06-29 23:26:47
+> 小林老师｜1k$(wxid_ezwxect889j422) 06-29 23:26:18
+> 助教说的很对，流量大 新词 竞争很激烈但是可以喝到汤
+是这个意思，新词无脑干
+
+Moore(xiaobei1984) 06-29 23:26:56
+![图片](http://127.0.0.1:5030/image/f4d83ec8a2964cb3150790ae6103dcd5)
+
+Moore(xiaobei1984) 06-29 23:28:35
+新词不是无脑干，看词的潜力和场景扩展空间，就是什么人在什么场景下，愿意花多少钱，解决什么问题？[奸笑]
+
+Moore(xiaobei1984) 06-29 23:29:39
+![图片](http://127.0.0.1:5030/image/279c9537b3987c4fafcbc1f445ad7ff9)
+
+Moore(xiaobei1984) 06-29 23:30:35
+我最喜欢用  Gemini 分析 Google SEO
+
+arlen(skyarlen) 06-29 23:31:08
+> Moore 助教(xiaobei1984) 06-29 23:28:35
+> 新词不是无脑干，看词的潜力和场景扩展空间，就是什么人在什么场景下，愿意花多少钱，解决什么问题？[奸笑]
+搞个场景，包个壳
+
+arlen(skyarlen) 06-29 23:31:22
+不行自己部署卖api
+
+Moore(xiaobei1984) 06-29 23:33:38
+那看你是产品驱动，还是SEO驱动了
+
+Moore(xiaobei1984) 06-29 23:34:56
+我觉得只有在流量大的市场才有机会喝汤概率会更大些
+
+arlen(skyarlen) 06-29 23:38:17
+[握手]确实
+
+七天假(wxid_btc5cjhytnw822) 06-29 23:39:37
+Google Cloud 的免费300美金，要绑卡，用野卡还不行...有什么解决方案吗？
+
+GavinHawk(genius711) 06-29 23:43:51
+> 七天假(wxid_btc5cjhytnw822) 06-29 23:39:37
+> Google Cloud 的免费300美金，要绑卡，用野卡还不行...有什么解决方案吗？
+港卡可以，国内visa也可以试试
+
+泉鸿(wxid_bnrd8wr3vp6c41) 06-29 23:44:56
+> 七天假(wxid_btc5cjhytnw822) 06-29 23:39:37
+> Google Cloud 的免费300美金，要绑卡，用野卡还不行...有什么解决方案吗？
+招行全币种VISA，昨天刚过了一个
+
+arlen(skyarlen) 06-29 23:45:30
+给个地址我也去薅
+
+泉鸿(wxid_bnrd8wr3vp6c41) 06-29 23:46:02
+https://console.cloud.google.com/vertex-ai/studio
+
+七天假(wxid_btc5cjhytnw822) 06-29 23:46:09
+https://console.cloud.google.com/
+
+七天假(wxid_btc5cjhytnw822) 06-29 23:46:27
+> 泉鸿(wxid_bnrd8wr3vp6c41) 06-29 23:44:56
+> > [引用]
+> 招行全币种VISA，昨天刚过了一个
+我刚问了AI，说VISA可以，我明天去办一张
+
+徐文清$(wxid_ii9ypz16utft21) 06-29 23:46:49
+这个是api？
+
+七天假(wxid_btc5cjhytnw822) 06-29 23:46:53
+之前野卡能用，我嫌麻烦，就没去办卡...[捂脸]
+
+七天假(wxid_btc5cjhytnw822) 06-29 23:47:23
+对，里面有API，我是要用到图片检测的API，AI推荐了Google，然后一步步下去，要绑卡
+
+码叔编程(wxid_awv5vp6602ju22) 06-29 23:47:52
+> 七天假(wxid_btc5cjhytnw822) 06-29 23:46:53
+> 之前野卡能用，我嫌麻烦，就没去办卡...[捂脸]
+google的这个300美金，野外卡我试过不行。
+
+码叔编程(wxid_awv5vp6602ju22) 06-29 23:48:39
+还有一个Oracle有一个终生免费的服务器，也是要visa卡验证。
+
+乐天(txwxlt) 06-29 23:48:39
+> Moore 助教(xiaobei1984) 06-29 23:28:35
+> 新词不是无脑干，看词的潜力和场景扩展空间，就是什么人在什么场景下，愿意花多少钱，解决什么问题？[奸笑]
+助教可以举几个例子吗
+
+Moore(xiaobei1984) 06-29 23:49:30
+> 七天假(wxid_btc5cjhytnw822) 06-29 23:47:23
+> 对，里面有API，我是要用到图片检测的API，AI推荐了Google，然后一步步下去，要绑卡
+图片检测 API ？ 很多大模型都可以啊，主要看你的场景，轻量级，claude、4o等等都可以了
+
+Moore(xiaobei1984) 06-29 23:49:36
+> 乐天(txwxlt) 06-29 23:48:39
+> > [引用]
+> 助教可以举几个例子吗
+课程啊，看课程啊
+
+乐天(txwxlt) 06-29 23:54:25
+看了 ，但你这么一说  我觉得我这里可能没想透。有时候看案例启发会更深[偷笑]
+
+Moore(xiaobei1984) 06-29 23:56:45
+先做，做了才知道，没做光听没有用
+
+Moore(xiaobei1984) 06-29 23:57:11
+就算我刚才告诉了一个关键词，照抄也没有用
+
+乐天(txwxlt) 06-29 23:57:32
+好
+
+> Moore 助教(xiaobei1984) 06-29 23:26:56
+> ![图片](http://127.0.0.1:5030/image/f4d83ec8a2964cb3150790ae6103dcd5)
+助教老师好，请问下这个截图是什么呀，有没有全文分享下，谢谢老师
+
+> 七天假(wxid_btc5cjhytnw822) 06-29 23:46:27
+> > [引用]
+> 我刚问了AI，说VISA可以，我明天去办一张
+这是信用卡？

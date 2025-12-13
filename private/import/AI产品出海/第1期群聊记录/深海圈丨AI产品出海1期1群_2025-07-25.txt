@@ -1,0 +1,323 @@
+Rainy_day(wxid_skascbpg57dy21) 07-25 09:44:02
+![图片](http://127.0.0.1:5030/image/ae2673932c74d871711bc2325eeb27b0)
+
+Rainy_day(wxid_skascbpg57dy21) 07-25 09:44:06
+已经全量推送了
+
+Min(szm800717) 07-25 09:49:56
+这玩意儿咋用啊，用了几次都没成功运行
+
+Min(szm800717) 07-25 09:50:25
+桌面版，网页版，手机版都试了
+
+何慢慢(wxid_jktjwjue5t2i22) 07-25 10:00:51
+![图片](http://127.0.0.1:5030/image/fa6cc25dfab46bd5d716fe802f65e639)
+
+何慢慢(wxid_jktjwjue5t2i22) 07-25 10:01:01
+你们claude能用吗
+
+李香君(lichengjun395269) 07-25 10:02:18
+我的没问题
+
+李香君(lichengjun395269) 07-25 10:02:18
+![图片](http://127.0.0.1:5030/image/8be573002e7647b9e21548eab975e85f)
+
+Rainy_day(wxid_skascbpg57dy21) 07-25 10:02:25
+可以
+
+Rainy_day(wxid_skascbpg57dy21) 07-25 10:02:31
+![图片](http://127.0.0.1:5030/image/b6cbefaa87855f62e1449e4b63220d75)
+
+李香君(lichengjun395269) 07-25 10:02:39
+奥
+
+李香君(lichengjun395269) 07-25 10:02:40
+不行
+
+李香君(lichengjun395269) 07-25 10:02:41
+![图片](http://127.0.0.1:5030/image/478764970cf0e583f33198829ce8db99)
+
+Rainy_day(wxid_skascbpg57dy21) 07-25 10:02:57
+官网吗？
+
+何慢慢(wxid_jktjwjue5t2i22) 07-25 10:03:00
+我用手机端可以，电脑不行
+
+何慢慢(wxid_jktjwjue5t2i22) 07-25 10:03:02
+是的
+
+李香君(lichengjun395269) 07-25 10:03:02
+时而行时而不行
+
+Rainy_day(wxid_skascbpg57dy21) 07-25 10:03:03
+我可以用哦
+
+何慢慢(wxid_jktjwjue5t2i22) 07-25 10:03:05
+官网
+
+李香君(lichengjun395269) 07-25 10:03:13
+刷两次就行了
+
+何慢慢(wxid_jktjwjue5t2i22) 07-25 10:03:22
+好滴，我试试
+
+Rainy_day(wxid_skascbpg57dy21) 07-25 10:03:57
+> 随波逐流(szm800717) 07-25 09:49:56
+> 这玩意儿咋用啊，用了几次都没成功运行
+@随波逐流 直接打开代理工具，然后提出你的要求就好了
+
+Min(szm800717) 07-25 10:05:44
+> Rainy_day-广州(wxid_skascbpg57dy21) 07-25 10:03:57
+> > [引用]
+> @随波逐流 直接打开代理工具，然后提出你的要求就好了
+我就这么做的，但很奇怪，他告诉我agent模式不支持，需要换其他模型，用桌面版和网页版都这么说的[Facepalm]
+
+Anatta(wxid_9ip1optw2gfd22) 07-25 10:05:51
+哪位圈友推荐一下，B 站视频内容提取总结有没有好的插件了
+
+Ash焚芯(wxid_siqp6j111tho22) 07-25 10:06:15
+Dia
+
+Anatta(wxid_9ip1optw2gfd22) 07-25 10:06:51
+@Ash焚芯-临沂 不能完整提取
+
+Anatta(wxid_9ip1optw2gfd22) 07-25 10:07:01
+我的方法不对么😞
+
+Min(szm800717) 07-25 10:07:51
+> Rainy_day-广州(wxid_skascbpg57dy21) 07-25 10:03:57
+> > [引用]
+> @随波逐流 直接打开代理工具，然后提出你的要求就好了
+刚又试了移动版，可以了，估计后端刚布置好
+
+Ash焚芯(wxid_siqp6j111tho22) 07-25 10:09:45
+> ⁰ 牧羊人⁰ |志愿🚲(wxid_9ip1optw2gfd22) 07-25 10:06:51
+> @Ash焚芯-临沂 不能完整提取
+完整到转成纯文本么
+
+Anatta(wxid_9ip1optw2gfd22) 07-25 10:10:24
+对的
+
+Min(szm800717) 07-25 10:13:29
+没有现成的话，自己弄个，思路是先问 o3,让它给你弄个能在coze运行的工作流用哪个大模型，和什么技术栈并配置好api，然后你做个桌面版或者网站版的界面用于交互
+
+Anatta(wxid_9ip1optw2gfd22) 07-25 10:14:26
+@随波逐流 好的👌🏻
+
+青竹(wxid_1348793487711) 07-25 10:24:07
+FYI：看到一个新的静态地址服务商
+
+青竹(wxid_1348793487711) 07-25 10:24:08
+![图片](http://127.0.0.1:5030/image/e5186e0570645cc1220bcab98c312aaf)
+
+Neo(wxid_tjyzfvnvdu0w21) 07-25 10:53:20
+原来一直很稳的🪜最近非常不稳定 。 然后我的o3被降职了[苦涩]，没了它我感觉我也降智了
+
+star 星星(wxid_6isa00bxlrfw12) 07-25 10:58:47
+> Neo(wxid_tjyzfvnvdu0w21) 07-25 10:53:20
+> 原来一直很稳的🪜最近非常不稳定 。 然后我的o3被降职了[難受]，没了它我感觉我也降智了
+降智➕1
+
+清仔(wxid_4oz7hsqrg8y722) 07-25 11:00:02
+我之前也遇到过，后来发现是🪜在维护更新，第二天🪜好了gpt也好了
+
+李荣禄(lrl584520) 07-25 12:33:20
+今天的claude code频繁这样，大家会吗
+
+李荣禄(lrl584520) 07-25 12:33:22
+![图片](http://127.0.0.1:5030/image/d516a4066b208590b5a3ff2a3d79bcb5)
+
+刘小排(liuxiaopai) 07-25 12:36:24
+你没开TUN模式，或者是你的🪜不稳定。
+
+刘小排(liuxiaopai) 07-25 12:36:43
+这个问题的是意思是： claude发现你在用不被允许的地区的网络访问它。
+
+超然同学(wxid_lgfk7wufz9b651) 07-25 12:36:59
+应该是不稳定，毕竟TUN没开不是频率问题，是完全不可以
+
+亦仁(wuanqin) 07-25 12:40:04
+https://github.com/clash-verge-rev/clash-verge-rev
+
+亦仁(wuanqin) 07-25 12:40:31
+我昨天换了个稳定的clash 版本
+
+亦仁(wuanqin) 07-25 12:40:43
+这个还是持续维护 大多数的clash 都不维护了
+
+亦仁(wuanqin) 07-25 12:40:58
+@李荣禄 · 热心秃头预备役群众 ❤️ 可以试下这个
+
+arlen(skyarlen) 07-25 12:41:35
+[视频号|这一刻，互联网存在的意义瞬间具象化了 #互联网 #共鸣 #暖心 #社会百态](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQDU1S2HXMA6G3eyz1S79asyUBhYia8nibt92GZh8dCM4hCMhJ2ntic5CRiaZ87RSTbUicqQ8B6OZbfMiakJPPkOygYEcQ&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a15c&token=6xykWLEnztKS8SCcQAU98gU1FeTW7mlXibNlzQ7uXajorTOIEP1ZDK1p1rp5YNRDV4tn4RJrK8TYnKan2cmyXricTQo91QOzfAgfcbWwR1MoOFktv1vbykpfq6ibEJpZJncnzhMeVNhuSYHG3wZmE4J76lxSGibMIjicMicyNSQCssO70&basedata=CAASABoDeFYwIgAqBwizHRAAGAI&sign=cdy7bGx-Q8qtB9AAwaJgE3DkpVZmQ8gGj_nwdNZgRjYYcKzBO4qecgHfCY9ENnwx-Iy5ItzDtLdrEgk0sifQWw&ctsc=39&extg=4ebd00&ftype=617&svrbypass=AAuL%2FQsFAAABAAAAAADBCXqyZ3D4ANw6cAmDaBAAAADnaHZTnGbFfAj9RgZXfw6V%2BGv1bL4qFfCXCg1lr2gen4qDU3ornh59I2hPG3WCkeG%2BRq86ORZ8p%2BQ%3D&svrnonce=1753418096)
+
+刘小排(liuxiaopai) 07-25 12:41:38
+真个真棒，mac/windows/ubuntu全支持
+
+刘小排(liuxiaopai) 07-25 12:41:42
+我换这个试试
+
+李荣禄(lrl584520) 07-25 12:41:51
+> 亦仁(wuanqin) 07-25 12:40:58
+> @李荣禄 · 热心秃头预备役群众 ❤️ 可以试下这个
+好的，谢谢老大推荐，换了N个了[Facepalm]
+
+青竹(wxid_1348793487711) 07-25 12:42:08
+mac直接brew安装就好了，很方便
+
+青竹(wxid_1348793487711) 07-25 12:48:51
+![图片](http://127.0.0.1:5030/image/ddf123015a8f1bd9881a9835af05df31)
+
+刘小排(liuxiaopai) 07-25 12:53:36
+感觉这个协议优化得不错。我全屏都绿了～
+
+刘小排(liuxiaopai) 07-25 12:53:37
+![图片](http://127.0.0.1:5030/image/ab4bdb675eb3535a0376fcb407f56111)
+
+彩笺(wxid_7bvhmd8m2q3y22) 07-25 12:54:02
+这么绿, 我也凑个热闹
+
+何慢慢(wxid_jktjwjue5t2i22) 07-25 12:54:03
+小火箭也不错
+
+安宇轩｜进阶版~(wxid_ub49ms3x9c0622) 07-25 12:56:16
+版本问题哇哈哈哈哈哈
+
+蒙奇(liumengtan2010) 07-25 12:56:41
+> 亦仁(wuanqin) 07-25 12:40:04
+> https://github.com/clash-verge-rev/clash-verge-rev
+我一直用的这个，不过我最近会偶尔出现无响应的情况，不知道是不是个例了。
+
+Sitin彭涛|出海 ing(taotao120peng) 07-25 12:57:03
+这个感觉有点高级
+
+顺利(wxid_n6kjtdjnivea21) 07-25 13:12:45
+![图片](http://127.0.0.1:5030/image/80c9ad95ff392805f4184448d2eb8876)
+
+顺利(wxid_n6kjtdjnivea21) 07-25 13:14:08
+9 月份会开始带大家搞流量[旺柴]
+
+何慢慢(wxid_jktjwjue5t2i22) 07-25 13:16:29
+> 顺利(wxid_n6kjtdjnivea21) 07-25 13:14:08
+> 9 月份会开始带大家搞流量[旺柴]
+期待[Wow][Wow][Wow]
+
+何慢慢(wxid_jktjwjue5t2i22) 07-25 13:16:35
+"${wxid_jktjwjue5t2i22}" 拍了拍 "${wxid_n6kjtdjnivea21}"
+
+袁智翔(wxid_7483c6zwueat22) 07-25 13:21:03
+clash verge 之前用一段时间网络就开始变卡，我查了一圈发现是 clash meta 内核的 bug，最新版这个问题现在好像还没修，后面换到 surge 了
+
+李荣禄(lrl584520) 07-25 13:32:36
+大家默认是勾选含税还是不含岁税
+
+李荣禄(lrl584520) 07-25 13:32:36
+![图片](http://127.0.0.1:5030/image/a9f7d43e9e49ed3ef32c6c91d1bbfc40)
+
+夕远(wxid_0kb3l3xk63ag21) 07-25 13:33:53
+> 李荣禄 · 热心秃头预备役群众 ❤️(lrl584520) 07-25 13:32:36
+> 大家默认是勾选含税还是不含岁税
+不勾选
+
+Okada 欢欢(wxid_bdbgo44zkrrv22) 07-25 13:37:52
+高强度两个月学习期快结束了，大家产品做的肿么样啦？还没做完的朋友们抓紧完成产品的上线和开发呀，下个阶段星球也会陆续展开许多流量，产品裂变等内容[坏笑]
+
+Okada 欢欢(wxid_bdbgo44zkrrv22) 07-25 13:37:52
+[链接|随着在生财有术星球 AI 编程的深入和渗透，很多圈友都能够借助 AI 编程完成一个相对完整的产品，接下来，我们会慢慢的带着大家进入到下一个阶段：流量获取。
+
+特别是报了小排的 AI 产品出海深海圈的圈友们，请抓紧速度完成产品的开发和上线，多练习开发，多上线几](https://t.zsxq.com/G7bDf)
+
+李荣禄(lrl584520) 07-25 13:44:05
+"${lrl584520}" 拍了拍 "${wxid_0kb3l3xk63ag21}" 说，干就完了[烟花]
+
+Lily 兰心 18038099581(wxid_55i7xj4ozfa022) 07-25 17:41:15
+#举手 https://starterkit-chi.vercel.app/sign-up，小排老师这个网站你们可以正常注册吗，我出现这个无法访问此网站
+找不到 eitnfumjzskdzvbmliar.supabase.co 的服务器 IP 地址。
+请试试以下办法：
+
+检查网络连接
+检查代理服务器、防火墙和 DNS 配置
+运行 Windows 网络诊断
+
+刘小排(liuxiaopai) 07-25 17:51:05
+说明你的supabase配置错了
+
+Lily 兰心 18038099581(wxid_55i7xj4ozfa022) 07-25 17:54:52
+@刘小排 我再检查看看
+
+青竹(wxid_1348793487711) 07-25 21:20:38
+看阮一峰的网络日志，发现了这段，正好前几天看哥飞的公众号也正好说到了这个实验，说的是到底应该多上站还是上高质量站
+
+青竹(wxid_1348793487711) 07-25 21:20:38
+![图片](http://127.0.0.1:5030/image/3ce23013d6665d512a6fcf697ddbef5b)
+
+Moore(xiaobei1984) 07-25 21:47:57
+新手评数量，老手评质量
+
+arlen(skyarlen) 07-25 22:05:13
+> 欢欢-生财(wxid_bdbgo44zkrrv22) 07-25 13:37:52
+> 高强度两个月学习期快结束了，大家产品做的肿么样啦？还没做完的朋友们抓紧完成产品的上线和开发呀，下个阶段星球也会陆续展开许多流量，产品裂变等内容[坏笑]
+期待
+
+袁智翔(wxid_7483c6zwueat22) 07-25 22:10:28
+最近申请了美国公司，记录了公司注册 + EIN + BOI 三个步骤的所有截图，有同学想看整个过程么
+
+Alisa Y(dora82443278) 07-25 22:12:43
+非常想看
+
+袁智翔(wxid_7483c6zwueat22) 07-25 22:13:33
+[OK] 明天发出来
+
+Alisa Y(dora82443278) 07-25 22:13:47
+感谢！
+
+小宇Mick(muckie) 07-25 22:14:21
+"${muckie}" 拍了拍 "${wxid_7483c6zwueat22}"
+
+袁智翔(wxid_7483c6zwueat22) 07-25 22:14:24
+[动画表情]
+
+舒未读(wxid_1814638146314) 07-25 22:19:30
+@袁气森林 花费了多少米？
+
+袁智翔(wxid_7483c6zwueat22) 07-25 22:19:39
+154$
+
+袁智翔(wxid_7483c6zwueat22) 07-25 22:19:53
+![图片](http://127.0.0.1:5030/image/1f8752b1fe40edc95cf2381943f5212c)
+
+袁智翔(wxid_7483c6zwueat22) 07-25 22:20:04
+水星要是下来了的话还能倒赚 100$
+
+袁智翔(wxid_7483c6zwueat22) 07-25 22:20:42
+前期申请 ITIN 的成本没算在里面，我是有 ITIN 后申请的
+
+Alisa Y(dora82443278) 07-25 22:21:22
+这个每年需要给年份吗？
+
+袁智翔(wxid_7483c6zwueat22) 07-25 22:21:42
+嗯，我现在这个方案每年费用 85$
+
+Alisa Y(dora82443278) 07-25 22:21:58
+自己报税？
+
+袁智翔(wxid_7483c6zwueat22) 07-25 22:22:06
+自己报
+
+Alisa Y(dora82443278) 07-25 22:22:24
+mecury 是不是像wise 一样的机构？
+
+袁智翔(wxid_7483c6zwueat22) 07-25 22:23:03
+应该不一样，Wise 申请挺简单的，水星还挺麻烦，要验证真是地址水电账单
+
+Alisa Y(dora82443278) 07-25 22:23:39
+mercury 主要是收款吗？还是其它用途
+
+舒未读(wxid_1814638146314) 07-25 22:23:44
+听说水星更稳一点，不过就是提现相对麻烦一点，我能这么理解不？
+
+袁智翔(wxid_7483c6zwueat22) 07-25 22:24:24
+不太清楚，我看他们开 us 公司后都会去开水星，我也一起开了，后面应该能用上
+
+袁智翔(wxid_7483c6zwueat22) 07-25 22:24:49
+他这个我理解是类似国内的公司银行账户

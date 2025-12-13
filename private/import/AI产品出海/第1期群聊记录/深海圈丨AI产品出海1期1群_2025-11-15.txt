@@ -1,0 +1,679 @@
+薛定谔没有猫(wxid_rmfyqf3szur551) 11-15 10:51:54
+问个小白问题，最近才开始用Claude code，请问怎么删除历史对话？ 
+
+没找到删除的地方，感觉用多了占内存[破涕为笑][破涕为笑]
+
+Min(szm800717) 11-15 10:52:37
+/clear
+
+薛定谔没有猫(wxid_rmfyqf3szur551) 11-15 10:53:24
+/clear 好像只是重新加载对话，并不能删除对话记录
+
+超然同学(wxid_lgfk7wufz9b651) 11-15 10:53:49
+它占不了内存，占的是硬盘。不太用管也占不了多少
+
+我 11-15 10:55:55
+"随波逐流" 撤回了一条消息
+
+Min(szm800717) 11-15 10:57:23
+问gpt5.1吧
+
+薛定谔没有猫(wxid_rmfyqf3szur551) 11-15 10:59:42
+ok，好的，感谢
+
+老恩(wxid_jmoj44lznopq22) 11-15 12:03:17
+GLM4.6驱动的claude code 4.5与官方的性能一样吗？
+
+前行(gejinpeng123) 11-15 12:06:56
+肯定不一样呀，模型不一样
+
+老恩(wxid_jmoj44lznopq22) 11-15 12:09:13
+模型一样吧？只不过它是不是降智罢了
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-15 12:10:51
+没看懂。。glm4.6怎么驱动cc4.5
+
+顺利(wxid_n6kjtdjnivea21) 11-15 12:22:37
+glm用的是cc的客户端，里面的模型还是glm
+
+顺利(wxid_n6kjtdjnivea21) 11-15 12:23:13
+cc里可以用glm，kimi，claude这些不同的模型
+
+刘小排(liuxiaopai) 11-15 15:03:16
+大家如果使用Codex，记得更新新版本。新版本引入了GPT-5.1-Codex，有两个非常重要的变化
+1. 说的话更有人味，方便理解
+2. 每次动态决定要thinking多久，主观感觉是： 变快了
+
+刘小排(liuxiaopai) 11-15 15:03:16
+![图片](http://127.0.0.1:5030/image/657c6967d0ce70326e230fbf07044931)
+
+袁智翔(wxid_7483c6zwueat22) 11-15 15:07:55
+> 刘小排(liuxiaopai) 11-15 15:03:16
+> 大家如果使用Codex，记得更新新版本。新版本引入了GPT-5.1-Codex，有两个非常重要的变化
+> 1. 说的话更有人味，方便理解
+> 2. 每次动态决定要thinking多久，主观感觉是： 变快了
+小排老师感觉 5.1 的 coding 能力怎么样？
+
+刘小排(liuxiaopai) 11-15 15:08:27
+和5.0没有太大差别都是世界第一
+
+袁智翔(wxid_7483c6zwueat22) 11-15 15:08:50
+[OK]
+
+刘小排(liuxiaopai) 11-15 15:08:54
+![图片](http://127.0.0.1:5030/image/ee3db92b7cd9f3c437c38b0c2edb78ef)
+
+袁智翔(wxid_7483c6zwueat22) 11-15 15:09:00
+用起来
+
+刘小排(liuxiaopai) 11-15 15:09:46
+国内的K2真的很值得尊重。
+
+刘小排(liuxiaopai) 11-15 15:09:46
+![图片](http://127.0.0.1:5030/image/623e6159ba44f2dc12d6db481a9c9538)
+
+袁智翔(wxid_7483c6zwueat22) 11-15 15:10:47
+牛啊，最近 claude 封太厉害，可以换换试试
+
+蒙奇(liumengtan2010) 11-15 15:10:51
+比 4.5 Sonnet 评分还高
+
+袁智翔(wxid_7483c6zwueat22) 11-15 15:11:22
+我这两天用 codex 写代码，总感觉他代码还差点意思，还是没 cc 的那种味道，不过评分确实比 cc 高 [破涕为笑]
+
+刘小排(liuxiaopai) 11-15 15:11:55
+如果不是太高难度的任务，头部几个大家都差不多，看不出来区别。
+
+夕远(wxid_0kb3l3xk63ag21) 11-15 15:14:30
+我最近主力用 codex 了, 解决问题精准有效, cc 总是会遗漏一些细节
+
+目前只有改 UI 和 commit 才会用 cc
+
+袁智翔(wxid_7483c6zwueat22) 11-15 15:14:44
+我举个例子，比如我要根据数据库里面的数据算一组图表数据然后拿给前端去展示，之前这个代码已经写好了，核心算法封装在一个方法里面，但是现在这个算法逻辑要改，codex 改完之后是把一部分逻辑在原来的方法里面改好，然后最后一个小步骤拿到了外面返回的时候处理，但 cc 是方法里面算完，外层方法直接使用数据
+
+就这一个微小的差别，但我就会更喜欢 cc 的代码，封装的更好
+
+青竹(wxid_1348793487711) 11-15 15:16:10
+是的，最近感觉codex变快了很多，有时候都有点不适应了[捂脸]
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-15 15:50:20
+> 刘小排(liuxiaopai) 11-15 15:08:54
+> ![图片](http://127.0.0.1:5030/image/ee3db92b7cd9f3c437c38b0c2edb78ef)
+只用了kimi for coding简称kfc那个感觉不太行，也不能选模型，看来还是得直接用它的kimi k2 thinking
+
+离心之巅(wxid_zct5h7skjhaq22) 11-15 15:54:40
+kimi for coding不是用的kimi k2 thinking吗[破涕为笑]我问他是什么模型，他直接回复我是kimi k2 thinking
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-15 15:55:49
+我是感觉不太行，比如用它做多语言翻译翻译不了不知道为啥[捂脸]
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-15 15:56:11
+而且价格那么低，感觉应该会掺水
+
+Shrek(linchen102013) 11-15 16:09:46
+和你一样的体感 正常之前用k2能解决的 kimi for coding有些解决得差一点点
+
+Moore(xiaobei1984) 11-15 16:10:21
+可以这么理解，低级工程师和高级工程师的区别
+
+Moore(xiaobei1984) 11-15 16:11:40
+代码规模上来，或者解决复杂问题的时候 claude 是最佳的，但是资源很稀缺。如果是新启动一个项目，就可以考虑 K2 来开始，不过就需要有人时时刻刻关注结果
+
+Joker(wxid_hj9hl37qvvqc22) 11-15 17:41:24
+有没有用kimi k2 thinking的朋友，没聊多久他就不回你了，这种情况碰到过没，错误提示也没有
+
+码叔编程(wxid_awv5vp6602ju22) 11-15 17:48:00
+哪位老板有没用过阿里云的wan2.2 换脸接口的么？
+
+李香君(lichengjun395269) 11-15 18:13:09
+只有 fal 还是 replicate 上有
+
+李香君(lichengjun395269) 11-15 18:13:12
+而且巨贵
+
+码叔编程(wxid_awv5vp6602ju22) 11-15 18:39:40
+> 李香君(lichengjun395269) 11-15 18:13:12
+> 而且巨贵
+官方 0.9元/秒，不便宜，
+
+青竹(wxid_1348793487711) 11-15 19:55:47
+各位圈友，咨询个建议：
+
+我一开始用 supabase 全家桶（数据库+登陆+ supabase-js），由于数据库数量的限制，我近期做了一个调整，改成用 better-auth + drizzle orm + google oauth，这样我可以一个 PostgreSQL 里用多个不同的 schema 来跑不同的项目，我本地用 docker-compose 跑 PostgreSQL 已验证通过。
+
+现在面临一个选择，发布上线，是继续用 Supabase 的 PostgreSQL 还是用 Neon 或者其他的，不知道哪位圈友这方面经验丰富，可以给点宝贵建议吗
+
+超然同学(wxid_lgfk7wufz9b651) 11-15 19:57:34
+supabase是自建的，还是saas的
+
+刘小排(liuxiaopai) 11-15 19:58:33
+用户量小的话没区别。
+
+青竹(wxid_1348793487711) 11-15 19:58:55
+自建太麻烦，现在就搞不划算
+
+刘小排(liuxiaopai) 11-15 19:59:45
+是的
+
+超然同学(wxid_lgfk7wufz9b651) 11-15 19:59:53
+量小supabase的saas更稳定，能避免很多数据库的坑。量大supabase很贵
+
+刘小排(liuxiaopai) 11-15 19:59:53
+用云端版这两个区别不大
+
+青竹(wxid_1348793487711) 11-15 20:00:30
+[OK]听小排老师的，没区别的话继续用 supabase 吧，后面有量再说。迁移起来应该也方便，毕竟只用了库
+
+袁智翔(wxid_7483c6zwueat22) 11-15 20:02:04
+> 青竹-上海(wxid_1348793487711) 11-15 19:55:47
+> 各位圈友，咨询个建议：
+> 我一开始用 supabase 全家桶（数据库+登陆+ supabase-js），由于数据库数量的限制，我近期做了一个调整，改成用 better-auth + drizzle orm + google oauth，这样我可以一个 PostgreSQL 里用多个不同的 schema 来跑不同的项目，我本地用 docker-compose 跑 PostgreSQL 已验证通过。
+> 现在面临一个选择，发布上线，是继续用 Supabase 的 PostgreSQL 还是用 Neon 或者其他的，不知道哪位圈友这方面经验丰富，可以给点宝贵建议吗
+我一直是这么用的，也不建议自建 pg，主要是运维和后续如果数据库性能不够升级会比较麻烦，但你现在是从 supabase 的 auth 切到 better-auth，这里面会涉及到数据迁移的问题，我在前做过这个迁移，写过迁移脚本，你需要的话可以发你参考
+
+青竹(wxid_1348793487711) 11-15 20:02:36
+谢谢，全新项目不涉及迁移
+
+袁智翔(wxid_7483c6zwueat22) 11-15 20:03:04
+这里面还有个坑，你的云服务如果是自己的服务器就没问题，如果是 vercel 的话会有连接数量限制，如果是 cloudflare 的话需要接 hyperdriver
+
+青竹(wxid_1348793487711) 11-15 20:03:37
+vercel大概是一个什么限制？
+
+袁智翔(wxid_7483c6zwueat22) 11-15 20:04:50
+vercel 是 serverless 架构，他会起大量的实例去并发连你的数据库，所以你要把数据库连接池改一下，每个线上服务最多一个连接，连接的闲置时间也要改短一些
+
+超然同学(wxid_lgfk7wufz9b651) 11-15 20:06:08
+主要问题是慢，公网数据库承载高负载很蛋疼
+
+袁智翔(wxid_7483c6zwueat22) 11-15 20:07:37
+这里面驱动也有坑，驱动要用 pg 这个，不能用 postgres，postgres 这个驱动在 vercel 上好像有莫名其妙的 bug，会导致连接悬挂住，不返回，也不释放，挺奇怪的[破涕为笑]
+
+青竹(wxid_1348793487711) 11-15 20:07:51
+[破涕为笑]
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-15 20:07:51
+你说的都是自建坑吗？[破涕为笑]
+
+袁智翔(wxid_7483c6zwueat22) 11-15 20:08:04
+不是，是用 vercel 会碰到的问题
+
+青竹(wxid_1348793487711) 11-15 20:08:11
+看了，用的是 pg
+
+青竹(wxid_1348793487711) 11-15 20:08:12
+哈哈
+
+青竹(wxid_1348793487711) 11-15 20:08:20
+但是连接池这个，我之前没想到，研究一下
+
+袁智翔(wxid_7483c6zwueat22) 11-15 20:09:08
+你看看，开始用户少没啥问题，用户多起来才会有这些性能问题
+
+青竹(wxid_1348793487711) 11-15 20:10:05
+[Salute]都是宝贵的实战经验
+
+袁智翔(wxid_7483c6zwueat22) 11-15 20:10:23
+"${wxid_7483c6zwueat22}" 拍了拍 "${wxid_1348793487711}"
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-15 20:12:37
+我看了下mksaas代码用的也是postgres
+
+袁智翔(wxid_7483c6zwueat22) 11-15 20:13:01
+> 土豆君(wxid_gzr7bvbdlvlv22) 11-15 20:12:37
+> 我看了下mksaas代码用的也是postgres
+别提了，就是 mksaas 的坑，我查了好久
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-15 20:13:12
+[破涕为笑]阿？
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-15 20:13:23
+写篇文章吧[破涕为笑]
+
+超然同学(wxid_lgfk7wufz9b651) 11-15 20:13:24
+量起来之后，自建便宜。
+
+袁智翔(wxid_7483c6zwueat22) 11-15 20:13:43
+不要用那个驱动，那个驱动有 bug，半年没更新了，不知道后续还维不维护
+
+袁智翔(wxid_7483c6zwueat22) 11-15 20:14:01
+在 vercel 和 cloudflare 上面都有问题
+
+袁智翔(wxid_7483c6zwueat22) 11-15 20:14:08
+问题现象还不一样
+
+袁智翔(wxid_7483c6zwueat22) 11-15 20:14:52
+还想起来个小细节，bettera-auth 默认数据库 id 是 varchar，pg 的 id 最佳实践是 uuid，你现在还没上线，可以先统一一下，等后面上线了如果你想统一的话就很麻烦了
+ @青竹-上海
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-15 20:15:33
+[666]我不知道何时才会碰到坑，求求袁老写篇文章我收藏下hhhh[奸笑]
+
+袁智翔(wxid_7483c6zwueat22) 11-15 20:15:53
+> 土豆君(wxid_gzr7bvbdlvlv22) 11-15 20:15:33
+> [666]我不知道何时才会碰到坑，求求袁老写篇文章我收藏下hhhh[奸笑]
+你遇到直接私聊我，祝你早日遇到 [Lol]
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-15 20:16:38
+哈哈祝大家都早日遇到
+
+青竹(wxid_1348793487711) 11-15 20:17:24
+> 袁智翔(wxid_7483c6zwueat22) 11-15 20:14:52
+> 还想起来个小细节，bettera-auth 默认数据库 id 是 varchar，pg 的 id 最佳实践是 uuid，你现在还没上线，可以先统一一下，等后面上线了如果你想统一的话就很麻烦了
+>  @青竹-上海
+啊，这个还有问题吗？我自建的表，如果用到 userId 也都是用 text 的
+
+青竹(wxid_1348793487711) 11-15 20:17:46
+export const user = withSchema.table('user', {
+  id: text('id').primaryKey(),
+  name: text('name').notNull(),
+  email: text('email').notNull().unique(),
+  emailVerified: boolean('email_verified').default(false).notNull(),
+  image: text('image'),
+  createdAt: timestamp('created_at').defaultNow().notNull(),
+  updatedAt: timestamp('updated_at')
+    .defaultNow()
+    .$onUpdate(() => new Date())
+    .notNull(),
+});
+
+export const orders = withSchema.table(
+  'orders',
+  {
+    id: uuid('id').primaryKey().defaultRandom(),
+    userId: text('user_id')
+      .notNull()
+      .references(() => user.id, { onDelete: 'cascade' }),
+
+
+类似这样
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-15 20:18:01
+fox居然没修这个bug看来遇到的人还不多[破涕为笑]
+
+袁智翔(wxid_7483c6zwueat22) 11-15 20:18:24
+> 青竹-上海(wxid_1348793487711) 11-15 20:17:46
+> export const user = withSchema.table('user', {
+>   id: text('id').primaryKey(),
+>   name: text('name').notNull(),
+>   email: text('email').notNull().unique(),
+>   emailVerified: boolean('email_verified').default(false).notNull(),
+>   image: text('image'),
+>   createdAt: timestamp('created_at').defaultNow().notNull(),
+>   updatedAt: timestamp('updated_at')
+>     .defaultNow()
+>     .$onUpdate(() => new Date())
+>     .notNull(),
+> });
+> export const orders = withSchema.table(
+>   'orders',
+>   {
+>     id: uuid('id').primaryKey().defaultRandom(),
+>     userId: text('user_id')
+>       .notNull()
+>       .references(() => user.id, { onDelete: 'cascade' }),
+> 类似这样
+你对比下 user 是 better auth 的，所以是 text，你自己的是 orders，是 uuid
+
+青竹(wxid_1348793487711) 11-15 20:19:04
+是的，orders 的是 uuid，这个也会有问题吗？哈哈，还请解个惑，没明白
+
+袁智翔(wxid_7483c6zwueat22) 11-15 20:20:00
+better-auth 是为了兼容各种类型的数据库，所以用的 text，但 pg 应该对 uuid 有专门的优化，所以他里面 id 都用的是 uuid 的类型，我没去研究 pg 里面这块的原理，但想来应该是有优化的，你感兴趣的话可以和 AI 聊聊这个
+
+超然同学(wxid_lgfk7wufz9b651) 11-15 20:20:04
+没有大问题，能保证唯一性就行
+
+青竹(wxid_1348793487711) 11-15 20:20:49
+OK，先看看 vercel 连接池的问题，然后就问问AI
+
+超然同学(wxid_lgfk7wufz9b651) 11-15 20:20:54
+pg的uuid优势主要是在保持唯一性和数据类型规范上，如果能保证唯一性，使用text性能上没啥区别。确保输入的id能保证唯一就行
+
+袁智翔(wxid_7483c6zwueat22) 11-15 20:21:41
+> 超然同学(wxid_lgfk7wufz9b651) 11-15 20:20:54
+> pg的uuid优势主要是在保持唯一性和数据类型规范上，如果能保证唯一性，使用text性能上没啥区别。确保输入的id能保证唯一就行
+靠谱
+
+我 11-15 20:23:03
+"Moore 助教" 撤回了一条消息
+
+Moore(xiaobei1984) 11-15 20:23:12
+10W行以内不需要考虑UUID的问题
+
+Moore(xiaobei1984) 11-15 20:25:29
+> 青竹-上海(wxid_1348793487711) 11-15 20:19:04
+> 是的，orders 的是 uuid，这个也会有问题吗？哈哈，还请解个惑，没明白
+orders 最好不要走uuid，最好是 orders-userid-date-序列id
+
+超然同学(wxid_lgfk7wufz9b651) 11-15 20:27:04
+![图片](http://127.0.0.1:5030/image/8aea6fa88b4efa4397601434a7116109)
+
+超然同学(wxid_lgfk7wufz9b651) 11-15 20:27:07
+text的ID照跑不误，在自己生成的uuid后缀加一个base64的6字节时间戳就行。包唯一
+
+Moore(xiaobei1984) 11-15 20:27:45
+> Moore 助教(xiaobei1984) 11-15 20:25:28
+> > [引用]
+> orders 最好不要走uuid，最好是 orders-userid-date-序列id
+要可读性强
+
+Moore(xiaobei1984) 11-15 20:29:07
+[吃瓜] 哈哈，我也觉得 text 没什么影响，只是看查询时间长短问题罢了，我感觉没必要纠结，云db就好，量起来了，钱肯定也来了。到时候可以请个高手自建db来运营也是小菜一碟
+
+超然同学(wxid_lgfk7wufz9b651) 11-15 20:29:24
+都是hash索引，查询时间也区别不大
+
+超然同学(wxid_lgfk7wufz9b651) 11-15 20:29:35
+这玩意又不兴建btree
+
+青竹(wxid_1348793487711) 11-15 20:29:37
+> Moore 助教(xiaobei1984) 11-15 20:25:29
+> > [引用]
+> orders 最好不要走uuid，最好是 orders-userid-date-序列id
+这是考虑之后分库吗[Chuckle]
+
+Moore(xiaobei1984) 11-15 20:30:16
+> 超然同学(wxid_lgfk7wufz9b651) 11-15 20:29:24
+> 都是hash索引，查询时间也区别不大
+千万级量起来以后 hash 还是有一点影响的，只是多数人的项目没这么快可以达到
+
+Moore(xiaobei1984) 11-15 20:31:00
+> 青竹-上海(wxid_1348793487711) 11-15 20:29:37
+> > [引用]
+> 这是考虑之后分库吗[Chuckle]
+那倒没有，方便理解
+
+超然同学(wxid_lgfk7wufz9b651) 11-15 20:31:05
+千万的时候必分表，刚截图就是其中一张分表。
+
+超然同学(wxid_lgfk7wufz9b651) 11-15 20:31:26
+不然删都删不动，按顺序删都删不动
+
+Moore(xiaobei1984) 11-15 20:32:01
+[旺柴] 具体情况具体分析呗，看业务场景
+
+Moore(xiaobei1984) 11-15 20:32:37
+我觉得就咱们的项目增长最快的就是用户行为日志[旺柴] ，不过通常只保留7天~14天
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-15 20:33:05
+就是记录埋点么
+
+Moore(xiaobei1984) 11-15 20:33:05
+[旺柴] 积分消费日志上百万的话，就发达了
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-15 20:33:46
+umami埋点我都还没加过
+
+Moore(xiaobei1984) 11-15 20:33:54
+> 土豆君(wxid_gzr7bvbdlvlv22) 11-15 20:33:05
+> 就是记录埋点么
+是的，刚开始只埋用户主流程，不要出现p0级bug
+
+超然同学(wxid_lgfk7wufz9b651) 11-15 20:33:55
+能分还是分，到后面是真的删不动。特别是服务器CPU单核性能羸弱。慢得吐血
+
+Moore(xiaobei1984) 11-15 20:34:39
+[旺柴] 再加个CPU资源不可以吗？
+
+Moore(xiaobei1984) 11-15 20:35:05
+> 土豆君(wxid_gzr7bvbdlvlv22) 11-15 20:33:46
+> umami埋点我都还没加过
+就一个redis 自己加点就行了，不搞这么复杂
+
+超然同学(wxid_lgfk7wufz9b651) 11-15 20:35:34
+不可以，索引查询是纯单核行为。加核数不能解决单个查询慢的问题。单个查询慢又会影响到别的事务处理，然后就宕机了
+
+青竹(wxid_1348793487711) 11-15 20:36:00
+我感觉项目刚开始，不用都考虑了，不然要做的太多了
+
+超然同学(wxid_lgfk7wufz9b651) 11-15 20:36:48
+是的，考虑个锤子。我上线前半年甚至没引入redis。
+
+Moore(xiaobei1984) 11-15 20:36:52
+> 超然同学(wxid_lgfk7wufz9b651) 11-15 20:35:34
+> 不可以，索引查询是纯单核行为。加核数不能解决单个查询慢的问题。单个查询慢又会影响到别的事务处理，然后就宕机了
+做迁移啊
+
+青竹(wxid_1348793487711) 11-15 20:36:57
+我其实是在做自己的starter kit，所以打磨了很长时间，百万级别的事情，感觉到时候再考虑吧，应该是痛并快乐着到时候
+
+Moore(xiaobei1984) 11-15 20:37:42
+是的，没必要整太多，redis 便宜而已，而且数据也简单，不需要思考这么多，量起来了，具体问题具体分析，有些废数据该归档归档，该删就删
+
+Moore(xiaobei1984) 11-15 20:38:49
+用户主流程，保证用户能够正常跑完业务交易流程。还有AI生成的流程，其它不需要关注 ，也没多少数据量
+
+超然同学(wxid_lgfk7wufz9b651) 11-15 20:41:25
+![图片](http://127.0.0.1:5030/image/c3c2e4fa318eec399465899b663b2f11)
+
+超然同学(wxid_lgfk7wufz9b651) 11-15 20:41:48
+双11入手新设备，太爽啦！
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-15 20:41:56
+这个真爱啊
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-15 20:42:00
+[动画表情]
+
+Moore(xiaobei1984) 11-15 20:42:00
+[吃瓜] 我看到“AI生成的进度”在起飞啊
+
+超然同学(wxid_lgfk7wufz9b651) 11-15 20:42:20
+![图片](http://127.0.0.1:5030/image/8e44fc93169ad33256cc70e86eba127d)
+
+超然同学(wxid_lgfk7wufz9b651) 11-15 20:42:29
+又帅又快，爱了爱了
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-15 20:42:35
+羡慕
+
+我 11-15 20:44:57
+"超然同学" 撤回了一条消息
+
+超然同学(wxid_lgfk7wufz9b651) 11-15 20:45:08
+这一代Intel的CPU比AMD的绝对性能，差不少。但是价格太诱人了~ 果然是没有垃圾的产品只有垃圾的价格。1600RMB的265k，就很nice[色]
+
+青竹(wxid_1348793487711) 11-15 20:49:49
+🐮🍺
+
+超然同学(wxid_lgfk7wufz9b651) 11-15 20:58:57
+有一台强大的pc还是有用的，我线上数据库分表迁移，时间基本都耗费在重建索引上，吃单核。线上服务器看了下怕不是要停机两天以上，然后果断把数据库下载到本地处理，70个GB在amd 9900x上用了9个小时处理完了，美滋滋[奸笑]
+
+DieselNiu(wxid_75zfebpbkzrb22) 11-15 21:09:09
+[动画表情]
+
+青竹(wxid_1348793487711) 11-15 21:12:36
+这得有多少用户啊，70个G
+
+刘小排(liuxiaopai) 11-15 23:31:53
+[视频号|为了救赎自己，她做了一款关于心理的产品#AI创业 #大树学AI #AI #AI访谈 #心理咨询](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibFeI6caGYwFEibbwfXxf7Q8AA9sWNZ7whP53pLfJQaocJLt20RvCTWHod7hPvAJ3AuqH3EL0ZvV9SeEqc3OCDwn3pCQoSpUtvdWmIoVIXoqn965jMiah7g3CA&hy=SH&idx=1&m=1270427c45364bff03c6c0b7c74539c5&uzid=7a1fc)
+
+刘小排(liuxiaopai) 11-15 23:31:53
+这是我们一期学员、二期助教@六六 的作品。她从5月的完全小白，到今天做出用户喜欢的好产品，发挥自己优势做出产品帮助更多人，值得我们学习
+
+北(wxid_h2x4q8b8vmvj12) 11-15 23:32:30
+"${wxid_h2x4q8b8vmvj12}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+北(wxid_h2x4q8b8vmvj12) 11-15 23:32:47
+给六六打call
+
+yyyhx(wxid_9013080130212) 11-15 23:38:26
+圈友采访圈友
+
+车(wxid_2x6x5y4p0sc522) 11-15 23:43:20
+"${wxid_2x6x5y4p0sc522}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+梅丽玲(wxid_1232452323212) 11-15 23:54:36
+六六真棒[强][强]，帖子也写得好有力量，很治愈人[爱心]
+
+刘小排(liuxiaopai) 11-15 23:54:57
++1
+
+刘小排(liuxiaopai) 11-15 23:54:58
+"${liuxiaopai}" 拍了拍 "${wxid_1232452323212}"
+
+  青竹 2025-11-15 19:55:47
+  各位圈友，咨询个建议：
+  
+  我一开始用 supabase 全家桶（数据库+登陆+ supabase-js），由于数据库数量的限制，我近期做了一个调整，改成用 better-auth + drizzle orm + google oauth，这样我可以一个 PostgreSQL 里用多个不同的 schema 来跑不同的项目，我本地用 docker-compose 跑 PostgreSQL 已验证通过。
+  
+  现在面临一个选择，发布上线，是继续用 Supabase 的 PostgreSQL 还是用 Neon 或者其他的，不知道哪位圈友这方面经验丰富，可以给点宝贵建议吗
+
+  超然同学 2025-11-15 19:57:34
+  supabase是自建的，还是saas的
+
+  刘小排 2025-11-15 19:58:33
+  用户量小的话没区别。
+
+  青竹 2025-11-15 19:58:55
+  自建太麻烦，现在就搞不划算
+
+  刘小排 2025-11-15 19:59:45
+  是的
+
+  超然同学 2025-11-15 19:59:53
+  量小supabase的saas更稳定，能避免很多数据库的坑。量大supabase很贵
+
+  刘小排 2025-11-15 19:59:53
+  用云端版这两个区别不大
+
+  青竹 2025-11-15 20:00:30
+  [OK]听小排老师的，没区别的话继续用 supabase 吧，后面有量再说。迁移起来应该也方便，毕竟只用了库
+
+  袁智翔 2025-11-15 20:02:04
+  我一直是这么用的，也不建议自建 pg，主要是运维和后续如果数据库性能不够升级会比较麻烦，但你现在是从 supabase 的 auth 切到 better-auth，这里面会涉及到数据迁移的问题，我在前做过这个迁移，写过迁移脚本，你需要的话可以发你参考
+
+  青竹 2025-11-15 20:02:36
+  谢谢，全新项目不涉及迁移
+
+  袁智翔 2025-11-15 20:03:04
+  这里面还有个坑，你的云服务如果是自己的服务器就没问题，如果是 vercel 的话会有连接数量限制，如果是 cloudflare 的话需要接 hyperdriver
+
+  青竹 2025-11-15 20:03:37
+  vercel大概是一个什么限制？
+
+  袁智翔 2025-11-15 20:04:50
+  vercel 是 serverless 架构，他会起大量的实例去并发连你的数据库，所以你要把数据库连接池改一下，每个线上服务最多一个连接，连接的闲置时间也要改短一些
+
+  超然同学 2025-11-15 20:06:08
+  主要问题是慢，公网数据库承载高负载很蛋疼
+
+  袁智翔 2025-11-15 20:07:37
+  这里面驱动也有坑，驱动要用 pg 这个，不能用 postgres，postgres 这个驱动在 vercel 上好像有莫名其妙的 bug，会导致连接悬挂住，不返回，也不释放，挺奇怪的[破涕为笑]
+
+  土豆君 2025-11-15 20:07:51
+  你说的都是自建坑吗？[破涕为笑]
+
+  青竹 2025-11-15 20:07:51
+  [破涕为笑]
+
+  袁智翔 2025-11-15 20:08:04
+  不是，是用 vercel 会碰到的问题
+
+  青竹 2025-11-15 20:08:11
+  看了，用的是 pg
+
+  青竹 2025-11-15 20:08:12
+  哈哈
+
+  青竹 2025-11-15 20:08:20
+  但是连接池这个，我之前没想到，研究一下
+
+  袁智翔 2025-11-15 20:09:08
+  你看看，开始用户少没啥问题，用户多起来才会有这些性能问题
+
+  青竹 2025-11-15 20:10:05
+  [Salute]都是宝贵的实战经验
+
+  土豆君 2025-11-15 20:12:37
+  我看了下mksaas代码用的也是postgres
+
+  袁智翔 2025-11-15 20:13:01
+  别提了，就是 mksaas 的坑，我查了好久
+
+  土豆君 2025-11-15 20:13:12
+  [破涕为笑]阿？
+
+  土豆君 2025-11-15 20:13:23
+  写篇文章吧[破涕为笑]
+
+  超然同学 2025-11-15 20:13:24
+  量起来之后，自建便宜。
+
+  袁智翔 2025-11-15 20:13:43
+  不要用那个驱动，那个驱动有 bug，半年没更新了，不知道后续还维不维护
+
+  袁智翔 2025-11-15 20:14:01
+  在 vercel 和 cloudflare 上面都有问题
+
+  袁智翔 2025-11-15 20:14:08
+  问题现象还不一样
+
+  袁智翔 2025-11-15 20:14:52
+  还想起来个小细节，bettera-auth 默认数据库 id 是 varchar，pg 的 id 最佳实践是 uuid，你现在还没上线，可以先统一一下，等后面上线了如果你想统一的话就很麻烦了
+   @青竹-上海
+
+  土豆君 2025-11-15 20:15:33
+  [666]我不知道何时才会碰到坑，求求袁老写篇文章我收藏下hhhh[奸笑]
+
+  袁智翔 2025-11-15 20:15:53
+  你遇到直接私聊我，祝你早日遇到 [Lol]
+
+  土豆君 2025-11-15 20:16:38
+  哈哈祝大家都早日遇到
+
+  青竹 2025-11-15 20:17:24
+  啊，这个还有问题吗？我自建的表，如果用到 userId 也都是用 text 的
+
+  青竹 2025-11-15 20:17:46
+  export const user = withSchema.table('user', {
+    id: text('id').primaryKey(),
+    name: text('name').notNull(),
+    email: text('email').notNull().unique(),
+    emailVerified: boolean('email_verified').default(false).notNull(),
+    image: text('image'),
+    createdAt: timestamp('created_at').defaultNow().notNull(),
+    updatedAt: timestamp('updated_at')
+      .defaultNow()
+      .$onUpdate(() => new Date())
+      .notNull(),
+  });
+  
+  export const orders = withSchema.table(
+    'orders',
+    {
+      id: uuid('id').primaryKey().defaultRandom(),
+      userId: text('user_id')
+        .notNull()
+        .references(() => user.id, { onDelete: 'cascade' }),
+  
+  
+  类似这样
+
+  土豆君 2025-11-15 20:18:01
+  fox居然没修这个bug看来遇到的人还不多[破涕为笑]
+
+  袁智翔 2025-11-15 20:18:24
+  你对比下 user 是 better auth 的，所以是 text，你自己的是 orders，是 uuid
+
+  青竹 2025-11-15 20:19:04
+  是的，orders 的是 uuid，这个也会有问题吗？哈哈，还请解个惑，没明白
+
+  袁智翔 2025-11-15 20:20:00
+  better-auth 是为了兼容各种类型的数据库，所以用的 text，但 pg 应该对 uuid 有专门的优化，所以他里面 id 都用的是 uuid 的类型，我没去研究 pg 里面这块的原理，但想来应该是有优化的，你感兴趣的话可以和 AI 聊聊这个
+
+  超然同学 2025-11-15 20:20:04
+  没有大问题，能保证唯一性就行
+
+  青竹 2025-11-15 20:20:49
+  OK，先看看 vercel 连接池的问题，然后就问问AI
+
+  超然同学 2025-11-15 20:20:54
+  pg的uuid优势主要是在保持唯一性和数据类型规范上，如果能保证唯一性，使用text性能上没啥区别。确保输入的id能保证唯一就行
+
+  袁智翔 2025-11-15 20:21:41
+  靠谱
+
+

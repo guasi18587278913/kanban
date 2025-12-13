@@ -1,0 +1,282 @@
+前行(gejinpeng123) 11-14 10:08:59
+@土豆君 我换了其他api驱动cc，插件也用不了，应该是api的问题
+
+张骏飞(wxid_5935259353112) 11-14 10:20:47
+好像是的
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-14 10:41:17
+> 前行-深圳龙华(gejinpeng123) 11-14 10:08:59
+> @土豆君 我换了其他api驱动cc，插件也用不了，应该是api的问题
+这样
+
+刘小排(liuxiaopai) 11-14 12:27:47
+昨天直播的时候说到stripe，有朋友用护照去注册香港stripe。
+这个，昨天我们也强调了，属于灰产。刚刚看到有人说，stripe已经开始查了
+
+刘小排(liuxiaopai) 11-14 12:27:47
+![图片](http://127.0.0.1:5030/image/9da0c5309112d9809f5fda5973479382)
+
+浙大吴美律(wxid_wey7hbsz7pzq22) 11-14 12:45:41
+"${wxid_wey7hbsz7pzq22}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+CAI(jiyiche) 11-14 12:51:50
+用美国公司注册的，用护照kyc的，没问题吧？
+
+刘小排(liuxiaopai) 11-14 12:52:27
+没问题
+
+刘小排(liuxiaopai) 11-14 12:52:35
+规范的方法就是注册外国公司
+
+CAI(jiyiche) 11-14 12:52:45
+[抱拳]好的
+
+刘小排(liuxiaopai) 11-14 12:53:05
+最最省事并且规范的方法是用Stripe Atlas服务， 花点钱，但是它可以帮你搞定注册美国公司、正正规规的使用Stripe
+
+政(wxid_unp611hu9f0052) 11-14 14:02:36
+香港公司可以注册吗
+
+刘小排(liuxiaopai) 11-14 14:04:36
+可以
+
+鱼总丨AIGC(kuikui546212419) 11-14 14:14:08
+香港公司的成本似乎比较高
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 14:30:43
+用@袁智翔 弄的那个注册公司和水星的注册 stripe 就行
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 14:30:52
+然后金额也会提现到水星
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 14:31:34
+一条龙服务
+
+袁智翔(wxid_7483c6zwueat22) 11-14 15:20:07
+[链接|三天搞定美国公司注册](https://mp.weixin.qq.com/s?__biz=MzU2MDcyNDQ1OA==&mid=2247483885&idx=1&sn=13c5d798a2f21f4e8515cc143d9f98e1&chksm=fd97057cf903b01a533ad832db5be3bc081bef80c45ce9c09c87ff7e41fc425dec647a0b0859&mpshare=1&scene=1&srcid=1105ldwJV5D9OqIaO3vkxdoD&sharer_shareinfo=12ebd028ee4906db2905c2d94a2f45dc&sharer_shareinfo_first=12ebd028ee4906db2905c2d94a2f45dc#rd)
+
+袁智翔(wxid_7483c6zwueat22) 11-14 15:20:07
+[链接|3个半小时开通 Mercury 美国水星银行账户](https://mp.weixin.qq.com/s?__biz=MzU2MDcyNDQ1OA==&mid=2247484535&idx=1&sn=94e788367ba93ac3259925097d632f76&chksm=fda81cfe42552dd2d9fae95ca2ee2a8200547f3596114dee8f71286c90462c00fcfe3841f624&mpshare=1&scene=1&srcid=1105lmfOrnaQ5BmZjQGNYpOK&sharer_shareinfo=2b13cb6b6801fc0f006159272f3bcecc&sharer_shareinfo_first=2b13cb6b6801fc0f006159272f3bcecc#rd)
+
+袁智翔(wxid_7483c6zwueat22) 11-14 15:20:44
+自己 DIY 申请美国公司和 stripe 可以看这两篇公众号文章，里面有注册全流程
+
+袁智翔(wxid_7483c6zwueat22) 11-14 15:22:17
+注册美国公司 154$，后续续费每年 85$，开通水星不要钱，用我的邀请码开通并且入金 10000$ 会反 250$ 奖励，自己跑完流程还能赚 94$ [破涕为笑]
+
+张热烈啊(wxid_6vc87u6wjoz921) 11-14 15:23:15
+[强]
+
+啊吹（不二）(wxid_ezuncd5lcu1c22) 11-14 18:43:17
+[强]
+
+Lily 兰心(wxid_55i7xj4ozfa022) 11-14 18:44:29
+[强]
+
+小宇Mick(muckie) 11-14 19:10:49
+"${muckie}" 拍了拍 "${wxid_7483c6zwueat22}"
+
+在家念经(wxid_oxv6ij7x1zj021) 11-14 19:15:40
+> 袁智翔(wxid_7483c6zwueat22) 11-14 15:22:17
+> 注册美国公司 154$，后续续费每年 85$，开通水星不要钱，用我的邀请码开通并且入金 10000$ 会反 250$ 奖励，自己跑完流程还能赚 94$ [破涕为笑]
+必须要入金10000吗？[抱拳]
+
+droidHZ(wxid_5396913969012) 11-14 19:20:24
+[强]
+
+乐天(txwxlt) 11-14 19:44:36
+> 在家念经(wxid_oxv6ij7x1zj021) 11-14 19:15:40
+> > [引用]
+> 必须要入金10000吗？[抱拳]
+估计你理解错了，是有1w入金了有奖励
+
+国际范～(a4520a) 11-14 19:56:51
+会因小失大吗？[破涕为笑]
+有谁入了？
+
+来来说AI(wxid_s51w6qhhcpya22) 11-14 19:59:29
+入金还可以出来呀，走个流水
+
+CAI(jiyiche) 11-14 20:00:06
+你们入金美国公司有没有接到👮叔叔电话？
+
+袁智翔(wxid_7483c6zwueat22) 11-14 20:00:29
+> 在家念经(wxid_oxv6ij7x1zj021) 11-14 19:15:40
+> > [引用]
+> 必须要入金10000吗？[抱拳]
+不用，入金了有奖励，不入金也没影响，可以 90 天内赚 10000$ 也能拿奖励[Lol]
+
+袁智翔(wxid_7483c6zwueat22) 11-14 20:01:17
+> 来来说AI | 广州(wxid_s51w6qhhcpya22) 11-14 19:59:29
+> 入金还可以出来呀，走个流水
+对，就是走个流程，没有损失
+
+青竹(wxid_1348793487711) 11-14 20:01:37
+claude code感觉有很多功能，其他agent还没有；看小排老师新的文章，感觉看不懂[Cry]
+
+袁智翔(wxid_7483c6zwueat22) 11-14 20:02:29
+> CAI(jiyiche) 11-14 20:00:06
+> 你们入金美国公司有没有接到👮叔叔电话？
+我入金了，没影响，钱只在出境的时候会和你有关联，出去了也就没查不查这一说了
+
+CAI(jiyiche) 11-14 20:03:11
+刚接到电话了，说是反诈的，让我明天去趟他们单位
+
+袁智翔(wxid_7483c6zwueat22) 11-14 20:03:42
+[破涕为笑]你做了什么操作？
+
+CAI(jiyiche) 11-14 20:04:01
+就转账到美国账户
+
+袁智翔(wxid_7483c6zwueat22) 11-14 20:04:28
+什么路径？
+
+CAI(jiyiche) 11-14 20:04:37
+从国内银行卡电汇
+
+袁智翔(wxid_7483c6zwueat22) 11-14 20:04:51
+难怪
+
+袁智翔(wxid_7483c6zwueat22) 11-14 20:05:03
+我走的比较复杂 [破涕为笑]
+
+袁智翔(wxid_7483c6zwueat22) 11-14 20:06:01
+国内 -> 港卡 -> wise -> us 证券账户 -> us 银行卡 -> 水星银行卡
+
+CAI(jiyiche) 11-14 20:06:13
+明天应该只要证明公司说自己的就行吧
+
+袁智翔(wxid_7483c6zwueat22) 11-14 20:06:16
+我现在是走这个链路转账的
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:06:35
+> 袁智翔(wxid_7483c6zwueat22) 11-14 20:06:01
+> 国内 -> 港卡 -> wise -> us 证券账户 -> us 银行卡 -> 水星银行卡
+汇丰全球汇直接到水星就行
+
+袁智翔(wxid_7483c6zwueat22) 11-14 20:06:40
+问问 GPT5 Pro
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:06:40
+咋那么麻烦
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:06:49
+一步到位
+
+袁智翔(wxid_7483c6zwueat22) 11-14 20:06:50
+> 书虫@api.apicore.ai(wxid_qvv7nhu3xufq22) 11-14 20:06:35
+> > [引用]
+> 汇丰全球汇直接到水星就行
+没办汇丰卓越
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:06:58
+不用呀
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:07:05
+我教你吧
+
+袁智翔(wxid_7483c6zwueat22) 11-14 20:07:11
+这样么 [破涕为笑]
+
+袁智翔(wxid_7483c6zwueat22) 11-14 20:07:17
+好，你教教我
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:07:41
+还不能截图，这个汇丰，稍等
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-14 20:08:47
+国内到港呢，是不是还是要同名的银行转？0损失
+
+张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 11-14 20:09:16
+跨境支付通，0手续费
+
+袁智翔(wxid_7483c6zwueat22) 11-14 20:09:19
+有个跨境支付通，我是用那个转的
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:10:40
+我的好像有磨损，汇丰港币转成美元会有磨损
+
+袁智翔(wxid_7483c6zwueat22) 11-14 20:11:04
+了解，我这个磨损应该低一点
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:11:05
+然后汇丰到水星有个21.9u手续费
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:11:10
+仅供参考吧
+
+我 11-14 20:11:17
+"海外AI产品-书虫" 撤回了一条消息
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:11:34
+我随意一点分享
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:11:37
+应该是够用的
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:11:38
+![图片](http://127.0.0.1:5030/image/4d16e0bbe5fbfa296dee0b84b2c9001d)
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:11:47
+![图片](http://127.0.0.1:5030/image/01b903c7311de21d73f9d9fd5fccc87e)
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:11:50
+填这样的信息
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:12:02
+![图片](http://127.0.0.1:5030/image/404d31d1b161e1a30205bd75c42c7611)
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:12:10
+![图片](http://127.0.0.1:5030/image/0881812cbfa562de02116b8b8fb6389f)
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:12:18
+没有受款人就先添加
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:12:27
+![图片](http://127.0.0.1:5030/image/ebe540e2b158d01dbea17b46908a4069)
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:12:29
+然后转账就行
+
+袁智翔(wxid_7483c6zwueat22) 11-14 20:13:17
+了解，感谢
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:13:29
+![图片](http://127.0.0.1:5030/image/3ecde21bd0ac7472118f2216d8ffdee6)
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:13:32
+好像是这里的信息
+
+袁智翔(wxid_7483c6zwueat22) 11-14 20:13:42
+> 书虫@api.apicore.ai(wxid_qvv7nhu3xufq22) 11-14 20:11:05
+> 然后汇丰到水星有个21.9u手续费
+我哪个链路走 wise 港币兑换美元的时候手续费应该低一些，整个链路只有一个港币兑美元的手续费
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:13:49
+剩下不同问GPT吧，有心的话，上面的路径够用了
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:14:57
+可以的，我是图省事，那个磨损相比于其他平台的手续费感觉也能接受
+
+袁智翔(wxid_7483c6zwueat22) 11-14 20:15:15
+嗯，确实简单很多，一步到位
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:15:20
+我业务，很多的手续费都是2-4%
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-14 20:15:42
+这个水星处理的话，只有转成美金的手续费，千分之一左右，舒服很多
+
+前行(gejinpeng123) 11-14 20:33:27
+【稀宇科技】尊敬的 MiniMax 开放平台用户，您好！MiniMax M2 Coding Plan 国内正式上线，三档套餐随心选择！Starter 套餐首月9.9元，一杯冰美式的价格，交个朋友！M2 拥有顶尖的编码能力，是OpenRouter上使用量最大的国产模型；速度飞快、性能卓越，TPS > 100，是 Claude 的两倍；多种编程工具无缝适配，包括 Claude Code、Cursor、Cline、Kilo Code、Droid、Trae、iFlow 等，让你的编码效率飞速提升。三档方案灵活自由，是国内已知的效果好、速度快、接入易、价格优的Coding模型最佳选择！M2 限时免费期将在 11 月 15 日中午 12 点结束，点击链接立即购买：https://platform.minimaxi.com/subscribe/coding-plan。Mini Price，Max Performance! 拒收请回复R
+
+前行(gejinpeng123) 11-14 20:34:05
+M2准备收费了
+
+在家念经(wxid_oxv6ij7x1zj021) 11-14 23:36:23
+谢谢乐天、袁佬[抱拳]
+
+J.Wang(wxid_bxuwo4dto9t122) 11-14 23:48:20
+> 在家念经(wxid_oxv6ij7x1zj021) 11-14 23:36:23
+> 谢谢乐天、袁佬[抱拳]
+@在家念经 是谢啥？

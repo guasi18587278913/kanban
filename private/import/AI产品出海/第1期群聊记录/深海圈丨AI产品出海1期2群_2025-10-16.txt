@@ -1,0 +1,320 @@
+Lin(wxid_hiuxmzkjyvm822) 10-16 10:07:13
+各位大佬，请问，我通过kimi k2的api启动claude，终端是能够正常启动的，但是在ide里面，没法启动，一打开就显示这个页面
+
+Lin(wxid_hiuxmzkjyvm822) 10-16 10:07:13
+![图片](http://127.0.0.1:5030/image/1773bd5542759edb0ee08c5c8a6f1abb)
+
+Lin(wxid_hiuxmzkjyvm822) 10-16 10:07:23
+我尝试过在终端用/ide,绑定cusor，但是重新打开还是启动不了。应该怎么办啊？
+
+Lin(wxid_hiuxmzkjyvm822) 10-16 10:07:25
+![图片](http://127.0.0.1:5030/image/b17b7b094ac62cf54fd33f9f3965797b)
+
+George(georgeWorld) 10-16 10:24:24
+![图片](http://127.0.0.1:5030/image/c6cfd03368028b147cda715762f77571)
+
+George(georgeWorld) 10-16 10:24:28
+#举手 请教一下，通过支付宝提现creem的时候，提示在支付宝需要填写相关信息，请问这个要如何填写啊
+
+李江(apexlj) 10-16 10:47:25
+[链接|不要再说Creem可以提现到支付宝了，提现不了的](https://mp.weixin.qq.com/s?__biz=MzU0MzE1NDU1OA==&mid=2247489972&idx=1&sn=c48523e1a7e51761e82aa8478862fc36&chksm=fab37639b49f87158e504b45f37dd9907c5ee17f841d440114d3f408ed8bdc147eaf91ff7364&mpshare=1&scene=1&srcid=1016AnQHQDAYBQteAM8YuNYQ&sharer_shareinfo=ff8a321f96e97abf39b822bb3202a80b&sharer_shareinfo_first=ff8a321f96e97abf39b822bb3202a80b#rd)
+
+李江(apexlj) 10-16 10:47:35
+> George(georgeWorld) 10-16 10:24:28
+> #举手 请教一下，通过支付宝提现creem的时候，提示在支付宝需要填写相关信息，请问这个要如何填写啊
+刚好早上看到
+
+李江(apexlj) 10-16 10:47:53
+@George 可以看下
+
+George(georgeWorld) 10-16 10:48:48
+好的，我看下，tks
+
+George(georgeWorld) 10-16 10:50:01
+我问了chatgpt，他给了我一个详细的步骤，我先提交试试看
+
+李江(apexlj) 10-16 10:50:13
+好的
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 10-16 12:25:32
+小排老师，现在用的什么模型呀？claude code和codex么？还是GLM4.6呀
+
+George(georgeWorld) 10-16 12:31:27
+@李江 我使用chatgpt给的步骤收款成功了
+
+李江(apexlj) 10-16 12:34:12
+那很好，是提供什么凭证吗
+
+George(georgeWorld) 10-16 12:34:22
+提交creem平台的支付流水，提现记录，发票。以及https://www.creem.io/terms这个页面截了三张图，提交就可以了
+
+李江(apexlj) 10-16 12:34:49
+[强][强]
+
+George(georgeWorld) 10-16 12:35:33
+主要还是这个发票，在creem后台这里：
+
+George(georgeWorld) 10-16 12:35:34
+![图片](http://127.0.0.1:5030/image/30beee36ccbf1e1ae5f02ba848ca6838)
+
+George(georgeWorld) 10-16 12:36:39
+以下三张terms的截图
+
+George(georgeWorld) 10-16 12:36:40
+![图片](http://127.0.0.1:5030/image/983671ea1a482eb7f5080999f3247d9c)
+
+George(georgeWorld) 10-16 12:36:41
+![图片](http://127.0.0.1:5030/image/6b6bbe3f24faf1792a2c081e555b3b0d)
+
+George(georgeWorld) 10-16 12:36:42
+![图片](http://127.0.0.1:5030/image/fe991bb6bb00d7631b41bbb2e8a316f5)
+
+李江(apexlj) 10-16 12:48:12
+感谢感谢，后面就照着来
+
+CHK(wxid_t9mefurnptvz21) 10-16 13:10:21
+"${wxid_t9mefurnptvz21}" 拍了拍 "${georgeWorld}"
+
+桑桑(wxid_q2c7fp10z2522) 10-16 13:10:41
+@所有人 今晚20：00【深海圈丨AI产品出海】二期课程开营仪式，大家有时间感兴趣的话，可以扫码预约直播一起听听呀！~
+
+桑桑(wxid_q2c7fp10z2522) 10-16 13:10:42
+![图片](http://127.0.0.1:5030/image/1df9b34693a5593be443a7cac3320fcf)
+
+迪(zhaodidi2010) 10-16 13:11:10
+"${zhaodidi2010}" 拍了拍 "${wxid_q2c7fp10z2522}" happyhappyhappy～
+
+安来团队（18640264499）(wxid_15zvhbiqzzbz22) 10-16 13:30:09
+二期课程在哪里看啊
+
+风生_(wxid_m7ugge3cxi4u21) 10-16 13:30:44
+二期教学资料在哪里看呀
+
+小明(wxid_at9px5nf07qm22) 10-16 13:35:21
+二期更新的内容，在一期手册上同步更新，更新后和大家说@安来团队（18640264499） @风生_ 
+
+风生_(wxid_m7ugge3cxi4u21) 10-16 13:38:31
+[动画表情]
+
+阿漫(wxid_0jm70wtbqehf21) 10-16 15:09:20
+真好，我觉得我需要留级重修[破涕为笑]
+
+于洋(wxid_hz6andvs4ahf22) 10-16 17:22:23
+[动画表情]
+
+华仔(moomuhome) 10-16 17:49:37
+真好，我觉得我需要留级重修[破涕为笑]
+
+杰西卡JessicaW(wxid_7889428894012) 10-16 17:49:56
+真好，我觉得我需要留级重修[破涕为笑]
+
+养生谷(wxid_p9q0srx8tdbc22) 10-16 17:56:09
+真好，我觉得我需要留级重修[破涕为笑]
+
+Paradise Quest(wxid_g27abmn3c4ws21) 10-16 17:57:38
+真好，我觉得我需要留级重修[破涕为笑]
+
+韦安妮(wxid_fvtzl5na1qgz11) 10-16 17:59:56
+真好，我觉得我需要留级重修[破涕为笑]
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 10-16 18:14:33
+真好，我觉得我需要留级重修[破涕为笑]
+
+光脚踢球(guangjiaotiqiu001) 10-16 18:16:39
+真好，我觉得我需要留级重修[破涕为笑]
+
+早睡早睡(qq780213045) 10-16 18:18:22
+真好，我觉得我需要留级重修[破涕为笑]
+
+213(wxid_k53k9plaaz0d12) 10-16 18:18:34
+真好，我觉得我需要留级重修[破涕为笑]
+
+JACKIE(qq573729221) 10-16 18:19:30
+真好，我觉得我需要留级重修[破涕为笑]
+
+哩厘锂力(zizhazhu) 10-16 18:19:39
+真好，我觉得我需要留级重修[破涕为笑]
+
+杨文富(wxid_o4c07t9pwcya22) 10-16 18:20:42
+真好，我觉得我需要留级重修[破涕为笑]
+
+A米(heiyanquanbaomi) 10-16 18:20:58
+真好，我觉得我需要留级重修[破涕为笑]
+
+桑桑(wxid_q2c7fp10z2522) 10-16 18:21:40
+[动画表情]
+
+桑桑(wxid_q2c7fp10z2522) 10-16 18:21:49
+[动画表情]
+
+Okada 欢欢(wxid_bdbgo44zkrrv22) 10-16 18:22:21
+每个重要节点直播都会同步给大家，大家冲哇
+
+喵喵明(wxid_3b6gzif0m7eh52) 10-16 18:23:31
+真好，我觉得我需要留级重修[破涕为笑]
+
+微雨(wxid_pqu6niufod2222) 10-16 18:24:15
+真好，我觉得我需要留级重修[破涕为笑]
+
+强(wxid_gdeippmfotx112) 10-16 18:24:33
+真好，我觉得我需要留级重修[破涕为笑]
+
+小明(wxid_at9px5nf07qm22) 10-16 18:25:50
+脚手架使用文档，更新完毕
+
+在线体验：https://www.sistine.dev
+官方使用文档：https://docs.sistine.dev
+
+后续可以在开发中，将网站链接直接贴给ai，作为代码示例了
+
+小明(wxid_at9px5nf07qm22) 10-16 18:25:50
+![图片](http://127.0.0.1:5030/image/3cc4d33a070513458438d6b93c5a3813)
+
+SuperEric(janetchristmas) 10-16 18:26:01
+[动画表情]
+
+橙(wxid_5p4o1lcta13121) 10-16 19:14:12
+真好，我觉得我需要留级重修[破涕为笑]
+
+人生提词器(zjhoscar) 10-16 19:42:49
+原来那么多留级生？我以为就我一个
+
+人生提词器(zjhoscar) 10-16 19:42:54
+我以为你们都毕业了
+
+人生提词器(zjhoscar) 10-16 19:42:59
+[动画表情]
+
+潇潇(wxid_9oh4bxj6a1a722) 10-16 19:44:22
+真好，我觉得我需要留级重修[破涕为笑]
+
+人生提词器(zjhoscar) 10-16 19:45:24
+真好，我觉得我需要留级重修[破涕为笑]
+
+R(qr277763897) 10-16 19:48:22
+真好，我觉得我需要留级重修[破涕为笑]
+
+江坤(wxid_x8f52rye1agm21) 10-16 19:48:50
+![图片](http://127.0.0.1:5030/image/ea828d100ba72117e62ac8a3382cc6c5)
+
+我 10-16 19:49:20
+"江坤" 撤回了一条消息
+
+江坤(wxid_x8f52rye1agm21) 10-16 19:49:31
+有没有遇到这个报错的
+
+刘小排(liuxiaopai) 10-16 19:49:45
+网络问题 连接不上数据库
+
+江坤(wxid_x8f52rye1agm21) 10-16 19:51:51
+问了ai说是加载环境变量，修改了注释掉的可以使用了，但是后面pnpm dev又报错[捂脸]
+
+刘小排(liuxiaopai) 10-16 19:52:19
+你这报错信息的意思的 网络问题 连接不上数据库
+
+江坤(wxid_x8f52rye1agm21) 10-16 19:53:15
+> 刘小排(liuxiaopai) 10-16 19:52:19
+> 你这报错信息的意思的 网络问题 连接不上数据库
+是的，说是一直在调用本地的端口没有调用数据库[捂脸]
+
+桑桑(wxid_q2c7fp10z2522) 10-16 19:59:56
+[小程序|企业微信直播](https://mp.weixin.qq.com/mp/waerrpage?appid=wx7424030d69bde86e&type=upgrade&upgradetype=3#wechat_redirect)
+
+桑桑(wxid_q2c7fp10z2522) 10-16 20:02:57
+@所有人 期开营仪式开始啦，重修的学员们快进来啦
+
+江坤(wxid_x8f52rye1agm21) 10-16 20:33:45
+我现在卡到这一步过不去了，用的是neno数据库，DATABASE_URL也填入了，就是一直报这个错误
+
+江坤(wxid_x8f52rye1agm21) 10-16 20:33:55
+![图片](http://127.0.0.1:5030/image/3937258eb632262f3fff94f1899c9fed)
+
+Moore(xiaobei1984) 10-16 20:34:49
+数据库地址不对
+
+Moore(xiaobei1984) 10-16 20:34:55
+127.0.0.1
+
+Moore(xiaobei1984) 10-16 20:35:54
+没看到代码，你找下@小明-助教 
+
+江坤(wxid_x8f52rye1agm21) 10-16 20:37:11
+好的
+
+小明(wxid_at9px5nf07qm22) 10-16 20:46:10
+> 江坤(wxid_x8f52rye1agm21) 10-16 20:33:45
+> 我现在卡到这一步过不去了，用的是neno数据库，DATABASE_URL也填入了，就是一直报这个错误
+看一下 neon 界面的，连接 URL
+
+江坤(wxid_x8f52rye1agm21) 10-16 20:49:35
+![图片](http://127.0.0.1:5030/image/3553973c382bc4caaead5232d239447c)
+
+江坤(wxid_x8f52rye1agm21) 10-16 20:49:45
+这个是我的截图
+
+小明(wxid_at9px5nf07qm22) 10-16 20:50:53
+看起来是对的，保存下 env，然后终端运行
+
+pnpm db:push
+
+Yolanda.W(wangying6002) 10-16 20:51:38
+你看下是不是有多个.env 如果有多个， override: true 覆盖。
+dotenv.config({ path: ".env" , override: true});
+
+江坤(wxid_x8f52rye1agm21) 10-16 20:56:02
+> Yolanda.W(wangying6002) 10-16 20:51:38
+> 你看下是不是有多个.env 如果有多个， override: true 覆盖。
+> dotenv.config({ path: ".env" , override: true});
+感谢，这个有用
+
+Dream(wxid_yemdymv9zqoh21) 10-16 21:35:56
+#举手  咱们的航海手册是不是没有更新了呀
+
+小明(wxid_at9px5nf07qm22) 10-16 21:39:16
+> Dream(wxid_yemdymv9zqoh21) 10-16 21:35:56
+> #举手  咱们的航海手册是不是没有更新了呀
+后续会更新，更新会和大家同步
+
+Dream(wxid_yemdymv9zqoh21) 10-16 21:56:47
+收到  [呲牙]
+
+莫默(wxid_xtz5avm5c6t422) 10-16 21:58:55
+#举手 有人遇到过supabase的RLS策略的问题吗？我的生产环境在vercel中一直报这个错，我看了我的相关的表中就只有一条Policies 了，SUPABASE_SERVICE_ROLE_KEY 也是正确配置和已经加载了的，结果还是同样的报错，问了好几轮AI都解决不了，都建议我咨询supabase官方了[捂脸]
+
+莫默(wxid_xtz5avm5c6t422) 10-16 21:59:02
+![图片](http://127.0.0.1:5030/image/cd194f203e51fc5bf03d8c32d339c5cc)
+
+莫默(wxid_xtz5avm5c6t422) 10-16 21:59:17
+![图片](http://127.0.0.1:5030/image/3fd00d594a6b73d4bb3fdede539bdd48)
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 10-16 22:01:08
+![图片](http://127.0.0.1:5030/image/c805d62ba9639304ecd20aece20ae548)
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 10-16 22:01:55
+从你提供的错误信息来看，报错 new row violates row-level security policy for table "credit_transactions" 说明新的数据插入违反了 credit_transactions 表的 RLS 策略。尽管你已经设置了 SUPABASE_SERVICE_ROLE_KEY，但这个错误表明你没有通过相关的策略验证。
+
+解决这个问题的几个可能步骤：
+	1.	检查 RLS 策略：确认 credit_transactions 表是否有一个已经启用的 RLS 策略。在 Supabase 控制台的 Table Editor 页面中检查 credit_transactions 表的所有策略。确保 RLS 策略允许当前操作执行（例如，插入数据）。
+	2.	验证策略条件：RLS 策略通常会根据用户角色或特定字段进行验证。你可以查看该表的策略，看看是否有条件限制（例如 auth.uid() 或其他字段），这些条件可能会在某些环境中失败。
+	3.	使用 SUPABASE_SERVICE_ROLE_KEY：确保你的数据库操作确实使用了 SUPABASE_SERVICE_ROLE_KEY 来绕过 RLS。如果你在应用代码中使用该密钥，确保通过 service_role 角色连接到数据库。可以在查询中显式地传递该密钥，以确保你绕过 RLS 策略。
+	4.	确保环境变量加载正确：检查你在 Vercel 中的环境变量配置，确保 SUPABASE_SERVICE_ROLE_KEY 被正确加载到环境中。有时，环境变量加载不当也可能导致 RLS 策略未被绕过。
+	5.	调试日志：你可以增加一些调试信息，查看执行的 SQL 查询，确保它是在正确的上下文中执行。
+	6.	重新启用 RLS 策略：如果你修改了策略，尝试重新启用 RLS 或者刷新数据库的连接，以确保更新生效。
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 10-16 22:02:09
+挨个排查一下
+
+孙德斌(wxid_ik4njdanxiud21) 10-16 22:14:26
+[强]
+
+莫默(wxid_xtz5avm5c6t422) 10-16 22:29:33
+> 良辰美 | 助教(wxid_8riqfa4drs6222) 10-16 22:01:55
+> 从你提供的错误信息来看，报错 new row violates row-level security policy for table "credit_transactions" 说明新的数据插入违反了 credit_transactions 表的 RLS 策略。尽管你已经设置了 SUPABASE_SERVICE_ROLE_KEY，但这个错误表明你没有通过相关的策略验证。
+> 解决这个问题的几个可能步骤：
+> 	1.	检查 RLS 策略：确认 credit_transactions 表是否有一个已经启用的 RLS 策略。在 Supabase 控制台的 Table Editor 页面中检查 credit_transactions 表的所有策略。确保 RLS 策略允许当前操作执行（例如，插入数据）。
+> 	2.	验证策略条件：RLS 策略通常会根据用户角色或特定字段进行验证。你可以查看该表的策略，看看是否有条件限制（例如 auth.uid() 或其他字段），这些条件可能会在某些环境中失败。
+> 	3.	使用 SUPABASE_SERVICE_ROLE_KEY：确保你的数据库操作确实使用了 SUPABASE_SERVICE_ROLE_KEY 来绕过 RLS。如果你在应用代码中使用该密钥，确保通过 service_role 角色连接到数据库。可以在查询中显式地传递该密钥，以确保你绕过 RLS 策略。
+> 	4.	确保环境变量加载正确：检查你在 Vercel 中的环境变量配置，确保 SUPABASE_SERVICE_ROLE_KEY 被正确加载到环境中。有时，环境变量加载不当也可能导致 RLS 策略未被绕过。
+> 	5.	调试日志：你可以增加一些调试信息，查看执行的 SQL 查询，确保它是在正确的上下文中执行。
+> 	6.	重新启用 RLS 策略：如果你修改了策略，尝试重新启用 RLS 或者刷新数据库的连接，以确保更新生效。
+其实这些我都试过了，都还是一样的报错，除非禁用RLS，vercel就没报错，但是在前端显示的问题还是没有解决，也挺危险的[破涕为笑]

@@ -1,0 +1,70 @@
+桑桑(wxid_q2c7fp10z2522) 12-05 10:56:15
+昨天群聊浓度依旧拉满！～
+
+群聊重点关注技术安全与工具实战。Next.js 和 React 接连曝出高危漏洞，开发者需尽快自查；AI 编程方面，群友针对 Mac 配置选型及 Cursor 进阶技巧进行了深度讨论；产品侧则围绕“通用 vs 垂直”展开了关于寻找利基市场的辩论。
+
+一句话总结：技术在保底，工具在精进，产品在找突破口。
+
+感兴趣点击链接查看：https://aichanpinribao.com
+
+桑桑(wxid_q2c7fp10z2522) 12-05 10:56:16
+![图片](http://127.0.0.1:5030/image/8a411bca4d9ceda98d4c68cd6793700a)
+
+闻鉴(wxid_cdtcq1czmsgf22) 12-05 11:48:44
+请教一下，现在官方的claude code max用户100美元和200美元的套餐，使用量限制是多少啊？有周限制吗？
+
+桑桑(wxid_q2c7fp10z2522) 12-05 12:04:16
+![图片](http://127.0.0.1:5030/image/3f48957fc84713414a9fbf9c4b854884)
+
+桑桑(wxid_q2c7fp10z2522) 12-05 12:04:27
+有周限制
+
+刘小排(liuxiaopai) 12-05 17:18:03
+[链接|同样是20美金，小排现在劝你放弃Cursor换 Google Antigravity](https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247499866&idx=1&sn=015702632e8ab94e74a394f4079926fe&chksm=e84f4cff8cb3a2fbb80f24e37fce3a485dba97c44fcbae908c5c42d548057b60b24b847028ab&mpshare=1&scene=1&srcid=1205sbdoTVDZDlqIQMoIkn16&sharer_shareinfo=85883bd9bfc61703b050fe139a0b9418&sharer_shareinfo_first=85883bd9bfc61703b050fe139a0b9418#rd)
+
+和平 hepingfly(wxid_nhiimgfgcitu21) 12-05 17:23:11
+![图片](http://127.0.0.1:5030/image/4d028f94011fe74ef71d60f889d611f1)
+
+和平 hepingfly(wxid_nhiimgfgcitu21) 12-05 17:23:35
+claude 好像挂了
+
+小飞(xiaofei168496) 12-05 17:23:38
+> 刘小排(liuxiaopai) 12-05 17:18:03
+> [链接|同样是20美金，小排现在劝你放弃Cursor换 Google Antigravity](https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247499866&idx=1&sn=015702632e8ab94e74a394f4079926fe&chksm=e84f4cff8cb3a2fbb80f24e37fce3a485dba97c44fcbae908c5c42d548057b60b24b847028ab&mpshare=1&scene=1&srcid=1205sbdoTVDZDlqIQMoIkn16&sharer_shareinfo=85883bd9bfc61703b050fe139a0b9418&sharer_shareinfo_first=85883bd9bfc61703b050fe139a0b9418#rd)
+@刘小排 小排老师，新手呢，也建议换过去么
+
+星吟(wxid_ivo4n28g15qj21) 12-05 17:24:31
+![图片](http://127.0.0.1:5030/image/4a628443ae5f12da0e6840bc4f9939cd)
+
+星吟(wxid_ivo4n28g15qj21) 12-05 17:24:37
+因为cloudflare又出问题了
+
+Paradise Quest(wxid_g27abmn3c4ws21) 12-05 17:45:53
+antigravity对谷歌账户还有限制
+
+风生_(wxid_m7ugge3cxi4u21) 12-05 17:46:36
+gpt5 plus突然可以免费试用一个月，没有海外银行卡是不是薅不到这个羊毛了
+
+风生_(wxid_m7ugge3cxi4u21) 12-05 17:46:36
+![图片](http://127.0.0.1:5030/image/d7a5c02699f8918cc44a428ae47cdc60)
+
+晓峰-丁火(Lufy84) 12-05 18:01:51
+淘宝可以买，限额充值的咯
+
+晓峰-丁火(Lufy84) 12-05 18:02:37
+不过没必要就 150，想用就用～～
+
+Moore(xiaobei1984) 12-05 18:37:05
+[抠鼻]建议去闲鱼买礼品卡充值到 美区 appleid（美区id很容易注册的，手机号可以是中国，只是改一下appleid的地址），也可以土耳其，但是我觉得没必要哈。差不了多少钱
+
+Moore(xiaobei1984) 12-05 18:37:11
+而且还不需要梯子
+
+莫默(wxid_xtz5avm5c6t422) 12-05 19:02:29
+![图片](http://127.0.0.1:5030/image/b9604cd64ace9987d9418ccb85d991b2)
+
+莫默(wxid_xtz5avm5c6t422) 12-05 19:02:30
+为啥我看到的是这样的定价，20美金的在哪里[破涕为笑]
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 12-05 19:50:54
+你这不是美国吧

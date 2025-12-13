@@ -1,0 +1,1638 @@
+邓志彬(dengzhibin77) 05-30 00:02:33
+宁王（加油！）(wxid_5182881829312) 05-30 00:05:16
+哈哈  加油，我正在找gemini聊天，回头遇到免费模型解答不了的，我再去换付费模型
+
+邓志彬(dengzhibin77) 05-30 00:07:27
+[动画表情]
+
+Moore(xiaobei1984) 05-30 00:07:34
+"${xiaobei1984}" 拍了拍 "${dengzhibin77}"
+
+我 05-30 00:09:18
+"肥鱼" 撤回了一条消息
+
+我 05-30 00:09:18
+"肥鱼" 撤回了一条消息
+
+我 05-30 00:09:49
+"宁王（加油！）" 撤回了一条消息
+
+机器猫(wxid_9942319422914) 05-30 00:22:28
+https://app3.scys.easybuildweb.wiki/ 最近发现手册里小排老师的PUA大法真的好用，每次都在想怎么push一下我的克劳德[捂脸]干脆做了个小工具，用gpt来push克劳德，挺好玩的，可以试用一下
+
+SuperEric(janetchristmas) 05-30 00:25:38
+https://caicaicai.vercel.app/第一课作业，请大佬们指点
+
+刘小排(liuxiaopai) 05-30 00:29:16
+[动画表情]
+
+机器猫(wxid_9942319422914) 05-30 00:29:53
+> 刘小排(liuxiaopai) 05-30 00:29:16
+> [动画表情]
+[捂脸][捂脸]老师我是不是跑偏了
+
+自由人生体验家(wxid_nm7t40hfs5er21) 05-30 00:31:33
+![图片](http://127.0.0.1:5030/image/387bd35e659b9a21b6bb1ae0f8d22286)
+
+机器猫(wxid_9942319422914) 05-30 00:34:51
+> 自由人生体验家(wxid_nm7t40hfs5er21) 05-30 00:31:33
+> ![图片](http://127.0.0.1:5030/image/387bd35e659b9a21b6bb1ae0f8d22286)
+OK，谢谢反馈
+
+自由人生体验家(wxid_nm7t40hfs5er21) 05-30 00:35:07
+![图片](http://127.0.0.1:5030/image/fe4972245ebd0949a2a1930d237146d9)
+
+自由人生体验家(wxid_nm7t40hfs5er21) 05-30 00:36:24
+电脑访问又好了。[破涕为笑]
+
+机器猫(wxid_9942319422914) 05-30 00:37:58
+> 自由人生体验家(wxid_nm7t40hfs5er21) 05-30 00:36:24
+> 电脑访问又好了。[破涕为笑]
+是我的API问题，也许有速率限制[捂脸]
+
+自由人生体验家(wxid_nm7t40hfs5er21) 05-30 00:39:14
+哦，我的都是做了异常处理的，如果因速率限制报错，就调用其他api。[机智]
+
+自由人生体验家(wxid_nm7t40hfs5er21) 05-30 00:39:24
+可别没PUA成AI，反倒把自己训练成PUA大师了。[破涕为笑]
+
+机器猫(wxid_9942319422914) 05-30 00:40:04
+> 自由人生体验家(wxid_nm7t40hfs5er21) 05-30 00:39:14
+> 哦，我的都是做了异常处理的，如果因速率限制报错，就调用其他api。[机智]
+可以可以，学到了，后面也做一个API池[呲牙]
+
+人生提词器(zjhoscar) 05-30 03:49:38
+不会调api不会实现后端，难顶
+
+人生提词器(zjhoscar) 05-30 03:49:51
+[动画表情]
+
+Chouchou(wxid_ky2g0thk42zd22) 05-30 05:23:17
+[Emm]新mac到了，搞了半晚上clash。用的机场发的版本。重启电脑就程序错误。。最后问gpt，甩来一个gihub，一分钟搞完了。我真是个傻逼
+
+哎呦喂(OK10086KO) 05-30 07:25:42
+"${OK10086KO}" 拍了拍 "${wxid_ky2g0thk42zd22}"
+
+SuperEric(janetchristmas) 05-30 07:55:13
+ChatGPT本地网（gpt.shuipi.com）好用吗
+
+SuperEric(janetchristmas) 05-30 07:58:14
+我这小米手机半天没下载 到 官方 ChatGPT ，安装了谷歌三件套还不行
+
+寒宇枫(xidiboy) 05-30 08:08:31
+> SuperEric(janetchristmas) 05-30 07:58:14
+> 我这小米手机半天没下载 到 官方 ChatGPT ，安装了谷歌三件套还不行
+Google play搜chatgpt 
+
+寒宇枫(xidiboy) 05-30 08:09:29
+保证网络环境
+
+小李F刀(wxid_cgr2mr7ea63l22) 05-30 08:31:31
+"${wxid_cgr2mr7ea63l22}" 拍了拍 "${wxid_ky2g0thk42zd22}"
+
+George(georgeWorld) 05-30 08:39:39
+> SuperEric(janetchristmas) 05-30 07:58:14
+> 我这小米手机半天没下载 到 官方 ChatGPT ，安装了谷歌三件套还不行
+小米应用商店先去下载Google player，然后在google player下载chatgpt
+
+SuperEric(janetchristmas) 05-30 08:45:37
+@George 谢了
+
+SuperEric(janetchristmas) 05-30 08:45:46
+@寒宇枫 感谢
+
+SuperEric(janetchristmas) 05-30 08:47:02
+> SuperEric(janetchristmas) 05-30 00:25:38
+> https://caicaicai.vercel.app/第一课作业，请大佬们指点
+小白第一次作业，请大家反馈下[抱拳]
+
+JsonChao（晚10点睡觉）(wxid_txyrbyqpqhcc22) 05-30 08:50:46
+> SuperEric(janetchristmas) 05-30 08:47:02
+> > [引用]
+> 小白第一次作业，请大家反馈下[抱拳]
+有bug，
+
+JsonChao（晚10点睡觉）(wxid_txyrbyqpqhcc22) 05-30 08:50:46
+相同的也判断赢了
+
+JsonChao（晚10点睡觉）(wxid_txyrbyqpqhcc22) 05-30 08:50:47
+![图片](http://127.0.0.1:5030/image/0b0e859c2be95c7fb6e5455dc6b5d65e)
+
+Cristal Wu(vbonyage) 05-30 08:53:15
+#举手 小排老师&助教好
+
+我在测试的时候，能正常运行，但是部署了n次，每次都报错。报错我解决之后能运行，但是也不给我生成外部可访问链接，重新部署依然报错，这个怎么解决呢
+
+Cristal Wu(vbonyage) 05-30 08:53:50
+![图片](http://127.0.0.1:5030/image/08fb1e3635d6a1836450493af2b5f48e)
+
+橙(wxid_5p4o1lcta13121) 05-30 09:05:04
+前两天就看到群里有好几个用bolt.new部署失败的，你可以换教程里提到的v0,试试。
+
+橙(wxid_5p4o1lcta13121) 05-30 09:05:39
+"${wxid_5p4o1lcta13121}" 拍了拍 "${vbonyage}" ：一个永远进化的人[烟花]
+
+Cristal Wu(vbonyage) 05-30 09:07:07
+> 橙(wxid_5p4o1lcta13121) 05-30 09:05:04
+> 前两天就看到群里有好几个用bolt.new部署失败的，你可以换教程里提到的v0,试试。
+@橙 好的好的，谢谢啦~我先试试
+
+闻鉴(wxid_cdtcq1czmsgf22) 05-30 09:09:14
+20250530闻鉴学习分享
+终于完成了头像生成网站的MVP，用到了数据库、云存储、replicate API，虽然功能还不完善，但给自己加个油。
+有几点收获分享：
+1、replicate API需要提供完成的示例才行，不能用网址的形式给cursor，否则可能名称还有版本不对，也无法调用成功。
+2、replicate API图片调用，需要用到url，而不能直接传图片，导致需要用云存储。这点还未确认。请各位老师、大佬指点一下。
+3、关于免费不计算次数的模型。暂时考虑用gemin flash2.5，貌似不用计算次数。群里老师有说过gemin flash2.0不计次数，但cursor没有找到。圈友有说gemin flash2.5不计次数。
+
+SuperEric(janetchristmas) 05-30 09:10:17
+@JsonChao（晚10点睡觉） 感谢反馈
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 09:47:36
+ VO居然不能用谷歌邮箱登录
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 09:47:36
+![图片](http://127.0.0.1:5030/image/fa58698a991d3f528169d77e2c6ff0bf)
+
+刘小排(liuxiaopai) 05-30 09:48:28
+> Cristal Wu(vbonyage) 05-30 09:32:31
+> #举手 小排老师&助教好
+> 我在测试的时候，能正常运行，但是部署了n次，每次都报错。报错我解决之后能运行，但是也不给我生成外部可访问链接，重新部署依然报错，这个怎么解决呢
+试试v0 ，完成后继续去后面的课程@Cristal Wu 
+
+刘小排(liuxiaopai) 05-30 09:48:59
+@吴海晖®-广州白云 github登录全套的v0和vercel，体验最好
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 09:50:10
+老师我想问一下，我githua 是之前航海用QQ邮箱注册的应该不影响吧
+
+Es muss sein(wxid_qfhct3hwtuj022) 05-30 09:52:27
+> 吴海晖®-广州白云(wxid_78jyonoq7hyk22) 05-30 09:50:10
+> 老师我想问一下，我githua 是之前航海用QQ邮箱注册的应该不影响吧
+我的也是，同问[捂脸]
+
+刘小排(liuxiaopai) 05-30 09:53:46
+> 吴海晖®-广州白云(wxid_78jyonoq7hyk22) 05-30 09:50:10
+> 老师我想问一下，我githua 是之前航海用QQ邮箱注册的应该不影响吧
+不影响的
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 09:55:21
+反正就这个三个通过用一个账号就好了，对吧。github登录全套的v0和vercel
+
+Moore(xiaobei1984) 05-30 09:58:10
+> 闻鉴-广州(wxid_cdtcq1czmsgf22) 05-30 09:09:14
+> 20250530闻鉴学习分享
+> 终于完成了头像生成网站的MVP，用到了数据库、云存储、replicate API，虽然功能还不完善，但给自己加个油。
+> 有几点收获分享：
+> 1、replicate API需要提供完成的示例才行，不能用网址的形式给cursor，否则可能名称还有版本不对，也无法调用成功。
+> 2、replicate API图片调用，需要用到url，而不能直接传图片，导致需要用云存储。这点还未确认。请各位老师、大佬指点一下。
+> 3、关于免费不计算次数的模型。暂时考虑用gemin flash2.5，貌似不用计算次数。群里老师有说过gemin flash2.0不计次数，但cursor没有找到。圈友有说gemin flash2.5不计次数。
+第2点：cloudflare.com 的 R1 支持存储，提供一定量的免费
+第3点：可以手动添加 gemini-2.0-flash ，具备免费模型，可以搜聊天记录
+
+风生_(wxid_m7ugge3cxi4u21) 05-30 10:10:28
+闻鉴(wxid_cdtcq1czmsgf22) 05-30 10:14:05
+> Moore 助教(xiaobei1984) 05-30 09:58:10
+> > 闻鉴-广州(wxid_cdtcq1czmsgf22) 05-30 09:09:14
+> > 20250530闻鉴学习分享
+> > 终于完成了头像生成网站的MVP，用到了数据库、云存储、replicate API，虽然功能还不完善，但给自己加个油。
+> > 有几点收获分享：
+> > 1、replicate API需要提供完成的示例才行，不能用网址的形式给cursor，否则可能名称还有版本不对，也无法调用成功。
+> > 2、replicate API图片调用，需要用到url，而不能直接传图片，导致需要用云存储。这点还未确认。请各位老师、大佬指点一下。
+> > 3、关于免费不计算次数的模型。暂时考虑用gemin flash2.5，貌似不用计算次数。群里老师有说过gemin flash2.0不计次数，但cursor没有找到。圈友有说gemin flash2.5不计次数。
+> 第2点：cloudflare.com 的 R1 支持存储，提供一定量的免费
+> 第3点：可以手动添加 gemini-2.0-flash ，具备免费模型，可以搜聊天记录
+@Moore 助教 老师，谢谢。我看到聊天记录了。已加2.0模型，可以用思考模式吗？
+就想再确认下：我看过cursor网站，没有找到gemini-2.5-flash是否免费。如果gemini-2.5-flash免费，就用这个，至少比2.0一点。
+
+Moore(xiaobei1984) 05-30 10:16:02
+> 闻鉴-广州(wxid_cdtcq1czmsgf22) 05-30 10:14:05
+> > [引用]
+> @Moore 助教 老师，谢谢。我看到聊天记录了。已加2.0模型，可以用思考模式吗？
+> 就想再确认下：我看过cursor网站，没有找到gemini-2.5-flash是否免费。如果gemini-2.5-flash免费，就用这个，至少比2.0一点。
+思考模式是什么，是 think 或推理模式？不建议加，其实就是解决一般性问题，如果要处理稍复杂的问题，可以使用 Gemini Pro 2.5 或者 Claude 4.0 thinkg
+gemini-2.5-flash 我没试过，你可以试试
+
+Chipen Yip(nihaijidewoma001) 05-30 10:19:30
+#举手
+在本地使用Supabase时会一直提示 Failed to fetch ，Supabase参数配置都没问题，本地使用postman测试正常，部署到vercel线上就能正常调用数据库，就是本地不行。
+通过ai来查找原因还是没找到，本地ping了数据库URL正常，但是curl就不行。Windows和mac都试过，一样的问题。
+这是为什么呢，有没有圈友碰到相同情况，要怎么解决呢。
+
+提交失败: Error: 插入记录失败: TypeError: fetch failed
+    at insertFaceScore (models/facescore.ts:54:10)
+    at async submitScore (services/facescore.ts:61:20)
+    at async POST (app/api/submit-score/route.ts:57:19)
+
+Cristal Wu(vbonyage) 05-30 10:28:18
+> 刘小排(liuxiaopai) 05-30 09:48:28
+> > [引用]
+> 试试v0 ，完成后继续去后面的课程@Cristal Wu 
+@刘小排 好滴，相当于如果原型部署不成功，一般不花太多时间修复，用cursor再去迭代
+
+W实(wxid_z6qxb9mxifwy22) 05-30 10:48:17
+> 闻鉴-广州(wxid_cdtcq1czmsgf22) 05-30 10:14:05
+> > [引用]
+> @Moore 助教 老师，谢谢。我看到聊天记录了。已加2.0模型，可以用思考模式吗？
+> 就想再确认下：我看过cursor网站，没有找到gemini-2.5-flash是否免费。如果gemini-2.5-flash免费，就用这个，至少比2.0一点。
+实测gemini-2.5-flash不消耗500的 premium model次数
+
+W实(wxid_z6qxb9mxifwy22) 05-30 10:48:43
+![图片](http://127.0.0.1:5030/image/7534a07c092f9d48d9e8830e058a0b33)
+
+半尘(muling12) 05-30 10:49:15
+不用这么省次数吧
+
+半尘(muling12) 05-30 10:50:45
+windsurf也挺好用的，感觉体验已经快要追上cursor
+
+哩厘锂力(zizhazhu) 05-30 10:54:45
+我用windsurf经常碰见工具调用失败[捂脸]，你们没碰到过吗
+
+半尘(muling12) 05-30 11:05:59
+没有遇到，可能我用得少，windsurf的preview比stagewise插件体验好很多
+
+酷克(wxid_wrvymzvoo21g12) 05-30 11:08:21
+#举手 cursor刚打开，发了提示词，卡着不动是怎么回事？
+
+酷克(wxid_wrvymzvoo21g12) 05-30 11:08:21
+![图片](http://127.0.0.1:5030/image/17d4f26eb446e97933c1bbad0f57dacf)
+
+Paradise Quest(wxid_g27abmn3c4ws21) 05-30 11:11:28
+#举手 我提交代码后，转一晚上提交不上去是因为啥呢，这个时候停止会造成什么影响吗，或者有其他操作促进提交不
+
+Paradise Quest(wxid_g27abmn3c4ws21) 05-30 11:11:28
+![图片](http://127.0.0.1:5030/image/8d4115e095f3ede0c8d1a0096c3307ba)
+
+闻鉴(wxid_cdtcq1czmsgf22) 05-30 11:12:09
+> W实(wxid_z6qxb9mxifwy22) 05-30 10:48:17
+> > 闻鉴-广州(wxid_cdtcq1czmsgf22) 05-30 10:14:05
+> > > [引用]
+> > @Moore 助教 老师，谢谢。我看到聊天记录了。已加2.0模型，可以用思考模式吗？
+> > 就想再确认下：我看过cursor网站，没有找到gemini-2.5-flash是否免费。如果gemini-2.5-flash免费，就用这个，至少比2.0一点。
+> 实测gemini-2.5-flash不消耗500的 premium model次数
+感谢@Ben实 可以用思考模式吗？
+
+Lin(wxid_hiuxmzkjyvm822) 05-30 11:25:29
+#举手 我先通过cursor将代码上传至github后，然后通过gitHub Desktop将项目克隆了。
+接着，我通过cursor继续修改代码，但是gitHub Desktop不会同步修改的代码信息。
+正常来讲，我在cursor修改的信息，应该会在gitHub Desktop同步展示的是吗？
+
+
+Lin(wxid_hiuxmzkjyvm822) 05-30 11:25:29
+![图片](http://127.0.0.1:5030/image/59f9a2d4279716f7459f0d41059a5c01)
+
+吕明亮😄 Nike(wxid_d3efvdgoh3xy22) 05-30 11:32:56
+应该是你要手动提交上去吧
+
+Chipen Yip(nihaijidewoma001) 05-30 11:38:12
+> Lin(wxid_hiuxmzkjyvm822) 05-30 11:25:29
+> #举手 我先通过cursor将代码上传至github后，然后通过gitHub Desktop将项目克隆了。
+> 接着，我通过cursor继续修改代码，但是gitHub Desktop不会同步修改的代码信息。
+> 正常来讲，我在cursor修改的信息，应该会在gitHub Desktop同步展示的是吗？
+没有同步，感觉是你打开的项目不一致。
+你要确保在cursor中打开的项目，要是从github中clone下来的。两者要一致。
+
+Lin(wxid_hiuxmzkjyvm822) 05-30 11:41:14
+我知道了，克隆下来后，必须通过gitHub Desktop点击用cursor打开。
+然后后续有修改就能同步了
+
+我之前是用cursor提交了第一版本到github，然后用gitHub Desktop克隆。然后就继续在cursor进行修改了。应该关闭掉原来的cursor，通过gitHub Desktop点击用cursor打开，然后就可以同步了
+
+WILL（X-lab）(wxid_7l0prsxunh0022) 05-30 11:44:12
+今日热搜 · 新手友好SaaS灵感机会（2025/5/30）
+
+独立开发者，尤其是刚入门的你，也能抓住趋势！WhyHotNow（www.whyhotnow.com）每天根据最新热搜词，精选简单、易上手的SaaS创意灵感，帮你从0到1打造第一个作品。
+
+今日SaaS灵感清单（附热搜词&搜索量）
+
+🏀 赛事自动摘要小工具
+	•	热搜词：pbks vs rcb（100K+）、pacers vs knicks（100K+）、oilers vs stars（10K+）、us women’s open（20K+）
+	•	用AI自动生成热门体育比赛简短赛况摘要，支持一键分享到社交媒体。适合用现成的AI API + 基础网页前端快速实现。
+
+🛒 品牌舆情监测机器人
+	•	热搜词：cvs stores closing（20K+）、ice cream chain closing 500 stores（20K+）、victoria secret security incident（20K+）
+	•	监控品牌相关新闻和社交动态，自动推送负面新闻或门店变动提醒。可用RSS+AI摘要+简单信息推送服务搭建。
+
+🎤 娱乐八卦内容生成器
+	•	热搜词：shakira concert boston（20K+）、sydney sweeney（50K+）、karate kid legends（20K+）、stephen miller wife（10K+）
+	•	针对热搜名人，自动生成简要新闻摘要或趣味问答卡片，帮助自媒体和内容创作者省时省力。适合用NoCode工具+AI内容生成API实现。
+
+🌍 灾害信息聚合简报
+	•	热搜词：swiss glacier collapses（50K+）
+	•	自动收集并整理自然灾害新闻，生成每日科普简报，推送给关注气候变化的用户。可以用爬虫+AI摘要+邮件推送快速上线。
+
+🚗 汽车新车对比助手
+	•	热搜词：2026 jeep cherokee（5K+）
+	•	自动抓取新车发布、测评、用户评论，生成简明对比表，帮助小白用户选车。适合用低代码平台+API接口搭建。
+
+每一天的热搜，都是你的SaaS练手机会！ 🔥 建议收藏：www.whyhotnow.com，每天浏览，第一时间发现属于你的新手友好SaaS赛道！
+
+李江(apexlj) 05-30 12:02:33
+改的过程中，才发现ui的很多写法都是很随意的，快速补了shadcn的知识，然后开始重构，否则越到后面维护工作量越大
+
+李江(apexlj) 05-30 12:02:33
+![图片](http://127.0.0.1:5030/image/27acbb29878057a7dfeee845d588ba31)
+
+李江(apexlj) 05-30 12:03:17
+大家注意，cursor在完成功能时，不太会注意最佳实践。比如shadcn的使用上，会随意用写死的样式，这样越到后面越不好维护
+
+李江(apexlj) 05-30 12:03:42
+可以完成一部分功能后，让cursor按照最佳实践检查并小步重构下
+
+李江(apexlj) 05-30 12:05:07
+[文件|shadcn-best-practices.md](http://127.0.0.1:5030/file/3aef5e48efcea4309c142b5c32a6b151)
+
+李江(apexlj) 05-30 12:05:26
+如果大家现在遇到这个问题。这里总结了一份最佳实践文档，可以让cursor对照着重构。
+
+橙(wxid_5p4o1lcta13121) 05-30 12:08:20
+> 李江(apexlj) 05-30 12:05:26
+> 如果大家现在遇到这个问题。这里总结了一份最佳实践文档，可以让cursor对照着重构。
+[强][强]，确实是的，cursor有时候写代码很随意
+
+超人Lee(wxid_ibh5imm7h6wy22) 05-30 12:10:14
+[动画表情]
+
+李江(apexlj) 05-30 12:10:41
+是的，早知道早预防
+
+机器猫(wxid_9942319422914) 05-30 12:11:11
+> 李江(apexlj) 05-30 12:05:07
+> [文件|shadcn-best-practices.md](http://127.0.0.1:5030/file/3aef5e48efcea4309c142b5c32a6b151)
+感谢大佬
+
+Es muss sein(wxid_qfhct3hwtuj022) 05-30 12:11:27
+> 李江(apexlj) 05-30 12:05:07
+> [文件|shadcn-best-practices.md](http://127.0.0.1:5030/file/3aef5e48efcea4309c142b5c32a6b151)
+感谢
+
+小陈老师(wxid_1f5f4iwhhiqc22) 05-30 12:11:42
+有没有那个大模型生成这种类型的图效果是比较好的？
+
+小陈老师(wxid_1f5f4iwhhiqc22) 05-30 12:11:42
+![图片](http://127.0.0.1:5030/image/86846247f9f38b2b0a8825ed03b3edb2)
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 12:19:37
+> 李江(apexlj) 05-30 12:03:42
+> 可以完成一部分功能后，让cursor按照最佳实践检查并小步重构下
+那应该可以在设置里，把这个要求着进去就好了吧。
+
+一夕(phil7028) 05-30 12:22:31
+> 李江(apexlj) 05-30 12:05:26
+> 如果大家现在遇到这个问题。这里总结了一份最佳实践文档，可以让cursor对照着重构。
+[强][强][强]
+
+张宇(wxid_9964209647412) 05-30 12:28:07
+"${wxid_9964209647412}" 拍了拍 "${apexlj}"
+
+我 05-30 12:46:57
+"百威" 撤回了一条消息
+
+安来团队（18640264499）(wxid_15zvhbiqzzbz22) 05-30 12:50:05
+![图片](http://127.0.0.1:5030/image/349ee64d8313eb735cdf9e9b1a47969e)
+
+安来团队（18640264499）(wxid_15zvhbiqzzbz22) 05-30 12:50:18
+这怎么看贵贱啊[捂脸]
+
+百威(wxid_aaxezeq72q0321) 05-30 12:50:42
+![图片](http://127.0.0.1:5030/image/2f7b81e1614bc29e713b73d31da1edbf)
+
+安来团队（18640264499）(wxid_15zvhbiqzzbz22) 05-30 12:51:38
+[抱拳][抱拳]
+
+百威(wxid_aaxezeq72q0321) 05-30 13:06:38
+做了个智能代办清单小工具，能使用AI自动识别优先级，给出智能建议，欢迎体验：https://ai-todo-lists.vercel.app
+
+JsonChao（晚10点睡觉）(wxid_txyrbyqpqhcc22) 05-30 13:10:24
+> 百威(wxid_aaxezeq72q0321) 05-30 13:06:38
+> 做了个智能代办清单小工具，能使用AI自动识别优先级，给出智能建议，欢迎体验：https://ai-todo-lists.vercel.app
+我输入【对任务列表进行优先级排序】后，等待了10秒，出现了1个新的待办项，我预想的是网站能帮我自动按优先级排序目前的事项。
+
+JsonChao（晚10点睡觉）(wxid_txyrbyqpqhcc22) 05-30 13:10:24
+![图片](http://127.0.0.1:5030/image/9828707772d61b1512694879537bad96)
+
+百威(wxid_aaxezeq72q0321) 05-30 13:11:06
+嗷嗷不是这个，是你输入“晚上去吃饭”它就会根据需求来给出AI建议和优化事项
+
+百威(wxid_aaxezeq72q0321) 05-30 13:11:15
+我做的是这个功能[破涕为笑]
+
+JsonChao（晚10点睡觉）(wxid_txyrbyqpqhcc22) 05-30 13:11:20
+等待时间有点久，一般超过10s，我会考虑加个加载提示，优化用户的使用体验
+
+百威(wxid_aaxezeq72q0321) 05-30 13:11:53
+有道理！现在就是AI反应速度就很慢。。。不知道怎么加速
+
+百威(wxid_aaxezeq72q0321) 05-30 13:11:58
+用的deepseek官方的API
+
+JsonChao（晚10点睡觉）(wxid_txyrbyqpqhcc22) 05-30 13:13:15
+> 百威(wxid_aaxezeq72q0321) 05-30 13:11:06
+> 嗷嗷不是这个，是你输入“晚上去吃饭”它就会根据需求来给出AI建议和优化事项
+那这个我感觉竞争力比较弱，用户要的是直接能交付的结果（来自小排老师对未来ai产品形态的预测）
+
+百威(wxid_aaxezeq72q0321) 05-30 13:15:08
+嗯，这个主要是拿来练练手，学习课程做的，太小白了很多东西做不出来
+
+Chipen Yip(nihaijidewoma001) 05-30 13:15:26
+如果是我的话，建议再加个任务时钟预先提醒，然后再弄个每日任务日历，周日历这样的，一眼能看到任务安排密度，结合这些信息，ai再给出任务优先级的调整、是否调整任务时间避免任务完成不了等优化意见。
+
+百威(wxid_aaxezeq72q0321) 05-30 13:16:24
+下一个版本优化一下！
+
+JsonChao（晚10点睡觉）(wxid_txyrbyqpqhcc22) 05-30 13:48:41
+> 百威(wxid_aaxezeq72q0321) 05-30 13:11:53
+> 有道理！现在就是AI反应速度就很慢。。。不知道怎么加速
+这个让cursor帮忙优化加载体验就可以，具体效果你可以看看我这边实现的
+
+小陈老师(wxid_1f5f4iwhhiqc22) 05-30 13:49:05
+#提问  要调用replicate 的api 是不是得绑定国外银行卡，没有的话是不是得通过野卡？
+
+ 05-30 13:49:09
+![视频](http://127.0.0.1:5030/video/c79fd0bd31266b716a5d11f21c59fd7b)
+
+机器猫(wxid_9942319422914) 05-30 13:49:49
+> 深圳-小陈老师(wxid_1f5f4iwhhiqc22) 05-30 13:49:05
+> #提问  要调用replicate 的api 是不是得绑定国外银行卡，没有的话是不是得通过野卡？
+yeka可以的，我这边用的就是，选择其他就行
+
+小陈老师(wxid_1f5f4iwhhiqc22) 05-30 13:50:11
+国内的卡是不是用不了
+
+天天(wxid_c5wni049a7il22) 05-30 13:51:11
+能用
+
+ZhuangWR(wxid_obrl5kqlr4z322) 05-30 13:51:18
+做了个根据朋友圈文案、心情、小故事等生成漫画的工具：https://comic-lilac.vercel.app/ ，欢迎体验大家下（api可能有点不稳定）
+
+ZhuangWR(wxid_obrl5kqlr4z322) 05-30 13:51:19
+![图片](http://127.0.0.1:5030/image/8b477213328eee26b24955ea8a44984c)
+
+roderickོ(wxid_vc3bimw9zofj21) 05-30 13:56:57
+@ZhuangXX 请问这个是用啥做的？真好看!
+
+roderickོ(wxid_vc3bimw9zofj21) 05-30 13:56:57
+![图片](http://127.0.0.1:5030/image/3d41421170f7c85d642e70cd06284d7e)
+
+ZhuangWR(wxid_obrl5kqlr4z322) 05-30 13:57:24
+用 google字体
+
+ZhuangWR(wxid_obrl5kqlr4z322) 05-30 13:57:49
+https://fonts.google.com/specimen/Pacifico
+
+roderickོ(wxid_vc3bimw9zofj21) 05-30 13:58:23
+好，谢谢[ThumbsUp]
+
+强(q151285810) 05-30 14:01:22
+@西顾 [强][强]
+
+强(q151285810) 05-30 14:01:22
+![图片](http://127.0.0.1:5030/image/4efbcd243112eaf27625696741286b7e)
+
+强(q151285810) 05-30 14:02:36
+@西顾 做的很棒，请问生成漫画故事用的什么api
+
+ZhuangWR(wxid_obrl5kqlr4z322) 05-30 14:04:39
+即梦 api，上次群友分享1 元优惠 即梦那个
+
+SweetCandy(nieyalan6621) 05-30 14:05:42
+> 西顾(wxid_obrl5kqlr4z322) 05-30 13:51:18
+> 做了个根据朋友圈文案、心情、小故事等生成漫画的工具：https://comic-lilac.vercel.app/ ，欢迎体验大家下（api可能有点不稳定）
+不错欸  喜欢
+
+刘小排(liuxiaopai) 05-30 14:08:38
+[强][强][强]
+
+George(georgeWorld) 05-30 14:12:05
+> 西顾(wxid_obrl5kqlr4z322) 05-30 13:51:18
+> 做了个根据朋友圈文案、心情、小故事等生成漫画的工具：https://comic-lilac.vercel.app/ ，欢迎体验大家下（api可能有点不稳定）
+页面很清爽，出图也很好啊
+
+George(georgeWorld) 05-30 14:12:18
+![图片](http://127.0.0.1:5030/image/75c2dab84a66af2889b60d2168f7893e)
+
+George(georgeWorld) 05-30 14:12:56
+出的图，对中文的支持还不好
+
+ZhuangWR(wxid_obrl5kqlr4z322) 05-30 14:16:20
+> George(georgeWorld) 05-30 14:12:56
+> 出的图，对中文的支持还不好
+我努力调调看，感谢反馈
+
+安来团队（18640264499）(wxid_15zvhbiqzzbz22) 05-30 14:19:06
+![图片](http://127.0.0.1:5030/image/8f39fbab978997f24b0f26b01c681bb1)
+
+小陈老师(wxid_1f5f4iwhhiqc22) 05-30 14:19:15
+#举手  国内的卡是怎么去绑定replicate 的
+
+安来团队（18640264499）(wxid_15zvhbiqzzbz22) 05-30 14:19:25
+即孟的api也在这里吗
+
+李澹归(wxid_ixr3b2qghvtx22) 05-30 14:27:12
+上次分享的那个即梦还剩2天活动了，6月开始就按7分钱一张收费了，这两天多玩下吧
+
+小小凡人(23点睡觉)(xiao361042172) 05-30 14:28:42
+> 李澹归(wxid_ixr3b2qghvtx22) 05-30 14:27:12
+> 上次分享的那个即梦还剩2天活动了，6月开始就按7分钱一张收费了，这两天多玩下吧
+请问下还有链接吗？我也想试试看，正在做一个生成商品主图的网站[破涕为笑]
+
+李澹归(wxid_ixr3b2qghvtx22) 05-30 14:30:27
+https://www.dmxapi.cn/seedream
+
+小小凡人(23点睡觉)(xiao361042172) 05-30 14:40:29
+谢谢了哈[666]
+
+刘小排(liuxiaopai) 05-30 14:42:13
+> 深圳-小陈老师(wxid_1f5f4iwhhiqc22) 05-30 14:19:15
+> #举手  国内的卡是怎么去绑定replicate 的
+国内发行的visa/master card都行@深圳-小陈老师 
+
+ 05-30 14:59:22
+![视频](http://127.0.0.1:5030/video/857d23497dfd788e776cb679909a8a76)
+
+自由人生体验家(wxid_nm7t40hfs5er21) 05-30 14:59:29
+一键生成账号形象。本来还做了国际化，但是AI只肯做首页，无论怎么跟它说把所有页面都国际化，它都不听，只好先隐藏语言选择的下拉框了。。[捂脸]
+
+刘小排(liuxiaopai) 05-30 14:59:56
+哈哈 你需要往后面学@自由人生体验家 
+
+自由人生体验家(wxid_nm7t40hfs5er21) 05-30 15:00:10
+[动画表情]
+
+刘小排(liuxiaopai) 05-30 15:00:16
+前两课，只能让你做到这里
+
+自由人生体验家(wxid_nm7t40hfs5er21) 05-30 15:00:27
+[动画表情]
+
+吕明亮😄 Nike(wxid_d3efvdgoh3xy22) 05-30 15:01:59
+@刘小排 小排老师，请教下原生openai是不是调用不了哇，我想做一个宠物旅行自拍，发现除了chatgpt，其它API都满足不了[破涕为笑]
+
+吕明亮😄 Nike(wxid_d3efvdgoh3xy22) 05-30 15:01:59
+![图片](http://127.0.0.1:5030/image/f91659aea8c04b9c16ff82ec44cd0762)
+
+刘小排(liuxiaopai) 05-30 15:03:31
+> 苏东皮-深圳(wxid_d3efvdgoh3xy22) 05-30 15:01:59
+> @刘小排 小排老师，请教下原生openai是不是调用不了哇，我想做一个宠物旅行自拍，发现除了chatgpt，其它API都满足不了[破涕为笑]
+openai/gpt-image-1  @苏东皮-深圳  
+
+吕明亮😄 Nike(wxid_d3efvdgoh3xy22) 05-30 15:03:56
+我试试，感谢[抱拳]
+
+小小凡人(23点睡觉)(xiao361042172) 05-30 15:04:32
+@刘小排 小排老师，你知道哪个生成图片的api对中文文字支持好点吗？
+
+刘小排(liuxiaopai) 05-30 15:05:00
+即梦
+
+小小凡人(23点睡觉)(xiao361042172) 05-30 15:05:44
+刚刚用了下，图片上的中文还是有不少是乱码的[捂脸]
+
+刘小排(liuxiaopai) 05-30 15:06:38
+没有比它更好的
+
+Paradise Quest(wxid_g27abmn3c4ws21) 05-30 15:07:36
+生图的对文字很容易出错，我之前弄都是强调检查文字不要出现错误
+
+李澹归(wxid_ixr3b2qghvtx22) 05-30 15:07:51
+即梦对文字需要用双引号包裹
+
+李澹归(wxid_ixr3b2qghvtx22) 05-30 15:08:09
+对描述词需要做一个控制
+
+我 05-30 15:11:13
+"Moore 助教" 撤回了一条消息
+
+Moore(xiaobei1984) 05-30 15:11:18
+中文支持度最好的是 即梦3，你现在使用的估计不是即梦3API
+
+Moore(xiaobei1984) 05-30 15:11:40
+而即梦3官方API 在 coze 里有
+
+Moore(xiaobei1984) 05-30 15:16:41
+如果构建即梦3工作流，在这里 https://www.youtube.com/watch?v=Cr0YEwg5-LI。 如何使用 coze 工作流 作为 API，在课程里有
+
+机器猫(wxid_9942319422914) 05-30 15:17:59
+https://app2.scys.easybuildweb.wiki/ 名字测评做了一些更新，用了联网的模型来收集资料，生图的速度还是有些慢，大家有么有速度快一些的API推荐呢[捂脸]
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 15:18:41
+官网的Deepseek ，麻雀api的gpt4o。感觉挺快
+
+机器猫(wxid_9942319422914) 05-30 15:20:13
+> 吴海晖®-广州白云(wxid_78jyonoq7hyk22) 05-30 15:18:41
+> 官网的Deepseek ，麻雀api的gpt4o。感觉挺快
+好的，谢谢，我去试试麻雀的gptimage
+
+胡#侃(wxid_g0x76rrcgovz22) 05-30 15:22:21
+用bolt做好原样后，下载文件拖入cursor显示无法打开，有碰到这个问题的小伙伴吗
+
+胡#侃(wxid_g0x76rrcgovz22) 05-30 15:22:25
+![图片](http://127.0.0.1:5030/image/3c65a57492b0dc4491e5a28c86e20fae)
+
+小李F刀(wxid_cgr2mr7ea63l22) 05-30 15:22:42
+先解压
+
+小李F刀(wxid_cgr2mr7ea63l22) 05-30 15:22:57
+再用 cursor 打开文件夹
+
+胡#侃(wxid_g0x76rrcgovz22) 05-30 15:23:13
+好的，感谢感谢
+
+阡陌 (晚10:30睡觉)(wxid_a8h30yg8eq9x22) 05-30 15:41:21
+#提问 请问我从V0下载的代码，用cursor打开并且修改以后，cursor文件部分和git仓库部分显示的内容不一致，文件那块是吵架包赢的项目，git仓库部分显示却是另一个项目的提交记录，这种情况下该如何给文件部分的项目创建远程repo啊，重新打开好几次都是这样
+
+我 05-30 16:02:57
+"明远" 撤回了一条消息
+
+青阳(wxid_gtp63xxelmjn22) 05-30 16:06:30
+[小程序|企业微信直播](https://mp.weixin.qq.com/mp/waerrpage?appid=wx7424030d69bde86e&type=upgrade&upgradetype=3#wechat_redirect)
+
+人生提词器(zjhoscar) 05-30 16:24:40
+这个我tm真的太搞笑了，大家也可以试试自定义自己的rule添加一下语气，真好玩
+
+人生提词器(zjhoscar) 05-30 16:24:40
+![图片](http://127.0.0.1:5030/image/9a83cebead2a6129fb92dee48dcddf5c)
+
+人生提词器(zjhoscar) 05-30 16:25:53
+![图片](http://127.0.0.1:5030/image/50c87009a5490f4b2022730880dbd6ff)
+
+钢铁的铁(tht2001) 05-30 16:26:04
+#举手 我的cursor突然罢工了，网络正常，它一直显示：Connection failed. If the problem persists, please check your internet connection or VPN (Request ID: 948ee4cf-3c92-4101-94a7-ca6052662f54)，AI说重启，cursor重启了不行，电脑重启了还是不行，梯子关了开了都不行
+
+小明(wxid_at9px5nf07qm22) 05-30 16:26:57
+> 钢铁的铁(tht2001) 05-30 16:26:04
+> #举手 我的cursor突然罢工了，网络正常，它一直显示：Connection failed. If the problem persists, please check your internet connection or VPN (Request ID: 948ee4cf-3c92-4101-94a7-ca6052662f54)，AI说重启，cursor重启了不行，电脑重启了还是不行，梯子关了开了都不行
+代理工具，模式从规则转变为直连
+
+机器猫(wxid_9942319422914) 05-30 16:27:43
+> 云墩(zjhoscar) 05-30 16:24:40
+> ![图片](http://127.0.0.1:5030/image/9a83cebead2a6129fb92dee48dcddf5c)
+这抽象的没边儿了[捂脸]我也去弄一个
+
+钢铁的铁(tht2001) 05-30 16:27:43
+代理关闭了
+
+极客信条(kongfulive) 05-30 16:28:00
+昨天我把自己给蠢死了。直接在corsur扔需求，竟然为了环境部署和依赖安装白白刷掉了六次请求
+
+钢铁的铁(tht2001) 05-30 16:31:15
+还是不行，我把他卸载重装看看
+
+小明(wxid_at9px5nf07qm22) 05-30 16:31:30
+> 钢铁的铁(tht2001) 05-30 16:31:15
+> 还是不行，我把他卸载重装看看
+别
+
+钢铁的铁(tht2001) 05-30 16:31:55
+上一秒好好的突然罢工
+
+小明(wxid_at9px5nf07qm22) 05-30 16:32:11
+1。你先确定下，代理工具现在是不是直连状态
+2.打开一个网页，看看是不是你的网络罢工了
+
+钢铁的铁(tht2001) 05-30 16:32:17
+![图片](http://127.0.0.1:5030/image/6cad2ff83c6b2209fb53ace9ef586b03)
+
+钢铁的铁(tht2001) 05-30 16:32:35
+确认网络正常
+
+钢铁的铁(tht2001) 05-30 16:32:48
+代理工具已关闭
+
+钢铁的铁(tht2001) 05-30 16:33:23
+问AI叫重启
+
+小明(wxid_at9px5nf07qm22) 05-30 16:33:42
+![图片](http://127.0.0.1:5030/image/ced8c94866a24bf567981668db3c8323)
+
+小明(wxid_at9px5nf07qm22) 05-30 16:33:51
+模型选择一个，选到 Claude4.0
+
+钢铁的铁(tht2001) 05-30 16:33:58
+![图片](http://127.0.0.1:5030/image/170ec0b3caf47a72fbb62f5db5370e25)
+
+钢铁的铁(tht2001) 05-30 16:34:04
+好
+
+小明(wxid_at9px5nf07qm22) 05-30 16:34:22
+再试试看
+
+闻鉴(wxid_cdtcq1czmsgf22) 05-30 16:34:41
+> 钢铁的铁(tht2001) 05-30 16:26:04
+> #举手 我的cursor突然罢工了，网络正常，它一直显示：Connection failed. If the problem persists, please check your internet connection or VPN (Request ID: 948ee4cf-3c92-4101-94a7-ca6052662f54)，AI说重启，cursor重启了不行，电脑重启了还是不行，梯子关了开了都不行
+1、你降一下模型试一下。
+2、或者你说刚才网络故障了，现在请继续。
+
+钢铁的铁(tht2001) 05-30 16:35:04
+![图片](http://127.0.0.1:5030/image/0eea4406bf9967786d573ceea9ae8363)
+
+人生提词器(zjhoscar) 05-30 16:35:06
+这AI是疯了吗
+
+人生提词器(zjhoscar) 05-30 16:35:06
+![图片](http://127.0.0.1:5030/image/f1bf34769724cdfea01cb5d31ef3df43)
+
+钢铁的铁(tht2001) 05-30 16:35:14
+还是不理人
+
+钢铁的铁(tht2001) 05-30 16:36:24
+> 闻鉴-广州(wxid_cdtcq1czmsgf22) 05-30 16:34:41
+> > [引用]
+> 1、你降一下模型试一下。
+> 2、或者你说刚才网络故障了，现在请继续。
+降了也不行[裂开]
+
+小明(wxid_at9px5nf07qm22) 05-30 16:36:33
+@钢铁的铁 可以重启 cursor，但是别重装
+
+小明(wxid_at9px5nf07qm22) 05-30 16:36:50
+cursor 确实有 bug，有时候需要重启
+
+闻鉴(wxid_cdtcq1czmsgf22) 05-30 16:36:58
+> 钢铁的铁(tht2001) 05-30 16:36:24
+> > 闻鉴-广州(wxid_cdtcq1czmsgf22) 05-30 16:34:41
+> > > [引用]
+> > 1、你降一下模型试一下。
+> > 2、或者你说刚才网络故障了，现在请继续。
+> 降了也不行[裂开]
+反正我也是经常遇到。
+
+钢铁的铁(tht2001) 05-30 16:37:26
+重启两三遍了[流泪]电脑也重启了
+
+Paradise Quest(wxid_g27abmn3c4ws21) 05-30 16:37:40
+> 云墩(zjhoscar) 05-30 16:35:06
+> ![图片](http://127.0.0.1:5030/image/f1bf34769724cdfea01cb5d31ef3df43)
+我去，难道跟之前暴雷的那家一样背后其实是程序员嘛[破涕为笑]
+
+Paradise Quest(wxid_g27abmn3c4ws21) 05-30 16:37:47
+回复这些东西
+
+钢铁的铁(tht2001) 05-30 16:38:40
+在问他Vercel部署问题，明明好好在交流，突然罢工
+
+愿景成(wxid_v9xy8ef5wfo422) 05-30 16:39:20
+> 钢铁的铁(tht2001) 05-30 16:35:04
+> ![图片](http://127.0.0.1:5030/image/0eea4406bf9967786d573ceea9ae8363)
+我刚才也有这问题，选择cluade4.0 + thinking就正常了，多切换下高级模型，说不定优先级更高就没这错了
+
+Chouchou(wxid_ky2g0thk42zd22) 05-30 16:39:28
+> 钢铁的铁(tht2001) 05-30 16:32:17
+> ![图片](http://127.0.0.1:5030/image/6cad2ff83c6b2209fb53ace9ef586b03)
+这个我一般是没开梯子全局才出现
+
+Chouchou(wxid_ky2g0thk42zd22) 05-30 16:39:40
+或者是机场到期了
+
+Chouchou(wxid_ky2g0thk42zd22) 05-30 16:39:42
+[破涕为笑]
+
+愿景成(wxid_v9xy8ef5wfo422) 05-30 16:39:49
+开没开都会有
+
+莫歌拿(wxid_0msbt56upap21) 05-30 16:40:05
+刚刚我的8G内存小电脑跑cursor，不知道触发了什么，突然关机了...一直是远程控制的，这下好了，端午没得用了，只能玩V0了
+
+枝妍(qq799096021) 05-30 16:43:54
+写在 env.local里面的API 总是调用失败，直接给到cursor 密钥就能调用成功，这是什么原因呢？
+
+人生提词器(zjhoscar) 05-30 16:45:01
+![图片](http://127.0.0.1:5030/image/4478417cb7985a64c51cab7e02d7ebba)
+
+半尘(muling12) 05-30 16:45:25
+> 钢铁的铁(tht2001) 05-30 16:32:17
+> ![图片](http://127.0.0.1:5030/image/6cad2ff83c6b2209fb53ace9ef586b03)
+如果开没开都不行，可以试试关闭http2
+
+人生提词器(zjhoscar) 05-30 16:45:30
+修复了半天修复不了，又没内功看不懂，直接把整个文件删掉了
+
+半尘(muling12) 05-30 16:46:07
+![图片](http://127.0.0.1:5030/image/34af9b97642cf0c9b18202d67b9990d0)
+
+李江(apexlj) 05-30 16:48:08
+> 钢铁的铁(tht2001) 05-30 16:35:04
+> ![图片](http://127.0.0.1:5030/image/0eea4406bf9967786d573ceea9ae8363)
+我遇到过，你可以新开一个聊天窗口。或者在聊天框输入指令让继续。不要点击 try again 按钮，没用@钢铁的铁 
+
+李江(apexlj) 05-30 16:48:38
+跟网络没关系。cursor 的问题
+
+莫歌拿(wxid_0msbt56upap21) 05-30 16:49:00
+日报总结文档改成需要权限才能阅读了吗[捂脸]
+
+落尘(wxid_2d9fw2ta1t9n22) 05-30 17:12:18
+生财官网不是可以访问嘛
+
+麦芽🌿(wxid_338hiez1f3gw22) 05-30 17:12:47
+#举手 请问我用v0部署的项目在手机上打不开是什么原因呀？在电脑页面上可以打开
+
+瓜斯(wxid_fcf70i21dew222) 05-30 17:13:33
+@莫歌拿 可以查看这个链接 🔽
+
+详细日报：https://scys.com/docx/Y2SUdO4TyobFYfxWjrqcm8ixnjq
+
+我 05-30 17:13:35
+"Jack" 撤回了一条消息
+
+Es muss sein(wxid_qfhct3hwtuj022) 05-30 17:13:47
+> 麦芽🌿(wxid_338hiez1f3gw22) 05-30 17:12:47
+> #举手 请问我用v0部署的项目在手机上打不开是什么原因呀？在电脑页面上可以打开
+电脑开了魔法吗
+
+麦芽🌿(wxid_338hiez1f3gw22) 05-30 17:13:55
+开了
+
+Es muss sein(wxid_qfhct3hwtuj022) 05-30 17:14:02
+手机呢
+
+我 05-30 17:14:24
+"麦芽🌿" 撤回了一条消息
+
+Es muss sein(wxid_qfhct3hwtuj022) 05-30 17:14:46
+换个浏览器试试
+
+麦芽🌿(wxid_338hiez1f3gw22) 05-30 17:14:57
+诶刚刚再试了下开了魔法可以打开了
+
+麦芽🌿(wxid_338hiez1f3gw22) 05-30 17:15:16
+必须要开了才能打开嘛？
+
+半尘(muling12) 05-30 17:19:12
+你都实践过了，还需要问吗，vercel.app很早就被墙了
+
+SunDay(wxid_qxp8aiy2c4kk22) 05-30 17:20:44
+> 钢铁的铁(tht2001) 05-30 16:38:40
+> 在问他Vercel部署问题，明明好好在交流，突然罢工
+可以禁用http2
+
+SunDay(wxid_qxp8aiy2c4kk22) 05-30 17:20:51
+试一试
+
+SunDay(wxid_qxp8aiy2c4kk22) 05-30 17:21:15
+@钢铁的铁 
+
+麦芽🌿(wxid_338hiez1f3gw22) 05-30 17:21:46
+> 半尘(muling12) 05-30 17:19:12
+> 你都实践过了，还需要问吗，vercel.app很早就被墙了
+好的不好意思 ，因为我看 lovable可以直接访问
+
+钢铁的铁(tht2001) 05-30 17:29:24
+@SunDay 感谢，刚刚教练在语音教我
+
+钢铁的铁(tht2001) 05-30 17:30:22
+简单说是因为我和cursor聊太多聊爆了[破涕为笑][破涕为笑]
+
+小明(wxid_at9px5nf07qm22) 05-30 17:34:23
+> 钢铁的铁(tht2001) 05-30 17:30:22
+> 简单说是因为我和cursor聊太多聊爆了[破涕为笑][破涕为笑]
+一直在单个对话窗口聊，没有开新的
+
+小明(wxid_at9px5nf07qm22) 05-30 17:36:01
+碰到的 cursor 罢工排查原因更新
+
+1.代理工具从规则变直连
+2.检查 Wi-Fi 状态
+3.切换模型
+4.检查是否单个窗口对话轮次过多
+
+Daniel(liaozhichao504125) 05-30 17:37:57
+做了一个AI人设组手的网站https://ai-character-assistant.vercel.app/，输入人设，自动生成各大平台的账号昵称、头像、简介，支持下载，大家多提宝贵意见。
+
+曦演(wxid_6w1vpi0p6kp922) 05-30 17:38:18
+> 小明-助教(wxid_at9px5nf07qm22) 05-30 17:36:01
+> 碰到的 cursor 罢工排查原因更新
+> 1.代理工具从规则变直连
+> 2.检查 Wi-Fi 状态
+> 3.切换模型
+> 4.检查是否单个窗口对话轮次过多
+我原来遇到这状况，以为是家里网不好，还特意买了根网线。。。
+
+李明进(mikipku) 05-30 17:39:57
+> Daniel(liaozhichao504125) 05-30 17:37:57
+> 做了一个AI人设组手的网站https://ai-character-assistant.vercel.app/，输入人设，自动生成各大平台的账号昵称、头像、简介，支持下载，大家多提宝贵意见。
+用户在什么情况下需要用这个呢？
+
+Lin(wxid_hiuxmzkjyvm822) 05-30 17:40:51
+> 枝妍(qq799096021) 05-30 16:43:54
+> 写在 env.local里面的API 总是调用失败，直接给到cursor 密钥就能调用成功，这是什么原因呢？
+Env的问题，我翻了大家的聊天记录，认真按教练说的去做，还是没解决，我的问题也是一旦放入到.env.local里面，就调用失败了。
+
+如果env这块很重要，希望教练还是帮忙指导下
+
+小明(wxid_at9px5nf07qm22) 05-30 17:44:01
+> Lin(wxid_hiuxmzkjyvm822) 05-30 17:40:51
+> > [引用]
+> Env的问题，我翻了大家的聊天记录，认真按教练说的去做，还是没解决，我的问题也是一旦放入到.env.local里面，就调用失败了。
+> 如果env这块很重要，希望教练还是帮忙指导下
+1.首先确定，放到 env 中的密钥格式是对的
+ 2.和 cursor 说“我已经将XX 的密钥放在了.env.local 中，帮我完成正确的调用代码实现”
+ 3.模型选 Claude-4.0 -sonnet
+
+小明(wxid_at9px5nf07qm22) 05-30 17:44:30
+格式如果不确定对不对，让AI 工具（chatgpt/gemini）来帮你判断
+
+嘟嘟飞到家(wxid_bl3rlypq9w6c21) 05-30 17:46:59
+> Lin(wxid_hiuxmzkjyvm822) 05-30 17:40:51
+> > 枝妍(qq799096021) 05-30 16:43:54
+> > 写在 env.local里面的API 总是调用失败，直接给到cursor 密钥就能调用成功，这是什么原因呢？
+> Env的问题，我翻了大家的聊天记录，认真按教练说的去做，还是没解决，我的问题也是一旦放入到.env.local里面，就调用失败了。
+> 如果env这块很重要，希望教练还是帮忙指导下
+我昨天试验一个开源项目的时候遇到过类似的问题，也是放在.env.local里面不能在本地被读取，我把名字改成 .env 后就能读取了，可能和nextjs不同版本对env的识别逻辑有关
+
+吕明亮😄 Nike(wxid_d3efvdgoh3xy22) 05-30 17:47:25
+@Lin 你调用的是哪个平台的API
+
+小明(wxid_at9px5nf07qm22) 05-30 17:48:45
+> 嘟-石家庄(wxid_bl3rlypq9w6c21) 05-30 17:46:59
+> > [引用]
+> 我昨天试验一个开源项目的时候遇到过类似的问题，也是放在.env.local里面不能在本地被读取，我把名字改成 .env 后就能读取了，可能和nextjs不同版本对env的识别逻辑有关
+不能在本地读取是什么情况，.env.local 就是给本地用的
+
+Lin(wxid_hiuxmzkjyvm822) 05-30 17:49:12
+> 苏东皮-深圳(wxid_d3efvdgoh3xy22) 05-30 17:47:25
+> @Lin 你调用的是哪个平台的API
+硅基流动的
+
+小明(wxid_at9px5nf07qm22) 05-30 17:49:12
+next.js 结构对.env 的读取
+
+.env.local 优先于.env
+
+小明(wxid_at9px5nf07qm22) 05-30 17:49:27
+你是不是.env.local 中的东西没写全
+
+匪气书生(wxid_o8wq7kbo845321) 05-30 17:50:04
+这个问题应该是，我们遇到最多的问题。反复提示.env.local要重新新建，明明告诉他这个文件有，里面的key也在但是还是有问题。我最后发现我们可能新建这个文件的时候方式可能不对，我用notepad++创建里面编码格式选utf-8，一定要不到bom那个好像就行了。有时候是新建输入里面的编码不对，有其他字符
+
+江坤(wxid_x8f52rye1agm21) 05-30 17:51:08
+＃举手  cursor重新开新的对话是不是要让大模型重新读取整个代码，我重新打开后只给给报错信息让修改，直接把代码乱改一通，直接改崩了
+
+白欣刚（金刚葫芦）(wxid_4o848f8nvdh222) 05-30 17:52:10
+分享一下，如果使用 namecheap 注册域名，可以使用优惠券，减 30%，够吃一个豪华版煎饼果子
+
+WELCOME30
+
+愿景成(wxid_v9xy8ef5wfo422) 05-30 17:52:11
+> 江坤(wxid_x8f52rye1agm21) 05-30 17:51:08
+> ＃举手  cursor重新开新的对话是不是要让大模型重新读取整个代码，我重新打开后只给给报错信息让修改，直接把代码乱改一通，直接改崩了
+搜memory bank，可以解决你的问题
+
+小明(wxid_at9px5nf07qm22) 05-30 17:52:35
+> 江坤(wxid_x8f52rye1agm21) 05-30 17:51:08
+> ＃举手  cursor重新开新的对话是不是要让大模型重新读取整个代码，我重新打开后只给给报错信息让修改，直接把代码乱改一通，直接改崩了
+新开一个对话窗口，先输入“阅读项目代码，了解项目情况，接下来我们在此基础上进行功能完善”，对话一轮，再输入其他
+
+嘟嘟飞到家(wxid_bl3rlypq9w6c21) 05-30 17:52:55
+> 小明-助教(wxid_at9px5nf07qm22) 05-30 17:49:27
+> 你是不是.env.local 中的东西没写全
+不清楚什么逻辑，没有改内容，只改了文件名，就变得能用了
+
+江坤(wxid_x8f52rye1agm21) 05-30 17:52:58
+> 小明-助教(wxid_at9px5nf07qm22) 05-30 17:52:35
+> > [引用]
+> 新开一个对话窗口，先输入“阅读项目代码，了解项目情况，接下来我们在此基础上进行功能完善”，对话一轮，再输入其他
+好的，感谢教练！
+
+小明(wxid_at9px5nf07qm22) 05-30 17:53:36
+输入报错的时候，最好明确说明，这个问题是如何引发的，让模型读日志去猜测问题如何引发的，容易翻车
+
+小明(wxid_at9px5nf07qm22) 05-30 17:54:05
+> 嘟-石家庄(wxid_bl3rlypq9w6c21) 05-30 17:52:55
+> > [引用]
+> 不清楚什么逻辑，没有改内容，只改了文件名，就变得能用了
+运行npm run build，不会报错哈
+
+Moore(xiaobei1984) 05-30 17:56:58
+> Lin(wxid_hiuxmzkjyvm822) 05-30 17:40:51
+> > [引用]
+> Env的问题，我翻了大家的聊天记录，认真按教练说的去做，还是没解决，我的问题也是一旦放入到.env.local里面，就调用失败了。
+> 如果env这块很重要，希望教练还是帮忙指导下
+我们在.env.local 放无数次key都没有问题。排查问题，首先你的.env.local 是否在根目录，.env.local内容是什么，并且，key是在哪里调用的？ 报错信息是什么，当前环境是不是本机运行着npm run dev，然后把这些录屏出来给教练们排查
+
+Lin(wxid_hiuxmzkjyvm822) 05-30 17:58:26
+> 小明-助教(wxid_at9px5nf07qm22) 05-30 17:44:01
+> > [引用]
+> 1.首先确定，放到 env 中的密钥格式是对的
+>  2.和 cursor 说“我已经将XX 的密钥放在了.env.local 中，帮我完成正确的调用代码实现”
+>  3.模型选 Claude-4.0 -sonnet
+我的来回创建，把api key放进.env.local，cursor就是提示识别不了。提示能识别到环境变量，但是里面的api key就是识别不了，cursor就来回让我确认文档里面的key是不是正确的。
+
+我试过在cursor左侧栏创建.env.local，也试过直接在根目录创建。都是不行。
+
+Moore(xiaobei1984) 05-30 17:58:30
+100%都是截取一个错误信息，没有上下文
+
+小明(wxid_at9px5nf07qm22) 05-30 17:59:46
+> Lin(wxid_hiuxmzkjyvm822) 05-30 17:58:26
+> > [引用]
+> 我的来回创建，把api key放进.env.local，cursor就是提示识别不了。提示能识别到环境变量，但是里面的api key就是识别不了，cursor就来回让我确认文档里面的key是不是正确的。
+> 我试过在cursor左侧栏创建.env.local，也试过直接在根目录创建。都是不行。
+截图吧，判断不了，截完整的信息，key 打码
+
+Moore(xiaobei1984) 05-30 17:59:49
+我就见过.env.local是一个链接
+
+小明(wxid_at9px5nf07qm22) 05-30 18:00:07
+> Moore 助教(xiaobei1984) 05-30 17:59:49
+> 我就见过.env.local是一个链接
+[捂脸]
+
+Moore(xiaobei1984) 05-30 18:00:15
+然后说搞不定，格式都不对
+
+Moore(xiaobei1984) 05-30 18:01:26
+说改一下格式，说AI改不了，不能打字吗
+
+阿言(wxid_tjm673v842mp12) 05-30 18:03:56
+> Lin(wxid_hiuxmzkjyvm822) 05-30 17:58:26
+> > [引用]
+> 我的来回创建，把api key放进.env.local，cursor就是提示识别不了。提示能识别到环境变量，但是里面的api key就是识别不了，cursor就来回让我确认文档里面的key是不是正确的。
+> 我试过在cursor左侧栏创建.env.local，也试过直接在根目录创建。都是不行。
+你看看是不是cursorignore了
+
+Moore(xiaobei1984) 05-30 18:04:47
+> 阿言(wxid_tjm673v842mp12) 05-30 18:03:56
+> > [引用]
+> 你看看是不是cursorignore了
+和这个没有关系
+
+Moore(xiaobei1984) 05-30 18:04:55
+我们在.env.local 放无数次key都没有问题。排查问题，首先你的.env.local 是否在根目录，.env.local内容是什么，并且，key是在哪里调用的？ 报错信息是什么，当前环境是不是本机运行着npm run dev，然后把这些录屏出来给教练们排查
+
+系统消息 05-30 18:07:19
+"刘小排(liuxiaopai)"邀请"Yao(wxid_iyevr7we4vxr11)"加入了群聊
+
+ 05-30 18:07:19
+"Yao"与群里其他人都不是朋友关系，请注意隐私安全
+
+Moore(xiaobei1984) 05-30 18:07:27
+https://nextjs.org/docs/pages/guides/environment-variables 官方文档
+
+泽杰(zejie1017) 05-30 18:08:16
+我遇到一个就是一开始cursor帮我实现的是
+在客户端请求API，然后好像客户端不能直接用环境变量，
+cursor就把我的key变成常量，后来让cursor改成请求后端
+在后端请求API，就可以访问到环境变量了
+
+Moore(xiaobei1984) 05-30 18:10:10
+请求API，应该是一个叫api文件夹里才有效
+
+Lin(wxid_hiuxmzkjyvm822) 05-30 18:12:41
+> Moore 助教(xiaobei1984) 05-30 18:04:55
+> 我们在.env.local 放无数次key都没有问题。排查问题，首先你的.env.local 是否在根目录，.env.local内容是什么，并且，key是在哪里调用的？ 报错信息是什么，当前环境是不是本机运行着npm run dev，然后把这些录屏出来给教练们排查
+我下午搞了很久，都没搞好，所以就混滚回滚了，找不到下午的历史记录了。
+我刚又重新弄了下，教练帮忙看看
+
+Lin(wxid_hiuxmzkjyvm822) 05-30 18:12:43
+![图片](http://127.0.0.1:5030/image/8b354b300ff911ebe2ed59dc57cf8ada)
+
+Lin(wxid_hiuxmzkjyvm822) 05-30 18:12:58
+然后，就会有这个提示
+
+Lin(wxid_hiuxmzkjyvm822) 05-30 18:13:15
+![图片](http://127.0.0.1:5030/image/21d408a9fbc03d8c3d0a32ad780d9093)
+
+Lin(wxid_hiuxmzkjyvm822) 05-30 18:13:28
+![图片](http://127.0.0.1:5030/image/493bd08a2a10f6f8e023744cd2409dad)
+
+匪气书生(wxid_o8wq7kbo845321) 05-30 18:13:28
+有时候，前面调用成功了，后面他自己改一改，改一改，后面又出现问题，又调用不成功的。然后他又说发现没有这个文件，他又要重新建又要重新输入！
+
+机器猫(wxid_9942319422914) 05-30 18:14:52
+> Lin(wxid_hiuxmzkjyvm822) 05-30 17:58:26
+> > [引用]
+> 我的来回创建，把api key放进.env.local，cursor就是提示识别不了。提示能识别到环境变量，但是里面的api key就是识别不了，cursor就来回让我确认文档里面的key是不是正确的。
+> 我试过在cursor左侧栏创建.env.local，也试过直接在根目录创建。都是不行。
+我也遇到了无法修改环境变量，我是放到了一个可以读可以改的env.examble里面，然后正式部署再告诉他内容都在.env中，改一下就行
+
+泽杰(zejie1017) 05-30 18:16:12
+> Lin(wxid_hiuxmzkjyvm822) 05-30 18:13:28
+> ![图片](http://127.0.0.1:5030/image/493bd08a2a10f6f8e023744cd2409dad)
+跟我的情况类似，你看看你请求硅基API是不是在浏览器请求的
+
+泽杰(zejie1017) 05-30 18:17:00
+如果是的话，可以改成是后端请求硅基API，然后你浏览器再请求后端，这样子试试
+
+Moore(xiaobei1984) 05-30 18:17:05
+[链接|nextjs approuter 编写 调用deepseek api 有哪些步骤](https://yb.tencent.com/s/JcpWyjLu9Ww1)
+
+Moore(xiaobei1984) 05-30 18:17:13
+看这个步骤
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 05-30 18:17:21
+这个是不是得关一下，要不超出使用量了
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 05-30 18:17:21
+![图片](http://127.0.0.1:5030/image/5dd800d715719632bfd82f803c88d2e6)
+
+Moore(xiaobei1984) 05-30 18:17:35
+> 小李哥(wxid_cejgi1lomjcl21) 05-30 18:17:21
+> ![图片](http://127.0.0.1:5030/image/5dd800d715719632bfd82f803c88d2e6)
+我都是全关的
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 05-30 18:18:31
+[捂脸] 我超时还欠了点钱
+
+Moore(xiaobei1984) 05-30 18:18:40
+> Lin(wxid_hiuxmzkjyvm822) 05-30 18:13:15
+> ![图片](http://127.0.0.1:5030/image/21d408a9fbc03d8c3d0a32ad780d9093)
+应该是.env.nextxx  环境变量明不对
+
+半尘(muling12) 05-30 18:18:41
+![图片](http://127.0.0.1:5030/image/6fa1a1bd64b03052cb3ccf46915b489d)
+
+半尘(muling12) 05-30 18:18:57
+如果设置了不让ai读取，是有个标志的
+
+h(wxid_dql9oy4hurtq22) 05-30 18:20:12
+> Lin(wxid_hiuxmzkjyvm822) 05-30 18:12:41
+> > [引用]
+> 我下午搞了很久，都没搞好，所以就混滚回滚了，找不到下午的历史记录了。
+> 我刚又重新弄了下，教练帮忙看看
+有可能是编码问题，你让他用PowerShell UTF-8编码方法在你的文件里编写API环境变量
+
+我 05-30 18:20:29
+"半尘" 撤回了一条消息
+
+半尘(muling12) 05-30 18:20:45
+把.env前面大写部分全局搜索一下（ctrl + shift + f），看是否能搜到，很有可能是key不对
+
+路笙Allen(wxid_850xoz0p6o4d22) 05-30 18:23:02
+补作业，做了一个提供创意礼物 idea 和纪念日策划方案的网站，感觉想法还行，就是实现起来好难，折腾了几天，目前只能做到这个水平，辛苦帮提点建议（除了 API 调用时间长）
+https://anniversary-gift-seven.vercel.app/
+
+路笙Allen(wxid_850xoz0p6o4d22) 05-30 18:23:23
+帮看看能打开吗？我手机访问一直打不开，电脑端正常
+
+嘟嘟飞到家(wxid_bl3rlypq9w6c21) 05-30 18:23:24
+我记得第一次遇到这种问题，解决办法是把api直接 硬编码到需要引用的地方，如果还不能用，可能是没有导入可以成功调用api的相关依赖
+
+半尘(muling12) 05-30 18:24:59
+> 路笙Allen(wxid_850xoz0p6o4d22) 05-30 18:23:23
+> 帮看看能打开吗？我手机访问一直打不开，电脑端正常
+刚才就有人遇到这个问题，你肯定没有看群消息
+
+路笙Allen(wxid_850xoz0p6o4d22) 05-30 18:26:13
+> 半尘(muling12) 05-30 18:24:59
+> > [引用]
+> 刚才就有人遇到这个问题，你肯定没有看群消息
+好的我看下，有些消息漏掉了
+
+Moore(xiaobei1984) 05-30 18:29:22
+> Moore 助教(xiaobei1984) 05-30 18:17:05
+> [链接|nextjs approuter 编写 调用deepseek api 有哪些步骤](https://yb.tencent.com/s/JcpWyjLu9Ww1)
+举个例子 deepseek，步骤是：.env.local 定义DEEPSEEK_API_KEY=your_api_key_here， 第二步：创建一个动态路由在 /app/api/chat/route.ts ，其中chat 是可以按照你的业务自定义的，这个route.ts 文件 要写调用API，使用process.env.DEEPSEEKxx （注意要和.env.local对上）。 第三步：前端调用 第二步定义的/api/chat。
+
+
+
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 18:29:40
+#举手 请问这个Github Desktop怎么汉化呀？
+
+Moore(xiaobei1984) 05-30 18:30:12
+> Moore 助教(xiaobei1984) 05-30 18:29:22
+> > [引用]
+> 举个例子 deepseek，步骤是：.env.local 定义DEEPSEEK_API_KEY=your_api_key_here， 第二步：创建一个动态路由在 /app/api/chat/route.ts ，其中chat 是可以按照你的业务自定义的，这个route.ts 文件 要写调用API，使用process.env.DEEPSEEKxx （注意要和.env.local对上）。 第三步：前端调用 第二步定义的/api/chat。
+让ai 检查一下
+
+Moore(xiaobei1984) 05-30 18:31:19
+ 然后上线后把.env.local的内容填到vercel的环境变量里
+
+Moore(xiaobei1984) 05-30 18:34:43
+> Lin(wxid_hiuxmzkjyvm822) 05-30 18:13:15
+> ![图片](http://127.0.0.1:5030/image/21d408a9fbc03d8c3d0a32ad780d9093)
+然后这里用的是lib/api.ts 路径不对，也不知道是不是在api文件下使用了这个文件
+
+SuperEric(janetchristmas) 05-30 18:37:11
+https://caicaicai.vercel.app/@Moore 助教 辛苦助教帮忙看下第一课作业，大概是做的太差，就一个圈友反馈使用[裂开]
+
+贺铭扬(wxid_duohjga6td1311) 05-30 18:37:44
+![图片](http://127.0.0.1:5030/image/c9714eca516468fdde0e2d3eefb980a3)
+
+我 05-30 18:38:07
+"吴海晖®-广州白云" 撤回了一条消息
+
+我 05-30 18:38:29
+"半尘" 撤回了一条消息
+
+半尘(muling12) 05-30 18:38:44
+> 贺铭扬(wxid_duohjga6td1311) 05-30 18:37:44
+> ![图片](http://127.0.0.1:5030/image/c9714eca516468fdde0e2d3eefb980a3)
+@ 后面连在一起连，变成网址的一部分
+
+Moore(xiaobei1984) 05-30 18:41:29
+> 吴海晖®-广州白云(wxid_78jyonoq7hyk22) 05-30 18:29:40
+> #举手 请问这个Github Desktop怎么汉化呀？
+问腾讯元宝
+
+Moore(xiaobei1984) 05-30 18:42:40
+[旺柴] PUA 腾讯元宝可以解决很多常见问题
+
+贺铭扬(wxid_duohjga6td1311) 05-30 18:42:56
+@半尘 破案了哈哈 
+
+贺铭扬(wxid_duohjga6td1311) 05-30 18:43:09
+@SuperEric w 觉得出结果有点慢 。。
+
+我 05-30 18:45:07
+"宁王（加油！）" 撤回了一条消息
+
+宁王（加油！）(wxid_5182881829312) 05-30 18:45:38
+老铁们子域名整起来，
+半成品的作业啥的可以用用  
+ 这下子不用每个网站都去买一个域名了。
+
+比如我的kylintest.space可以拆分成 luck1.kylintest.space 
+luck2.kylintest.space 等等
+[嘿哈][嘿哈][嘿哈][嘿哈]
+
+昨晚上听直播才意识到子域名（也就是三级域名）的事情，之前以为每个不同网站都得买个新的，比如news.qq.com就不用重新买，腾讯买了qq.com就能自己直接配置各种不同三级域名。
+
+SuperEric(janetchristmas) 05-30 18:46:53
+![图片](http://127.0.0.1:5030/image/350b57ca235feca80f64e207b2bf3522)
+
+SuperEric(janetchristmas) 05-30 18:46:59
+怎么 404 了[苦涩]
+
+SuperEric(janetchristmas) 05-30 18:47:12
+@贺铭扬 感谢，我这打不开了
+
+莫歌拿(wxid_0msbt56upap21) 05-30 18:47:16
+@Moore 助教 请问下组教，v0做成的原型可以分享出来给其它人查看吗？怎么我一点分享，连代码都能看到了
+
+宁王（加油！）(wxid_5182881829312) 05-30 18:47:37
+vecel的你优先从浏览器打开，并且开魔法@SuperEric 
+
+贺铭扬(wxid_duohjga6td1311) 05-30 18:48:46
+> SuperEric(janetchristmas) 05-30 18:47:12
+> @贺铭扬 感谢，我这打不开了
+你艾特了个人。。没弄空格  弄进网址了
+
+SuperEric(janetchristmas) 05-30 18:49:04
+[捂脸]
+
+Moore(xiaobei1984) 05-30 18:49:23
+> 莫歌拿(wxid_0msbt56upap21) 05-30 18:47:16
+> @Moore 助教 请问下组教，v0做成的原型可以分享出来给其它人查看吗？怎么我一点分享，连代码都能看到了
+不会吧，提供链接就可以啊
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 18:53:34
+#举手 请问这个Github Desktop怎么汉化呀？  网上下的汉化包用不了，大家有最新的汉化包吗
+
+莫歌拿(wxid_0msbt56upap21) 05-30 18:53:57
+![图片](http://127.0.0.1:5030/image/21f90f4f23002ab4e2fc44001cfc582f)
+
+阡陌 (晚10:30睡觉)(wxid_a8h30yg8eq9x22) 05-30 18:54:16
+![图片](http://127.0.0.1:5030/image/ffae01de3e48088f077b17be40b7b7c6)
+
+莫歌拿(wxid_0msbt56upap21) 05-30 18:54:16
+是点击share分享吧
+
+阡陌 (晚10:30睡觉)(wxid_a8h30yg8eq9x22) 05-30 18:54:55
+> 阡陌 (晚10:30睡觉)(wxid_a8h30yg8eq9x22) 05-30 18:54:16
+> ![图片](http://127.0.0.1:5030/image/ffae01de3e48088f077b17be40b7b7c6)
+#举手，请问助教我这个是成功还是失败了啊[破涕为笑]
+
+Moore(xiaobei1984) 05-30 18:55:41
+> 莫歌拿(wxid_0msbt56upap21) 05-30 18:53:57
+> ![图片](http://127.0.0.1:5030/image/21f90f4f23002ab4e2fc44001cfc582f)
+我之前是直接再deploy 点击后复制链接的
+
+阡陌 (晚10:30睡觉)(wxid_a8h30yg8eq9x22) 05-30 19:01:31
+@小明-助教 @Moore 助教
+
+Moore(xiaobei1984) 05-30 19:02:23
+> 阡陌 (晚10:30睡觉)(wxid_a8h30yg8eq9x22) 05-30 18:54:16
+> ![图片](http://127.0.0.1:5030/image/ffae01de3e48088f077b17be40b7b7c6)
+失败，找不到页面
+
+莫歌拿(wxid_0msbt56upap21) 05-30 19:06:06
+> Moore 助教(xiaobei1984) 05-30 18:55:41
+> > [引用]
+> 我之前是直接再deploy 点击后复制链接的
+好的，我去试一试
+
+莫歌拿(wxid_0msbt56upap21) 05-30 19:18:11
+补作业了，一款针对上班这个特定场景的穿搭推荐产品，希望大家能体验一下，多多提点意见哈[笑脸]https://v0-wechat-outfit-recommender.vercel.app/
+
+Moore(xiaobei1984) 05-30 19:18:58
+"${xiaobei1984}" 拍了拍 "${wxid_0msbt56upap21}"
+
+吕明亮😄 Nike(wxid_d3efvdgoh3xy22) 05-30 20:05:19
+> 莫歌拿(wxid_0msbt56upap21) 05-30 19:18:11
+> 补作业了，一款针对上班这个特定场景的穿搭推荐产品，希望大家能体验一下，多多提点意见哈[笑脸]https://v0-wechat-outfit-recommender.vercel.app/
+我也在做类似的[呲牙]
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 20:07:22
+  #举手 提交代码的时候，弹出这个是什么原因呢
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 20:07:22
+![图片](http://127.0.0.1:5030/image/146008038fd44876ba9ced0289671af4)
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 20:07:35
+@Moore 助教 
+
+宋晓阳(songxy1990) 05-30 20:07:59
+#举手 我看小排老师的视频，我发现小排老师的.env或者.env.local文件后面是没有那个禁止符号的，想问下这里是怎么设置的呢
+
+宋晓阳(songxy1990) 05-30 20:08:03
+![图片](http://127.0.0.1:5030/image/6689898704b5e14562ea4a4583c3a3f4)
+
+宋晓阳(songxy1990) 05-30 20:08:41
+![图片](http://127.0.0.1:5030/image/c27cfe07853400740940f14b81bf5967)
+
+莫歌拿(wxid_0msbt56upap21) 05-30 20:09:03
+> 苏东皮-深圳(wxid_d3efvdgoh3xy22) 05-30 20:05:19
+> > [引用]
+> 我也在做类似的[呲牙]
+欢迎互相交流
+
+小李F刀(wxid_cgr2mr7ea63l22) 05-30 20:09:29
+> 宋晓阳(songxy1990) 05-30 20:07:59
+> #举手 我看小排老师的视频，我发现小排老师的.env或者.env.local文件后面是没有那个禁止符号的，想问下这里是怎么设置的呢
+你问AI,   关键词是     ‘git 怎么把指定文件设置成不提交’  @宋晓阳 
+
+宋晓阳(songxy1990) 05-30 20:09:51
+> 小李F刀(wxid_cgr2mr7ea63l22) 05-30 20:09:29
+> > [引用]
+> 你问AI,   关键词是     ‘git 怎么把指定文件设置成不提交’  @宋晓阳 
+我试试 谢谢
+
+半尘(muling12) 05-30 20:18:45
+![图片](http://127.0.0.1:5030/image/143424aff1b7a31e7811397d1c3c156c)
+
+半尘(muling12) 05-30 20:21:06
+可以在根目录新建 .cursorignore 文件添加规则，!表示取消忽略，一般建议忽略
+
+江坤(wxid_x8f52rye1agm21) 05-30 20:50:39
+> 半尘(muling12) 05-30 20:21:06
+> 可以在根目录新建 .cursorignore 文件添加规则，!表示取消忽略，一般建议忽略
+解决问题了[强][强][强]
+
+刘小排(liuxiaopai) 05-30 20:52:02
+[强][强]
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 21:09:27
+  #举手 cursor和GitHub desktop  都无法推送，这是怎么回事呀
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 21:09:27
+![图片](http://127.0.0.1:5030/image/2cefdc1a4900019410c878a6caa40847)
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 21:09:54
+@刘小排 老师
+
+刘小排(liuxiaopai) 05-30 21:12:44
+网络问题。你这个报错是网络问题的意思
+
+等等，，，昨天是不是教过你，先截图问问o3啊？[呲牙] 还没学会啊
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 21:43:18
+但是我这里出现了这个，这算是提交了吗
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 21:43:18
+![图片](http://127.0.0.1:5030/image/1958fff34283bdbebd9eadba58462cbd)
+
+刘小排(liuxiaopai) 05-30 21:44:54
+![图片](http://127.0.0.1:5030/image/3e1d2ebf46b1638e6e96752ee565b8a6)
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 21:45:07
+chatgpt的解决方案有点复杂
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 21:45:07
+![图片](http://127.0.0.1:5030/image/d99b3b2b3cb66f11f634f9f811fd3b5c)
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 21:45:07
+![图片](http://127.0.0.1:5030/image/ba667d3895124722ec19ce1e33580f21)
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 21:46:29
+奇怪了，之前航海好像都没遇到这种问题；
+
+Eliot(jackglen) 05-30 21:46:31
+SSH 方式可以让 Cursor 告诉你每一步的步骤
+
+Eliot(jackglen) 05-30 21:46:34
+很简单
+
+刘小排(liuxiaopai) 05-30 21:47:18
+你遇到的主要网络问题，兄弟。你先解决网络。
+按照课程里讲的GitHub desktop来操作试试。
+github是一个比较复杂的体系，使用GitHub desktop最省事（前提是先解决网络）。
+当然，如果能把github的知识点和原理学习扎实，就更好啦。@吴海晖®-广州白云 
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 21:47:53
+网络问题是换个魔法还是如何呀
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 21:48:28
+我是跟着视频在做，视频提交，我也提交，然后提交卡主了
+
+刘小排(liuxiaopai) 05-30 21:48:55
+是的，就是魔法的问题。你换个魔法，先测下github.com能否打开，然后魔法最好打开增强默认或者TUN默认。课程文档最后的常见问答里有
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 21:49:25
+github.com 浏览器都可以自由打开的。
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 21:49:55
+我再下个电脑端的魔法吧，因为目前用的是插件魔法
+
+Chouchou(wxid_ky2g0thk42zd22) 05-30 21:51:45
+[破涕为笑]你插件魔法肯定啊
+
+刘小排(liuxiaopai) 05-30 21:52:00
+哦，那是假魔法..
+
+Chouchou(wxid_ky2g0thk42zd22) 05-30 21:52:03
+插件只对浏览器里面生效
+
+刘小排(liuxiaopai) 05-30 21:52:07
+意味着你只有浏览器能使用
+
+Moore(xiaobei1984) 05-30 21:59:08
+[旺柴]破案了
+
+半尘(muling12) 05-30 22:03:33
+一个良好的网络，能避免很多错误，很多时候折腾大半天，最后发现只是网络问题。打开网站是最基本的，代码提交、工具使用，后续调试谷歌登录等，不懂就直接tun模式。建议用美国节点，除了web3相关的，美国一般都是支持的
+
+刘小排(liuxiaopai) 05-30 22:32:09
+[强]
+
+刘小排(liuxiaopai) 05-30 22:32:13
+说的没错
+
+生命终究难舍蓝蓝的白云天(wxid_43182f9wd5t122) 05-30 22:36:00
+交作业了，你的专属试衣间。上传你的照片和心仪的服装，AI将为你生成逼真的试穿效果， 并提供专业的穿搭建议，让每一次搭配都完美无瑕。欢迎大家体验[社会社会]
+https://style-snap-ai-advisor-main.vercel.app/
+
+李澹归(wxid_ixr3b2qghvtx22) 05-30 22:48:32
+https://ganfan-xi.vercel.app/
+
+交作业：今天吃什么？
+
+终于纯用Trae上线了第一个网站，整体生成很丝滑，各位点评下还可以加点什么？
+
+江坤(wxid_x8f52rye1agm21) 05-30 22:48:40
+#举手 Vercel部署成功后，GitHub修改代码推动后（cursor已经在代码增加了自动部署代码），Vercel不自动更新部署。请问这个怎么处理。
+
+卫斯理🤍(wxid_cap2car89b7811) 05-30 22:49:15
+> 生命终究难舍蓝蓝的白云天(wxid_43182f9wd5t122) 05-30 22:36:00
+> 交作业了，你的专属试衣间。上传你的照片和心仪的服装，AI将为你生成逼真的试穿效果， 并提供专业的穿搭建议，让每一次搭配都完美无瑕。欢迎大家体验[社会社会]
+> https://style-snap-ai-advisor-main.vercel.app/
+@生命终究难舍蓝蓝的白云天 出错了
+
+卫斯理🤍(wxid_cap2car89b7811) 05-30 22:49:23
+![图片](http://127.0.0.1:5030/image/ed7321ff33faff82112e020dc40fecad)
+
+生命终究难舍蓝蓝的白云天(wxid_43182f9wd5t122) 05-30 22:50:37
+@卫斯理🤍广州 收到，我看一下[抱拳]
+
+泽杰(zejie1017) 05-30 22:50:47
+发现大家越来越重视血糖了，所以做了
+一个帮高糖人士定制低GI饮食计划的网站
+部署好了自己的域名
+欢迎大家体验 https://healthdiet.app/
+
+小明(wxid_at9px5nf07qm22) 05-30 23:01:54
+"${wxid_at9px5nf07qm22}" 拍了拍 "${zejie1017}"
+
+光脚踢球(guangjiaotiqiu001) 05-30 23:09:10
+#举手 我语音使用https://docs.v8.unrealspeech.com/的确定api key正确，但是cursor一直说 .env.local 文件中的 UNREALSPEECH_API_KEY 仍然是占位符值。你需要将 your_unrealspeech_api_key_here 替换为你的真实 API 密钥。这是什么原因？要怎么处理
+
+光脚踢球(guangjiaotiqiu001) 05-30 23:09:10
+![图片](http://127.0.0.1:5030/image/d33cc7bd98eebc03ae69c4a4aa60c939)
+
+光脚踢球(guangjiaotiqiu001) 05-30 23:09:58
+![图片](http://127.0.0.1:5030/image/eef8b47f7493b9ed75adaa6a72a01aad)
+
+Chouchou(wxid_ky2g0thk42zd22) 05-30 23:17:15
+把项目的文件夹打开。command+shift+.  三个键一起按显示隐藏目录，然后右键点击.env.local文件。打开方式-文本编辑。把那串字改成你的api key就行了
+
+Chouchou(wxid_ky2g0thk42zd22) 05-30 23:17:20
+完事记得保存
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 23:17:29
+#举手 请教一下，为什么我这里没有 打开cursor的选项呀， 我记得教程好像有，但是看完第四课的视频和文字，又没找到；
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 23:17:29
+![图片](http://127.0.0.1:5030/image/2e815a28437a5eef510c00176b2f9e7c)
+
+刘小排(liuxiaopai) 05-30 23:17:32
+> Chouchou(wxid_ky2g0thk42zd22) 05-30 23:17:15
+> 把项目的文件夹打开。command+shift+.  三个键一起按显示隐藏目录，然后右键点击.env.local文件。打开方式-文本编辑。把那串字改成你的api key就行了
+[强]
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 23:17:46
+@刘小排 老师老师看一下
+
+刘小排(liuxiaopai) 05-30 23:19:11
+需要看什么？
+
+叶声(wxid_as4enn36rhhi21) 05-30 23:19:16
+![图片](http://127.0.0.1:5030/image/b32efe6e584c7f6eac66b9a52546271a)
+
+叶声(wxid_as4enn36rhhi21) 05-30 23:19:37
+点这里，里面有选择 Cursor
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 23:19:49
+> 吴海晖®-广州白云(wxid_78jyonoq7hyk22) 05-30 23:17:29
+> #举手 请教一下，为什么我这里没有 打开cursor的选项呀， 我记得教程好像有，但是看完第四课的视频和文字，又没找到；
+@刘小排 这个这个
+
+机器猫(wxid_9942319422914) 05-30 23:20:23
+> 泽杰(zejie1017) 05-30 22:50:47
+> 发现大家越来越重视血糖了，所以做了
+> 一个帮高糖人士定制低GI饮食计划的网站
+> 部署好了自己的域名
+> 欢迎大家体验 https://healthdiet.app/
+好看！感觉要是可以记录每天的摄入再继续分析可能会更有趣
+
+机器猫(wxid_9942319422914) 05-30 23:20:24
+![图片](http://127.0.0.1:5030/image/95912c2217d5a680f8f7f1821fe845ec)
+
+吕盈辰(gqlj111crs) 05-30 23:22:26
+来交作业啦~因为家里有人基本天天做梦，所以做了一个解梦的网站，大家有时间也可以体验下~多多提意见 https://dreaminsight.vercel.app
+
+刘小排(liuxiaopai) 05-30 23:22:39
+![图片](http://127.0.0.1:5030/image/8f461bd7678abb6ddeae42066de68a48)
+
+光脚踢球(guangjiaotiqiu001) 05-30 23:22:59
+> Chouchou(wxid_ky2g0thk42zd22) 05-30 23:17:15
+> 把项目的文件夹打开。command+shift+.  三个键一起按显示隐藏目录，然后右键点击.env.local文件。打开方式-文本编辑。把那串字改成你的api key就行了
+@Chouchou 太感谢啦，学到了，我折腾了一晚上，我还以为我哪里有问题，看了好一会api文档。
+
+刘小排(liuxiaopai) 05-30 23:23:15
+> 吕盈辰(gqlj111crs) 05-30 23:22:26
+> 来交作业啦~因为家里有人基本天天做梦，所以做了一个解梦的网站，大家有时间也可以体验下~多多提意见 https://dreaminsight.vercel.app
+@吕盈辰 打字多累，我的梦很长的。你试试看能不能改成让用户长按，语音输入
+
+泽杰(zejie1017) 05-30 23:23:50
+> 机器猫(wxid_9942319422914) 05-30 23:20:23
+> > [引用]
+> 好看！感觉要是可以记录每天的摄入再继续分析可能会更有趣
+收到
+
+吕盈辰(gqlj111crs) 05-30 23:23:59
+> 刘小排(liuxiaopai) 05-30 23:23:15
+> > [引用]
+> @吕盈辰 打字多累，我的梦很长的。你试试看能不能改成让用户长按，语音输入
+好的小排老师！我加上这个功能
+
+吕鑫(bladelv1213) 05-30 23:31:15
+> 江坤(wxid_x8f52rye1agm21) 05-30 22:48:40
+> #举手 Vercel部署成功后，GitHub修改代码推动后（cursor已经在代码增加了自动部署代码），Vercel不自动更新部署。请问这个怎么处理。
+@江坤 到github上项目里，点commits的记录，看你说没自动更新的那一次commit旁边有没有失败的标记，有的话看下详细信息，有可能是自动部署失败了
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 23:32:39
+ #举手  为什么Github仓库 没有显示代码？  其他两个都有了；在cursor提交的时候,也没提示选私人仓库，还是公共仓库；
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-30 23:32:39
+![图片](http://127.0.0.1:5030/image/e54628adf74e348fcc2864aba83eefa1)
+
+江坤(wxid_x8f52rye1agm21) 05-30 23:36:51
+@小山羊 这个是截图，你帮看下
+
+江坤(wxid_x8f52rye1agm21) 05-30 23:36:51
+![图片](http://127.0.0.1:5030/image/7dd2d8f20abf949d5aa82aceed0eaffe)
+
+小明(wxid_at9px5nf07qm22) 05-30 23:37:04
+> 吴海晖®-广州白云(wxid_78jyonoq7hyk22) 05-30 23:32:39
+> ![图片](http://127.0.0.1:5030/image/e54628adf74e348fcc2864aba83eefa1)
+1.GitHub 网页端，去你的个人仓库位置找，问 AI 或者参考手册 GitHub 部分的界面图文讲解
+2.仓库初始化，第一次上传，会在搜索框的位置弹出，让你选择个人/公共，后续提交更新不会让你再选
+
+吕鑫(bladelv1213) 05-30 23:40:19
+> 江坤(wxid_x8f52rye1agm21) 05-30 23:36:51
+> ![图片](http://127.0.0.1:5030/image/7dd2d8f20abf949d5aa82aceed0eaffe)
+部署失败了，点x那里看具体信息
+
+吕鑫(bladelv1213) 05-30 23:40:19
+![图片](http://127.0.0.1:5030/image/ca2d9ad9046e8c3a0ea3c2aece09c650)
+
+小明(wxid_at9px5nf07qm22) 05-30 23:41:55
+> 江坤(wxid_x8f52rye1agm21) 05-30 23:36:51
+> ![图片](http://127.0.0.1:5030/image/7dd2d8f20abf949d5aa82aceed0eaffe)
+GitHub 中的代码仓库更新，vercel 上会自动更新部署
+
+1.首先在你官网 GitHub，代码仓库的文件详情页，看代码文件的更新时间，判断有没有上传成功
+2.在 vercel 网站，回到网站首页，再点击你部署的项目，查看最新部署（就能看到部署的是 main 的哪个时间点）
+
+江坤(wxid_x8f52rye1agm21) 05-30 23:41:57
+提示email错误了
+
+江坤(wxid_x8f52rye1agm21) 05-30 23:41:58
+![图片](http://127.0.0.1:5030/image/dc71fb58ed164f75a6c3dfdfc5b40218)
+
+江坤(wxid_x8f52rye1agm21) 05-30 23:58:06
+> 小明-助教(wxid_at9px5nf07qm22) 05-30 23:41:55
+> > 江坤(wxid_x8f52rye1agm21) 05-30 23:36:51
+> > ![图片](http://127.0.0.1:5030/image/7dd2d8f20abf949d5aa82aceed0eaffe)
+> GitHub 中的代码仓库更新，vercel 上会自动更新部署
+> 1.首先在你官网 GitHub，代码仓库的文件详情页，看代码文件的更新时间，判断有没有上传成功
+> 2.在 vercel 网站，回到网站首页，再点击你部署的项目，查看最新部署（就能看到部署的是 main 的哪个时间点）
+教练，GitHub上文件是最新的，现在问题好像出现了email错误了（如上面截图），我修改成GitHub的email还是无法自动部署，错误还是email错误[捂脸]，头大了
+
+> 小明-助教(wxid_at9px5nf07qm22) 05-30 23:37:04
+> > [引用]
+> 1.GitHub 网页端，去你的个人仓库位置找，问 AI 或者参考手册 GitHub 部分的界面图文讲解
+> 2.仓库初始化，第一次上传，会在搜索框的位置弹出，让你选择个人/公共，后续提交更新不会让你再选
+找到了。感谢感谢🙏

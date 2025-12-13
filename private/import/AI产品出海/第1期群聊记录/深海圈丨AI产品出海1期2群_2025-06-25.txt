@@ -1,0 +1,847 @@
+McXIA(wangxia631376) 06-25 00:20:00
+#举手
+如果开启TUN模式在cursor里也连不上claude code,是否代表需要更换更干净的IP了
+
+McXIA(wangxia631376) 06-25 00:20:13
+![图片](http://127.0.0.1:5030/image/7df74712c361515826ee334019ba3524)
+
+刘小排(liuxiaopai) 06-25 00:59:19
+不是。这个提示的意思是连不上
+
+刘小排(liuxiaopai) 06-25 00:59:26
+你检查下你的TUN是不是真的成功打开了
+
+McXIA(wangxia631376) 06-25 01:01:53
+![图片](http://127.0.0.1:5030/image/7d5f3185e3fa3ec59e463c4845654363)
+
+McXIA(wangxia631376) 06-25 01:03:07
+问了AI验证是否成功开启TUN模式，好像确实成功开启了
+
+McXIA(wangxia631376) 06-25 01:06:29
+![图片](http://127.0.0.1:5030/image/e37a9e0aee70ef1199de7fd08bd9da21)
+
+McXIA(wangxia631376) 06-25 01:08:47
+这个是我自己搭建的，腾讯云的境外服务器，claude官网会员付费了快1个月没封号，有点不确定是不是IP的问题
+
+刘小排(liuxiaopai) 06-25 03:15:01
+你这个是哪个国家的服务器
+
+吴海晖®(wxid_78jyonoq7hyk22) 06-25 08:47:26
+【WildCard】尊敬的客户，您尾号 0071 的卡片于 2025年06月25日 08时43分 在 BOLT 消费 $20.00，因余额不足支付失败。根据风控政策，累计 3 次失败将冻结卡片，请及时取消相关订阅，或联系官网右下角客服协助处理。【中国移动 和多号副号:150****6382】
+
+请问bolt在哪里取消续费呀
+
+吴海晖®(wxid_78jyonoq7hyk22) 06-25 08:47:55
+还这个要在野卡那边操作？
+
+小李F刀(wxid_cgr2mr7ea63l22) 06-25 08:50:13
+这种是在  bolt 上取消
+
+吴海晖®(wxid_78jyonoq7hyk22) 06-25 08:51:07
+这个月底，很多没注意的都要自动续费了
+
+McXIA(wangxia631376) 06-25 09:29:54
+> 刘小排(liuxiaopai) 06-25 03:15:01
+> 你这个是哪个国家的服务器
+美国服务器
+
+李明进(mikipku) 06-25 09:56:51
+#举手，尝试跑kit配置，还是卡在google登录上；
+目前的现象是，正式环境google登录授权正常，但授权成功后页面跳转到https://localhost:3001/dashboard，然后页面报错ERR_SSL_PROTOCOL_ERROR；
+此时如果重新打开上线地址，可以正常显示用户dashboard数据；
+
+看日志：
+登录成功后307重定向，GET /auth/callback?code=b3xxxx....b88b 307 in 1218ms
+然后开发者模式看network里面header的location是
+https://localhost:3001/dashboard；
+
+问cursor：
+cursor首先说env.local里面NEXT_PUBLIC_SITE_URL变量不是线上地址，我截图给cursor看这个地方没问题；
+然后cursor就说代码里面某一句有问题，我个人觉得代码不可能有问题，群里不少人已经跑通了。。。
+然后尝试读懂这一块代码细节，没成功；
+
+萌面侠(ckyief) 06-25 10:10:07
+把跳转页定向到http
+
+萌面侠(ckyief) 06-25 10:12:00
+localhost没有https
+
+刘小排(liuxiaopai) 06-25 10:14:01
+是的
+
+亿豪(wxid_8rqui0adacvp12) 06-25 10:19:55
+@吴海晖®-广州白云 取消订阅是在bolt页面上，不在野卡
+如果你被扣费了，不再使用bolt，可以给hello@stackblitz.com发邮件申请退款，它会退给你，邮件内容，dia可以帮你写
+
+李明进(mikipku) 06-25 10:21:10
+> 萌面侠(ckyief) 06-25 10:12:00
+> localhost没有https
+感谢指点，现在有明确的追查方向了；
+不过请问这个地方是https说明哪里配置有错呢？我又检查了console，supabase，cloudflare的设置，local地址都是http没有https；
+问cursor这个地方问题在哪里，cursor又说代码某一行有错要改，我再继续研究下；
+
+Moore(xiaobei1984) 06-25 10:22:57
+页面报错ERR_SSL_PROTOCOL_ERROR；主要是这个点
+
+Moore(xiaobei1984) 06-25 10:25:54
+![图片](http://127.0.0.1:5030/image/0e3d0934177413cdb9e832b7b51059f2)
+
+Moore(xiaobei1984) 06-25 10:26:51
+如果不理解，可以问一下 什么是 HTTPS 协议，如何让网站支持 HTTPS，你就知道为什么  localhost 没有 SSL
+
+Moore(xiaobei1984) 06-25 10:27:39
+![图片](http://127.0.0.1:5030/image/e2d6fab2c64ab3c617feeb9ca9d194fd)
+
+Moore(xiaobei1984) 06-25 10:27:56
+我看了一下 start 的.env 都是 http 而不是 https
+
+李明进(mikipku) 06-25 10:34:56
+> Moore 助教(xiaobei1984) 06-25 10:27:39
+> ![图片](http://127.0.0.1:5030/image/e2d6fab2c64ab3c617feeb9ca9d194fd)
+好吧，那我理解错了，我之前遇到一个bug，把NEXT_PUBLIC_SITE_URL从local改为线上就好了，我还以为NEXT_PUBLIC_SITE_URL需要从local改为线上地址[囧]
+
+Moore(xiaobei1984) 06-25 10:36:22
+你本地和线上环境操作都没分清楚吗？
+
+Moore(xiaobei1984) 06-25 10:36:36
+建议用4o先学习一下
+
+我 06-25 10:39:25
+"Miki" 撤回了一条消息
+
+李明进(mikipku) 06-25 10:40:12
+> Moore 助教(xiaobei1984) 06-25 10:36:22
+> 你本地和线上环境操作都没分清楚吗？
+这个不至于，但我以为google登录这个环节，线上环境的307重定向是到线上环境
+
+Moore(xiaobei1984) 06-25 10:40:53
+> Moore 助教(xiaobei1984) 06-25 10:25:54
+> ![图片](http://127.0.0.1:5030/image/0e3d0934177413cdb9e832b7b51059f2)
+你的日志已经查出来是这个了，怎么可能还是线上地址 [惊讶]
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 06-25 10:40:55
+@Moore 助教 教练，怎么在creem上申请认证啊[Emm]
+找了半天没找到入口
+https://www.creem.io/dashboard/roadmap
+
+Moore(xiaobei1984) 06-25 10:41:12
+看课程
+
+酷克(wxid_wrvymzvoo21g12) 06-25 10:41:19
+#举手 手册这个位置  “16.粘贴到代码中（可以让cursor配），记住保存”
+
+截图的文件目录和下载的starter文件目录不一样，下载的starter文件中也有一个pricing.tsx文件（和手册目录位置不一样），只要在下图pricing.tsx这位置更改就可以了吗？
+
+是否可以将creem的产品id也写入到.env.loaca中自动调取？
+
+酷克(wxid_wrvymzvoo21g12) 06-25 10:41:19
+![图片](http://127.0.0.1:5030/image/ef16dea7dc785771f7ed937d016387b7)
+
+酷克(wxid_wrvymzvoo21g12) 06-25 10:41:19
+![图片](http://127.0.0.1:5030/image/f75f42d10101686f47caa85bc279dc61)
+
+刘小排(liuxiaopai) 06-25 10:42:11
+> 酷克(wxid_wrvymzvoo21g12) 06-25 10:41:19
+> #举手 手册这个位置  “16.粘贴到代码中（可以让cursor配），记住保存”
+> 截图的文件目录和下载的starter文件目录不一样，下载的starter文件中也有一个pricing.tsx文件（和手册目录位置不一样），只要在下图pricing.tsx这位置更改就可以了吗？
+> 是否可以将creem的产品id也写入到.env.loaca中自动调取？
+看教程，把教程看完。然后把creem官方文档点完，再把所有按钮点完..
+
+刘小排(liuxiaopai) 06-25 10:42:33
+国外的支付平台都是非常严肃的事情。如果你连审核入口都找不到的话...我觉得你现在可能还没有准备好做支付。
+
+Paradise Quest(wxid_g27abmn3c4ws21) 06-25 10:48:00
+creem，心中的痛，调通了结果审核没过，现在删掉更换
+
+吴海晖®(wxid_78jyonoq7hyk22) 06-25 10:52:59
+> 亿豪(wxid_8rqui0adacvp12) 06-25 10:19:55
+> @吴海晖®-广州白云 取消订阅是在bolt页面上，不在野卡
+> 如果你被扣费了，不再使用bolt，可以给hello@stackblitz.com发邮件申请退款，它会退给你，邮件内容，dia可以帮你写
+感谢，因为野卡没钱，它没扣费成功，已经取消月底订阅[社会社会][社会社会]
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 06-25 10:55:37
+> 刘小排(liuxiaopai) 06-25 10:42:11
+> > 酷克(wxid_wrvymzvoo21g12) 06-25 10:41:19
+> > #举手 手册这个位置  “16.粘贴到代码中（可以让cursor配），记住保存”
+> > 截图的文件目录和下载的starter文件目录不一样，下载的starter文件中也有一个pricing.tsx文件（和手册目录位置不一样），只要在下图pricing.tsx这位置更改就可以了吗？
+> > 是否可以将creem的产品id也写入到.env.loaca中自动调取？
+> 看教程，把教程看完。然后把creem官方文档点完，再把所有按钮点完..
+在开发文档里找到了。手册上好像没有（可能我没找到）[呲牙]
+
+Paradise Quest(wxid_g27abmn3c4ws21) 06-25 10:59:12
+手册上有具体步骤和开源代码呢，可以用
+
+李明进(mikipku) 06-25 11:07:27
+#举手，请教大佬一个入门问题：
+看群里强调creem申请要求网站有相对成熟的服务；
+我们尝试跑通kit时，按照教程的流程是「希望在雏形阶段就把creem支付配置跑通」，所以我理解是不是适合「先用自己之前成熟的网站去申请creem，然后拿到权限后，再在跑kit流程时测试creem」？
+
+刘小排(liuxiaopai) 06-25 11:13:02
+开发期间只用测试账号
+
+刘小排(liuxiaopai) 06-25 11:13:04
+不需要审核
+
+李明进(mikipku) 06-25 11:13:44
+> 刘小排(liuxiaopai) 06-25 11:13:02
+> 开发期间只用测试账号
+噢噢，原来如此，感谢
+
+JACKIE(qq573729221) 06-25 11:23:59
+> 酷克(wxid_wrvymzvoo21g12) 06-25 10:41:19
+> #举手 手册这个位置  “16.粘贴到代码中（可以让cursor配），记住保存”
+> 截图的文件目录和下载的starter文件目录不一样，下载的starter文件中也有一个pricing.tsx文件（和手册目录位置不一样），只要在下图pricing.tsx这位置更改就可以了吗？
+> 是否可以将creem的产品id也写入到.env.loaca中自动调取？
+ide里搜 productid，现在的版本是在subscription 里面，测试的时候随便替换一个就行，记住是哪个，测试的时候别点错了
+
+无极(wxid_wdl7p3msdupm22) 06-25 11:43:35
+大家跑的好快，我才搞到登录
+
+无极(wxid_wdl7p3msdupm22) 06-25 11:43:36
+[动画表情]
+
+无极(wxid_wdl7p3msdupm22) 06-25 11:43:41
+我看好多人都支付了
+
+wxid_iyevr7we4vxr11 06-25 11:44:06
+不着急，慢就是快
+
+wxid_iyevr7we4vxr11 06-25 11:44:46
+[合并转发|群聊的聊天记录]
+  刘小排 2025-06-24 15:06
+  学习期间要慢
+
+  刘小排 2025-06-24 15:06
+  第一个产品，一个月甚至两个月搞出来，跑通流程
+
+  刘小排 2025-06-24 15:07
+  咱们有一个学员，现在也在北京SCAI。他的第一个产品做了三四个月。 
+  第二个大概一个月。第三个不到一周，刚刚发布不久。第三个产品目前收入每天几百美金。
+  
+  它能不能在4个月前就直接用一周做出第三个产品呢？不能
+
+
+
+星城祝大家2025健康快乐(yowsss) 06-25 11:47:06
+现在正常的进度应该是在哪[破涕为笑]
+
+wxid_iyevr7we4vxr11 06-25 11:48:33
+课程前两个月是集中学习时间，如果之前没有基础，扎实内功
+
+祁莉(wxid_rb1690ccmlc811) 06-25 11:49:33
+我也有同样的问题，现在内功篇应该到哪里了，还在新手村的有点困惑
+
+wxid_iyevr7we4vxr11 06-25 11:51:21
+练内功的目的是能看懂ai写的每一行代码，照着这个方向努力
+
+祁莉(wxid_rb1690ccmlc811) 06-25 11:52:18
+需要问AI让他给我列一个学习计划？
+
+wxid_iyevr7we4vxr11 06-25 11:52:45
+[强]
+
+wxid_iyevr7we4vxr11 06-25 11:53:29
+![图片](http://127.0.0.1:5030/image/15c062f7e163f2c2ddc9d137e6dc335c)
+
+wxid_iyevr7we4vxr11 06-25 11:54:01
+这个视频系列很长很耗时间，如果能吃透，内功就差不多了
+
+wxid_iyevr7we4vxr11 06-25 11:54:59
+![图片](http://127.0.0.1:5030/image/4b2d6e88b068bceeaefb612959e9ef27)
+
+wxid_iyevr7we4vxr11 06-25 11:56:32
+https://youtu.be/_EgI9WH8q1A?si=ZBlSyKgejGA7qozv
+
+wxid_iyevr7we4vxr11 06-25 11:56:47
+同时推荐这个教程动手实操
+
+莫默(wxid_xtz5avm5c6t422) 06-25 12:01:10
+> 小瑶|助教(wxid_iyevr7we4vxr11) 06-25 11:48:33
+> 课程前两个月是集中学习时间，如果之前没有基础，扎实内功
+前两个月结束后，后面还会有教练回答问题的吗？还是说像航海那样，结束了就没人理群了[旺柴]
+
+我 06-25 12:01:41
+"小瑶|助教" 撤回了一条消息
+
+刘小排(liuxiaopai) 06-25 12:01:42
+不会的
+
+刘小排(liuxiaopai) 06-25 12:01:48
+群聊一直在
+
+刘小排(liuxiaopai) 06-25 12:01:58
+如果遇到紧急的问题 你们也可以私聊找我
+
+Es muss sein(wxid_qfhct3hwtuj022) 06-25 12:02:28
+后面还会有直播吗？
+
+刘小排(liuxiaopai) 06-25 12:02:55
+按需
+
+刘小排(liuxiaopai) 06-25 12:03:05
+如果发现群里有什么共性的问题，大家呼声强烈的话，我就来加播
+
+吴海晖®(wxid_78jyonoq7hyk22) 06-25 12:03:11
+> 小瑶|助教(wxid_iyevr7we4vxr11) 06-25 11:51:21
+> 练内功的目的是能看懂ai写的每一行代码，照着这个方向努力
+要达到这个感觉道阻且长
+
+刘小排(liuxiaopai) 06-25 12:03:20
+我就是来帮助你们的[坏笑] 多薅我
+
+无极(wxid_wdl7p3msdupm22) 06-25 12:03:36
+给那些有点儿耐心，但不是很多的人分享下我的经验
+
+按照手册，把手册里的东西都弄懂就好，原则上就是大的板块型的，能知道哪一部分放在哪个位置，什么功能
+
+比如nextjs，他的图片是哪一块儿的代码，每一个页面是属于哪块儿代码
+
+。能到这种程度，然后继续往下走，开始实战，开始做网站，开始搞流量
+
+。在这个过程中遇到问题再一点一点的解决
+
+星吟(wxid_ivo4n28g15qj21) 06-25 12:03:44
+这个深海圈交付周期一年呀
+
+李明进(mikipku) 06-25 12:03:48
+![图片](http://127.0.0.1:5030/image/1f8010c687b3c25c4ac70fe2900f0a78)
+
+无极(wxid_wdl7p3msdupm22) 06-25 12:03:49
+真的一次性把代码能到看懂的程度，我估计对于我们小白来说还是真的挺困难的，除非特别有耐心
+
+刘小排(liuxiaopai) 06-25 12:04:07
+此外，有拿到结果的朋友一定要告诉一下我。两个月结束之后看情况，我们可能会把拿到结果大一点的朋友单独维护一个群，做深入的交流
+
+无极(wxid_wdl7p3msdupm22) 06-25 12:04:22
+我目前就是能大概看懂板块儿型的东西，然后剩下就交给时间，具体碰到问题，再具体的去详细挖掘
+
+在然后，手册的过几个月再重新捋一遍
+
+无极(wxid_wdl7p3msdupm22) 06-25 12:04:39
+> 刘小排(liuxiaopai) 06-25 12:04:07
+> 此外，有拿到结果的朋友一定要告诉一下我。两个月结束之后看情况，我们可能会把拿到结果大一点的朋友单独维护一个群，做深入的交流
+这个好[色]
+
+李明进(mikipku) 06-25 12:04:43
+> 无极(wxid_wdl7p3msdupm22) 06-25 12:03:36
+> 给那些有点儿耐心，但不是很多的人分享下我的经验
+> 按照手册，把手册里的东西都弄懂就好，原则上就是大的板块型的，能知道哪一部分放在哪个位置，什么功能
+> 比如nextjs，他的图片是哪一块儿的代码，每一个页面是属于哪块儿代码
+> 。能到这种程度，然后继续往下走，开始实战，开始做网站，开始搞流量
+> 。在这个过程中遇到问题再一点一点的解决
+学习了
+
+刘小排(liuxiaopai) 06-25 12:05:02
+> 无极(wxid_wdl7p3msdupm22) 06-25 12:03:36
+> 给那些有点儿耐心，但不是很多的人分享下我的经验
+> 按照手册，把手册里的东西都弄懂就好，原则上就是大的板块型的，能知道哪一部分放在哪个位置，什么功能
+> 比如nextjs，他的图片是哪一块儿的代码，每一个页面是属于哪块儿代码
+> 。能到这种程度，然后继续往下走，开始实战，开始做网站，开始搞流量
+> 。在这个过程中遇到问题再一点一点的解决
+[强]
+
+JACKIE(qq573729221) 06-25 12:06:24
+> 刘小排(liuxiaopai) 06-25 12:04:07
+> 此外，有拿到结果的朋友一定要告诉一下我。两个月结束之后看情况，我们可能会把拿到结果大一点的朋友单独维护一个群，做深入的交流
+争取能达到门槛
+
+吴海晖®(wxid_78jyonoq7hyk22) 06-25 12:06:43
+争取能先赚到1块钱
+
+刘小排(liuxiaopai) 06-25 12:06:55
+是的 先收到第一单
+
+刘小排(liuxiaopai) 06-25 12:07:22
+[合并转发|群聊的聊天记录]
+刘小排(liuxiaopai) 06-25 12:07:33
+那一天你可能会哭的
+
+刘小排(liuxiaopai) 06-25 12:07:35
+[呲牙]
+
+莫默(wxid_xtz5avm5c6t422) 06-25 12:08:19
+> 刘小排(liuxiaopai) 06-25 12:03:20
+> 我就是来帮助你们的[坏笑] 多薅我
+那我来薅你了[呲牙]#举手 我看小排老师的直播里，这里的Body是自己生成的，但我的Body为啥都没有东西的？我问了AI要手动填写？
+
+莫默(wxid_xtz5avm5c6t422) 06-25 12:08:25
+![图片](http://127.0.0.1:5030/image/c51965e83baef9a65178a3b4e06a41c5)
+
+莫默(wxid_xtz5avm5c6t422) 06-25 12:08:27
+![图片](http://127.0.0.1:5030/image/723703cddaa549cfbca63ce7fa387ee2)
+
+吴海晖®(wxid_78jyonoq7hyk22) 06-25 12:08:33
+心力会在失败中的过程中不断消耗。
+
+刘小排(liuxiaopai) 06-25 12:08:39
+> 莫默(wxid_xtz5avm5c6t422) 06-25 12:08:19
+> > [引用]
+> 那我来薅你了[呲牙]#举手 我看小排老师的直播里，这里的Body是自己生成的，但我的Body为啥都没有东西的？我问了AI要手动填写？
+你复制的curl是啥
+
+刘小排(liuxiaopai) 06-25 12:08:48
+大概率是你复制错了
+
+无极(wxid_wdl7p3msdupm22) 06-25 12:09:11
+> 刘小排(liuxiaopai) 06-25 12:07:33
+> 那一天你可能会哭的
+记得两年前刚创业那时候，半个月分币不挣
+
+无极(wxid_wdl7p3msdupm22) 06-25 12:09:25
+然后开了第一单，那一单3块好像
+
+莫默(wxid_xtz5avm5c6t422) 06-25 12:09:28
+这个
+
+莫默(wxid_xtz5avm5c6t422) 06-25 12:09:29
+![图片](http://127.0.0.1:5030/image/b788bbd2e7bc44c69eddb560409e5748)
+
+无极(wxid_wdl7p3msdupm22) 06-25 12:09:33
+第二个比较正式的是399，截图我还留着呢
+
+无极(wxid_wdl7p3msdupm22) 06-25 12:09:42
+很有感触
+
+刘小排(liuxiaopai) 06-25 12:10:04
+[强][强][强]谢谢分享
+
+刘小排(liuxiaopai) 06-25 12:10:42
+> 莫默(wxid_xtz5avm5c6t422) 06-25 12:09:29
+> ![图片](http://127.0.0.1:5030/image/b788bbd2e7bc44c69eddb560409e5748)
+是他原始内容错了
+
+无极(wxid_wdl7p3msdupm22) 06-25 12:10:52
+> [引用]
+我刷到他视频了，这个还挺搞笑的，这个圈友[破涕为笑]，他说他是套壳版刘小排
+
+刘小排(liuxiaopai) 06-25 12:11:05
+嗯，是的
+
+无极(wxid_wdl7p3msdupm22) 06-25 12:11:08
+好像叫林悦己
+
+刘小排(liuxiaopai) 06-25 12:11:14
+做短视频是他的副业
+
+莫默(wxid_xtz5avm5c6t422) 06-25 12:11:23
+> 刘小排(liuxiaopai) 06-25 12:10:42
+> > [引用]
+> 是他原始内容错了
+那我怎么找正确内容[破涕为笑]
+
+刘小排(liuxiaopai) 06-25 12:11:29
+[视频号|小排老师日理万机还能有时间读文献的方法，给我挖出来了！定时任务，明天蹲gpt给我发的🌈屁！ #GPT #定时任务 #chatgpt
+#ai #aigc
+](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQBCj8D33Ef1ib4LKDef59r56jPOfTKdoianmGI27gdDnuXWsExfM5FhS4C0FkZZIvOPr8Y9m5uORfJPRP5ibaZY7Qd&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a15c&token=6xykWLEnztIEQsOb1gyqsgQibWMfnnuJaVJXV2icxMGc32eY8ddXIspk3YEZA1gXVFqX1yAQC6Ka18gp7sPVHIDRTjTNpRb2YiaKH8VNW2L9TQ6N6kev3Ca1qovmlDUXI7nupZvRGQTtRxooYb3ribFqgIsOgSuLEkL89Wzblbdm7fE&basedata=CAESBnhXVDE1NhoGeFdUMTExGgZ4V1QxMTIaBnhXVDExMxoGeFdUMTU2GgZ4V1QxNTcaBnhXVDE1OCIYCgoKBnhXVDExMhABCgoKBnhXVDE1NxABKgcImB0QABgC&sign=rCPY5otjBbxJqaH-qzoWNDumZ4POkTVtkL8izBX_jG_FhX5W2HFfgxTJDpnHzA-QyhnYh_e2o5K2eUEA4_hhHw&ctsc=25&extg=8abc00&svrbypass=AAuL%2FQsFAAABAAAAAADimPMsLQ6e1EBdMmhbaBAAAADnaHZTnGbFfAj9RgZXfw6VNO3Pt5YrOvzfdEhjA1sBXlpx3RsmIQTbRWtk1uGwR8%2BE59Z%2BDyAaXw%3D%3D&svrnonce=1750820914)
+
+刘小排(liuxiaopai) 06-25 12:11:36
+很厉害的女孩子
+
+无极(wxid_wdl7p3msdupm22) 06-25 12:12:06
+确实，刷到过好几次，挺厉害的
+
+我 06-25 12:12:50
+"刘小排" 撤回了一条消息
+
+刘小排(liuxiaopai) 06-25 12:13:06
+> 莫默(wxid_xtz5avm5c6t422) 06-25 12:11:23
+> > [引用]
+> 那我怎么找正确内容[破涕为笑]
+你先严格按照教程，把我演示的走通，那是一个最简单的API。
+
+其他复杂一点一点的API，你需要去需要学习HTTP POST原理和CURL和postman，才能举一反三
+
+刘小排(liuxiaopai) 06-25 12:13:40
+其实，你问这个问题，只是因为你还不懂HTTP Post和CURL而已
+
+刘小排(liuxiaopai) 06-25 12:14:21
+可以花一两个小时把它学透 问AI，看懂Curl请求里的每个字
+
+刘小排(liuxiaopai) 06-25 12:14:33
+比抽卡花的时间多不到哪儿去
+
+刘小排(liuxiaopai) 06-25 12:14:58
+比如，刚才那个curl，你可以直接复制问ai，怎么导入到postman里调试
+
+莫默(wxid_xtz5avm5c6t422) 06-25 12:16:04
+嗯嗯好的
+
+Eliot(jackglen) 06-25 12:16:44
+![图片](http://127.0.0.1:5030/image/ecb9f72fd9b635df97921d4d779d406c)
+
+小耳朵(wxid_72hc6w5d4veg21) 06-25 12:17:39
+我也在啃内功篇，目前在b站给自己加餐，我发现内功篇相比基础篇，难的不仅仅是知识，是没有基础篇快速上手有获得感的反馈，容易懈怠，但我暗自提醒自己，这是好事，因为门槛更高了，又筛选掉了一批人[旺柴]
+
+刘小排(liuxiaopai) 06-25 12:19:59
+[强]
+
+刘小排(liuxiaopai) 06-25 12:20:20
+> Eliot(jackglen) 06-25 12:16:44
+> ![图片](http://127.0.0.1:5030/image/ecb9f72fd9b635df97921d4d779d406c)
+恭喜你赚到，第一，，美分？
+
+刘小排(liuxiaopai) 06-25 12:20:23
+[愉快]
+
+Eliot(jackglen) 06-25 12:24:16
+> 刘小排(liuxiaopai) 06-25 12:20:20
+> > [引用]
+> 恭喜你赚到，第一，，美分？
+美分。。。
+
+刘小排(liuxiaopai) 06-25 12:24:42
+加油..这个不算数[呲牙]
+
+Eliot(jackglen) 06-25 12:26:04
+做的比较慢，支付还没去碰
+
+刘小排(liuxiaopai) 06-25 12:28:00
+> 小耳朵(wxid_72hc6w5d4veg21) 06-25 12:17:39
+> 我也在啃内功篇，目前在b站给自己加餐，我发现内功篇相比基础篇，难的不仅仅是知识，是没有基础篇快速上手有获得感的反馈，容易懈怠，但我暗自提醒自己，这是好事，因为门槛更高了，又筛选掉了一批人[旺柴]
+[强][强][强]没错。
+
+rain(wxid_9302913028612) 06-25 12:32:17
+翻石头翻到了个好东西 https://scrimba.com/ 这个产品在Product Hunt打榜，开源很多免费的课程可以加餐，配合Dia浏览器食用更佳
+
+莫默(wxid_xtz5avm5c6t422) 06-25 12:33:49
+> 小瑶|助教(wxid_iyevr7we4vxr11) 06-25 11:56:32
+> https://youtu.be/_EgI9WH8q1A?si=ZBlSyKgejGA7qozv
+这个next.js视频有没有中文教程推荐，老外讲话不断句的，看的我难受[破涕为笑]
+
+Vince(wen3qin) 06-25 12:38:53
+> 莫默(wxid_xtz5avm5c6t422) 06-25 12:33:49
+> > [引用]
+> 这个next.js视频有没有中文教程推荐，老外讲话不断句的，看的我难受[破涕为笑]
+我用nextjs的官方文档按章节贴到cursor让它给我写个demo，然后再看它写的代码，对照网页效果，体验还不错
+
+刘小排(liuxiaopai) 06-25 12:42:13
+有意思
+
+刘小排(liuxiaopai) 06-25 12:42:21
+这是一个好方法 哈哈 我还没想到
+
+莫默(wxid_xtz5avm5c6t422) 06-25 12:45:06
+> Vince(wen3qin) 06-25 12:38:53
+> > [引用]
+> 我用nextjs的官方文档按章节贴到cursor让它给我写个demo，然后再看它写的代码，对照网页效果，体验还不错
+嗯嗯目前我也是在看官方文档
+
+wxid_iyevr7we4vxr11 06-25 12:47:03
+![图片](http://127.0.0.1:5030/image/a52475151c8a6f1d2db64b704b38da05)
+
+wxid_iyevr7we4vxr11 06-25 12:47:08
+@莫默 试试视频翻译
+
+莫默(wxid_xtz5avm5c6t422) 06-25 13:04:08
+👌谢谢
+
+光脚踢球(guangjiaotiqiu001) 06-25 14:41:26
+https://qufei1993.github.io/nextjs-learn-cn/chapter1
+
+光脚踢球(guangjiaotiqiu001) 06-25 14:41:56
+@莫默 中文版的，之前忘了谁分享的，可以理解是官方翻译版
+
+宇古(yuxiuyu) 06-25 14:53:13
+查找Claude Code用法，发现一个油管视频，感觉可以借鉴，PS：视频提到小排老师[破涕为笑]
+https://www.youtube.com/watch?v=Ak433fKdz6E
+
+宇古(yuxiuyu) 06-25 14:53:14
+![图片](http://127.0.0.1:5030/image/185ac51765de236e079ca305b712dc1f)
+
+刘小排(liuxiaopai) 06-25 14:54:02
+哈哈哈 说不定就在群里
+
+宇古(yuxiuyu) 06-25 14:55:57
+在群里的话，让他分享下[破涕为笑]，这两天都用这工具，就是废token。
+
+新世界(wxid_98g2m3mfrobz31) 06-25 16:30:53
+做产品之前调研有多重要，看来对标网站用了完全不同的方式，很好的规避了上传大文件的问题，我却一直围绕着怎么上传大文件，怎么处理。。方向完全反了
+
+新世界(wxid_98g2m3mfrobz31) 06-25 16:30:54
+![图片](http://127.0.0.1:5030/image/fc3c5b45bab85f6ac1f7ba61a57ae061)
+
+无极(wxid_wdl7p3msdupm22) 06-25 16:36:58
+哈哈哈哈哈哈哈哈哈哈    很好  这个还真不错   
+
+无极(wxid_wdl7p3msdupm22) 06-25 16:37:05
+学习了 
+
+Moore(xiaobei1984) 06-25 16:38:33
+> 新世界(wxid_98g2m3mfrobz31) 06-25 16:30:53
+> 做产品之前调研有多重要，看来对标网站用了完全不同的方式，很好的规避了上传大文件的问题，我却一直围绕着怎么上传大文件，怎么处理。。方向完全反了
+早期调研至少占60%的时间
+
+新世界(wxid_98g2m3mfrobz31) 06-25 16:39:36
+不管大文件小文件，对标都不处理，把资源处理的压力交给用户的电脑，因为用这功能的人的电脑大部分应该都比较可以，不是很旧的电脑就行，所以解决了最大的难题
+
+新世界(wxid_98g2m3mfrobz31) 06-25 16:40:04
+> Moore 助教(xiaobei1984) 06-25 16:38:33
+> > 新世界(wxid_98g2m3mfrobz31) 06-25 16:30:53
+> > 做产品之前调研有多重要，看来对标网站用了完全不同的方式，很好的规避了上传大文件的问题，我却一直围绕着怎么上传大文件，怎么处理。。方向完全反了
+> 早期调研至少占60%的时间
+确实O3 4O前期要频繁问
+
+无极(wxid_wdl7p3msdupm22) 06-25 16:40:49
+你是咋发现的   
+
+无极(wxid_wdl7p3msdupm22) 06-25 16:41:03
+看到一个网站上传很快吗？
+
+新世界(wxid_98g2m3mfrobz31) 06-25 16:41:10
+深度认真的体验对标的产品
+
+无极(wxid_wdl7p3msdupm22) 06-25 16:41:12
+怎么发现他的解决方案的
+
+新世界(wxid_98g2m3mfrobz31) 06-25 16:41:44
+把体验的感受发给AI 
+
+新世界(wxid_98g2m3mfrobz31) 06-25 16:43:22
+试想我即使按照原始思路费半天劲做出来 肯定没有对标的体验快，那后面也很难做出差异化
+
+半尘(muling12) 06-25 16:46:32
+之前我说的时候，在浏览器运行已经给你说过了，你要是试一下可能早就发现。为什么推荐用o3, 就是尽可能找到全面的答案。一个星期200次，一个月800次，比之前cursor都多，要省什么次数。
+
+新世界(wxid_98g2m3mfrobz31) 06-25 16:47:09
+> 半尘(muling12) 06-25 16:46:32
+> 之前我说的时候，在浏览器运行已经给你说过了，你要是试一下可能早就发现。为什么推荐用o3, 就是尽可能找到全面的答案。一个星期200次，一个月800次，比之前cursor都多，要省什么次数。
+好的，这下记忆深刻了
+
+刘小排(liuxiaopai) 06-25 16:49:01
+[坏笑]
+
+Moore(xiaobei1984) 06-25 16:53:43
+> 新世界(wxid_98g2m3mfrobz31) 06-25 16:40:04
+> > [引用]
+> 确实O3 4O前期要频繁问
+[旺柴] 不要只用AI 调研，也要手动去获取更详细的资料，o3和4o结合着用，一些小点的问题4o效率更高，指向型更高
+
+新世界(wxid_98g2m3mfrobz31) 06-25 16:54:30
+> Moore 助教(xiaobei1984) 06-25 16:53:43
+> > 新世界(wxid_98g2m3mfrobz31) 06-25 16:40:04
+> > > [引用]
+> > 确实O3 4O前期要频繁问
+> [旺柴] 不要只用AI 调研，也要手动去获取更详细的资料，o3和4o结合着用，一些小点的问题4o效率更高，指向型更高
+确实
+
+志鹏(wxid_98p56fz1v50n22) 06-25 16:58:15
+小排老师，我在GitHub上没有找到与自己想做的网站，类似的有，但是已经是过去几年的代码，那我的想法还要继续做下去吗？
+
+刘小排(liuxiaopai) 06-25 17:02:23
+你的意思是 “只有当你从Github找到类似的代码的前提下，才能支撑你做产品？”
+
+志鹏(wxid_98p56fz1v50n22) 06-25 17:04:23
+> 刘小排(liuxiaopai) 06-25 17:02:23
+> 你的意思是 “只有当你从Github找到类似的代码的前提下，才能支撑你做产品？”
+不是，主要是想看看github上有没有类似的，如果没有，我的想法是否是好的
+
+刘小排(liuxiaopai) 06-25 17:06:35
+[动画表情]
+
+刘小排(liuxiaopai) 06-25 17:06:49
+你这个判断方法好像不太对吧。
+
+刘小排(liuxiaopai) 06-25 17:07:24
+Github上是否有类似代码 和 想法是否好，
+
+不是充分条件，也不是必要条件
+
+我觉得它们的相关性非常弱
+
+志鹏(wxid_98p56fz1v50n22) 06-25 17:07:36
+好的，明白了
+
+Moore(xiaobei1984) 06-25 17:53:07
+> 新世界(wxid_98g2m3mfrobz31) 06-25 16:43:22
+> 试想我即使按照原始思路费半天劲做出来 肯定没有对标的体验快，那后面也很难做出差异化
+提前做好预研是必须的，从一开始你挑了一个很复杂的技术方案，最核心原因，是你给到 o3 的限制条件不够，你没有在前期调研好竞品，做差异化。就拿 pdf 来说，o3 给你的思路是按照大型项目来搞的，就意味着你一开始就按照架构师的视角来做，但是你对做这个项目是模糊的，导致你前期浪费大量的时间在无意义的 o3 上。
+
+更正确应该是使用 4o 开始聊你的需求，你的想法，一点一点展形，最后把这些点，扔给 o3 给你做一个全面的分析，比如你的需求首要是解决是 1M 以下的 PDF，技术方案，就直接 前端流式上传 -> serverless 解析PDF -> claude，而不是给你最顶尖的 ocr，但你的用户场景并不需要。
+
+Moore(xiaobei1984) 06-25 17:54:58
+然后你又用 1k 左右的 pdf 来跑  前端上传到 -> R2 -> Google OCR，然后又需要从 R2 下载到某个 xx 位置上，然后再解析，一个是浪费资源，一个是用户体验很差，你分析一个 1k 文件，要走这么复杂的链路 [旺柴]
+
+宇古(yuxiuyu) 06-25 18:05:59
+我现在有点沉迷技术，尝试各种工具，不看需求了，敲醒我。。。。
+
+刘小排(liuxiaopai) 06-25 18:07:07
+都有这个阶段的
+
+Moore(xiaobei1984) 06-25 18:07:50
+> 宇古(yuxiuyu) 06-25 18:05:59
+> 我现在有点沉迷技术，尝试各种工具，不看需求了，敲醒我。。。。
+[生病] 调整一下，我这段时间都在调研需求
+
+旺享斯基(wangwangdi) 06-25 18:14:26
+越调研越发现自己的 idea 失败的风险很高，还没开始就想换，怎么破这种焦虑[捂脸]
+
+Moore(xiaobei1984) 06-25 18:14:50
+那说明你找错竞品了
+
+Moore(xiaobei1984) 06-25 18:16:14
+竞品要找市场上不那么强的
+
+Moore(xiaobei1984) 06-25 18:19:07
+要找那么能赚到钱，又是热门赛道，而且实力弱的对手，不要找大厂，比如字节刚出的榜单上涨 TOP的 pippit.capcut.com，你可以找 https://veo3.ai/ 这种套壳，能赚月入几千刀的
+
+星吟(wxid_ivo4n28g15qj21) 06-25 18:19:20
+> 旺享斯基(wangwangdi) 06-25 18:14:26
+> 越调研越发现自己的 idea 失败的风险很高，还没开始就想换，怎么破这种焦虑[捂脸]
++1
+
+旺享斯基(wangwangdi) 06-25 18:22:34
+> Moore 助教(xiaobei1984) 06-25 18:19:07
+> 要找那么能赚到钱，又是热门赛道，而且实力弱的对手，不要找大厂，比如字节刚出的榜单上涨 TOP的 pippit.capcut.com，你可以找 https://veo3.ai/ 这种套壳，能赚月入几千刀的
+thanks！ 还是尽量把这个方向的市场情况和主要玩家都研究下才行
+
+Moore(xiaobei1984) 06-25 18:24:44
+[旺柴]对啊难度不高，干起来成本也不高
+
+张耘瀚(wxid_0319273194712) 06-25 18:26:05
+我是觉得不用焦虑，头十几个甚至几十个站都是炮灰站，炮灰厚了，压瓷实了，高度也就高了
+
+星城祝大家2025健康快乐(yowsss) 06-25 18:29:59
+dia浏览器，每次打开电脑都要重新登录账号密码，大家有遇到过这个问题吗，怎么解决？
+
+浮梦(wxid_ohawz2c3wzcl12) 06-25 18:41:37
+不关机[旺柴]
+
+小小凡人(23点睡觉)(xiao361042172) 06-25 19:00:27
+> 星城祝大家2025健康快乐(yowsss) 06-25 18:29:59
+> dia浏览器，每次打开电脑都要重新登录账号密码，大家有遇到过这个问题吗，怎么解决？
+没有遇到
+
+小小凡人(23点睡觉)(xiao361042172) 06-25 19:00:50
+我的是mac mini，24小时开机[吃瓜]
+
+辛亥(wxid_0ytooiqh4iio22) 06-25 19:02:15
+> 浮梦(wxid_ohawz2c3wzcl12) 06-25 18:41:37
+> 不关机[旺柴]
+我也是不关机
+
+辛亥(wxid_0ytooiqh4iio22) 06-25 19:02:37
+但是只要把dia叉了就不行了，再次打开就是要登陆
+
+我 06-25 19:05:50
+"小耳朵" 撤回了一条消息
+
+浮梦(wxid_ohawz2c3wzcl12) 06-25 19:14:06
+代理不要乱动，一般没啥才对
+
+宇古(yuxiuyu) 06-25 21:12:37
+pua不成功[破涕为笑]
+
+宇古(yuxiuyu) 06-25 21:12:37
+![图片](http://127.0.0.1:5030/image/d4a392a14f6dd57837904aa5de2b7a42)
+
+宇古(yuxiuyu) 06-25 21:12:37
+![图片](http://127.0.0.1:5030/image/9828daee5a13b25496904676b30b2d17)
+
+我 06-25 21:24:42
+"Cristal Wu" 撤回了一条消息
+
+Cristal Wu(vbonyage) 06-25 21:25:19
+感谢群友提供的Lovart邀请码，有需要邀请码的友友们自取：
+
+Lovart, the first design agent. 
+Visit https://www.lovart.ai, sign up and use code【FrkejRQ】to unlock your exclusive access.
+
+Lovart, the first design agent. 
+Visit https://www.lovart.ai, sign up and use code【GHuZ8c7】to unlock your exclusive access.
+
+@志凡(wxid_1ny19bze418b22) 06-25 21:26:57
+感谢楼上
+Lovart, the first design agent. 
+Visit https://www.lovart.ai, sign up and use code【24eZwkf】to unlock your exclusive access.
+Lovart, the first design agent. 
+Visit https://www.lovart.ai, sign up and use code【XZAkfWM】to unlock your exclusive access.
+Lovart, the first design agent. 
+Visit https://www.lovart.ai, sign up and use code【23YEV5W】to unlock your exclusive access.
+
+刘镇斌(wxid_ybfhp0w6kejh22) 06-25 21:40:59
+感谢楼上，需要邀请码的友友们自取：
+Lovart, the first design agent. 
+Visit https://www.lovart.ai, sign up and use code【EGtYHDM】to unlock your exclusive access.
+
+Lovart, the first design agent. 
+Visit https://www.lovart.ai, sign up and use code【tkNSDkg】to unlock your exclusive access.
+
+Es muss sein(wxid_qfhct3hwtuj022) 06-25 21:46:21
+感谢楼上，需要邀请码的朋友可取：Lovart, the first design agent. 
+Visit https://www.lovart.ai, sign up and use code【ZXHcmL9】to unlock your exclusive access.
+
+我 06-25 22:02:16
+"smonkey" 撤回了一条消息
+
+smonkey(gc05568256810) 06-25 22:03:11
+感谢楼上，需要邀请码的友友们自取：
+Lovart, the first design agent. 
+Visit https://www.lovart.ai, sign up and use code【7FU9PrQ】to unlock your exclusive access.
+Lovart, the first design agent. 
+Visit https://www.lovart.ai, sign up and use code【DSemLNG】to unlock your exclusive access.
+Lovart, the first design agent. 
+Visit https://www.lovart.ai, sign up and use code【tZCFhar】to unlock your exclusive access.
+
+🥷🏿 发呆.(wxid_767zp9hgv7b922) 06-25 22:28:45
+谷歌的编程产品也来了，类似于 cluade code，这里下载：github.com/google-gemini/gemini-cli/
+
+吴海晖®(wxid_78jyonoq7hyk22) 06-25 22:32:42
+@🥷🏿 发呆. 感觉好不好用呀
+
+刘小排(liuxiaopai) 06-25 22:34:53
+这个不是用来编程的
+
+🥷🏿 发呆.(wxid_767zp9hgv7b922) 06-25 22:39:32
+> 吴海晖®-广州白云(wxid_78jyonoq7hyk22) 06-25 22:32:42
+> @🥷🏿 发呆. 感觉好不好用呀
+我才用上么，还没试呢
+
+🥷🏿 发呆.(wxid_767zp9hgv7b922) 06-25 22:40:24
+> 刘小排(liuxiaopai) 06-25 22:34:53
+> 这个不是用来编程的
+我目前测试跟 cluade code 是一样的，就单从使用流程上来
+
+极客信条(kongfulive) 06-25 22:40:44
+![图片](http://127.0.0.1:5030/image/339eac1dff6daa2a4874b0d173e7827c)
+
+🥷🏿 发呆.(wxid_767zp9hgv7b922) 06-25 22:48:19
+![图片](http://127.0.0.1:5030/image/d6b534a57b44723ae2bc6433c4572c4c)
+
+刘小排(liuxiaopai) 06-25 23:14:13
+我用了，感觉挺一般的。比claude code差得挺远。
+
+🥷🏿 发呆.(wxid_767zp9hgv7b922) 06-25 23:23:24
+> 刘小排(liuxiaopai) 06-25 23:14:13
+> 我用了，感觉挺一般的。比claude code差得挺远。
+嗯嗯，感觉上下文和使用条件是优势，执行还是得 cluadecode
+使用门槛是真的降低了很多，不用担心被封号了
+
+Moore(xiaobei1984) 06-25 23:53:29
+[旺柴] geminicli这个热点没人做吗？做教程？做对比？做模版？然后搞个广告赚钱
+
+萌面侠(ckyief) 06-25 23:55:32
+[鼓掌]教练可以以身作则然后分享经验
+
+Moore(xiaobei1984) 06-25 23:56:35
+[旺柴]
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 06-25 23:56:37
+做套壳么
+
+极客信条(kongfulive) 06-25 23:59:26
+@Moore 助教 我在做本地工具[捂脸]
+
+极客信条(kongfulive) 06-25 23:59:35
+套gemini
+
+> 萌面侠(ckyief) 06-25 23:55:32
+> [鼓掌]教练可以以身作则然后分享经验
+新手可以做，搞的站太多外链加不过来，现在好多站外链都20k起步，在搞几个站累死
+
+> 小李哥(wxid_cejgi1lomjcl21) 06-25 23:56:37
+> 做套壳么
+都可以，看你能不能挖掘出用户需求
+
+> 极客信条-厦门(kongfulive) 06-25 23:59:26
+> @Moore 助教 我在做本地工具[捂脸]
+[旺柴] 做一个客户端，体验好点

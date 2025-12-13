@@ -1,0 +1,112 @@
+永远在路上(wxid_3v8mpj5kae3y22) 11-23 00:12:25
+好的，谢谢各位指点[抱拳]
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-23 00:31:30
+creem  正式使用 需要付费吧？
+测试环境成功 
+正式环境 一直报错！貌似是key 无效
+
+刘小排(liuxiaopai) 11-23 01:22:14
+不需要付费，需要审核。去看看我之前的直播回放吧，有讲解
+
+刘小排(liuxiaopai) 11-23 01:22:20
+"${liuxiaopai}" 拍了拍 "${caiwenzuan}"
+
+刘小排(liuxiaopai) 11-23 01:23:28
+[链接|Google Antigravity 竟然能直接调用 Nano Banana Pro 画图](https://mp.weixin.qq.com/s?t=pages/image_detail&scene=1&__biz=MzI1MTUxNzgxMA==&mid=2247499706&idx=1&sn=3c9da410317d4f675e426bd13b6897b9&sharer_shareinfo_first=01bedbc7bf61c2ccf495234f0837e31b&sharer_shareinfo=01bedbc7bf61c2ccf495234f0837e31b#wechat_redirect)
+
+刘小排(liuxiaopai) 11-23 01:23:29
+好功能
+
++p(wxid_x61vrzefc0w222) 11-23 07:37:58
+11月22日 周六 22:58
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-23 09:20:16
+> 刘小排(liuxiaopai) 11-23 01:22:14
+> 不需要付费，需要审核。去看看我之前的直播回放吧，有讲解
+Ok
+
+永远在路上(wxid_3v8mpj5kae3y22) 11-23 11:39:44
+永远在路上(wxid_3v8mpj5kae3y22) 11-23 11:39:45
+![图片](http://127.0.0.1:5030/image/f08e9314252cd6967c7b2e7b1c424c6c)
+
+小明(wxid_at9px5nf07qm22) 11-23 11:44:55
+@永远在路上-福州 你用 localhost：3000，肯定 webhook 是有问题的呀
+
+永远在路上(wxid_3v8mpj5kae3y22) 11-23 11:57:27
+> 小明(wxid_at9px5nf07qm22) 11-23 11:44:55
+> @永远在路上-福州 你用 localhost：3000，肯定 webhook 是有问题的呀
+案例默认的不就是这个吗
+
+永远在路上(wxid_3v8mpj5kae3y22) 11-23 11:57:29
+![图片](http://127.0.0.1:5030/image/4fba0d0365924e3dfd4d4ab049ca2fba)
+
+小明(wxid_at9px5nf07qm22) 11-23 12:00:46
+这是用隧道，用外部可访问的地址映射的 localhost：3000，你可以 ngrok 试试（不推荐新手）
+
+小明(wxid_at9px5nf07qm22) 11-23 12:01:37
+更简单的方法是用 vercel 部署，把 vercel 给的地址，填在 webhook 里（注意路径填写正确）
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-23 12:12:10
+vscode其实自带隧道转发，这个可以试试
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-23 12:15:37
+这个最简单，不用配置什么
+
+我 11-23 13:01:48
+"心绎传媒-老蔡(@)" 撤回了一条消息
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-23 13:02:17
+是我这 visa 卡 被拉黑了吗？
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-23 13:02:23
+![图片](http://127.0.0.1:5030/image/3383906204407e43ac2c7f0e644d193f)
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-23 13:02:35
+我好几个平台都不行了！  用的节点对应的 区域地址
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-23 13:02:48
+[链接|如何利用VScode快速创建本地隧道](https://mp.weixin.qq.com/s?t=pages/image_detail&scene=1&__biz=Mzg2NzYxNTQwNw==&mid=2247484111&idx=1&sn=9a00a794637ed125ece83969024ba4c2&sharer_shareinfo_first=aad7e59f17efa64f4a0591ef5ce75d49&sharer_shareinfo=aad7e59f17efa64f4a0591ef5ce75d49#wechat_redirect)
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-23 13:03:14
+@永远在路上-福州 操作了一下，顺手写了篇[捂脸]
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-23 13:03:54
+> 心绎传媒-老蔡(@)(caiwenzuan) 11-23 13:02:17
+> 是我这 visa 卡 被拉黑了吗？
+你做啥了
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-23 13:04:36
+不知道咯！之前不知道在哪个平台也失败了
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-23 13:05:14
+现在解锁 droid 免费额度 
+要绑定信用卡！失败了
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-23 13:05:32
+地址不能频繁变更是吗
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-23 13:05:43
+之前我都习惯填写中国区地址[翻白眼]
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-23 13:06:26
+你应该要用海外信用卡，国内银行发行的都不行
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-23 13:10:01
+ok
+
+永远在路上(wxid_3v8mpj5kae3y22) 11-23 14:15:40
+> 志愿者-土豆君(wxid_gzr7bvbdlvlv22) 11-23 13:02:48
+> [链接|如何利用VScode快速创建本地隧道](https://mp.weixin.qq.com/s?t=pages/image_detail&scene=1&__biz=Mzg2NzYxNTQwNw==&mid=2247484111&idx=1&sn=9a00a794637ed125ece83969024ba4c2&sharer_shareinfo_first=aad7e59f17efa64f4a0591ef5ce75d49&sharer_shareinfo=aad7e59f17efa64f4a0591ef5ce75d49#wechat_redirect)
+感谢感谢[抱拳]，我看下
+
+永远在路上(wxid_3v8mpj5kae3y22) 11-23 14:15:59
+@志愿者-土豆君 
+
+永远在路上(wxid_3v8mpj5kae3y22) 11-23 14:34:47
+> 小明(wxid_at9px5nf07qm22) 11-23 12:00:46
+> 这是用隧道，用外部可访问的地址映射的 localhost：3000，你可以 ngrok 试试（不推荐新手）
+我就是按照教程中，用ngrok
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-23 14:38:15
+@永远在路上-福州 你用 ngrok 给的那个公网url  测试 不是本地3000端口

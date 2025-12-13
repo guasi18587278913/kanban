@@ -1,0 +1,716 @@
+Mr.🐟(lang-417528116) 06-23 00:08:43
+哎，好不容易找到了一个能用的API，结果不能商用，气炸了[捂脸]   
+
+Mr.🐟(lang-417528116) 06-23 00:08:58
+大家一般去去哪里找可以商用的API呢
+
+Mr.🐟(lang-417528116) 06-23 00:09:35
+或者Replicate平台上能搜索吗？
+
+无极(wxid_wdl7p3msdupm22) 06-23 08:35:16
+冷启动，在小红书发，可能得到正反馈比较快，deepside插件那个是找人代发的，刷到过好多次了，估计搞了一些钱
+
+网站那个是自己在发，效果也还想
+
+主要是正反馈来的块，工具是真的有人需要，最坏结果，发个三五天，也必然有转化  
+
+无极(wxid_wdl7p3msdupm22) 06-23 08:35:16
+![图片](http://127.0.0.1:5030/image/46ce3c309c4c332ecfe6892244adea2c)
+
+无极(wxid_wdl7p3msdupm22) 06-23 08:35:16
+![图片](http://127.0.0.1:5030/image/f0fc13d62b99c35738618855c1a0c6fb)
+
+无极(wxid_wdl7p3msdupm22) 06-23 08:35:16
+![图片](http://127.0.0.1:5030/image/8c55b566e1e87740619448828f30ae7a)
+
+无极(wxid_wdl7p3msdupm22) 06-23 08:35:42
+实际上看评论区，至少使用量很高，就看转化率了
+
+Huang(huangtingxu) 06-23 10:49:53
+#举手
+
+Huang(huangtingxu) 06-23 10:49:54
+请问教练，我在使用Starter Kit 配置Supabase信息的 数据库，粘贴SQL Editor 的全部代码 运行后显示 ERROR:  42501: must be owner of table users。这个怎么办
+
+Huang(huangtingxu) 06-23 10:49:54
+![图片](http://127.0.0.1:5030/image/340eaa115d2119a58d7714503084aa38)
+
+Huang(huangtingxu) 06-23 10:49:54
+![图片](http://127.0.0.1:5030/image/b2322c9916700c5543fcd54d56709519)
+
+wxid_iyevr7we4vxr11 06-23 10:50:22
+我把前两句删了
+
+wxid_iyevr7we4vxr11 06-23 10:50:34
+就跑通了
+
+Huang(huangtingxu) 06-23 10:51:17
+果然可以[呲牙]谢谢
+
+李明进(mikipku) 06-23 10:51:26
+> 无极(wxid_wdl7p3msdupm22) 06-23 08:35:16
+> 冷启动，在小红书发，可能得到正反馈比较快，deepside插件那个是找人代发的，刷到过好多次了，估计搞了一些钱
+> 网站那个是自己在发，效果也还想
+> 主要是正反馈来的块，工具是真的有人需要，最坏结果，发个三五天，也必然有转化  
+你做的？牛逼啊
+
+wxid_iyevr7we4vxr11 06-23 10:51:38
+不谢[呲牙]
+
+路飞(wxid_ew99ir7f4ku321) 06-23 10:58:09
+> Huang(huangtingxu) 06-23 10:49:54
+> 请问教练，我在使用Starter Kit 配置Supabase信息的 数据库，粘贴SQL Editor 的全部代码 运行后显示 ERROR:  42501: must be owner of table users。这个怎么办
+auth.users是supabase的系统表，默认是开通了RLS的，可以不用执行 alter table auth.users enable row level security;
+
+Huang(huangtingxu) 06-23 10:59:20
+好的，我太小白，和ai聊了半天也没看懂[破涕为笑]，现在差不多明白了
+
+路飞(wxid_ew99ir7f4ku321) 06-23 11:01:39
+[动画表情]
+
+Huang(huangtingxu) 06-23 11:02:51
+[动画表情]
+
+无极(wxid_wdl7p3msdupm22) 06-23 11:10:42
+> Miki(mikipku) 06-23 10:51:26
+> > [引用]
+> 你做的？牛逼啊
+不是，别人的[社会社会]
+
+无极(wxid_wdl7p3msdupm22) 06-23 11:17:05
+不过我准备赶紧接上支付，先测测看看
+
+就号多[旺柴]
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 06-23 11:17:33
+我发现我cursor里的gemini使用agent模式的时候不会调用mcp，有人知道是咋回事吗……
+
+无极(wxid_wdl7p3msdupm22) 06-23 11:18:18
+我对海外网站也是这样的理解，只是没有验证过，也没看到过类似的逻辑，我也不知道，海外和国内的一不一样
+
+
+比如做reddit，批量做内容，批量做账号，自动化发布，去冷启动网站
+
+。逻辑上是对的，只是我没看到有人写过，也不清楚海外和国内在这块儿一样不一样[破涕为笑]
+
+无极(wxid_wdl7p3msdupm22) 06-23 11:18:56
+> 智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 06-23 11:17:33
+> 我发现我cursor里的gemini使用agent模式的时候不会调用mcp，有人知道是咋回事吗……
+你用其他模型的时候，他们是自动调用的，还是说你告诉他要调用哪个mcp？
+
+无极(wxid_wdl7p3msdupm22) 06-23 11:19:04
+我用的基本上他都不主动调[破涕为笑]
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 06-23 11:19:22
+> 无极(wxid_wdl7p3msdupm22) 06-23 11:18:56
+> > 智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 06-23 11:17:33
+> > 我发现我cursor里的gemini使用agent模式的时候不会调用mcp，有人知道是咋回事吗……
+> 你用其他模型的时候，他们是自动调用的，还是说你告诉他要调用哪个mcp？
+claude会自己调，很丝滑
+
+无极(wxid_wdl7p3msdupm22) 06-23 11:19:56
+没有，很少。也可能我没设置对？
+
+无极(wxid_wdl7p3msdupm22) 06-23 11:20:01
+我只有在告诉他要调用的时候，他才会用
+
+漫星(wxid_lrvs9bmy5kw522) 06-23 11:50:27
+求个dia邀请码[玫瑰]
+
+Huang(huangtingxu) 06-23 11:57:34
+https://diabrowser.com/invite/OBNALB
+
+李明进(mikipku) 06-23 13:57:36
+#举手
+
+李明进(mikipku) 06-23 13:57:38
+![图片](http://127.0.0.1:5030/image/096feb54b2ea34cf396cfe4aab568d2f)
+
+李明进(mikipku) 06-23 13:58:21
+配置raphael starter，教程中的第一步提到复制.env.example，但我的本地代码里面没有env.example
+
+我 06-23 13:58:27
+"Miki" 撤回了一条消息
+
+李明进(mikipku) 06-23 13:58:38
+想咨询下，是不是有前置步骤做错了？
+
+路飞(wxid_ew99ir7f4ku321) 06-23 14:02:09
+[文件|raphael-starterkit-v1.zip](http://127.0.0.1:5030/file/20b5ea70e4f8e234436fbcc4b2132031)
+
+路飞(wxid_ew99ir7f4ku321) 06-23 14:02:14
+> Miki(mikipku) 06-23 13:58:21
+> 配置raphael starter，教程中的第一步提到复制.env.example，但我的本地代码里面没有env.example
+我用的群里助教发的项目压缩包，里面是有env.example的
+
+路飞(wxid_ew99ir7f4ku321) 06-23 14:03:52
+![图片](http://127.0.0.1:5030/image/58219c8d6fee24addacd5cccd970fb53)
+
+亿豪(wxid_8rqui0adacvp12) 06-23 14:07:43
+> 智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 06-23 11:17:33
+> 我发现我cursor里的gemini使用agent模式的时候不会调用mcp，有人知道是咋回事吗……
+@智昊｜回家吃饭 我的 cursor 都是自己调mcp， 你pua一下试试
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 06-23 14:10:38
+我就是gemini和o3不会自己调
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 06-23 14:10:44
+claude会自己调
+
+亿豪(wxid_8rqui0adacvp12) 06-23 14:12:38
+[裂开]
+
+卫斯理🤍(wxid_cap2car89b7811) 06-23 14:19:13
+我的mcp是直接关了，好像没怎么用上没感觉起了什么作用，可能不太会用[破涕为笑]
+
+李明进(mikipku) 06-23 14:37:20
+> 路飞(wxid_ew99ir7f4ku321) 06-23 14:02:14
+> > [引用]
+> 我用的群里助教发的项目压缩包，里面是有env.example的
+研究了下，发现以英文句点 . 开头的文件在 macOS 默认是隐藏的，Command + Shift + .可以显示
+
+无极(wxid_wdl7p3msdupm22) 06-23 14:37:30
+我觉得可能也是我不会用    我就没怎么用[破涕为笑]
+
+李明进(mikipku) 06-23 14:37:31
+不过cursor居然也不展示有点意外
+
+无极(wxid_wdl7p3msdupm22) 06-23 14:37:50
+> 卫斯理🤍广州(wxid_cap2car89b7811) 06-23 14:19:13
+> 我的mcp是直接关了，好像没怎么用上没感觉起了什么作用，可能不太会用[破涕为笑]
+这次有mcp的航海   可以看看，这个月的航海
+
+极客信条(kongfulive) 06-23 14:42:54
+用浏览器的MCP去复制别人网站的UI
+
+极客信条(kongfulive) 06-23 14:43:02
+[得意]
+
+路飞(wxid_ew99ir7f4ku321) 06-23 14:43:36
+> Miki(mikipku) 06-23 14:37:20
+> > 路飞(wxid_ew99ir7f4ku321) 06-23 14:02:14
+> > > [引用]
+> > 我用的群里助教发的项目压缩包，里面是有env.example的
+> 研究了下，发现以英文句点 . 开头的文件在 macOS 默认是隐藏的，Command + Shift + .可以显示
+原来这样子啊[偷笑]那估计创建的时候，只能通过终端创建  .开头的文件吧
+
+酷克(wxid_wrvymzvoo21g12) 06-23 16:12:44
+稀里糊涂中接成功了creem支付
+
+酷克(wxid_wrvymzvoo21g12) 06-23 16:12:45
+![图片](http://127.0.0.1:5030/image/6425f483d533c5ba7b91399a70c4e87d)
+
+Sonia(xlh570028013) 06-23 16:22:32
+恭喜[庆祝]
+
+🥷🏿 发呆.(wxid_767zp9hgv7b922) 06-23 16:22:50
+恭喜
+
+酷克(wxid_wrvymzvoo21g12) 06-23 16:27:13
+我按照cursor的要求配置好creem网站的api信息放入env文件中，然后让他开始工作，他就蛮顺利的接成功了，本以为会遇到很多问题，目前还是一知半解的状态，不知道下次能不能这么顺利[破涕为笑]
+
+李明进(mikipku) 06-23 16:38:10
+![图片](http://127.0.0.1:5030/image/864ca7c69256223f151e77b2e0edbbbe)
+
+李明进(mikipku) 06-23 16:39:49
+#举手，我按照raphael starter kit的教程走，其中一步是在supabase输入sql代码创建数据库；
+但我复制代码过去遇到ERROR:  42501: must be owner of table users报错，cursor解释说alter table auth.users enable row level security;这句不合适，但我理解这个sql肯定大家都跑过了，应该不会有这个错误，所以想问下我的问题出在哪里呢
+
+wxid_iyevr7we4vxr11 06-23 16:40:21
+[合并转发|群聊的聊天记录]
+  Huang 2025-06-23 10:49
+  #举手
+
+  Huang 2025-06-23 10:49
+  请问教练，我在使用Starter Kit 配置Supabase信息的 数据库，粘贴SQL Editor 的全部代码 运行后显示 ERROR:  42501: must be owner of table users。这个怎么办
+
+  Huang 2025-06-23 10:49
+  ![图片](http://127.0.0.1:5030/image/340eaa115d2119a58d7714503084aa38)
+
+  Huang 2025-06-23 10:49
+  ![图片](http://127.0.0.1:5030/image/b2322c9916700c5543fcd54d56709519)
+
+  Yao 2025-06-23 10:50
+  我把前两句删了
+
+  Yao 2025-06-23 10:50
+  就跑通了
+
+  Huang 2025-06-23 10:51
+  果然可以[呲牙]谢谢
+
+  路飞 2025-06-23 10:58
+  auth.users是supabase的系统表，默认是开通了RLS的，可以不用执行 alter table auth.users enable row level security;
+  ---------------
+  「Huang: 请问教练，我在使用Starter Kit 配置Supabase信息的 数据库，粘贴SQL Editor 的全部代码 运行后显示 ERROR:  42501: must be owner of table users。这个怎么办」
+
+
+
+wxid_iyevr7we4vxr11 06-23 16:40:41
+@Miki 看这里
+
+李明进(mikipku) 06-23 16:40:41
+多谢
+
+wxid_iyevr7we4vxr11 06-23 16:41:02
+不谢
+
+新世界(wxid_98g2m3mfrobz31) 06-23 18:19:09
+图片PDF识别出文字，这个功能实现，用各种库测试，就本地运行一切正常，部署到VERCEL后，就因为Serverless问题不正常，AI推荐我使用Google Cloud Vision API，我尝试配置，但是怎么就箭头处的流程一直实现不了，找不到这个“Cloud Vision API User”角色。，让AI帮我分析，各种方法 命令行也试过 都不行，有没有遇到的  #举手 
+
+新世界(wxid_98g2m3mfrobz31) 06-23 18:19:14
+![图片](http://127.0.0.1:5030/image/4ec8ee0d06536c3328c222ba08a41c68)
+
+新世界(wxid_98g2m3mfrobz31) 06-23 18:19:15
+![图片](http://127.0.0.1:5030/image/73990c385d503a53c9c7f0cb9b51edd7)
+
+新世界(wxid_98g2m3mfrobz31) 06-23 18:19:15
+![图片](http://127.0.0.1:5030/image/aeb44fdd87b53331b065cbc4c0ba719d)
+
+新世界(wxid_98g2m3mfrobz31) 06-23 18:20:59
+文字处理的核心功能都实现2天了，就从图片PDF识别出待处理的原始文字，本地运行都没事，就部署到VERCEL就罢工了，这本来不就是很简单的问题吗，怎么弄不成啊[破涕为笑]
+
+wxid_iyevr7we4vxr11 06-23 18:23:33
+之前有同学是上传的时候，cursor把vercel.json这个文件改掉了，功能不能实现，检查下？如果不行，等下别的助教或者小排老师回答
+
+新世界(wxid_98g2m3mfrobz31) 06-23 18:26:22
+报错日志提示是VERCEL里的Serverless问题，按照常理，这种简单的上传图片或者PDF将进行处理的过程 属于比较简单的常见的应用，怎么会VERCEL老是显示部署都没问题，就是上线罢工，AI分析日志，推荐我使用Cloud Vision API 但是这个设置也出问题，不知道有用过这个API的没
+
+吴辉（Michael Wu）(kxmytwf) 06-23 19:14:48
+昨天开通了 Claude Pro ，今天就封号了[捂脸]，我不开通反而还能用
+
+机器树(wxid_jy5ld7f3tnz312) 06-23 19:46:19
+#举手 我看到某个即将上映的电影名的词在 ahrefs 上显示竞争才 24，这种词适合去做站吗？
+
+机器树(wxid_jy5ld7f3tnz312) 06-23 19:46:35
+域名也还在
+
+半尘(muling12) 06-23 21:31:42
+> 新世界(wxid_98g2m3mfrobz31) 06-23 18:26:22
+> 报错日志提示是VERCEL里的Serverless问题，按照常理，这种简单的上传图片或者PDF将进行处理的过程 属于比较简单的常见的应用，怎么会VERCEL老是显示部署都没问题，就是上线罢工，AI分析日志，推荐我使用Cloud Vision API 但是这个设置也出问题，不知道有用过这个API的没
+Vercel Runtime Timeout错误，这是超时了，vercel免费版默认10秒超时，最大可以设置60秒。如果你是调用了api，等待超时，可以设置这个时间。
+
+如果你是在服务器运行Tesseract.js这个库来识别，这个比较吃配置的， vercel分配给你的服务器配置是很低的。本地配置高，而且没有超时限制，你本地运行没有问题。你可以部署在配置比较高的服务器上，Tesseract.js这个库也可以在浏览器运行，不过这是把压力给到了用户。
+
+你应该找ocr api，推荐给你的Google Cloud Vision API如果找不到，你可以问问o3，也可以找其他api
+
+无极(wxid_wdl7p3msdupm22) 06-23 21:39:21
+超时问题  要中转一下，可以用这个koyeb
+
+无极(wxid_wdl7p3msdupm22) 06-23 21:39:36
+我做那个就超时了  只能中专
+
+张耘瀚(wxid_0319273194712) 06-23 21:48:30
+ 我的这里跟教程不一样, 我登错地方了吗 #举手
+
+张耘瀚(wxid_0319273194712) 06-23 21:48:34
+![图片](http://127.0.0.1:5030/image/13f8bebfa41d655b4dbf70c7f60836fd)
+
+张耘瀚(wxid_0319273194712) 06-23 21:48:38
+![图片](http://127.0.0.1:5030/image/861847ee6a98b6b0f204cd805ec1e636)
+
+新世界(wxid_98g2m3mfrobz31) 06-23 21:52:27
+> 半尘(muling12) 06-23 21:31:42
+> > 新世界(wxid_98g2m3mfrobz31) 06-23 18:26:22
+> > 报错日志提示是VERCEL里的Serverless问题，按照常理，这种简单的上传图片或者PDF将进行处理的过程 属于比较简单的常见的应用，怎么会VERCEL老是显示部署都没问题，就是上线罢工，AI分析日志，推荐我使用Cloud Vision API 但是这个设置也出问题，不知道有用过这个API的没
+> Vercel Runtime Timeout错误，这是超时了，vercel免费版默认10秒超时，最大可以设置60秒。如果你是调用了api，等待超时，可以设置这个时间。
+> 如果你是在服务器运行Tesseract.js这个库来识别，这个比较吃配置的， vercel分配给你的服务器配置是很低的。本地配置高，而且没有超时限制，你本地运行没有问题。你可以部署在配置比较高的服务器上，Tesseract.js这个库也可以在浏览器运行，不过这是把压力给到了用户。
+> 你应该找ocr api，推荐给你的Google Cloud Vision API如果找不到，你可以问问o3，也可以找其他api
+感谢，我发现自己走弯路了，我搞的太复杂了，全部功能都调API 就行了，不用考虑用啥库的，部署的服务器各种配置限制 资源不够的
+
+新世界(wxid_98g2m3mfrobz31) 06-23 21:53:16
+后面不在考虑用各种库了，能用API 的就全部API
+
+Moore(xiaobei1984) 06-23 21:59:59
+vercel 超时 和 是否使用 API 以及库，是 2 件事，不要归为一件事情。
+
+因为你要识别 PDF，必然就会存在超过 vercel 超时的问题。哪怕是 API 也是要这么久的时间，你要做的是把 这个事情做成 异步
+
+Moore(xiaobei1984) 06-23 22:04:27
+我用 4o 看了一下 Google Cloud Vision OCR 这个，这个流程就是像下面这样：
+
+1. 将 PDF 上传到 Google Cloud Storage（GCS）
+2. 调用 asyncBatchAnnotate API，指定 GCS 上的文件位置
+3. 等待识别任务完成（通常几十秒~几分钟）
+4. 读取 GCS 上返回的 OCR 结果（JSON 文件）
+
+意味着1~3步都是异步处理的，发起API请求，就直接返回了。第4步用后端做好轮询读取就完事了。
+
+Moore(xiaobei1984) 06-23 22:05:18
+如果不懂什么是同步和异步，可以让 4o 告诉你
+
+Moore(xiaobei1984) 06-23 22:06:33
+![图片](http://127.0.0.1:5030/image/befad5814baeef02b0f521e42cc6a7d2)
+
+Moore(xiaobei1984) 06-23 22:06:44
+随便问一下就有答案了
+
+Moore(xiaobei1984) 06-23 22:10:59
+![图片](http://127.0.0.1:5030/image/297f1c3e6a7b7a4533e9ffc7ed020a05)
+
+Moore(xiaobei1984) 06-23 22:11:10
+![图片](http://127.0.0.1:5030/image/750b5537041adfe297f0e9e56745dfa7)
+
+新世界(wxid_98g2m3mfrobz31) 06-23 22:13:52
+@Moore 助教 好的，我在研究下
+
+wxid_iyevr7we4vxr11 06-23 22:13:59
+> Pay哥(wxid_0319273194712) 06-23 21:48:38
+> ![图片](http://127.0.0.1:5030/image/861847ee6a98b6b0f204cd805ec1e636)
+把这个填好之后，就看到教程步骤了
+
+wxid_iyevr7we4vxr11 06-23 22:14:45
+教程的确跳了这步(第一次要写上这些)
+
+Moore(xiaobei1984) 06-23 22:15:18
+从上面分析可以得知，vercel 是一个serverless服务，有超时限制，不适合上传大文件，所以就要限制上传文件大小在 1M 以内，为什么不是 10M，因为不同用户的网速不一样，并且分析 超过 1M 的成本很高。先从小服务开始，如果是一定要超过，使用 dokploy.com 去部署私有服务器
+
+张耘瀚(wxid_0319273194712) 06-23 22:16:09
+> 小瑶|助教(wxid_iyevr7we4vxr11) 06-23 22:14:45
+> 教程的确跳了这步(第一次要写上这些)
+好的
+
+Moore(xiaobei1984) 06-23 22:17:57
+如果不是做大项目，或者是调研，不建议啥问题都往 o3 上咨询，4o + 网络效果会更好。 o3 更适合推理复杂的任务
+
+新世界(wxid_98g2m3mfrobz31) 06-23 22:21:23
+@Moore 助教 https://www.summarizer.org/ 我是想复刻这个网站来着，文本处理的功能都完整实现好了，就是上传PDF和图片再处理的出问题了，看来vercel本来就对这种涉及文件大批量上传处理的有业务不太友好是吧，是不是这种APP最好就换 dokploy.com部署，要不后面可能问题多多
+
+新世界(wxid_98g2m3mfrobz31) 06-23 22:21:23
+这是我的界面效果
+
+新世界(wxid_98g2m3mfrobz31) 06-23 22:21:23
+![图片](http://127.0.0.1:5030/image/66bab2d23b834cefdd412091740f9cd8)
+
+半尘(muling12) 06-23 22:22:58
+文件上传可以用cloudflare r2
+
+半尘(muling12) 06-23 22:23:30
+调研推荐用o3，用好的工具得到方案相对会准确全面的答案，特别是你本身没有判断能力，尽量用好的工具提高准确度，尽量减少被AI误导的可能性
+
+半尘(muling12) 06-23 22:24:18
+dokploy涉及到服务器，在vercel能解决的情况下，尽量先用vercel
+
+Moore(xiaobei1984) 06-23 22:24:40
+听半尘的，让他给你解决即可 @新世界
+
+新世界(wxid_98g2m3mfrobz31) 06-23 22:25:17
+> 半尘(muling12) 06-23 22:24:18
+> dokploy涉及到服务器，在vercel能解决的情况下，尽量先用vercel
+用户弄个大文件PDF上传，VERCEL估计就顶不住了  dokploy这方面基本没压力是吧
+
+Moore(xiaobei1984) 06-23 22:25:55
+[阴险]
+
+Moore(xiaobei1984) 06-23 22:26:47
+我也想知道
+
+Moore(xiaobei1984) 06-23 22:26:50
+vercel 如何解决
+
+半尘(muling12) 06-23 22:28:54
+可以上传文件到cloudflare r2，得到链接，一般api是支持url，我用dokploy也还是用cf r2，看个人习惯吧
+
+新世界(wxid_98g2m3mfrobz31) 06-23 22:32:46
+> 半尘(muling12) 06-23 22:28:54
+> 可以上传文件到cloudflare r2，得到链接，一般api是支持url，我用dokploy也还是用cf r2，看个人习惯吧
+好的我研究一下
+
+半尘(muling12) 06-23 22:35:28
+关于超时，这个确实是个比较麻烦的问题。 
+
+1.如果超过60秒，可以选择开vercel会员，最长300秒。
+
+2.vercel也支持传输http stream，最长超时300。
+
+3.如果ocr api有webhook，可以选择轮询
+
+上面群友也提到的koyeb，也可以看看
+
+半尘(muling12) 06-23 22:37:01
+dokploy是挺好的，但是也要花时间折腾，尽量用现成的服务来节省时间
+
+半尘(muling12) 06-23 22:40:18
+我只是提个建议，我说的基本都是我试过的方案，受限于我的能力，可能存在问题，可以作为参考
+
+Moore(xiaobei1984) 06-23 22:43:45
+说了很久，但是没有一个是对的
+
+半尘(muling12) 06-23 22:44:00
+是的，没有一个对的
+
+半尘(muling12) 06-23 22:44:16
+以后我也不会回答，不打扰了
+
+Tao(zackzoids) 06-23 22:47:35
+[动画表情]
+
+新世界(wxid_98g2m3mfrobz31) 06-23 22:49:05
+> 半尘(muling12) 06-23 22:40:18
+> 我只是提个建议，我说的基本都是我试过的方案，受限于我的能力，可能存在问题，可以作为参考
+感谢感谢，都有收益 [呲牙]我在研究下
+
+Moore(xiaobei1984) 06-23 22:52:17
+Google Cloud Vision OCR  只支持 Google Cloud Storage。
+
+如果上传文件到 R2，只能前端直传，要预签名URL才能够上传，但是必须从 从 R2 下载 PDF -> Google Cloud Storage
+
+如果走 vercel http stream 中转到 R2，有内存限制，在 serverless 上不能跑太久，所以 vercel 会有超时的问题。
+
+
+另外再说一下 dokploy.com，只需要配置一个dockerfile，一键部署，哪来的复杂呢
+
+Moore(xiaobei1984) 06-23 22:53:15
+句句扛我，却没有给出好的方案
+
+新世界(wxid_98g2m3mfrobz31) 06-23 22:54:43
+> Moore 助教(xiaobei1984) 06-23 22:52:17
+> Google Cloud Vision OCR  只支持 Google Cloud Storage。
+> 如果上传文件到 R2，只能前端直传，要预签名URL才能够上传，但是必须从 从 R2 下载 PDF -> Google Cloud Storage
+> 如果走 vercel http stream 中转到 R2，有内存限制，在 serverless 上不能跑太久，所以 vercel 会有超时的问题。
+> 另外再说一下 dokploy.com，只需要配置一个dockerfile，一键部署，哪来的复杂呢
+好的，好的 学到了[旺柴]
+
+萌面侠(ckyief) 06-23 22:54:50
+[动画表情]
+
+Moore(xiaobei1984) 06-23 22:55:48
+![图片](http://127.0.0.1:5030/image/bf147ad79b84604b1bbe6378d6a6fe33)
+
+新世界(wxid_98g2m3mfrobz31) 06-23 22:56:16
+> Moore 助教(xiaobei1984) 06-23 22:52:17
+> Google Cloud Vision OCR  只支持 Google Cloud Storage。
+> 如果上传文件到 R2，只能前端直传，要预签名URL才能够上传，但是必须从 从 R2 下载 PDF -> Google Cloud Storage
+> 如果走 vercel http stream 中转到 R2，有内存限制，在 serverless 上不能跑太久，所以 vercel 会有超时的问题。
+> 另外再说一下 dokploy.com，只需要配置一个dockerfile，一键部署，哪来的复杂呢
+总结一句话，涉及大文件处理 VERCEL简直不能用，他调用API处理也要时间的，等不了很久的，终极方案还是用dokploy.com
+
+Moore(xiaobei1984) 06-23 22:56:32
+你可以试试 vercel 看看会不会有新的问题，就知道了。
+
+Moore(xiaobei1984) 06-23 22:57:30
+或者开开会员看看
+
+新世界(wxid_98g2m3mfrobz31) 06-23 22:58:58
+不开了，研究费劲， 不到大流量用户，一般开这个浪费
+
+新世界(wxid_98g2m3mfrobz31) 06-23 22:59:07
+我网站还没正式上线尼
+
+新世界(wxid_98g2m3mfrobz31) 06-23 22:59:13
+用VPS也不贵
+
+Moore(xiaobei1984) 06-23 22:59:44
+当然你可以综合看看方案，觉得哪个顺手用哪个
+
+新世界(wxid_98g2m3mfrobz31) 06-23 23:00:17
+R2 +dokploy.com 应该可以了
+
+Moore(xiaobei1984) 06-23 23:00:59
+不用 R2，如果你用的是 Google Cloud Vision OCR，直接在后端中转上传到  Google Cloud Storage。
+
+Moore(xiaobei1984) 06-23 23:01:58
+核心是 文件上传 和 OCR 处理 2 个问题需要解决
+
+新世界(wxid_98g2m3mfrobz31) 06-23 23:02:54
+> Moore 助教(xiaobei1984) 06-23 23:00:59
+> 不用 R2，如果你用的是 Google Cloud Vision OCR，直接在后端中转上传到  Google Cloud Storage。
+嗯，我后来看了，用不到这个Google Cloud Vision  我被AI带到歪路上了，其实用这个Claude 3.7 Sonnet 模型可以实现一步到位，读取PDF获取内容+内容处理
+
+
+新世界(wxid_98g2m3mfrobz31) 06-23 23:03:52
+直接在openrouter调用这个Claude 3.7 Sonnet模型，实现读取上传的PDF，获取文本，+文本处理，一次调用就给结果了
+
+Moore(xiaobei1984) 06-23 23:03:56
+claude 做 ocr 效果其实没那么好
+
+Moore(xiaobei1984) 06-23 23:04:42
+而且对文件体积有限制，上下文最大也才200K，如果你的 PDF超过的话就做不了
+
+新世界(wxid_98g2m3mfrobz31) 06-23 23:05:12
+这也是个问题[旺柴]
+
+新世界(wxid_98g2m3mfrobz31) 06-23 23:05:46
+![图片](http://127.0.0.1:5030/image/59d0a17eeae2bc502c9239d5fc4d43b9)
+
+新世界(wxid_98g2m3mfrobz31) 06-23 23:05:51
+这个模型尼
+
+Moore(xiaobei1984) 06-23 23:06:09
+这些都不是专用的 ocr 模式
+
+Moore(xiaobei1984) 06-23 23:10:01
+如果你只是做单页的话，claude / 4o / gemini 就足够了，因为 我看 summarizer 也并没有使用 ocr ，都是用于总结，普通的文本，不涉及复杂结构，如果是有复杂结构的ocr，你就需要使用 ocr。
+
+新世界(wxid_98g2m3mfrobz31) 06-23 23:10:47
+> Moore 助教(xiaobei1984) 06-23 23:04:42
+> 而且对文件体积有限制，上下文最大也才200K，如果你的 PDF超过的话就做不了
+如果分两步走，1，先识别文本出来，用Google Cloud Vision OCR     2，文本出来用大模型， 是不是就是又因为，直接给图片或者PDF很大，一般的大模型接受不了，但是变成文本，就小很多了，大部分模型都没啥压力
+
+
+新世界(wxid_98g2m3mfrobz31) 06-23 23:11:35
+> Moore 助教(xiaobei1984) 06-23 23:10:01
+> 如果你只是做单页的话，claude / 4o / gemini 就足够了，因为 我看 summarizer 也并没有使用 ocr ，都是用于总结，普通的文本，不涉及复杂结构，如果是有复杂结构的ocr，你就需要使用 ocr。
+他这里有个上传文件的功能，就是上传大PDF
+
+我 06-23 23:11:35
+"新世界" 撤回了一条消息
+
+新世界(wxid_98g2m3mfrobz31) 06-23 23:12:26
+![图片](http://127.0.0.1:5030/image/4001cb72fe2eb756c2dbccd0fa0467c8)
+
+新世界(wxid_98g2m3mfrobz31) 06-23 23:13:03
+看似简单的需求，其实里面弄一下，涉及很多东西
+
+Moore(xiaobei1984) 06-23 23:13:09
+如果是涉及复杂结构，就必须要用 OCR 了。但是大文件 OCR， API 也不一定能够扛得出，你需要对 PDF文件进行拆分
+
+新世界(wxid_98g2m3mfrobz31) 06-23 23:14:17
+> Moore 助教(xiaobei1984) 06-23 23:13:09
+> 如果是涉及复杂结构，就必须要用 OCR 了。但是大文件 OCR， API 也不一定能够扛得出，你需要对 PDF文件进行拆分
+理解，现在搞不懂他这个站https://www.summarizer.org/ 具体上传大文件是怎么处理的
+
+新世界(wxid_98g2m3mfrobz31) 06-23 23:14:54
+![图片](http://127.0.0.1:5030/image/a37195c71fa7226adb8bd747e1f60876)
+
+新世界(wxid_98g2m3mfrobz31) 06-23 23:14:59
+流量好大
+
+Moore(xiaobei1984) 06-23 23:15:16
+你可以用 o3 调研一下
+
+新世界(wxid_98g2m3mfrobz31) 06-23 23:15:50
+好的
+
+萌面侠(ckyief) 06-23 23:15:53
+我觉得OCR可以放到付费功能里 免费版的就处理一些简单任务就好了
+
+Moore(xiaobei1984) 06-23 23:16:06
+涉及到大文件，deploy.com 都不一定有足够的内存处理
+
+Moore(xiaobei1984) 06-23 23:17:19
+早期不要做太复杂的大文件，成本很高的。首先大文件需要拆分，分批处理 PDF
+
+Moore(xiaobei1984) 06-23 23:17:45
+> 萌面侠(ckyief) 06-23 23:15:53
+> 我觉得OCR可以放到付费功能里 免费版的就处理一些简单任务就好了
+[强]
+
+Moore(xiaobei1984) 06-23 23:18:20
+![图片](http://127.0.0.1:5030/image/daadc8b226f3e43529a4d446680653e0)
+
+Moore(xiaobei1984) 06-23 23:20:06
+定价那里，每次提交限制 5000 字
+
+Moore(xiaobei1984) 06-23 23:21:15
+![图片](http://127.0.0.1:5030/image/e077f6a622ee566aee8eb054a639361e)
+
+Moore(xiaobei1984) 06-23 23:22:15
+目前看只是轻量级的ocr 分析，不涉及到大文件，我估计不超过 200K 上限
+
+新世界(wxid_98g2m3mfrobz31) 06-23 23:22:48
+@Moore 助教 我还有一个想法， 其实我的读取URL功能，获取文本处理功能已经很好的实现了，我现在直接上传文件到R2，获取链接，然后把这个链接直接放到做好的功能上完事了，
+
+Moore(xiaobei1984) 06-23 23:23:13
+![图片](http://127.0.0.1:5030/image/3b639d0b3fc3c8e298462353f18a37ca)
+
+Moore(xiaobei1984) 06-23 23:24:13
+> 新世界(wxid_98g2m3mfrobz31) 06-23 23:22:48
+> @Moore 助教 我还有一个想法， 其实我的读取URL功能，获取文本处理功能已经很好的实现了，我现在直接上传文件到R2，获取链接，然后把这个链接直接放到做好的功能上完事了，
+先确定你的用户场景，否则你会越想越超岗
+
+新世界(wxid_98g2m3mfrobz31) 06-23 23:24:50
+不过如果上传的文件很大， R2包含的内容很多，API处理很慢，VERCEL也会报错，后端用Dokploy行了，
+
+新世界(wxid_98g2m3mfrobz31) 06-23 23:25:31
+> Moore 助教(xiaobei1984) 06-23 23:24:13
+> > 新世界(wxid_98g2m3mfrobz31) 06-23 23:22:48
+> > @Moore 助教 我还有一个想法， 其实我的读取URL功能，获取文本处理功能已经很好的实现了，我现在直接上传文件到R2，获取链接，然后把这个链接直接放到做好的功能上完事了，
+> 先确定你的用户场景，否则你会越想越超岗
+用户场景，就是各种文件输入  这几种入口
+
+新世界(wxid_98g2m3mfrobz31) 06-23 23:25:32
+![图片](http://127.0.0.1:5030/image/55497c20de4e2968b3fad60ecf04fa58)
+
+Moore(xiaobei1984) 06-23 23:25:33
+不允许用户上传大文件
+
+Moore(xiaobei1984) 06-23 23:25:51
+这个应该是轻量级场景，不是大文件场景
+
+新世界(wxid_98g2m3mfrobz31) 06-23 23:27:01
+> Moore 助教(xiaobei1984) 06-23 23:25:51
+> 这个应该是轻量级场景，不是大文件场景
+好的， 我不想搞这复杂了，
+
+新世界(wxid_98g2m3mfrobz31) 06-23 23:27:05
+哈哈，就简单一点
+
+Moore(xiaobei1984) 06-23 23:27:22
+而且 URL 应该不是指文件，应该是指类似公众号的文章之类
+
+新世界(wxid_98g2m3mfrobz31) 06-23 23:27:45
+> Moore 助教(xiaobei1984) 06-23 23:23:13
+> ![图片](http://127.0.0.1:5030/image/3b639d0b3fc3c8e298462353f18a37ca)
+轻量的能有这大流量，看来小文件需求的人挺多
+
+Moore(xiaobei1984) 06-23 23:28:26
+这个需要进一步分析，o3 只是给的比较粗的分析
+
+Moore(xiaobei1984) 06-23 23:29:12
+要看 这个站的流量来源是哪里，这个站核心流量来源的关键词是哪个
+
+Moore(xiaobei1984) 06-23 23:29:33
+再通过分析流量关键词背后的目标人群和用户场景才知道。
+
+极客信条(kongfulive) 06-23 23:29:37
+![图片](http://127.0.0.1:5030/image/9befc18bb461acdf0b108ae2b064e3ad)
+
+极客信条(kongfulive) 06-23 23:29:45
+有人写过这个工具吗
+
+Moore(xiaobei1984) 06-23 23:30:54
+你说的不就是 playwright / puppeteer 吗？ cursor 有这 2个工具的mcp啊
+
+新世界(wxid_98g2m3mfrobz31) 06-23 23:31:09
+> Moore 助教(xiaobei1984) 06-23 23:28:26
+> 这个需要进一步分析，o3 只是给的比较粗的分析
+好的哈
+
+极客信条(kongfulive) 06-23 23:31:19
+幸好没有造轮子
+
+Moore(xiaobei1984) 06-23 23:32:06
+这个轮子可不好造
+
+新世界(wxid_98g2m3mfrobz31) 06-23 23:32:43
+这是轻量级爬虫[旺柴]
+
+Moore(xiaobei1984) 06-23 23:34:04
+对自己网站的所有文件，并模仿正常用户浏览 [吃瓜] 这个是繁琐而复杂的点
+
+Moore(xiaobei1984) 06-23 23:35:05
+如果是开发过程中，只是想模拟部分流程点击，并查看 chrome console的报错，还是可以的，使用 playwright mcp 就可以
+
+派大星(wxid_j7cdt1sb363b22) 06-23 23:37:08
+#举手，日报总结断更了，后续还更新嘛
+https://scys.com/view/docx/Y2SUdO4TyobFYfxWjrqcm8ixnjq#L1NMdrGICoLp5zxdsBtcmhDYnth
+
+Chipen Yip(nihaijidewoma001) 06-23 23:37:23
+推荐一个任务管理的shrimp-task-manager mcp工具：
+https://github.com/cjo4m06/mcp-shrimp-task-manager/blob/main/docs/zh/README.md
+
+读取项目文件和规范，可以指定或者自动分析和拆分任务，按照规范逐步执行任务，实测了下感觉还行，就是输出内容会比较多，相对消耗次数，可以搭配mcp-feedback-enhanced使用。（竟然还有可视化界面[旺柴]）
+
+> Moore 助教(xiaobei1984) 06-23 23:00:59
+> 不用 R2，如果你用的是 Google Cloud Vision OCR，直接在后端中转上传到  Google Cloud Storage。
+ Google Cloud Vision OCR    这个我设置的时候也出问题了， 根本找不到这个角色，
+
+> Moore 助教(xiaobei1984) 06-23 22:15:18
+> 从上面分析可以得知，vercel 是一个serverless服务，有超时限制，不适合上传大文件，所以就要限制上传文件大小在 1M 以内，为什么不是 10M，因为不同用户的网速不一样，并且分析 超过 1M 的成本很高。先从小服务开始，如果是一定要超过，使用 dokploy.com 去部署私有服务器
+昨天我说了，你要控制你的文件上传大小在 1MB 以内，并且昨天也讨论了，你的是轻量级场景，文件大小控制在 1M 以内是没有问题的。
+
+> > Moore 助教(xiaobei1984) 06-23 22:15:18
+> > 从上面分析可以得知，vercel 是一个serverless服务，有超时限制，不适合上传大文件，所以就要限制上传文件大小在 1M 以内，为什么不是 10M，因为不同用户的网速不一样，并且分析 超过 1M 的成本很高。先从小服务开始，如果是一定要超过，使用 dokploy.com 去部署私有服务器
+> 昨天我说了，你要控制你的文件上传大小在 1MB 以内，并且昨天也讨论了，你的是轻量级场景，文件大小控制在 1M 以内是没有问题的。
+就是搞轻量级的，直接后端上传原始PDF或者图片配合提示词 给大模型，这样吧 别弄R2了， 大模型先提取文本出来，然后再把获取的文本 给大模型 进行第二步处理 ，两步走实现

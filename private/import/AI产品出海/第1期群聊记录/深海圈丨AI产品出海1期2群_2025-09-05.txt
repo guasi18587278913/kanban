@@ -1,0 +1,494 @@
+我 09-05 10:38:27
+"莫歌拿" 撤回了一条消息
+
+天青色等烟雨(wxid_vwoqk3aok14122) 09-05 11:04:39
+![图片](http://127.0.0.1:5030/image/1385ebe280f15b93de405d43922f7405)
+
+天青色等烟雨(wxid_vwoqk3aok14122) 09-05 11:06:06
+成敌对国家了，可能下一步还会严查严打[捂脸]
+
+无极(wxid_wdl7p3msdupm22) 09-05 11:07:54
+[破涕为笑]上有政策，下有对策，该用还得用，该用还能用
+
+星吟(wxid_ivo4n28g15qj21) 09-05 11:08:27
+是的，天下无绝人之路[旺柴]
+
+无极(wxid_wdl7p3msdupm22) 09-05 11:10:19
+不过我很好奇，这是他们公司官网说的吗？@云飞 
+
+无极(wxid_wdl7p3msdupm22) 09-05 11:10:27
+有这么明说的？？！！！
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-05 11:10:36
+是官网
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-05 11:10:37
+笑死
+
+无极(wxid_wdl7p3msdupm22) 09-05 11:10:40
+虽然两家不对付，但是也很少这么明着来把
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-05 11:10:55
+https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions
+
+无极(wxid_wdl7p3msdupm22) 09-05 11:10:59
+离谱[破涕为笑]我很好奇为啥他公司这样，其他的公司都挺好，就像谷歌
+
+无极(wxid_wdl7p3msdupm22) 09-05 11:11:04
+这啥原因啊
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-05 11:11:47
+不知道，可能是服务器撑不住
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-05 11:12:01
+谷歌家大业大，google cloud多牛逼
+
+无极(wxid_wdl7p3msdupm22) 09-05 11:12:15
+> 智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-05 11:11:47
+> 不知道，可能是服务器撑不住
+不能吧，不应该是这个问题[破涕为笑]
+
+哩厘锂力(zizhazhu) 09-05 11:12:16
+anthropic一直这样
+
+无极(wxid_wdl7p3msdupm22) 09-05 11:12:30
+反正这样说对咱们敌意好像过于明显了，他能直接说敌对[破涕为笑]
+
+哩厘锂力(zizhazhu) 09-05 11:13:21
+[链接|Anthropic发布报告：龙虾、孕妇与禁售芯片](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247607044&idx=1&sn=ab8e1975924b5e451fce957d10411f86&chksm=966ae3e1663b4055546bf5ab3488d0822c080cb3bf62ec2ddca957e5a53248eb536f24546bb2&mpshare=1&scene=1&srcid=0905HpfofnO4vOe4qi6lgzX7&sharer_shareinfo=b45288d783de8f1ff7299e520e154151&sharer_shareinfo_first=b45288d783de8f1ff7299e520e154151#rd)
+
+Moore(xiaobei1984) 09-05 11:13:30
+deepseek 等国内知名模型一直使用 claude 来蒸馏模型，应该是被视为敌对
+
+无极(wxid_wdl7p3msdupm22) 09-05 11:14:17
+> 哩厘锂力(zizhazhu) 09-05 11:13:21
+> [链接|Anthropic发布报告：龙虾、孕妇与禁售芯片](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247607044&idx=1&sn=ab8e1975924b5e451fce957d10411f86&chksm=966ae3e1663b4055546bf5ab3488d0822c080cb3bf62ec2ddca957e5a53248eb536f24546bb2&mpshare=1&scene=1&srcid=0905HpfofnO4vOe4qi6lgzX7&sharer_shareinfo=b45288d783de8f1ff7299e520e154151&sharer_shareinfo_first=b45288d783de8f1ff7299e520e154151#rd)
+我怀疑是用他们家模型写的[破涕为笑]
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-05 11:14:34
+我也怀疑
+
+无极(wxid_wdl7p3msdupm22) 09-05 11:14:37
+> Moore 助教(xiaobei1984) 09-05 11:13:30
+> deepseek 等国内知名模型一直使用 claude 来蒸馏模型，应该是被视为敌对
+是这样说吧，不过你像gpt，谷歌，都还好，他这个针对好像太明显了
+
+无极(wxid_wdl7p3msdupm22) 09-05 11:14:49
+反正找关联性找的挺强的[破涕为笑]
+
+无极(wxid_wdl7p3msdupm22) 09-05 11:16:07
+建议大家有时间的，抽一周专门学学n8n，太强大了，而且好学
+
+无极(wxid_wdl7p3msdupm22) 09-05 11:16:14
+![图片](http://127.0.0.1:5030/image/217d01578494d939de176fb2d53e077e)
+
+无极(wxid_wdl7p3msdupm22) 09-05 11:16:34
+不用参加航海，看文档手册，问ai基本够了，真的很强大
+
+无极(wxid_wdl7p3msdupm22) 09-05 11:17:15
+它里面的很多流程以前我觉得能单独用写代码，自己串节点，没必要学
+
+。用过之后才知道，这种流程要写成代码，是多恐怖的工作量[破涕为笑]
+
+阿漫(wxid_0jm70wtbqehf21) 09-05 11:17:46
+我刚加了n8n航海[偷笑]
+
+早睡早睡(qq780213045) 09-05 11:17:55
+[强]
+
+无极(wxid_wdl7p3msdupm22) 09-05 11:17:58
+[旺柴]我看行
+
+小陈老师(wxid_1f5f4iwhhiqc22) 09-05 11:25:34
+#举手 开发浏览器插件 有没有什么技术栈的提示词可以用的
+
+nancy(wxid_smi62ccn0ilp22) 09-05 11:36:26
+您的课程已经开好啦~ 点击下方链接即可进入学习： 
+●上课链接：https://baxsj.kttx.cn （建议收藏） 
+●账号：报名手机号 
+●密码：ktzp2024 
+登录后在【我的项目】看课
+
+开泰(Auspiciousbeginning) 09-05 11:59:47
+https://www.plasmo.com，插件开发框架，我最近的插件基于这个框架开发的
+
+轩辕(wxid_4m8bzf34d67v22) 09-05 12:14:15
+轩辕(wxid_4m8bzf34d67v22) 09-05 12:14:27
+![图片](http://127.0.0.1:5030/image/47634539442ca5c2715ce1617bde25b3)
+
+系统消息 09-05 12:31:52
+"🌫️(wxid_bdbgo44zkrrv22)"邀请"nancy(wxid_smi62ccn0ilp22)"加入了群聊
+
+Okada 欢欢(wxid_bdbgo44zkrrv22) 09-05 12:32:50
+> nancy(wxid_smi62ccn0ilp22) 09-05 11:36:26
+> 您的课程已经开好啦~ 点击下方链接即可进入学习： 
+> ●上课链接：https://baxsj.kttx.cn （建议收藏） 
+> ●账号：报名手机号 
+> ●密码：ktzp2024 
+> 登录后在【我的项目】看课
+不要把自己的账号密码发群里哈，之后大家也注意奥
+
+nancy(wxid_smi62ccn0ilp22) 09-05 12:33:27
+不好意思，吓死了，还好上面没我手机号，要不就泄露了
+
+nancy(wxid_smi62ccn0ilp22) 09-05 12:33:53
+大家可以忽略我的消息
+
+nancy(wxid_smi62ccn0ilp22) 09-05 12:34:13
+和深海无关
+
+百威(wxid_aaxezeq72q0321) 09-05 12:56:01
+#举手这个截图的意识是我creem的审核没通过吗
+
+百威(wxid_aaxezeq72q0321) 09-05 12:56:01
+![图片](http://127.0.0.1:5030/image/0a1ca3ab266177a95fe27372a1d5e2a3)
+
+Unique(fg-bnc) 09-05 12:58:50
+很敏感
+
+刘小排(liuxiaopai) 09-05 13:15:00
+是的
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-05 16:30:21
+大家有人在MAC上做链式代理吗
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-05 16:30:30
+搞了快一天了还没成功
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-05 16:34:03
+成功了
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-05 16:34:10
+还是要靠许愿，这个群有魔力
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-05 16:34:16
+[破涕为笑]
+
+Moore(xiaobei1984) 09-05 16:46:52
+**流量路径**：你 → 中转节点（机场）→ 住宅静态 IP（落地）→ 目标网站
+
+1：订阅 -> 右键订阅（你的机场订阅 - 中转节点）-> 扩展脚本
+2：输入脚本 -> 修改 dialer-proxy 参数 为 你的 机场订阅 - 中转节点
+function main(config) {
+  const chain = {
+    name: '链式-日本+住宅',
+    type: 'socks5',
+    server: '130.130.90.1',
+    port: 2211,
+    username: 'user',
+    password: 'pwd',
+    udp: true,
+    'dialer-proxy': '🇯🇵 日本中转'
+  };
+  config.proxies = config.proxies || [];
+  config.proxies.push(chain);
+
+  const g = config['proxy-groups']?.[0];
+  if (g?.proxies && !g.proxies.includes(chain.name)) g.proxies.push(chain.name);
+
+  return config;
+}
+
+Moore(xiaobei1984) 09-05 16:47:30
+仅限：Clash Verge Rev
+
+Moore(xiaobei1984) 09-05 16:50:15
+脚本中要输入静态IP的IP，账号和密码
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-05 16:56:04
+我试试
+
+Moore(xiaobei1984) 09-05 16:58:41
+1：订阅 -> 右键订阅（你的机场订阅 - 中转节点）-> 扩展脚本
+2：输入脚本 -> 
+
+- 修改 dialer-proxy 参数 为 你的 机场订阅 - 中转节点
+- 修改 server / port / username/ password 为你住宅静态IP，要求是socks类型
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-05 17:00:07
+shadowrocket怎么配置呢
+
+Moore(xiaobei1984) 09-05 17:00:53
+你问 o3，我没研究过
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-05 17:00:59
+我试试
+
+Moore(xiaobei1984) 09-05 17:01:14
+iOS 的 shadowrocket 我知道怎么做。
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-05 17:01:41
+我这个就是下载的ios的版本
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-05 17:02:00
+![图片](http://127.0.0.1:5030/image/f543b6bef5c05683b8e903c42882a12b)
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-05 17:02:05
+它开TUN是不是在这
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-05 17:02:13
+链式代理我找了几个youtube的视频还在看
+
+Moore(xiaobei1984) 09-05 17:02:38
+添加你的机场和静态ip，配置你的静态ip，在代理通过那里选择你的机场中转节点
+
+Moore(xiaobei1984) 09-05 17:02:56
+然后选择静态ip节点，就可以了
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 09-05 17:03:50
+小火箭是不是没tun啊？全局路由选代理
+
+Moore(xiaobei1984) 09-05 17:04:07
+mac 的小火箭没研究过
+
+Moore(xiaobei1984) 09-05 17:04:19
+小狐狸才是永远的神
+
+西顾(wxid_obrl5kqlr4z322) 09-05 17:05:09
+这里可以配链式代理
+
+西顾(wxid_obrl5kqlr4z322) 09-05 17:05:09
+![图片](http://127.0.0.1:5030/image/d1ce349f8d11ee1bd94e7b4c4f8d52fa)
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-05 17:11:50
+配好了
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-05 17:11:59
+全局路由那里怎么配呀
+
+安来团队（18640264499）(wxid_15zvhbiqzzbz22) 09-05 17:13:17
+现在还有o3吗，我的只有gpt5啊
+
+西顾(wxid_obrl5kqlr4z322) 09-05 17:13:52
+> 智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-05 17:11:59
+> 全局路由那里怎么配呀
+https://github.com/h2y/Shadowrocket-ADBlock-Rules 可以参考这里、
+
+乔(qiaoying1984) 09-05 17:17:47
+群里有没有AI视频制作的高手，我这有好多单子，可以来接着做的
+
+西顾(wxid_obrl5kqlr4z322) 09-05 17:17:57
+如果你的节点是不支持UDP的，就把U DP转发那里关了
+
+小明(wxid_at9px5nf07qm22) 09-05 17:27:57
+> 乔(qiaoying1984) 09-05 17:17:47
+> 群里有没有AI视频制作的高手，我这有好多单子，可以来接着做的
+@西约
+
+卫斯理🤍(wxid_cap2car89b7811) 09-05 17:29:51
+@乔 什么类型的，动画ai短片我会，其他不擅长[破涕为笑]
+
+西约(KKmity) 09-05 17:30:29
+> 乔(qiaoying1984) 09-05 17:17:47
+> 群里有没有AI视频制作的高手，我这有好多单子，可以来接着做的
+我加你~
+
+🥷🏿 发呆.(wxid_767zp9hgv7b922) 09-05 17:30:32
+> 乔(qiaoying1984) 09-05 17:17:47
+> 群里有没有AI视频制作的高手，我这有好多单子，可以来接着做的
+私你了，我这可以接
+
+小陈老师(wxid_1f5f4iwhhiqc22) 09-05 17:35:46
+#举手  小排老师  您觉得codex修 bug 的能力和 cc 相比如何  我cc 是找拼车的，但是最近开始限制 每天日常消耗限额 100 刀  opus 周限额200 刀     每天 100 刀的限额不太够我用，所以在想要不要再加个 codex 来作为补充
+
+小明(wxid_at9px5nf07qm22) 09-05 17:38:05
+> 深圳-小陈老师(wxid_1f5f4iwhhiqc22) 09-05 17:35:46
+> #举手  小排老师  您觉得codex修 bug 的能力和 cc 相比如何  我cc 是找拼车的，但是最近开始限制 每天日常消耗限额 100 刀  opus 周限额200 刀     每天 100 刀的限额不太够我用，所以在想要不要再加个 codex 来作为补充
+小排觉得Codex除了做界面没有claude好，其他的都比claude强，我的体感也是
+
+小明(wxid_at9px5nf07qm22) 09-05 17:38:33
+我的codex用的是pro版本的gpt的，目前还够用，感觉不用额外充值
+
+小陈老师(wxid_1f5f4iwhhiqc22) 09-05 17:39:32
+ codex和gpt分开单独计算额度的吗？开通个codex是不是还能顺便用gpt
+
+小明(wxid_at9px5nf07qm22) 09-05 17:40:41
+我没研究权益，我的Codex是认证下我的pro账号就可以用了
+
+Evan(andy464391716) 09-05 17:43:16
+开通gpt 20美刀那个就能用codex了。我用了小排老师的左右互搏之术，yyds。 尤其做prd、techdesign、Task文档上。 claude做实现，codex做评审。
+
+小陈老师(wxid_1f5f4iwhhiqc22) 09-05 17:43:54
+[OK][OK][OK]
+
+天青色等烟雨(wxid_vwoqk3aok14122) 09-05 19:09:35
+大佬们，我请教个问题啊 ，我的creem资料审核是9月1日提交的，到现在为止，还没有收到任何通过或者不通过的邮件，这个情况正常吗？
+
+天青色等烟雨(wxid_vwoqk3aok14122) 09-05 19:09:40
+有人遇到过这个问题么
+
+天青色等烟雨(wxid_vwoqk3aok14122) 09-05 19:10:25
+我记得小排老师之前说一般都是1-2天会有邮件回复
+
+百威(wxid_aaxezeq72q0321) 09-05 19:10:53
+去网站看一下吧
+
+天青色等烟雨(wxid_vwoqk3aok14122) 09-05 19:13:44
+[抱拳]看到了
+
+天青色等烟雨(wxid_vwoqk3aok14122) 09-05 19:14:16
+![图片](http://127.0.0.1:5030/image/8c5b1c8affe0b4f9328166c6a72c37fc)
+
+天青色等烟雨(wxid_vwoqk3aok14122) 09-05 19:15:11
+这种反馈有人遇到过么
+
+天青色等烟雨(wxid_vwoqk3aok14122) 09-05 19:15:34
+下一步要发邮件，这其中的证据指的是哪些东西啊
+
+机器树(wxid_jy5ld7f3tnz312) 09-05 19:20:50
+对着他的那个清单，逐个排查，然后截图传邮件发给他看
+
+机器树(wxid_jy5ld7f3tnz312) 09-05 19:21:09
+卫斯理🤍(wxid_cap2car89b7811) 09-05 19:22:05
+[动画表情]
+
+天青色等烟雨(wxid_vwoqk3aok14122) 09-05 19:22:10
+好的，谢谢，这个模板能发一下么，我这里清了缓存，看不到信息
+
+天青色等烟雨(wxid_vwoqk3aok14122) 09-05 19:22:19
+"${wxid_vwoqk3aok14122}" 拍了拍 "${wxid_cap2car89b7811}" ，觉得好崇拜[炸弹]
+
+机器树(wxid_jy5ld7f3tnz312) 09-05 19:22:21
+Subject: [Account Changes Requested] Store Review for xxx.com
+
+Hi Creem Compliance Team,
+
+As requested, I have updated my store and attached evidence for each item in the Account Review checklist.
+
+Account / Contact
+• Creem account: john@xxx.com
+• Legal name: XXX
+• Store name: XXX
+• Product URL: XXX
+• Country of tax residence: China
+
+Business & Product Description
+We provide an AI-powered SaaS that lets users remove backgrounds and generate new images in bulk...
+
+Evidence of Compliance
+1. Product readiness – see screenshot_1.png
+2. No false information – removed fake testimonials, see before_after.gif
+3. Privacy Policy & Terms – https://xxx.com/privacy , https://xxx.com/terms
+4. Product visibility – screenshot_2.png
+5. Pricing display – screenshot_3.png
+6. Acceptable use – product does not violate the prohibited list
+7. Reachable support email – support@xxx.com (visible in footer, screenshot_4.png)
+
+Please let me know if anything else is required.
+Thanks!
+John Chen
+
+天青色等烟雨(wxid_vwoqk3aok14122) 09-05 19:22:24
+"${wxid_vwoqk3aok14122}" 拍了拍 "${wxid_jy5ld7f3tnz312}" ^  ^
+ 👀
+"⚫️"✌️
+ 👅
+
+天青色等烟雨(wxid_vwoqk3aok14122) 09-05 19:22:59
+[抱拳][抱拳]
+
+机器树(wxid_jy5ld7f3tnz312) 09-05 19:23:16
+还有就是你每个页面都是可点的，不能有无法访问的页面
+
+天青色等烟雨(wxid_vwoqk3aok14122) 09-05 19:23:57
+嗯嗯，这个之前都排查过了
+
+天青色等烟雨(wxid_vwoqk3aok14122) 09-05 19:24:26
+用户证言这种是直接造么[捂脸] 
+
+天青色等烟雨(wxid_vwoqk3aok14122) 09-05 19:24:31
+你们是咋处理的啊
+
+机器树(wxid_jy5ld7f3tnz312) 09-05 19:25:01
+删掉
+
+机器树(wxid_jy5ld7f3tnz312) 09-05 19:25:08
+不然过不了审
+
+🥷🏿 发呆.(wxid_767zp9hgv7b922) 09-05 19:29:18
+> 云飞(wxid_vwoqk3aok14122) 09-05 19:24:26
+> 用户证言这种是直接造么[捂脸] 
+要真实数据的
+
+天青色等烟雨(wxid_vwoqk3aok14122) 09-05 19:30:54
+好的，明白了，感谢两位[抱拳]
+
+桑桑(wxid_q2c7fp10z2522) 09-05 19:34:28
+@所有人 昨晚直播回放来啦！~
+
+分享主题：从0到1打造海外web产品:首单突破 & 黑客松铜奖
+分享嘉宾：轩辕
+直播回放链接：https://scys.com/activity/documents?id=5505&index=1
+
+桑桑(wxid_q2c7fp10z2522) 09-05 19:34:35
+周五啦，给大家加个餐[嘿哈]
+
+桑桑(wxid_q2c7fp10z2522) 09-05 19:34:50
+@国际范～ 两个月深海圈学习复盘
+
+桑桑(wxid_q2c7fp10z2522) 09-05 19:35:08
+![图片](http://127.0.0.1:5030/image/53099c266772b403246c833ce6a52fc0)
+
+桑桑(wxid_q2c7fp10z2522) 09-05 19:35:08
+[链接|两个月，从小菜鸡到黑客松优秀奖：深海圈学习复盘
+
+在小排老师的【深海圈·海外AI产品】课程中埋头苦学了 2 个多月，最后的结业黑客马拉松上，我竟从 146 份作品中脱颖而出，拿下了优秀奖。这对当初差点没报名的我来说，无疑是巨大的惊喜和鼓舞！回顾这段从零开始做](https://t.zsxq.com/IEqLt)
+
+桑桑(wxid_q2c7fp10z2522) 09-05 19:35:16
+@西约40天做了第一款产品，三天收获第一个付费用户
+
+桑桑(wxid_q2c7fp10z2522) 09-05 19:35:24
+[链接|参加生财实验室后，花40天做了第一款产品，上线三天就收获第一个付费用户，当时没有发好事，今天被桑桑催，正好今天圈友帮我发了一篇文章介绍产品，64个阅读就出了一单，所以来发个好事。加上之前零零散散的付费，也算月入几百刀啦
+
+P. S. 他还写了一篇怎么写公众](https://t.zsxq.com/RRtfx)
+
+桑桑(wxid_q2c7fp10z2522) 09-05 19:35:41
+@钢铁的铁  狂干3个月，网站上线两小时订阅金额超2000刀
+
+桑桑(wxid_q2c7fp10z2522) 09-05 19:35:55
+[链接|我是怎么从0开始用 AI 建站，上线“机构动作雷达”，首秀两小时收获2000刀订阅
+
+大家好，我是钢铁的铁，星球昵称思奇，在生财潜水三年，参加过六次航海，虽然都成功上岸，但也没拿到什么大结果。
+
+5月份报名参加了刘小排老师的海外AI产品，学习用AI建站，让想](https://t.zsxq.com/W6xvr)
+
+桑桑(wxid_q2c7fp10z2522) 09-05 19:35:59
+经常庆功，就能成功，欢迎大家之后在【生财好事】板块多分享自己的好事！~
+
+桑桑(wxid_q2c7fp10z2522) 09-05 19:36:06
+[链接|#生财好事 
+前两天收到了生财AI产品黑客松优秀奖的奖品，是我一直想要的小虎鲸，非常可爱很喜欢，正好借着亦仁发的「庆功日」活动发个好事。
+
+虽然还没有赚美刀，但我已经拥有了比美刀更珍贵的友谊。我在深海圈最大的收获，就是全勤参加线下共学认识了两个非常友好的朋友](https://t.zsxq.com/E3Kem)
+
+Okada 欢欢(wxid_bdbgo44zkrrv22) 09-05 19:57:58
+经常庆功，就能成功🎆
+
+桑桑(wxid_q2c7fp10z2522) 09-05 20:03:26
+[动画表情]
+
+rain(wxid_9302913028612) 09-05 21:35:09
+小排老师，闲鱼又出现很多你的盗版课了
+
+Okada 欢欢(wxid_bdbgo44zkrrv22) 09-05 21:42:49
+链接可以转我们下，我们去处理
+
+Okada 欢欢(wxid_bdbgo44zkrrv22) 09-05 21:43:40
+法务都在处理，到时候一网打尽[社会社会]
+
+rain(wxid_9302913028612) 09-05 21:43:48
+【闲鱼】https://m.tb.cn/h.hzAhIey?tk=xYDZ4KkT2hu CZ057 「快来捡漏【刘小排老师的深海圈AI变现课|||】」
+点击链接直接打开
+
+Okada 欢欢(wxid_bdbgo44zkrrv22) 09-05 21:44:03
+"${wxid_bdbgo44zkrrv22}" 拍了拍 "${wxid_9302913028612}" 要耐住寂寞
+
+rain(wxid_9302913028612) 09-05 21:44:05
+给小排老师维权
+
+Okada 欢欢(wxid_bdbgo44zkrrv22) 09-05 21:45:31
+放心，啥资质都弄了，法务到时候重拳出击
+
+> 云飞(wxid_vwoqk3aok14122) 09-05 19:14:16
+> ![图片](http://127.0.0.1:5030/image/8c5b1c8affe0b4f9328166c6a72c37fc)
+我猜测现在 creem 的接入， 填写完资料后，他第一轮都是让你进行一次自证， 我上周也遇到了， 我按地址上的清单一个个的回复邮件， 一个个的回复，然后今天看邮件 creem 通过了

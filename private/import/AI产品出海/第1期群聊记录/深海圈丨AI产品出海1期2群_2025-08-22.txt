@@ -1,0 +1,58 @@
+极客信条(kongfulive) 08-22 00:31:47
+极客信条(kongfulive) 08-22 00:32:42
+然后让AI根据env文件再跑一遍配置，
+
+Mr.🐟喻(lang-417528116) 08-22 01:07:12
+Mr.🐟喻(lang-417528116) 08-22 01:08:12
+> 极客信条-厦门(kongfulive) 08-22 00:31:47
+> > [引用]
+> 把测试ID改为生产ID，把回调webhook设置域名url+webhook/api 然后webhook还有一个设置，把这些复制下来，在env文件里写入
+暂时开没申请正式环境的账号，现在接入的是Test-mode模式
+
+Mr.🐟喻(lang-417528116) 08-22 01:09:27
+因为网站还没做好，后续LandingPage页还需修改数据，准备全部做好了，再修改LandingPage，再提交申请开通正式账号
+
+Mr.🐟喻(lang-417528116) 08-22 01:09:53
+诶，是不是接入Test-mode，也需要先申请正式的账号呀？
+
+Mr.🐟喻(lang-417528116) 08-22 01:12:57
+Mr.🐟喻(lang-417528116) 08-22 01:12:57
+![图片](http://127.0.0.1:5030/image/dba80c883ad494a74080b855ab447c08)
+
+Mr.🐟喻(lang-417528116) 08-22 01:12:58
+![图片](http://127.0.0.1:5030/image/2cb6b22aa8e9b93564e508aae59e3263)
+
+Eliot(jackglen) 08-22 14:22:31
+写了一篇出海案例拆解，供参考
+
+Eliot(jackglen) 08-22 14:22:31
+[链接|AI工具如何出海破圈？SunoPrompt.com 产品、流量与盈利模式全解析](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk1ODUwMA==&mid=2247484329&idx=1&sn=202e9c627ef5ae3d86337522b39a54a1&chksm=c2c8d6d74fbdbe7d096ab7e791e7cf68812817572e28932dcfe66c6aef7c8092c25cac1572f4&mpshare=1&scene=1&srcid=0822qlLWvA7xZoEdWcyse8sD&sharer_shareinfo=c13d67850f374f352f2b89ed7eaa618c&sharer_shareinfo_first=c13d67850f374f352f2b89ed7eaa618c#rd)
+
+A梦 (知牧)(mrleoxu) 08-22 14:46:44
+我也分享一篇，最近开始拆解AI工具站，持续更新
+
+A梦 (知牧)(mrleoxu) 08-22 14:46:44
+[链接|套壳 Flux 模型年入100万美金？我拆解了这个AI生图网站的流量密码](https://mp.weixin.qq.com/s?__biz=MjM5NDQ3ODI3NQ==&mid=2651430654&idx=1&sn=e28a4214561b065ebb40fcb732630a77&chksm=bc1b1c5b775da689287b66ec2d2841e8e3eef3952a3d7066c8da0e4c3b0358b8d966628c1935&mpshare=1&scene=1&srcid=0817ExKHLKBcOexVxIYZIwXg&sharer_shareinfo=66e4ba5cec6f054af0a9d8ad0d32e882&sharer_shareinfo_first=8003dccd38dcc9ccc12ed90ec88a0b26#rd)
+
+刘小排(liuxiaopai) 08-22 14:48:00
+恭喜，你火了啊
+
+A梦 (知牧)(mrleoxu) 08-22 14:51:10
+> 刘小排(liuxiaopai) 08-22 14:48:00
+> 恭喜，你火了啊
+[破涕为笑]没有吧 等我啥时候蹭老师的流量去
+
+小飞(xiaofei168496) 08-22 19:33:15
+昨天路演有一个项目是做结构化数据提取的，请问做这个项目的圈友在群里吗
+
+轩辕(wxid_4m8bzf34d67v22) 08-22 22:52:56
+嘿嘿，开单，用的直播5折福利券（续订自动永久5折），感谢兄弟，记得告诉我，前期VIP用户我都会单独维护。
+
+轩辕(wxid_4m8bzf34d67v22) 08-22 22:52:56
+![图片](http://127.0.0.1:5030/image/b7359dcf053e5c25f29100f12bcfd9dc)
+
+轩辕(wxid_4m8bzf34d67v22) 08-22 22:56:54
+数据库也升级了更高规格了 现在会快一点了
+
+刘小排(liuxiaopai) 08-22 23:01:20
+[强][强]

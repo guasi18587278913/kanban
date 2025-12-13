@@ -1,0 +1,426 @@
+桑桑(wxid_q2c7fp10z2522) 12-05 10:56:14
+昨天群聊浓度依旧拉满！～
+
+群聊重点关注技术安全与工具实战。Next.js 和 React 接连曝出高危漏洞，开发者需尽快自查；AI 编程方面，群友针对 Mac 配置选型及 Cursor 进阶技巧进行了深度讨论；产品侧则围绕“通用 vs 垂直”展开了关于寻找利基市场的辩论。
+
+一句话总结：技术在保底，工具在精进，产品在找突破口。
+
+感兴趣点击链接查看：https://aichanpinribao.com
+
+桑桑(wxid_q2c7fp10z2522) 12-05 10:56:15
+![图片](http://127.0.0.1:5030/image/8a411bca4d9ceda98d4c68cd6793700a)
+
+Neo(wxid_tjyzfvnvdu0w21) 12-05 11:26:51
+平时工作中，我是cc的subagent、skills高频用户。我非常习惯也喜欢去自定义一些辅助我工作的agent。
+
+官方号我折腾过但很费劲，国产模型我试过k2,glm,豆包,m2。感觉写代码还勉强可以。但工具调用，对subagent、skills的兼容性实在太差。
+
+我的需求就是能比较丝滑使用subagent、skills干活，请问大家有没有尝试过什么好的使用方案？
+
+Super黄（沉迷AI编程）(lookforward) 12-05 11:34:11
+m2适配CC很好呀
+
+Super黄（沉迷AI编程）(lookforward) 12-05 11:34:18
+我现在跑skills都用m2
+
+Super黄（沉迷AI编程）(lookforward) 12-05 11:34:24
+gml4.6不行
+
+Super黄（沉迷AI编程）(lookforward) 12-05 11:34:46
+k2经常自己停，turbo太贵，非turbo太慢
+
+Neo(wxid_tjyzfvnvdu0w21) 12-05 11:44:41
+m2确实是我体感里面  国产一堆里面最好的
+
+Neo(wxid_tjyzfvnvdu0w21) 12-05 11:45:10
+m2 没有coding plan吧好像？
+
+Neo(wxid_tjyzfvnvdu0w21) 12-05 11:45:42
+我擦，现在有了
+
+Neo(wxid_tjyzfvnvdu0w21) 12-05 11:45:43
+好爽
+
+Super黄（沉迷AI编程）(lookforward) 12-05 11:45:58
+有
+
+Super黄（沉迷AI编程）(lookforward) 12-05 11:47:07
+我问了，马上还会上新[偷笑]
+
+Super黄（沉迷AI编程）(lookforward) 12-05 11:47:31
+还有开发者专属折扣，到时问小排老师要[偷笑]
+
+Neo(wxid_tjyzfvnvdu0w21) 12-05 11:48:09
+[动画表情]
+
+Neo(wxid_tjyzfvnvdu0w21) 12-05 11:48:10
+这么好
+
+蒙奇(liumengtan2010) 12-05 11:48:46
+我看 M2 的 Plan 怎么是按 Prompts 数来限量的
+
+Super黄（沉迷AI编程）(lookforward) 12-05 11:49:09
+按prompts好啊，你想按调用次数么
+
+蒙奇(liumengtan2010) 12-05 11:52:16
+是，我就说好的，写好规划任务清单，然后让他照做是不是就只算一次调用[偷笑]
+
+Neo(wxid_tjyzfvnvdu0w21) 12-05 11:53:31
+应该是吧
+
+Super黄（沉迷AI编程）(lookforward) 12-05 11:55:35
+![图片](http://127.0.0.1:5030/image/26192b783ce452b3563409bb9050f52c)
+
+Neo(wxid_tjyzfvnvdu0w21) 12-05 11:58:51
+感谢，开一个月试试
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-05 13:07:46
+@刘小排 小排老师可以分享一下 spec-kit 的使用经验吗[奸笑]我再看了一下项目，安装了，不知道怎么下手
+
+刘小排(liuxiaopai) 12-05 13:08:26
+我不用
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-05 13:08:59
+阿？你上次不是说用这个来做需求文档吗
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-05 13:09:09
+我还想学习一下[破涕为笑]
+
+刘小排(liuxiaopai) 12-05 17:18:03
+[链接|同样是20美金，小排现在劝你放弃Cursor换 Google Antigravity](https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247499866&idx=1&sn=015702632e8ab94e74a394f4079926fe&chksm=e84f4cff8cb3a2fbb80f24e37fce3a485dba97c44fcbae908c5c42d548057b60b24b847028ab&mpshare=1&scene=1&srcid=1205sbdoTVDZDlqIQMoIkn16&sharer_shareinfo=85883bd9bfc61703b050fe139a0b9418&sharer_shareinfo_first=85883bd9bfc61703b050fe139a0b9418#rd)
+
+矿山(wxid_8fwtkj2uvvcl12) 12-05 17:22:19
+小排老师，Antigravity 这个登录一直卡住没响应，更新了最新版本、换了不同的 google 账号，都不行；
+
+这个有啥解决方法吗
+
+矿山(wxid_8fwtkj2uvvcl12) 12-05 17:22:19
+![图片](http://127.0.0.1:5030/image/29a920e76a6666b2c311c5e2829ef382)
+
+刘小排(liuxiaopai) 12-05 17:23:20
+1. TUN
+2.到这里换账号归属地址 https://policies.google.com/terms   https://policies.google.com/country-association-form
+
+小明(wxid_at9px5nf07qm22) 12-05 17:23:21
+@矿山 可以咸鱼搞个 Google 新号
+
+小明(wxid_at9px5nf07qm22) 12-05 17:23:48
+![图片](http://127.0.0.1:5030/image/2a8f3cd0522d150556a8225e1a165a9d)
+
+矿山(wxid_8fwtkj2uvvcl12) 12-05 17:23:55
+我登录的账号 之前就是某鱼注册的 地区是美国的，还是不行
+
+矿山(wxid_8fwtkj2uvvcl12) 12-05 17:28:08
+好的，我试一试，私聊小明了，谢谢～
+
+前行(gejinpeng123) 12-05 17:32:41
+> 刘小排(liuxiaopai) 12-05 17:18:03
+> [链接|同样是20美金，小排现在劝你放弃Cursor换 Google Antigravity](https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247499866&idx=1&sn=015702632e8ab94e74a394f4079926fe&chksm=e84f4cff8cb3a2fbb80f24e37fce3a485dba97c44fcbae908c5c42d548057b60b24b847028ab&mpshare=1&scene=1&srcid=1205sbdoTVDZDlqIQMoIkn16&sharer_shareinfo=85883bd9bfc61703b050fe139a0b9418&sharer_shareinfo_first=85883bd9bfc61703b050fe139a0b9418#rd)
+我也看到更新了，现在订阅用户用量更多了
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-05 17:42:45
+> 刘小排(liuxiaopai) 12-05 17:18:03
+> [链接|同样是20美金，小排现在劝你放弃Cursor换 Google Antigravity](https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247499866&idx=1&sn=015702632e8ab94e74a394f4079926fe&chksm=e84f4cff8cb3a2fbb80f24e37fce3a485dba97c44fcbae908c5c42d548057b60b24b847028ab&mpshare=1&scene=1&srcid=1205sbdoTVDZDlqIQMoIkn16&sharer_shareinfo=85883bd9bfc61703b050fe139a0b9418&sharer_shareinfo_first=85883bd9bfc61703b050fe139a0b9418#rd)
+放弃的cc这么快又用回来了[奸笑]
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-05 17:43:12
+这就试试能不能让我放弃cursor😀
+
+刘小排(liuxiaopai) 12-05 17:43:17
+自从CC有Opus 4.5之后就继续用了，sonet 4.5落后Opus 4.5挺强
+
+蒙奇(liumengtan2010) 12-05 17:48:28
+我用 Antigravity 开了 tun 还是时不时会运行到一半会报错，一直切换各种节点，有什么好办法吗，我看有在国外服务器上用的[破涕为笑]
+
+刘小排(liuxiaopai) 12-05 17:49:29
+这是你的节点不稳定
+
+刘小排(liuxiaopai) 12-05 17:49:38
+因为他的传输是流式协议，如果传了一半你的网络波动了就断了
+
+蒙奇(liumengtan2010) 12-05 17:50:25
+> 刘小排(liuxiaopai) 12-05 17:49:29
+> 这是你的节点不稳定
+嗯嗯，最近用的之前小排老师推的，有没有新推荐的，我私信你一下[抱拳]
+
+简单(wxid_jw8gsadauynk21) 12-05 17:50:50
+建议自己搭一个 稳定的很
+
+蒙奇(liumengtan2010) 12-05 17:51:45
+> 简单(wxid_jw8gsadauynk21) 12-05 17:50:50
+> 建议自己搭一个 稳定的很
+我以前是自己搭的，有推荐的 vps 吗
+
+shine_forever(shine_forevr) 12-05 17:53:31
+我现在使用板瓦工的CN2线路，用了才知道，买贵的还真体验不一样，
+贵有贵的道理
+
+shine_forever(shine_forevr) 12-05 17:57:01
+请教下，开 google AI Pro
+必须要开通workspace才可以吗？
+
+shine_forever(shine_forevr) 12-05 17:57:02
+![图片](http://127.0.0.1:5030/image/524139a66f65691d695f433aadd95606)
+
+蒙奇(liumengtan2010) 12-05 17:57:03
+> shine_forever|siteData.dev(shine_forevr) 12-05 17:53:31
+> 我现在使用板瓦工的CN2线路，用了才知道，买贵的还真体验不一样，
+> 贵有贵的道理
+这个多少钱一年
+
+简单(wxid_jw8gsadauynk21) 12-05 17:57:52
+要便宜 就腾讯云 99一年
+
+简单(wxid_jw8gsadauynk21) 12-05 17:58:10
+要贵一点 就买搬瓦工 CN优化线路
+
+猫哥²｜晚10点休息(wxid_908c05mtm5th22) 12-05 17:58:29
+> 简单(wxid_jw8gsadauynk21) 12-05 17:57:52
+> 要便宜 就腾讯云 99一年
+确实便宜，我用的个这个，唯一的点就是IP被识别为机房，有的时候会触发验证。
+
+shine_forever(shine_forevr) 12-05 17:58:32
+![图片](http://127.0.0.1:5030/image/747a0ba880d100984c4c15cfd5bbea8c)
+
+简单(wxid_jw8gsadauynk21) 12-05 17:58:35
+要家宽 就买一个家宽VPS 做AI分流
+
+简单(wxid_jw8gsadauynk21) 12-05 17:58:45
+> 猫哥²｜晚10点休息(wxid_908c05mtm5th22) 12-05 17:58:29
+> > [引用]
+> 确实便宜，我用的个这个，唯一的点就是IP被识别为机房，有的时候会触发验证。
+做个AI分流就好了
+
+简单(wxid_jw8gsadauynk21) 12-05 17:59:03
+便宜的家宽落地机  一个月2-3刀
+
+猫哥²｜晚10点休息(wxid_908c05mtm5th22) 12-05 17:59:32
+> 简单(wxid_jw8gsadauynk21) 12-05 17:58:45
+> > [引用]
+> 做个AI分流就好了
+嗯，谢谢，看看研究下，不懂这个
+
+蒙奇(liumengtan2010) 12-05 17:59:44
+> shine_forever|siteData.dev(shine_forevr) 12-05 17:58:32
+> ![图片](http://127.0.0.1:5030/image/747a0ba880d100984c4c15cfd5bbea8c)
+好的，感觉有点贵的 [Salute]
+
+简单(wxid_jw8gsadauynk21) 12-05 18:00:05
+我用的腾讯云的 很稳定
+
+猫哥²｜晚10点休息(wxid_908c05mtm5th22) 12-05 18:01:53
+确实稳定，cursor用腾讯云，基本不会提示vpn问题。
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-05 18:32:24
+> 简单(wxid_jw8gsadauynk21) 12-05 17:59:03
+> 便宜的家宽落地机  一个月2-3刀
+nat吧，哪有那么便宜的vps家宽
+
+简单(wxid_jw8gsadauynk21) 12-05 18:33:50
+嗯嗯 nat
+
+简单(wxid_jw8gsadauynk21) 12-05 18:33:52
+对的
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-05 18:34:15
+哪个地区
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-05 18:34:25
+我用的台湾的nat
+
+简单(wxid_jw8gsadauynk21) 12-05 18:34:38
+多少钱 台湾的
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-05 18:34:50
+就你说的价格呀
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-05 18:35:00
+nat也是一堆人拼的
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-05 18:35:48
+> 简单(wxid_jw8gsadauynk21) 12-05 17:57:52
+> 要便宜 就腾讯云 99一年
+我不敢用这个就是这个要实名[破涕为笑]用途上还是有点担心
+
+简单(wxid_jw8gsadauynk21) 12-05 18:36:14
+https://qq.pw/index.php?rp=/store/hawaii-residential-ip-vds
+
+简单(wxid_jw8gsadauynk21) 12-05 18:36:39
+> 土豆君(wxid_gzr7bvbdlvlv22) 12-05 18:35:48
+> > [引用]
+> 我不敢用这个就是这个要实名[破涕为笑]用途上还是有点担心
+自用没啥问题啊
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-05 18:38:54
+[动画表情]
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-05 19:08:45
+![图片](http://127.0.0.1:5030/image/ce4ea0e24a45bd004715275b520dc6aa)
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-05 19:09:08
+为啥我在antigravity搜不到codex哩
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-05 19:09:32
+![图片](http://127.0.0.1:5030/image/1ff882f3611008d6f26c7f58b6b89196)
+
+刘小排(liuxiaopai) 12-05 19:09:42
+你去别的地方下载一个，把他拖进去
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-05 19:10:38
+好吧。。看来是竞争对手明明cc插件都能下[破涕为笑]
+
+小辉(wxid_6l9ubr5g504y21) 12-05 19:14:21
+要往下翻能找到
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-05 19:16:35
+我刚才是往下翻了，确实没找到[破涕为笑]
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-05 19:18:26
+现在推荐用gemini3.0还是opus 4.5[嘿哈]
+
+夕远(wxid_0kb3l3xk63ag21) 12-05 19:22:49
+成年人不做选择[旺柴]
+
+刘小排(liuxiaopai) 12-05 19:23:08
+我是三个都用的，因为这几个每个有自己不同适合的领域
+
+刘小排(liuxiaopai) 12-05 19:23:25
+难一两句话描述清楚，你自己这几个多用用。比较出来
+
+刘小排(liuxiaopai) 12-05 19:23:35
+如果非要只选择一个的话，你随便选哪个都不差
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-05 19:24:41
+我就是在找适用情况[奸笑]
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-05 19:25:10
+小排老师平常多分享一点哇，可以少踩一点坑😆
+
+arlen(skyarlen) 12-05 22:07:51
+![图片](http://127.0.0.1:5030/image/5263f3ce8f7c83ad168067c64a6dc459)
+
+arlen(skyarlen) 12-05 22:08:31
+这意思是送opus4.5
+
+arlen(skyarlen) 12-05 22:08:39
+等同snnet?
+
+前行(gejinpeng123) 12-05 22:12:53
+antigravity订阅Pro和没有订阅在账户那里有标识吗？我没有看到有什么区别
+
+浮生(luheng_430) 12-05 23:39:41
+> shine_forever|siteData.dev(shine_forevr) 12-05 17:58:32
+> ![图片](http://127.0.0.1:5030/image/747a0ba880d100984c4c15cfd5bbea8c)
+活动的时候 40 多刀一年
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-05 23:41:11
+> 浮生-无锡(luheng_430) 12-05 23:39:41
+> > [引用]
+> 活动的时候 40 多刀一年
+前段时间黑五的时候吗？
+
+浮生(luheng_430) 12-05 23:42:50
+没有，黑五的时候倒是有 dmit
+
+浮生(luheng_430) 12-05 23:44:00
+黑五瓦工出的是三网优化的荷兰好像
+
+浮生(luheng_430) 12-05 23:44:26
+![图片](http://127.0.0.1:5030/image/d7855a5a9e19280a8c56e2ce7c94145c)
+
+浮生(luheng_430) 12-05 23:45:15
+45.68 刀
+
+shine_forever(shine_forevr) 12-05 23:47:29
+@浮生-无锡 cn2 线路的吗？
+
+浮生(luheng_430) 12-05 23:48:42
+三网，电信 cn2，联通 9929，移动 cmin2
+
+浮生(luheng_430) 12-05 23:49:02
+dmit 的倒是三网 cn2
+
+浮生(luheng_430) 12-05 23:50:46
+![图片](http://127.0.0.1:5030/image/a8417577c3d011e25b512fa835d26cb3)
+
+浮生(luheng_430) 12-05 23:50:49
+瓦工
+
+浮生(luheng_430) 12-05 23:51:00
+![图片](http://127.0.0.1:5030/image/60101dfe2dbcedf47994664fcf210494)
+
+浮生(luheng_430) 12-05 23:51:03
+dmit
+
+shine_forever(shine_forevr) 12-05 23:51:39
+牛啊.. CN2 45美金..一年[可怜]
+
+浮生(luheng_430) 12-05 23:53:48
+我这个套餐我都怀疑后面不卖了，45 刀 2c2g2t  好像 3 月份卖了一波，后面没见卖了
+
+shine_forever(shine_forevr) 12-05 23:55:31
+性价比太高了简直[尴尬][尴尬][尴尬]
+
+浮生(luheng_430) 12-05 23:55:56
+后面有活动我在群里发一下吧
+
+浮生(luheng_430) 12-05 23:56:07
+专业的
+
+浮生(luheng_430) 12-05 23:56:56
+圣诞应该有一波
+
+X。(wxid_azip4xcyr87p22) 12-05 23:57:23
+确实便宜
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-05 23:57:58
+> shine_forever|siteData.dev(shine_forevr) 12-05 23:51:39
+> 牛啊.. CN2 45美金..一年[可怜]
+其实也没关系，CN2是他帮你优化了，没有的话就自己在搭一个线路机
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-05 23:58:22
+虽然我也懒得搭建[破涕为笑]线路机直接用机场中转
+
+简单(wxid_jw8gsadauynk21) 12-05 23:58:33
+[破涕为笑][破涕为笑][破涕为笑] 为啥你们对ip 要求这么高啊
+
+浮生(luheng_430) 12-05 23:58:33
+可以的
+
+简单(wxid_jw8gsadauynk21) 12-05 23:58:48
+硬要搞搬瓦工
+
+简单(wxid_jw8gsadauynk21) 12-05 23:59:01
+腾讯云新加坡不香吗
+
+浮生(luheng_430) 12-05 23:59:02
+瓦工是线路
+
+简单(wxid_jw8gsadauynk21) 12-05 23:59:05
+[破涕为笑]
+
+浮生(luheng_430) 12-05 23:59:06
+不是 IP
+
+简单(wxid_jw8gsadauynk21) 12-05 23:59:13
+是啊 线路要求
+
+浮生(luheng_430) 12-05 23:59:24
+你电信吗
+
+简单(wxid_jw8gsadauynk21) 12-05 23:59:30
+我用着一点都不卡 腾讯云
+
+简单(wxid_jw8gsadauynk21) 12-05 23:59:32
+嗯嗯
+
+shine_forever(shine_forevr) 12-05 23:59:33
+延时低，ip 相对干净
+
+简单(wxid_jw8gsadauynk21) 12-05 23:59:35
+电信
+
+> 矿山(wxid_8fwtkj2uvvcl12) 12-05 17:22:19
+> 小排老师，Antigravity 这个登录一直卡住没响应，更新了最新版本、换了不同的 google 账号，都不行；
+> 这个有啥解决方法吗
+@矿山 你这个问题解决了不[捂脸] 我也遇到了

@@ -1,0 +1,80 @@
+青竹(wxid_1348793487711) 12-07 08:45:20
+发现 Cursor 会自己 Review 刚才提交的代码，并帮我找出可能存在的问题
+
+青竹(wxid_1348793487711) 12-07 08:45:20
+![图片](http://127.0.0.1:5030/image/34f1f443c35a334c1ea7394f4435c7af)
+
+王珣(wangxiaojian162088) 12-07 23:19:22
+王珣(wangxiaojian162088) 12-07 23:21:17
+换了小排老师发的地址，开了tun好像还不行
+
+范志杰 Fam(leiyushuma) 12-07 23:25:22
+> 王珣(wangxiaojian162088) 12-07 23:21:17
+> 换了小排老师发的地址，开了tun好像还不行
+你用windows换v2试试（我的macbook pro目前也没解决）
+
+王珣(wangxiaojian162088) 12-07 23:25:37
+我是Mac
+
+范志杰 Fam(leiyushuma) 12-07 23:27:51
+mac pro我换了得有七八个号，闲鱼也问了，新买的gg也试了，都是有问题，，，但是windows 用v2能用
+
+王珣(wangxiaojian162088) 12-07 23:28:29
+我刚刚也折腾了半小时，注册新号，换地址，开tun，全局都不行
+
+王珣(wangxiaojian162088) 12-07 23:28:42
+只能明天再试试了
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-07 23:30:26
+> 范志杰 Fam(leiyushuma) 12-07 23:27:51
+> mac pro我换了得有七八个号，闲鱼也问了，新买的gg也试了，都是有问题，，，但是windows 用v2能用
+估计规则不行😂
+
+范志杰 Fam(leiyushuma) 12-07 23:32:13
+哦，你有配置好的不？我现在mac 用的clash ，规则按GPT 给的配置的[破涕为笑]
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-07 23:32:58
+我给你两个帖子你看下。照着操作肯定能行，你不需要用这个tun
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-07 23:33:45
+https://linux.do/t/topic/1279127
+https://linux.do/t/topic/1190670
+
+范志杰 Fam(leiyushuma) 12-07 23:34:04
+哦好的，感谢🌹
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-07 23:34:10
+这种问题还是多看看Linuxdo[奸笑]站里都是些程序大佬
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-07 23:34:17
+我当时遇到问题试了一下就解决了
+
+张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 12-07 23:35:14
+谷歌账号的位置改成美国试试
+
+Min(szm800717) 12-07 23:37:16
+感觉，还是梯子的问题
+
+我 12-07 23:39:03
+"随波逐流" 撤回了一条消息
+
+Min(szm800717) 12-07 23:39:46
+> 王珣(wangxiaojian162088) 12-07 23:28:29
+> 我刚刚也折腾了半小时，注册新号，换地址，开tun，全局都不行
+再不行，弄个美区vps Windows版本，把Antigravity弄上面跑跑看
+
+土豆君(wxid_gzr7bvbdlvlv22) 12-07 23:39:57
+> 土豆君(wxid_gzr7bvbdlvlv22) 12-07 23:33:44
+> https://linux.do/t/topic/1279127
+> https://linux.do/t/topic/1190670
+定向过滤，用 proxifier就行了
+
+> 王珣(wangxiaojian162088) 12-07 23:19:22
+> > [引用]
+> @矿山 你这个问题解决了不[捂脸] 我也遇到了
+@王珣 我解决了，私聊小明搞定的，你加我我和你说一下
+
+> 土豆君(wxid_gzr7bvbdlvlv22) 12-07 23:33:45
+> https://linux.do/t/topic/1279127
+> https://linux.do/t/topic/1190670
+@土豆君 用您这个配置解决了，不是账号的问题，感谢大佬[强][强][强]🌹🌹🌹

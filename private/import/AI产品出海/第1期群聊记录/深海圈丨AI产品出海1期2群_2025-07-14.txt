@@ -1,0 +1,520 @@
+silence(wxid_qfrdwbb1853b22) 07-14 08:07:30
+Cursor当中无法打开Claude Code，大家有知道这个原因吗 安装好了但是怎么都打不开[可怜]
+
+silence(wxid_qfrdwbb1853b22) 07-14 08:07:30
+![图片](http://127.0.0.1:5030/image/cda14c1f922e92c59d5c0ff1354cc657)
+
+SuperEric(janetchristmas) 07-14 08:20:55
+@silence 没看到打不开是什么提示
+
+silence(wxid_qfrdwbb1853b22) 07-14 08:30:43
+就是安装之后没有看到claude的图标以及command+shift+P这里输入Code点它也没反应
+
+silence(wxid_qfrdwbb1853b22) 07-14 08:30:43
+![图片](http://127.0.0.1:5030/image/9de095e0354fa0be7a8e22d294772443)
+
+silence(wxid_qfrdwbb1853b22) 07-14 08:30:44
+![图片](http://127.0.0.1:5030/image/4ea2717bcf1d40efcb4689a348127c82)
+
+Okada 欢欢(wxid_bdbgo44zkrrv22) 07-14 08:47:44
+[视频号|最真实的记录“万事问AI”的AI创业者刘小排，一个人副业年入千万，他说：距离AI产品出海只需要一点勇气。”#大树学AI #AI创业 #AI](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibFeI6caGYwFFicOKQibiaLxWbnHolibeUe2Jjx2boAcq5jQUBOYu4BmOkYiblLCWgUP8ibxQtibRorbStiabFh4nVMBpXSXq0HNV7TiaCClEYzRk79mYuR6aHVCRIxdA&hy=SH&idx=1&m=2839e26dd30556b6c377bdf78d80bff4&uzid=7a210)
+
+Okada 欢欢(wxid_bdbgo44zkrrv22) 07-14 08:48:33
+小排老师访谈来咯
+
+黑帽子（私人号）(wxid_9qubnyq1piml12) 07-14 09:02:22
+有没有大佬知道 claude使用kimi k2 如何解决速率限制的问题
+
+黑帽子（私人号）(wxid_9qubnyq1piml12) 07-14 09:02:22
+![图片](http://127.0.0.1:5030/image/235adb9886cc147a809b7815aaca5c70)
+
+哩厘锂力(zizhazhu) 07-14 09:04:07
+充点钱
+
+黑帽子（私人号）(wxid_9qubnyq1piml12) 07-14 09:04:16
+[旺柴]好的 我试试
+
+SuperEric(janetchristmas) 07-14 09:07:36
+@silence 看手册里的使用教程
+
+李澹归(wxid_ixr3b2qghvtx22) 07-14 09:07:55
+我开魔法就完全没有飘红了
+
+我 07-14 09:13:24
+"silence" 撤回了一条消息
+
+我 07-14 09:13:35
+"silence" 撤回了一条消息
+
+silence(wxid_qfrdwbb1853b22) 07-14 09:14:36
+https://chatgpt.com/share/68745995-890c-8003-91fb-b70c3b3cc7e7
+
+silence(wxid_qfrdwbb1853b22) 07-14 09:14:40
+我按照这个做了一遍还是打不开
+
+SuperEric(janetchristmas) 07-14 09:16:10
+你按手册安装
+
+SuperEric(janetchristmas) 07-14 09:16:36
+命令行安装
+
+silence(wxid_qfrdwbb1853b22) 07-14 09:24:50
+好的好的[玫瑰]
+
+silence(wxid_qfrdwbb1853b22) 07-14 09:26:53
+按手册VScode IDE部分已经修复了 感谢感谢
+
+SuperEric(janetchristmas) 07-14 09:32:11
+不用谢
+
+Chipen Yip(nihaijidewoma001) 07-14 10:25:12
+![图片](http://127.0.0.1:5030/image/913cf4b1608cce91bfaad5aaa955a356)
+
+Chipen Yip(nihaijidewoma001) 07-14 10:25:13
+@欢欢-生财 
+
+Okada 欢欢(wxid_bdbgo44zkrrv22) 07-14 10:26:32
+[苦涩] 🌳哥在重新剪视频了
+
+落尘(wxid_2d9fw2ta1t9n22) 07-14 10:43:29
+我嘞个豆
+
+辛亥(wxid_0ytooiqh4iio22) 07-14 10:50:48
+这个百川智能是不是小排老师说的两年前融了几十亿，市值200亿的大模型公司？
+
+辛亥(wxid_0ytooiqh4iio22) 07-14 10:50:49
+![图片](http://127.0.0.1:5030/image/ab2804b5d72ca626343e0dd6e6d2b1c1)
+
+刘小排(liuxiaopai) 07-14 10:53:52
+对
+
+R(qr277763897) 07-14 11:04:23
+[捂脸]野卡不会真跑路吧
+
+R(qr277763897) 07-14 11:04:23
+![图片](http://127.0.0.1:5030/image/ad6716cea86ba595c69d8ce4fdf77b09)
+
+Moore(xiaobei1984) 07-14 11:06:02
+赶快用完余额
+
+R(qr277763897) 07-14 11:07:33
+已经无法登录了，大几百余额废了[裂开]
+
+Moore(xiaobei1984) 07-14 11:08:04
+等48小时恢复后消费
+
+R(qr277763897) 07-14 11:09:13
+有圈友能分享下怎么正经办一张除了港卡之外的海外银行卡吗
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-14 11:17:57
+visa信用卡
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-14 11:18:15
+招商银行可以办理，我正在办
+
+卡卡罗特(kakaluoteabc) 07-14 11:19:15
+> Paradise Quest(wxid_g27abmn3c4ws21) 07-14 11:18:15
+> 招商银行可以办理，我正在办
+是掌上生活app直接申请的那个visa全币种的吗？？
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-14 11:19:28
+对
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-14 11:19:47
+不过他会审核，看你有没有稳定收入啥的
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-14 11:19:59
+没有的话不给过
+
+卡卡罗特(kakaluoteabc) 07-14 11:20:36
+哦，是打电话问吗？
+
+卡卡罗特(kakaluoteabc) 07-14 11:20:48
+还是根据填写的内容审核
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-14 11:20:50
+会安排人上门办理
+
+卡卡罗特(kakaluoteabc) 07-14 11:21:25
+哦，我以为直接在app线上办理就行呢
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-14 11:21:38
+线上是可以申请
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-14 11:22:11
+你也不用管啥，他会安排人跟你联系，直接到你那儿办，不用去银行反正
+
+卡卡罗特(kakaluoteabc) 07-14 11:22:30
+[OK]好的
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 07-14 11:22:52
+> R(qr277763897) 07-14 11:09:13
+> 有圈友能分享下怎么正经办一张除了港卡之外的海外银行卡吗
+开美国公司，申请水星信用卡，相对来说是花钱很稳定的路子，海外赚钱还能直接海外花
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-14 11:23:24
+[破涕为笑]海外公司能代办不
+
+JsonChao（晚10点睡觉）(wxid_txyrbyqpqhcc22) 07-14 11:25:01
+> Paradise Quest(wxid_g27abmn3c4ws21) 07-14 11:23:24
+> [破涕为笑]海外公司能代办不
+可以的，就是成本比较高
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-14 11:25:38
+有多高了，有海外公司支付收账什么的都方便好多
+
+R(qr277763897) 07-14 11:25:39
+> Paradise Quest(wxid_g27abmn3c4ws21) 07-14 11:18:15
+> 招商银行可以办理，我正在办
+招行的visa，现在充值能成功吗[捂脸]，年初我用家人的招行visa充值，都是失败的
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-14 11:26:13
+信用卡充啥值
+
+陈星空(wxid_ss7s5srpsw4x21) 07-14 11:27:47
+> Paradise Quest(wxid_g27abmn3c4ws21) 07-14 11:23:24
+> [破涕为笑]海外公司能代办不
+我找人办的 2000，每年会有个年审和申报，加起来四千多。
+
+卡卡罗特(kakaluoteabc) 07-14 11:28:16
+> Paradise Quest(wxid_g27abmn3c4ws21) 07-14 11:26:13
+> 信用卡充啥值
+应该说的是用visa卡绑定支付海外的产品吧（好多产品都不支持国内的visa卡）
+
+Shawn(wxid_uj273x98ttum21) 07-14 11:28:27
+招行visa  订阅cursor可以 但是chatgpt plus 不行吧
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-14 11:28:35
+哦哦，那看着跟国内代办差不多价钱
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-14 11:29:00
+那不知道，我也还没试过
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-14 11:29:21
+问招行的是说没啥问题，海外都能用
+
+JsonChao（晚10点睡觉）(wxid_txyrbyqpqhcc22) 07-14 11:30:27
+> 陈星空(wxid_ss7s5srpsw4x21) 07-14 11:27:47
+> > [引用]
+> 我找人办的 2000，每年会有个年审和申报，加起来四千多。
+后面每年还要4000多吗？
+
+陈星空(wxid_ss7s5srpsw4x21) 07-14 11:31:24
+嗯嗯，我们是这样的。估计是我们找的机构比较高[捂脸]
+
+哩厘锂力(zizhazhu) 07-14 11:31:24
+> Paradise Quest(wxid_g27abmn3c4ws21) 07-14 11:29:21
+> 问招行的是说没啥问题，海外都能用
+是openai和claude限制的，不是卡的问题
+
+Moore(xiaobei1984) 07-14 11:31:40
+> 冬七(wxid_uj273x98ttum21) 07-14 11:28:27
+> 招行visa  订阅cursor可以 但是chatgpt plus 不行吧
+cursor 支付宝都可以[旺柴]
+
+Shawn(wxid_uj273x98ttum21) 07-14 11:34:05
+[呲牙]
+
+rain(wxid_9302913028612) 07-14 12:24:10
+体验了了下Kimi k2，感觉改UI不太好使，总是曲解了我的意思
+
+R(qr277763897) 07-14 12:54:33
+刚问了我的汇丰客户经理，汇丰可以办新加坡visa，有需要的圈友可以私信推微信
+
+Moore(xiaobei1984) 07-14 12:58:31
+> R(qr277763897) 07-14 12:54:33
+> 刚问了我的汇丰客户经理，汇丰可以办新加坡visa，有需要的圈友可以私信推微信
+条件是什么
+
+R(qr277763897) 07-14 13:01:39
+> Moore 助教(xiaobei1984) 07-14 12:58:31
+> > [引用]
+> 条件是什么
+得先办国内汇丰的卡，存进50万，然后客户经理能帮你办香港和新加坡的卡
+
+R(qr277763897) 07-14 13:02:29
+美国卡需要美国签证
+
+立明(wxid_zt08z7fshpkq22) 07-14 13:04:23
+> 冬七(wxid_uj273x98ttum21) 07-14 11:28:27
+> 招行visa  订阅cursor可以 但是chatgpt plus 不行吧
+也可以，不过需要在手机端支付
+
+立明(wxid_zt08z7fshpkq22) 07-14 13:04:43
+并且地址不要填国内的
+
+Okada 欢欢(wxid_bdbgo44zkrrv22) 07-14 13:28:34
+[视频号|记录“万事问AI”的AI创业者刘小排，一个人用AI做产品 年入千万，他说：距离AI产品出海只需要一点勇气。”#大树学AI #AI创业 #AI](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibFeI6caGYwFEFibSibopuvVDfCMPQMSfvteAEpicWafSe9uhjMOk22e4iboVuTIrotHSG60gqICvodnHyB4WszuxPdqk6m9QkpazBNibI3sO67vpCF5pgyarHNcA&hy=SH&idx=1&m=d61561502d9716d389fdd62d72a60041&uzid=7a15c)
+
+Okada 欢欢(wxid_bdbgo44zkrrv22) 07-14 13:29:17
+最新调整后的小排老师访谈
+
+Tao(zackzoids) 07-14 13:45:58
+[强][强][强]
+
+卫斯理🤍(wxid_cap2car89b7811) 07-14 14:05:36
+> 欢欢-生财(wxid_bdbgo44zkrrv22) 07-14 13:28:34
+> [视频号|记录“万事问AI”的AI创业者刘小排，一个人用AI做产品 年入千万，他说：距离AI产品出海只需要一点勇气。”#大树学AI #AI创业 #AI](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibFeI6caGYwFEFibSibopuvVDfCMPQMSfvteAEpicWafSe9uhjMOk22e4iboVuTIrotHSG60gqICvodnHyB4WszuxPdqk6m9QkpazBNibI3sO67vpCF5pgyarHNcA&hy=SH&idx=1&m=d61561502d9716d389fdd62d72a60041&uzid=7a15c)
+已读点赞👍
+
+青壮年狗哥(wxid_24tlj7t6c34k12) 07-14 14:49:09
+除了wildcard，有没有人用过bingo card啊？我之前有用过bingocard来充值成功过openrouter
+
+青壮年狗哥(wxid_24tlj7t6c34k12) 07-14 14:49:51
+也是因为之前wildcard老失败，后面找的替代品
+
+🥷🏿 发呆.(wxid_767zp9hgv7b922) 07-14 15:15:14
+分享个羊毛
+赶紧撸起来，不能使用anyrouter的这个看着像是换皮的，注册也是送150刀，试试吧。 反正今天any也用不了
+https://code.wenwen-ai.com/register?aff=yHmz
+
+小陈老师(wxid_1f5f4iwhhiqc22) 07-14 15:17:03
+今天any为啥不能用
+
+SuperEric(janetchristmas) 07-14 15:26:06
+据说是被攻击了
+
+🥷🏿 发呆.(wxid_767zp9hgv7b922) 07-14 15:27:13
+![图片](http://127.0.0.1:5030/image/701970712d0d3fe033a57c0cb8ba1c32)
+
+🥷🏿 发呆.(wxid_767zp9hgv7b922) 07-14 15:27:16
+一直被攻击
+
+rain(wxid_9302913028612) 07-14 15:39:26
+我给网站创建了一个disord社群进来了第一个用户
+
+🥷🏿 发呆.(wxid_767zp9hgv7b922) 07-14 15:39:46
+> 明道(wxid_9302913028612) 07-14 15:39:26
+> 我给网站创建了一个disord社群进来了第一个用户
+恭喜啊
+
+卫斯理🤍(wxid_cap2car89b7811) 07-14 15:40:42
+> 明道(wxid_9302913028612) 07-14 15:39:26
+> 我给网站创建了一个disord社群进来了第一个用户
+牛逼呀，赶紧叫他付费
+
+无极(wxid_wdl7p3msdupm22) 07-14 15:42:25
+> 卫斯理🤍广州(wxid_cap2car89b7811) 07-14 15:40:42
+> > 明道(wxid_9302913028612) 07-14 15:39:26
+> > 我给网站创建了一个disord社群进来了第一个用户
+> 牛逼呀，赶紧叫他付费
+[旺柴]来了就现杀  是把
+
+rain(wxid_9302913028612) 07-14 15:42:55
+得学学怎么搞私域
+
+rain(wxid_9302913028612) 07-14 15:43:30
+如果积累了一波思域后面冷启动也好做了
+
+无极(wxid_wdl7p3msdupm22) 07-14 15:45:40
+如果做的是同一批的人群生意   这样应该是ok
+
+极客信条(kongfulive) 07-14 16:05:46
+你们有给自己写一个多网站管理工具吗？可以在本地直接监控名下各个网站的运行情况。并带警报和干预功能的那种
+
+极客信条(kongfulive) 07-14 16:06:14
+堡塔的多堡好像操作不来的样子
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-14 16:10:06
+嚯，你这上了多少个
+
+宁王（加油！）(wxid_5182881829312) 07-14 16:13:03
+#举手 
+
+
+宁王（加油！）(wxid_5182881829312) 07-14 16:13:03
+我在git base里面执行了脚本命令，也输入了kimi的api key，也出了成功提醒。      但是再去cursor里面用“claude”命令时候，又要api key，但是此时输入kimi那个api key，提示无效。      是不是缺了啥步骤？【补充，Windows系统，】
+
+宁王（加油！）(wxid_5182881829312) 07-14 16:13:03
+![图片](http://127.0.0.1:5030/image/7553ce14035e0b4acb84423e2fc171b9)
+
+半尘(muling12) 07-14 16:15:38
+> 极客信条-厦门(kongfulive) 07-14 16:05:46
+> 你们有给自己写一个多网站管理工具吗？可以在本地直接监控名下各个网站的运行情况。并带警报和干预功能的那种
+uptime-kuma 可以试试这个
+
+Mrdao(wxid_iuzpacxzx0dy22) 07-14 16:31:46
+@宁王（加油！） 要全局配置
+
+极客信条(kongfulive) 07-14 16:33:19
+> 半尘(muling12) 07-14 16:15:38
+> > [引用]
+> uptime-kuma 可以试试这个
+好，谢谢
+
+宁王（加油！）(wxid_5182881829312) 07-14 16:43:54
+我测试了下，应该是已经全局安装了的，前面这一步有-g：
+npm install -g @anthropic-ai/claude-code
+
+是不是配置api key的时候  也要加什么参数，来实现全局配置？
+
+宁王（加油！）(wxid_5182881829312) 07-14 16:43:54
+@Mrdao 
+
+宁王（加油！）(wxid_5182881829312) 07-14 16:43:54
+![图片](http://127.0.0.1:5030/image/bad5ed42c8eae63919efb5a9e297e4ba)
+
+Mrdao(wxid_iuzpacxzx0dy22) 07-14 16:52:54
+![图片](http://127.0.0.1:5030/image/0eb0ad11b2578be1a5dd4e2b6a697435)
+
+Mrdao(wxid_iuzpacxzx0dy22) 07-14 16:53:23
+这个地址要跟key一起配置进去
+
+Mrdao(wxid_iuzpacxzx0dy22) 07-14 16:55:10
+你可以先截图问问ai，找到根本问题
+
+江坤(wxid_x8f52rye1agm21) 07-14 17:02:36
+[链接|重磅更新，ClaudeCode 原生支持 Windows，手把手教你安装，且顺便用上Kimi K2](https://mp.weixin.qq.com/s?__biz=MzI1MjU1MjU0NA==&mid=2247490824&idx=1&sn=18e53a0c47d46d76a9fc4eec793ede2a&chksm=e8e01fbf7d0b95cf96b9bb4695e4f4d877c87f29dd27ab5188c8e4863b239b639b0473ce1a60&mpshare=1&scene=1&srcid=0714AVnZ2hGNRvComsH8TGBv&sharer_shareinfo=cc53983da1540ad4ee88faacc7950315&sharer_shareinfo_first=cc53983da1540ad4ee88faacc7950315#rd)
+
+江坤(wxid_x8f52rye1agm21) 07-14 17:02:44
+@宁王（加油！） 
+
+和平 hepingfly(wxid_nhiimgfgcitu21) 07-14 17:07:15
+![图片](http://127.0.0.1:5030/image/a78fc3d28cf9bd1544315d9dfbcaf721)
+
+和平 hepingfly(wxid_nhiimgfgcitu21) 07-14 17:07:51
+kimi 的充值金额与速率限制表
+
+超然同学(wxid_lgfk7wufz9b651) 07-14 17:08:05
+> 江坤(wxid_x8f52rye1agm21) 07-14 17:02:36
+> [链接|重磅更新，ClaudeCode 原生支持 Windows，手把手教你安装，且顺便用上Kimi K2](https://mp.weixin.qq.com/s?__biz=MzI1MjU1MjU0NA==&mid=2247490824&idx=1&sn=18e53a0c47d46d76a9fc4eec793ede2a&chksm=e8e01fbf7d0b95cf96b9bb4695e4f4d877c87f29dd27ab5188c8e4863b239b639b0473ce1a60&mpshare=1&scene=1&srcid=0714AVnZ2hGNRvComsH8TGBv&sharer_shareinfo=cc53983da1540ad4ee88faacc7950315&sharer_shareinfo_first=cc53983da1540ad4ee88faacc7950315#rd)
+哟！
+
+刘小排(liuxiaopai) 07-14 17:08:41
+> 和平 hepingfly(wxid_nhiimgfgcitu21) 07-14 17:07:15
+> ![图片](http://127.0.0.1:5030/image/a78fc3d28cf9bd1544315d9dfbcaf721)
+难怪我觉得速度还行，我充了500[破涕为笑]
+
+冯小夏(adongdonggua) 07-14 17:09:19
+财大气粗
+
+冯小夏(adongdonggua) 07-14 17:09:21
+哈哈哈
+
+哩厘锂力(zizhazhu) 07-14 17:10:20
+tier1给k2的tpm临时加倍了
+
+刘小排(liuxiaopai) 07-14 17:10:34
+有条件用原版CC的，还是用原版更好哈。
+没有条件用原版CC，再用Kimi K2
+
+刘小排(liuxiaopai) 07-14 17:10:42
+还是挺不错的。比deepseek强多了。
+
+哩厘锂力(zizhazhu) 07-14 17:10:49
+我第一天用不停地报tpm的错，第二天加倍后就没问题了
+
+🥷🏿 发呆.(wxid_767zp9hgv7b922) 07-14 17:11:12
+> 刘小排(liuxiaopai) 07-14 17:08:41
+> > [引用]
+> 难怪我觉得速度还行，我充了500[破涕为笑]
+还是得多花钱才行啊
+
+小陈老师(wxid_1f5f4iwhhiqc22) 07-14 17:24:26
+现在用cc＋k2是不是能解决绝大多数场景了，cursor 是不是差不多要可以放弃了[旺柴][旺柴]
+
+9+9(wxid_yg2970qcx56t22) 07-14 17:25:09
+@江坤 请问这种显示网络问题应该怎么解决呢
+
+9+9(wxid_yg2970qcx56t22) 07-14 17:25:14
+![图片](http://127.0.0.1:5030/image/8047ca03f2067fe9dd933bb2a774ca45)
+
+9+9(wxid_yg2970qcx56t22) 07-14 17:25:48
+前几天买的新加坡服务器部署的
+
+李明进(mikipku) 07-14 17:25:59
+线框稿生成ui稿，或者说ui稿美化，除了https://stitch.withgoogle.com/，大家还有推荐的么？
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-14 17:26:33
+Min max新出的那个感觉也不错
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-14 17:26:41
+还能出插画
+
+落尘(wxid_2d9fw2ta1t9n22) 07-14 17:26:57
+k2有什么使用教程吗
+
+🥷🏿 发呆.(wxid_767zp9hgv7b922) 07-14 17:27:52
+看看小排老师的公众号文章
+
+江坤(wxid_x8f52rye1agm21) 07-14 17:42:15
+> 大鹏(wxid_yg2970qcx56t22) 07-14 17:25:09
+> @江坤 请问这种显示网络问题应该怎么解决呢
+我是部署了K2，没有使用官方Claude
+
+Daniel(liaozhichao504125) 07-14 18:13:58
+请教一个问题，网站的support@域名邮箱你们一般是如何创建的？
+
+刘小排(liuxiaopai) 07-14 18:14:24
+我是用cloudflare的email routing
+
+刘小排(liuxiaopai) 07-14 18:14:27
+这个最简单
+
+Daniel(liaozhichao504125) 07-14 18:15:09
+感谢小排老师，我去研究一下。
+
+郑坚🚣🏻 Jones🏂(airexpresszj) 07-14 18:19:05
+[链接|用一个Gmail免费管理100个免费企业邮箱](https://mp.weixin.qq.com/s?__biz=Mzg3MzU2MjU4MQ==&mid=2247485216&idx=1&sn=ef6c191233603853c69d2a13dee392ef&chksm=cfbb27e35d8dc1557582ad8bd6035e886c3aeaf159a13788820562bb4ba9898b8a808305fa53&mpshare=1&scene=1&srcid=03081DXtGFdlylYsPe8Htysm&sharer_shareinfo=11fcf743c919acc11cb8a13003dfb105&sharer_shareinfo_first=bcdeaeea8021e8ebbb21c45a14cbadbc#rd)
+
+郑坚🚣🏻 Jones🏂(airexpresszj) 07-14 18:19:15
+@Daniel 这个流程照抄
+
+Daniel(liaozhichao504125) 07-14 18:21:13
+[抱拳]
+
+张圣兰(zhangshenglan9033) 07-14 18:27:02
+我发现Kimi K2还是有点贵啊，我写了一下午，用了差不多 20 块，我买的 claude code 的代理，平均一天大概也是 20 多块
+
+星城祝大家2025健康快乐(yowsss) 07-14 18:28:30
+为什么有些需要SUPABASE_SERVICE ROLE KEY ，有些不需要？作用是什么？还有一些还需要DATABASE URL，这个又是什么。问了03，感觉还是不太懂[捂脸]
+
+星城祝大家2025健康快乐(yowsss) 07-14 18:28:31
+![图片](http://127.0.0.1:5030/image/f53ac1a6aef737831e943f042023e147)
+
+一夕(phil7028) 07-14 18:35:18
+> 星城祝大家2025健康快乐(yowsss) 07-14 18:28:30
+> 为什么有些需要SUPABASE_SERVICE ROLE KEY ，有些不需要？作用是什么？还有一些还需要DATABASE URL，这个又是什么。问了03，感觉还是不太懂[捂脸]
+昨天有个删除用户需要，估计是数据操作权限有分级
+
+一夕(phil7028) 07-14 18:35:41
+危险操作用
+
+天青色等烟雨(wxid_vwoqk3aok14122) 07-14 18:35:53
+有些你就留着就行，不用管，常用的key就一个
+
+天青色等烟雨(wxid_vwoqk3aok14122) 07-14 18:36:11
+等到你后续需要更高级的权限操作时，就能用到其他的key了 
+
+星城祝大家2025健康快乐(yowsss) 07-14 18:39:49
+那我能不能任何项目，都把他们填上去
+
+星城祝大家2025健康快乐(yowsss) 07-14 18:39:49
+然后ai根据我的需求，他自己选择调用什么
+
+天青色等烟雨(wxid_vwoqk3aok14122) 07-14 18:44:15
+最好不要，如果有需要它会找你要。
+
+星城祝大家2025健康快乐(yowsss) 07-14 18:45:15
+有道理
+
+天青色等烟雨(wxid_vwoqk3aok14122) 07-14 18:45:20
+有时候它万一调用高级权限改了你的supabase数据库或者数据表，如果没备份的话，你连哭都没地方哭
+
+天青色等烟雨(wxid_vwoqk3aok14122) 07-14 18:45:48
+现在的AI有不可控性，这个咱们得认
+
+李明进(mikipku) 07-14 18:52:13
+有海友今天遇到bolt.new的WebContainer took longer than 30 s to boot报错吗
+
+宁王（加油！）(wxid_5182881829312) 07-14 18:54:39
+@Mrdao @阿坤 kun 谢谢，我刚研究了一阵子，打算先放一放了，奇了怪了，没法把替换kimi的api key这一步搞定。
+
+江坤(wxid_x8f52rye1agm21) 07-14 18:56:14
+要找到包含key的JSON文件，然后修改内容就可以了。
+
+百威(wxid_aaxezeq72q0321) 07-14 20:52:35
+wildcard回复了
+
+SuperEric(janetchristmas) 07-14 21:44:36
+野卡官网可以打开了，只是不能提现

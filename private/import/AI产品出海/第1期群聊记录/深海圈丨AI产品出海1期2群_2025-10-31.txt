@@ -1,0 +1,43 @@
+我 10-31 10:43:59
+"Cristal Wu" 撤回了一条消息
+
+JsonChao（晚10点睡觉）(wxid_txyrbyqpqhcc22) 10-31 13:48:50
+#举手 各位大佬，我有个疑问：如果用户订阅了年费套餐，creem每月积分重置的操作是怎么样实现的呢？
+
+刘小排(liuxiaopai) 10-31 13:54:14
+自己实现cron调用你自己的webhook
+
+JsonChao（晚10点睡觉）(wxid_txyrbyqpqhcc22) 10-31 13:59:26
+> 刘小排(liuxiaopai) 10-31 13:54:14
+> 自己实现cron调用你自己的webhook
+可以一次性给1年的积分，然后这些积分的过期时间都设置为1年后吗？
+
+刘小排(liuxiaopai) 10-31 13:59:36
+也有这种做法，不是主流。
+
+JsonChao（晚10点睡觉）(wxid_txyrbyqpqhcc22) 10-31 14:01:25
+好的👌
+
+刘小排(liuxiaopai) 10-31 17:09:31
+这玩意竟然是免费的，吹爆。不比opus 4.1差。国产模型第一次达到这个水平。 大家可以试试
+
+刘小排(liuxiaopai) 10-31 17:09:31
+[链接|编程能力达到Claude Opus 4.1级的国产模型出现了，限时免费。](https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247499378&idx=1&sn=a59c70a80c5d4cefb2a3760b7cbcbc18&chksm=e8c67947dace79e4558f6c864b81c48f24c077f0de2c0a77d61f19232cdeb7c460c525f157ef&mpshare=1&scene=1&srcid=10312N1YQcTBoy3tHzYmqQoU&sharer_shareinfo=3255e37bf15ea2c22ca75568271c627f&sharer_shareinfo_first=3255e37bf15ea2c22ca75568271c627f#rd)
+
+顾影(chenyuanzi2397) 10-31 17:19:13
+"${chenyuanzi2397}" 拍了拍 "${wxid_txyrbyqpqhcc22}" 成为日入万刀的男人
+
+路飞(wxid_ew99ir7f4ku321) 10-31 17:20:46
+各自出方案，互相打分，很好玩的样子，哈哈哈，今晚玩一下M2[呲牙]
+
+刘小排(liuxiaopai) 10-31 17:21:07
+有条件还是用codex/cc原版哈。
+
+刘小排(liuxiaopai) 10-31 17:21:12
+最近国产在发力
+
+刘小排(liuxiaopai) 10-31 17:21:25
+但是咱们作为生产者，本着节省自己时间的原则，只要有条件，就用最强的
+
+路飞(wxid_ew99ir7f4ku321) 10-31 17:23:46
+[动画表情]

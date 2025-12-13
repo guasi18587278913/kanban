@@ -1,0 +1,69 @@
+{
+  "header": {
+    "brand": {
+      "title": "社群运营看板",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "社群运营看板"
+      },
+      "url": "/community"
+    },
+    "show_trigger": false
+  },
+  "main_navs": [
+    {
+      "title": "业务",
+      "items": [
+        {
+          "title": "社群看板",
+          "url": "/community",
+          "icon": "LayoutDashboard"
+        },
+        {
+          "title": "AI产品出海",
+          "url": "/community/yesterday-ai",
+          "icon": "Activity"
+        },
+        {
+          "title": "YouTube AI",
+          "url": "/community/yesterday-youtube",
+          "icon": "Youtube"
+        },
+        {
+          "title": "B站好物",
+          "url": "/community/yesterday-bilibili",
+          "icon": "Tv"
+        },
+        {
+          "title": "数据导入",
+          "url": "/community/import",
+          "icon": "Upload"
+        },
+        {
+          "title": "日报明细",
+          "url": "/community/reports",
+          "icon": "FileText"
+        }
+      ]
+    }
+  ],
+  "bottom_nav": {
+    "items": []
+  },
+  "user": {
+    "nav": {
+      "items": []
+    },
+    "show_email": false,
+    "show_signout": false,
+    "signout_callback": "/"
+  },
+  "footer": {
+    "nav": {
+      "items": []
+    },
+    "show_theme": true,
+    "show_locale": false
+  },
+  "variant": "sidebar"
+}

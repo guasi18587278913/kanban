@@ -1,0 +1,1651 @@
+吴海晖®(wxid_78jyonoq7hyk22) 05-31 00:02:40
+SuperEric(janetchristmas) 05-31 00:05:24
+WINDOWS打开CURSOR没反应，试了下载系统管理员版，还是一样
+
+吕鑫(bladelv1213) 05-31 00:10:18
+结合bolt原型和cursor打磨，做了一个成为动画主角的网站，https://animate-your-world.vercel.app/  可以上传人物图片，根据人物图片生成动画图片，再通过动画图片生成视频。由于图片直接转图片效果会丢失细节和信息有误，又增加了调用描述图片的api，在生图时补充细节信息，现在比较稳定；通过动画图片生成视频的部分试了一些模型，时间过长或者效果失真，不够稳定，还在尝试不同模型
+
+皎洁的月牙(wxid_46nhfqp1hnd822) 05-31 01:05:21
+![图片](http://127.0.0.1:5030/image/9f045db6abf885dfa4a3baab84e58893)
+
+皎洁的月牙(wxid_46nhfqp1hnd822) 05-31 01:06:48
+@小明-助教 教练帮忙看下，为啥一直提示超时，我是有一个页面有两处调大模型，一个可以正常反馈，一个就超时
+
+大兵(iceriver315) 05-31 01:08:24
+自拍妆容分析，www.rongmuse.com，欢迎评价
+
+刘小排(liuxiaopai) 05-31 01:14:28
+？
+
+刘小排(liuxiaopai) 05-31 01:14:40
+男生做的自拍妆容分析？[发呆]
+
+萌面侠(ckyief) 05-31 01:15:16
+[破涕为笑]容摩摩
+
+小明(wxid_at9px5nf07qm22) 05-31 01:15:17
+> 皎洁的月牙(wxid_46nhfqp1hnd822) 05-31 01:06:48
+> @小明-助教 教练帮忙看下，为啥一直提示超时，我是有一个页面有两处调大模型，一个可以正常反馈，一个就超时
+首先两处调用的模型，是否是同一个模型和 key
+
+如果是，和 cursor 说，超时部分对于模型的调用存在问题，参考调用方法（贴调用模型的代码+api 文档的网址链接），并说明第一处调用成功，第二处调用失败
+
+如果不是，确定第二处模型调用的代码格式和文档是否给出（与上一种情况贴给 cursor 的信息同理）
+
+刘小排(liuxiaopai) 05-31 01:15:58
+![图片](http://127.0.0.1:5030/image/1a7d3cdb8dfcdc2b53b7e384551819c3)
+
+小明(wxid_at9px5nf07qm22) 05-31 01:16:08
+如果 cursor 用 Claude4.0-sonnet 改不了，就不是现阶段你能做的了
+
+刘小排(liuxiaopai) 05-31 01:16:17
+手机里随便一个照片有大于5M
+
+萌面侠(ckyief) 05-31 01:19:10
+> 小山羊(bladelv1213) 05-31 00:10:18
+> 结合bolt原型和cursor打磨，做了一个成为动画主角的网站，https://animate-your-world.vercel.app/  可以上传人物图片，根据人物图片生成动画图片，再通过动画图片生成视频。由于图片直接转图片效果会丢失细节和信息有误，又增加了调用描述图片的api，在生图时补充细节信息，现在比较稳定；通过动画图片生成视频的部分试了一些模型，时间过长或者效果失真，不够稳定，还在尝试不同模型
+视频好像生成失败了 没有提示 也没有重新生成的按钮
+
+萌面侠(ckyief) 05-31 01:19:10
+![图片](http://127.0.0.1:5030/image/e06033f1e3309e9aee7268ac5c3fe491)
+
+大兵(iceriver315) 05-31 01:22:46
+嗯嗯，我调整一下
+
+大兵(iceriver315) 05-31 01:24:39
+感谢感谢
+
+笑笑生(wxid_cv8ni72fmu9012) 05-31 01:27:24
+> 大兵(iceriver315) 05-31 01:08:24
+> 自拍妆容分析，www.rongmuse.com，欢迎评价
+我的自拍得了 0.7 分😂
+
+刘小排(liuxiaopai) 05-31 01:29:52
+满分是100分？@笑笑生 
+
+笑笑生(wxid_cv8ni72fmu9012) 05-31 01:31:10
+满分 10。上传了刘亦菲的拿了 8 分，还可以 hh
+
+刘小排(liuxiaopai) 05-31 01:35:47
+满分10分，而你是0.7分[发呆]
+
+A梦 (知牧)(mrleoxu) 05-31 02:13:21
+分享一个Bug引发的“血案”，跟AI调试一个bug差不多快一天时间，我让 AI 深度总结反思了一回
+
+A梦 (知牧)(mrleoxu) 05-31 02:13:23
+![图片](http://127.0.0.1:5030/image/62e6a64579a1d4016cc369387540c421)
+
+A梦 (知牧)(mrleoxu) 05-31 02:13:40
+完整版（内容有点长）：https://www.amengshare.com/DebugTogether/
+
+皎洁的月牙(wxid_46nhfqp1hnd822) 05-31 07:13:24
+@小明-助教 问题解决了，非常感谢[握手]
+
+roderickོ(wxid_vc3bimw9zofj21) 05-31 07:43:43
+> 大兵(iceriver315) 05-31 01:08:24
+> 自拍妆容分析，www.rongmuse.com，欢迎评价
+是不是只能女生用？还是把我识别成女的了[破涕为笑]
+
+roderickོ(wxid_vc3bimw9zofj21) 05-31 07:43:53
+![图片](http://127.0.0.1:5030/image/5649741634fdeb35c3e6de7aacbe6103)
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-31 07:56:10
+#举手 请问cursor 这里一直显示更新中，这是什么情况，昨晚就提交了。这个更新中应该也是导致vercel无法部署的原因吧
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-31 07:56:10
+![图片](http://127.0.0.1:5030/image/911af22d5637a7938f7799a85f6fcb61)
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-31 08:17:59
+搞定了已经，git reset --soft HEAD~1   用这个命令取消提交。重新提交就可以了
+
+大兵(iceriver315) 05-31 08:21:14
+@roderickོ [捂脸]，提示词里面没有考虑男生
+
+天青色等烟雨(wxid_vwoqk3aok14122) 05-31 08:33:18
+一个建议，你可以先调glm4 vision 模型的API做性别逻辑判断，然后再引入到当前的逻辑。
+
+不然，男的使用都会出现这种情况[捂脸]
+
+天青色等烟雨(wxid_vwoqk3aok14122) 05-31 08:33:25
+"${wxid_vwoqk3aok14122}" 拍了拍 "${iceriver315}"
+
+WILL（X-lab）(wxid_7l0prsxunh0022) 05-31 10:11:49
+You are an expert full-stack web developer focused on producing clear, readable Next.js code.
+
+    You always use the latest stable versions of Next.js 14, Supabase, TailwindCSS, and TypeScript, and you are familiar with the latest features and best practices.
+    
+    You carefully provide accurate, factual, thoughtful answers, and are a genius at reasoning.
+    
+    Technical preferences:
+    
+    - Always use kebab-case for component names (e.g. my-component.tsx)
+    - Favour using React Server Components and Next.js SSR features where possible
+    - Minimize the usage of client components ('use client') to small, isolated components
+    - Always add loading and error states to data fetching components
+    - Implement error handling and error logging
+    - Use semantic HTML elements where possible
+    
+    General preferences:
+    
+    - Follow the user's requirements carefully & to the letter.
+    - Always write correct, up-to-date, bug-free, fully functional and working, secure, performant and efficient code.
+    - Focus on readability over being performant.
+    - Fully implement all requested functionality.
+    - Leave NO todo's, placeholders or missing pieces in the code.
+    - Be sure to reference file names.
+    - Be concise. Minimize any other prose.
+    - If you think there might not be a correct answer, you say so. If you do not know the answer, say so instead of guessing.
+
+WILL（X-lab）(wxid_7l0prsxunh0022) 05-31 10:12:34
+> WILL(wxid_7l0prsxunh0022) 05-31 10:11:48
+> You are an expert full-stack web developer focused on producing clear, readable Next.js code.
+>     You always use the latest stable versions of Next.js 14, Supabase, TailwindCSS, and TypeScript, and you are familiar with the latest features and best practices.
+>     
+>     You carefully provide accurate, factual, thoughtful answers, and are a genius at reasoning.
+>     
+>     Technical preferences:
+>     
+>     - Always use kebab-case for component names (e.g. my-component.tsx)
+>     - Favour using React Server Components and Next.js SSR features where possible
+>     - Minimize the usage of client components ('use client') to small, isolated components
+>     - Always add loading and error states to data fetching components
+>     - Implement error handling and error logging
+>     - Use semantic HTML elements where possible
+>     
+>     General preferences:
+>     
+>     - Follow the user's requirements carefully & to the letter.
+>     - Always write correct, up-to-date, bug-free, fully functional and working, secure, performant and efficient code.
+>     - Focus on readability over being performant.
+>     - Fully implement all requested functionality.
+>     - Leave NO todo's, placeholders or missing pieces in the code.
+>     - Be sure to reference file names.
+>     - Be concise. Minimize any other prose.
+>     - If you think there might not be a correct answer, you say so. If you do not know the answer, say so instead of guessing.
+npx cursor-directory rules add nextjs-typescript-tailwindcss-supabase-cursor-rules
+
+Chipen Yip(nihaijidewoma001) 05-31 11:12:07
+超了500快速后，你们有没有出现claude 3.7没法用的情况，从昨天下午到现在了，以前慢速时候都是可以用的。
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-31 11:16:13
+我这边只看到3.5和4.0没看到3.7
+
+黑帽子（私人号）(wxid_9qubnyq1piml12) 05-31 11:16:41
+可以试试新建一个chat 
+
+黑帽子（私人号）(wxid_9qubnyq1piml12) 05-31 11:16:56
+有时候对话次数多了，确实很慢，快速也是一样
+
+Chipen Yip(nihaijidewoma001) 05-31 11:17:15
+![图片](http://127.0.0.1:5030/image/e20f0575b46e9c1990675c9a7594e96f)
+
+萌面侠(ckyief) 05-31 11:17:31
+> Chipen Yip(nihaijidewoma001) 05-31 11:12:07
+> 超了500快速后，你们有没有出现claude 3.7没法用的情况，从昨天下午到现在了，以前慢速时候都是可以用的。
+我这里没有问题
+
+Chipen Yip(nihaijidewoma001) 05-31 11:20:02
+> 黑帽子（私人号）(wxid_9qubnyq1piml12) 05-31 11:16:56
+> 有时候对话次数多了，确实很慢，快速也是一样
+嗯试过了，不是对话次数问题，还换了一台电脑和代理线路，现在是gemini勉强用着，以前3.7都没问题的，3.5效果比较一般就不大想用。现在3.7使用，就会卡在Generating...，卡久了就自动取消任务，周而复始。
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 12:44:36
+ask模式用geminiflash2.5
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 12:44:58
+然后agent的一次性调用的内容多一点，一次解决多个问题
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 12:45:07
+我高强度使用这么久才用了200多次
+
+卫斯理🤍(wxid_cap2car89b7811) 05-31 12:47:05
+我是海鲜市场9.9弄了个无限续费，好像挺好用，3.7克劳得随便用，30个号一个号可以用50次[破涕为笑]
+
+卫斯理🤍(wxid_cap2car89b7811) 05-31 12:47:31
+> 卫斯理🤍广州(wxid_cap2car89b7811) 05-31 12:47:05
+> 我是海鲜市场9.9弄了个无限续费，好像挺好用，3.7克劳得随便用，30个号一个号可以用50次[破涕为笑]
+无限续杯自动换帐号
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 12:49:04
+我之前也那么搞，现在续费了
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 12:49:13
+懒得烦[破涕为笑]
+
+卫斯理🤍(wxid_cap2car89b7811) 05-31 12:51:26
+我之前白嫖三个月pro会员的好像用不了
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 12:53:29
+它会降智
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 12:53:33
+而且调用能力极差
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 12:53:58
+claude3.5感觉就跟gpt3.5一样蠢
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 12:54:04
+还封ip
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 12:54:07
+[破涕为笑]
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 12:54:14
+我选择交保护费
+
+人生提词器(zjhoscar) 05-31 12:56:11
+过去这两天，每天到4点多5点睡觉，现在都还没弄好第三课的作业
+
+人生提词器(zjhoscar) 05-31 12:56:20
+[动画表情]
+
+卫斯理🤍(wxid_cap2car89b7811) 05-31 12:57:29
+> 云墩(zjhoscar) 05-31 12:56:11
+> 过去这两天，每天到4点多5点睡觉，现在都还没弄好第三课的作业
+加油，坚持就是胜利，革命的路还很长
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 12:57:32
+战术上要懒惰一些，战略上勤快。多问AI，多补基础，
+
+人生提词器(zjhoscar) 05-31 13:02:51
+但是很爽的是，我感觉，纯看结果上确实还没怎么动，但还是实际上进步了很多，之前做完第一课的吵架把东西想太简单了，总想一步到位，打几个中文字就能出结果。现在自从慢下来，学会了很多：比如不要一次给太多需求改太多代码，一步一步和AI沟通只改一小段，哪怕是一个API都太多了，甚至是一个API中的调某个参数都要反复测试和修改BUG，怎么把浏览器console和终端的错误发给他让他分析等等
+
+人生提词器(zjhoscar) 05-31 13:03:18
+虽然这些东西对于有编程经历的大佬们来说肯定不算什么，但是对于小白来说可以说有点入门的意思了
+
+人生提词器(zjhoscar) 05-31 13:07:30
+相信很多人都和我一样，但是大伙不要看到群里大佬优秀的结果就退缩，要和自己比，就像去健身房看到肌肉大佬不能比，就做自己的，对比自己进步就行了，这是我的想法。[捂脸]
+
+人生提词器(zjhoscar) 05-31 13:07:48
+现在不敢看大佬们的作品了，就干自己的[捂脸]
+
+人生提词器(zjhoscar) 05-31 13:08:29
+但是一些能提高效率的方法，和一些避坑这些方法，还是要看
+
+小李F刀(wxid_cgr2mr7ea63l22) 05-31 13:12:17
+"${wxid_cgr2mr7ea63l22}" 拍了拍 "${zjhoscar}" 的猪猪头
+
+人生提词器(zjhoscar) 05-31 13:13:40
+大佬可以不用看我的话，因为肯定经历过了也进化了已经是完全体或者究极体了，如果一样是幼年期或者成长期可以看看[捂脸]
+
+江坤(wxid_x8f52rye1agm21) 05-31 13:19:57
+> 云墩(zjhoscar) 05-31 12:56:11
+> 过去这两天，每天到4点多5点睡觉，现在都还没弄好第三课的作业
+我被一个不能自动部署卡了一天，最后直接注销重来的。对于大佬来说可能是小问题，但对于小白来说每一次的卡点就像翻山一样，翻过这座，下一座又在眼前，干就完了
+
+人生提词器(zjhoscar) 05-31 13:23:14
+原来都一样啊[捂脸]
+
+人生提词器(zjhoscar) 05-31 13:23:24
+各有各自的问题，哈哈哈
+
+人生提词器(zjhoscar) 05-31 13:23:51
+等我出山你们这些大佬全完了，等着吧（吹牛不打草稿）
+
+安来团队（18640264499）(wxid_15zvhbiqzzbz22) 05-31 13:24:00
+我被不能部署卡了半个月[捂脸]
+
+人生提词器(zjhoscar) 05-31 13:25:02
+兄弟，你们要说这种话，我还没到部署那一步，我产品MVP都还没出来
+
+安来团队（18640264499）(wxid_15zvhbiqzzbz22) 05-31 13:25:09
+被不能解压到桌面，然后用cursor一打开部署就出现错误，这个，现在还在卡住[捂脸]
+
+安来团队（18640264499）(wxid_15zvhbiqzzbz22) 05-31 13:25:43
+@云墩 加油，目前我只能从语言上帮助你[捂脸]
+
+卫斯理🤍(wxid_cap2car89b7811) 05-31 13:29:26
+看到你们都和我一样菜我就放心了[偷笑]
+
+小耳朵(wxid_72hc6w5d4veg21) 05-31 13:34:19
+replicate 大伙一般 用什么卡绑定哇，海外1个visa卡没绑成功
+
+宁王（加油！）(wxid_5182881829312) 05-31 13:36:31
+> 小耳朵(wxid_72hc6w5d4veg21) 05-31 13:34:19
+> replicate 大伙一般 用什么卡绑定哇，海外1个visa卡没绑成功
+野卡可以，
+
+宁王（加油！）(wxid_5182881829312) 05-31 13:36:37
+"${wxid_5182881829312}" 拍了拍 "${wxid_72hc6w5d4veg21}"
+
+小耳朵(wxid_72hc6w5d4veg21) 05-31 13:36:54
+刚刚就在问[捂脸]
+
+小耳朵(wxid_72hc6w5d4veg21) 05-31 13:36:55
+![图片](http://127.0.0.1:5030/image/38bb2fe421c6ca04d09c77f869a7a211)
+
+小耳朵(wxid_72hc6w5d4veg21) 05-31 13:37:13
+> 宁王（加油！）(wxid_5182881829312) 05-31 13:36:31
+> > [引用]
+> 野卡可以，
+好嘞 谢谢圈友 那我开通个
+
+宁王（加油！）(wxid_5182881829312) 05-31 13:37:16
+我就是用的野卡，选其他
+
+小耳朵(wxid_72hc6w5d4veg21) 05-31 13:37:33
+[动画表情]
+
+宁王（加油！）(wxid_5182881829312) 05-31 13:38:48
+等等，我再去查查，我之前好像充的operation
+
+小耳朵(wxid_72hc6w5d4veg21) 05-31 13:39:08
+> 宁王（加油！）(wxid_5182881829312) 05-31 13:38:48
+> 等等，我再去查查，我之前好像充的operation
+好的 麻烦了
+
+宁王（加油！）(wxid_5182881829312) 05-31 13:41:22
+![图片](http://127.0.0.1:5030/image/951cbfa642ef95c7afee3eb3f738fef6)
+
+宁王（加油！）(wxid_5182881829312) 05-31 13:41:24
+可以
+
+小耳朵(wxid_72hc6w5d4veg21) 05-31 13:42:27
+👌感谢 这就去买野卡
+
+SuperEric(janetchristmas) 05-31 13:42:35
+@云墩 兄弟你进度算快了，我的CURSOR在WINDOWS上还打不开[捂脸]，才完成了第一课
+
+人生提词器(zjhoscar) 05-31 13:43:42
+趁大佬们没冒泡小白们也说两句话让小白们增强点信心，不然都要坚持不下去了
+
+人生提词器(zjhoscar) 05-31 13:44:05
+群里全是大佬的信息都不敢吱声
+
+人生提词器(zjhoscar) 05-31 13:44:23
+[动画表情]
+
+李江(apexlj) 05-31 13:59:12
+慢慢打磨，学习为主，必须踩的坑早点踩也是收获
+
+朝云(Underground_) 05-31 14:06:01
+我也是卡了三四天，本来是抢跑结果才搞完第三课提交，还有我想了办法但是始终无法解决的问题就打算先不死磕了。后来慢慢开始看代码也开始能看懂一点他的意思，以及发现之前写得非常冗杂且无用的代码都一一删掉，算是一点进步。我现在基本都和gpt沟通帮我debug，比cursor聪明一些。卡住的时候就去搞点别的事情松松脑子再回来，之前的问题又会有新思路！
+
+百威(wxid_aaxezeq72q0321) 05-31 14:12:22
+> SuperEric(janetchristmas) 05-31 13:42:35
+> @云墩 兄弟你进度算快了，我的CURSOR在WINDOWS上还打不开[捂脸]，才完成了第一课
+买个macbook把，我也是win，之前用win一直卡
+
+百威(wxid_aaxezeq72q0321) 05-31 14:12:36
+上周买了macbook顺多了
+
+SuperEric(janetchristmas) 05-31 14:14:22
+@百威 MAC是买了一装就好用了，主要WIN用习惯了，屏幕又大，想不出门的时候还是用WIN主力机
+
+百威(wxid_aaxezeq72q0321) 05-31 14:15:39
+![图片](http://127.0.0.1:5030/image/3829fb9aec6c8857c5f97cc6115efb23)
+
+百威(wxid_aaxezeq72q0321) 05-31 14:15:50
+我现在都这样了[捂脸]
+
+SuperEric(janetchristmas) 05-31 14:16:28
+[社会社会]
+
+百威(wxid_aaxezeq72q0321) 05-31 14:16:31
+外接了n个显示器
+
+SuperEric(janetchristmas) 05-31 14:17:06
+双屏显示吗
+
+百威(wxid_aaxezeq72q0321) 05-31 14:17:34
+3屏 iPad也是链接电脑做了拓展的
+
+SuperEric(janetchristmas) 05-31 14:18:41
+好家伙
+
+SuperEric(janetchristmas) 05-31 14:23:13
+扩展坞你是用贝尔金的吗
+
+WILL（X-lab）(wxid_7l0prsxunh0022) 05-31 14:23:57
+![图片](http://127.0.0.1:5030/image/43aae4e15380fc86e2573c73a287971d)
+
+橙(wxid_5p4o1lcta13121) 05-31 14:24:16
+#分享，
+我发现这几天只用cursor咔咔咔的写代码，[呲牙]有些基本的规则要求都忘了告诉它了，特别是……
+他写代码大部分地方都没有注释，他修改的地方也不写注释，确保每次写代码都要写注释，这条要写到规则里面。
+
+WILL（X-lab）(wxid_7l0prsxunh0022) 05-31 14:24:17
+我这除了乱就是乱
+
+百威(wxid_aaxezeq72q0321) 05-31 14:24:26
+没用拓展坞，2024款macbookpro有三个usb够用了
+
+百威(wxid_aaxezeq72q0321) 05-31 14:27:45
+说错了 C口
+
+SuperEric(janetchristmas) 05-31 14:34:37
+我买的 air 还得搞个扩展坞
+
+朝云(Underground_) 05-31 14:40:36
+> 百威(wxid_aaxezeq72q0321) 05-31 14:15:39
+> ![图片](http://127.0.0.1:5030/image/3829fb9aec6c8857c5f97cc6115efb23)
+看着这张图，我也想把我ipad支棱起来了
+
+百威(wxid_aaxezeq72q0321) 05-31 14:50:43
+https://ai-beauty-rating-prank-tool.vercel.app/
+
+刚刚做了个恶搞的小玩具，大家可以体验一下，哈哈哈，祝群友们端午快乐
+
+刘小排(liuxiaopai) 05-31 14:51:30
+"${liuxiaopai}" 拍了拍 "${wxid_aaxezeq72q0321}" 但没拍到
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 05-31 15:00:44
+#举手  让cursor改东西，涉及到页面结构，改了十来遍都没改正确。这种情况一般怎么办呢？
+导出代码，新开程序，重新让corsor阅读修改吗？
+还是给gpt看一下。
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 15:01:11
+给gpt看一下
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 15:01:22
+让他教你怎么排查，然后你自己排查一下
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 05-31 15:01:34
+导出全部代码给gpt吗？
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 05-31 15:01:44
+导出部分代码，试过了，没啥用
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 15:01:52
+一般是把控制台的信息给出去
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 05-31 15:01:56
+cursor 学不会
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 15:01:58
+渲染的代码本身作用不大
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 05-31 15:02:00
+控制台没报错
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 15:02:14
+那就看一下页面结构
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 15:02:22
+控制台左边那个我忘了叫啥了
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 15:02:32
+console左边
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 05-31 15:03:02
+本身产品运营没问题，是优化页面结构，可能涉及改动的太多？没有改好
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 15:03:41
+一般是内生的js和js文件之间有冲突
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 15:03:48
+要进行二次声明
+
+橙(wxid_5p4o1lcta13121) 05-31 15:03:51
+休息一下，喝点水，先放放，我也遇到类似情况。有时间把所有能用的ai都问一遍也搞不定，
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 05-31 15:04:13
+> 智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 15:03:48
+> 要进行二次声明
+声明十来次了
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 05-31 15:04:21
+他说改好了，当实际上没有生效
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 05-31 15:04:25
+所以我想问问，这种情况是不是从头开始做比较好？
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 15:05:38
+我建议是先放放，不用重做
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 15:05:45
+等你后面学会调前端的时候去改就好了
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 15:05:50
+反正现在也不影响产品功能
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 05-31 15:05:59
+> 智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 15:02:32
+> console左边
+这个是吧
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 05-31 15:06:00
+![图片](http://127.0.0.1:5030/image/8dbc2085cd78a538fd7d67a8d41f7a9e)
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 05-31 15:06:06
+行
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 15:06:16
+声明的意思不是向ai声明，是你要在js里面去写代码
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 15:06:23
+对，就是这个叫element
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 15:06:34
+你要把这个细胞结构一直打开，开到你认为有问题的那个框上
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 15:06:39
+然后去调里面的参数
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 15:06:47
+这个要往后学，现在不着急
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 15:06:53
+> 小李哥(wxid_cejgi1lomjcl21) 05-31 15:00:44
+> #举手  让cursor改东西，涉及到页面结构，改了十来遍都没改正确。这种情况一般怎么办呢？
+> 导出代码，新开程序，重新让corsor阅读修改吗？
+> 还是给gpt看一下。
+1. 先让CURSOR通读项目告诉你页面结构和代码文件，你自己也要看一熟悉下 2. 截图错误的地方和错误代码和错误日志  3. 给出本质问题和所有可能解决方案    基本上这步骤可以解决所有问题
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 15:06:53
+就先放放
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 05-31 15:09:18
+好滴好滴~
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 05-31 15:09:23
+多谢二位
+
+SuperEric(janetchristmas) 05-31 15:20:31
+哈哈搞定 win 装 cursor 了，因为系统默认是系统管理员需要增加普通用户登录才行
+
+宋晓阳(songxy1990) 05-31 15:21:59
+#举手 看到日报里面某个大神做的这个网站（https://www.posterai.online/），想问下这个网站整体和主页中背景的特效也是用bolt/lovable/V0生成的吗？还是需要后面课程产品高端大气上档次部分会有说明。刚刚我自己试了下用bolt和lovable复刻这网站结果都差不少
+
+人生提词器(zjhoscar) 05-31 15:24:18
+我有时cursor卡住一个地方也是让它重读一边项目代码，就跟第一次导入项目一样，然后告诉他你一直这个地方报错联想一下是不是和项目的某个地方关联性错误？让它不要在局部死循环
+
+ZhuangWR(wxid_obrl5kqlr4z322) 05-31 15:39:38
+求Lovart.ai邀请码，有没有群友可以邀请下，感谢
+
+星吟(wxid_ivo4n28g15qj21) 05-31 15:41:53
+> 西顾(wxid_obrl5kqlr4z322) 05-31 15:39:38
+> 求Lovart.ai邀请码，有没有群友可以邀请下，感谢
+vZ4gYHw
+
+我 05-31 15:42:31
+"肥鱼" 撤回了一条消息
+
+光脚踢球(guangjiaotiqiu001) 05-31 15:42:46
+KPaku7n
+
+百威(wxid_aaxezeq72q0321) 05-31 15:42:52
+Lovart, the first design agent. 
+Visit https://www.lovart.ai, sign up and use code【VmgqtL7】to unlock your exclusive access.
+
+百威(wxid_aaxezeq72q0321) 05-31 15:42:57
+Lovart, the first design agent. 
+Visit https://www.lovart.ai, sign up and use code【SZAL4LY】to unlock your exclusive access.
+
+ZhuangWR(wxid_obrl5kqlr4z322) 05-31 15:44:21
+[动画表情]
+
+吕鑫(bladelv1213) 05-31 15:45:48
+Lovart, the first design agent. 
+Visit https://www.lovart.ai, sign up and use code【aXnRmCC】to unlock your exclusive access.
+
+王玮(wxid_94jbos68gn3b22) 05-31 15:50:35
+补发作业2：
+做个一个抖音视频的处理工具：
+https://www.aiheadshot.pics/
+可以抖音视频一键去水印下载、提取音频、提取文案、二次创作。
+邀请大家使用，给提点反馈哈[抱拳][抱拳]
+
+王玮(wxid_94jbos68gn3b22) 05-31 15:50:41
+![图片](http://127.0.0.1:5030/image/52a478ab0aef8f5e6d37d3d3cda54266)
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-31 15:53:49
+#举手 为什么提交推送了代码，vercel 没有自动部署呀。 跟着视频操作还 问cursor了几次，都说可以自动部署了，但是修改提交推送后，还是不行；  请指教下
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-31 15:53:49
+![图片](http://127.0.0.1:5030/image/e6c4bd75e43135b2b6d782f943799f65)
+
+机器猫(wxid_9942319422914) 05-31 16:13:10
+> 王玮(wxid_94jbos68gn3b22) 05-31 15:50:35
+> 补发作业2：
+> 做个一个抖音视频的处理工具：
+> https://www.aiheadshot.pics/
+> 可以抖音视频一键去水印下载、提取音频、提取文案、二次创作。
+> 邀请大家使用，给提点反馈哈[抱拳][抱拳]
+很好用诶，试用了一下音频提取报错了
+
+机器猫(wxid_9942319422914) 05-31 16:13:11
+![图片](http://127.0.0.1:5030/image/d6d62bbc2661f91b6d9cf51b843c69ab)
+
+王玮(wxid_94jbos68gn3b22) 05-31 16:17:30
+> 机器猫(wxid_9942319422914) 05-31 16:13:10
+> > [引用]
+> 很好用诶，试用了一下音频提取报错了
+我一会儿修复一下哈！
+
+王玮(wxid_94jbos68gn3b22) 05-31 16:19:06
+提交github的时候多删掉了一个空文件夹
+
+哩厘锂力(zizhazhu) 05-31 16:20:47
+> 云墩(zjhoscar) 05-31 13:02:51
+> 但是很爽的是，我感觉，纯看结果上确实还没怎么动，但还是实际上进步了很多，之前做完第一课的吵架把东西想太简单了，总想一步到位，打几个中文字就能出结果。现在自从慢下来，学会了很多：比如不要一次给太多需求改太多代码，一步一步和AI沟通只改一小段，哪怕是一个API都太多了，甚至是一个API中的调某个参数都要反复测试和修改BUG，怎么把浏览器console和终端的错误发给他让他分析等等
+我感觉你总结的这点非常重要
+
+哩厘锂力(zizhazhu) 05-31 16:21:24
+我一开始用也是想一次尽量多解决问题，毕竟请求用一次少一次。结果反而因为解决不掉浪费次数
+
+小陈老师(wxid_1f5f4iwhhiqc22) 05-31 16:23:45
+#提问 硅基流动这里要输入api key 那复制示例代码时给cursor 时 不是也会暴富自己的api key吗？
+
+小陈老师(wxid_1f5f4iwhhiqc22) 05-31 16:23:45
+![图片](http://127.0.0.1:5030/image/4cc2f7ae10a24983c433e887b9dd6fb3)
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 16:23:47
+> 吴海晖®-广州白云(wxid_78jyonoq7hyk22) 05-31 15:53:49
+> #举手 为什么提交推送了代码，vercel 没有自动部署呀。 跟着视频操作还 问cursor了几次，都说可以自动部署了，但是修改提交推送后，还是不行；  请指教下
+1. 可能是vercrl免费版本一天100次超限
+2. 可能是vercrl账号和github推送代码账号不一致
+3. 可能是有变量错误，自动部署失败不显示
+
+我都遇到过，需要注意排查
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 16:24:03
+> 深圳-小陈老师(wxid_1f5f4iwhhiqc22) 05-31 16:23:45
+> #提问 硅基流动这里要输入api key 那复制示例代码时给cursor 时 不是也会暴富自己的api key吗？
+理论上是这样，你可以自己手动粘贴
+
+吕鑫(bladelv1213) 05-31 16:24:31
+> 王玮(wxid_94jbos68gn3b22) 05-31 15:50:35
+> 补发作业2：
+> 做个一个抖音视频的处理工具：
+> https://www.aiheadshot.pics/
+> 可以抖音视频一键去水印下载、提取音频、提取文案、二次创作。
+> 邀请大家使用，给提点反馈哈[抱拳][抱拳]
+AI二次创作很好用，把几个步骤都串起来了，而且每一步完成后的提醒很清晰
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 16:24:49
+> 哩厘锂力(zizhazhu) 05-31 16:21:24
+> 我一开始用也是想一次尽量多解决问题，毕竟请求用一次少一次。结果反而因为解决不掉浪费次数
+请个程序员人工成本超贵，ai这点钱不用省，多问自己还能学很多
+
+小陈老师(wxid_1f5f4iwhhiqc22) 05-31 16:25:22
+在示例代码里能不能不要写api key 然后告诉它API KEY在.env里呢
+
+机器猫(wxid_9942319422914) 05-31 16:26:05
+> 百威(wxid_aaxezeq72q0321) 05-31 14:50:43
+> https://ai-beauty-rating-prank-tool.vercel.app/
+> 刚刚做了个恶搞的小玩具，大家可以体验一下，哈哈哈，祝群友们端午快乐
+97分给我夸嗨了[666]控制台好像可以看到硅基流动api key 在test.js里面可以隐藏一下
+
+胡#侃(wxid_g0x76rrcgovz22) 05-31 16:28:10
+教练好，一直显示running terminal command,已经有半个小时了，如果强行中止网址打不开，请问该怎么解决
+
+胡#侃(wxid_g0x76rrcgovz22) 05-31 16:28:15
+![图片](http://127.0.0.1:5030/image/84776ea5861631075fda5501a7468db0)
+
+光脚踢球(guangjiaotiqiu001) 05-31 16:28:26
+点进去
+
+光脚踢球(guangjiaotiqiu001) 05-31 16:28:33
+后面会让你输入y
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 16:31:08
+enter输入
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 16:31:31
+许多细节问题都可以问ai让他给全部方案多问几次就熟悉的
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 16:32:06
+![图片](http://127.0.0.1:5030/image/ae03bf0bcb24d07ee1be020e81d93499)
+
+胡#侃(wxid_g0x76rrcgovz22) 05-31 16:32:29
+好的感谢，我试试
+
+WILL（X-lab）(wxid_7l0prsxunh0022) 05-31 16:36:56
+50 个实用的 SaaS 创意，助您实现 1000 美元月经常性收入 (MRR)
+无论您是独立创始人还是小团队的一员，这些创意都专注于解决特定痛点、挖掘增长市场并顺应当前的技术趋势。
+
+不妨参考这份清单，验证、构建并发布您的下一个微型 SaaS 产品！
+
+适用于热门无代码应用（Airtable、Notion、Webflow 等）的双向数据同步工具
+
+基于 AI 的后端/API 构建器，用于快速构建应用原型
+
+Chrome 扩展程序，用于在任何网页或 PDF 上突出显示和记录笔记
+
+适用于小型企业的预约安排和预订软件
+
+可视化工作流自动化平台（类似 Zapier，但更专注于细分市场）
+
+适用于 SaaS 产品的通用应用内搜索/命令栏
+
+适用于 SaaS 应用的动态入门/教育工具
+
+基于 Notion 的网站或博客构建器
+
+用于管理产品化服务业务的一体化仪表板
+
+表单到 Google 表格的自动化工具
+
+用于将杂乱数据格式转换为简洁结构化表格的 AI 工具
+
+求职者的 AI 面试助手（练习、反馈、技巧）
+
+基于 AI 的 Chrome 扩展程序，用于提高会议效率（摘要、行动项目）
+
+AI 主页重新设计可视化工具（上传照片，获取新布局）
+
+文本到视频内容面向创作者的再利用工具
+
+AI 驱动的页面 SEO 优化助手
+
+用于汇总长文档或报告的 AI 工具
+
+公司内部聊天机器人，经过文档训练，可立即提供答案
+
+用于客户支持或销售电话的 AI 语音代理
+
+面向设计师的 AI 图像放大/增强器
+
+社交媒体调度器，可从 Notion 或 Google 表格中提取内容
+
+LinkedIn 帖子创建器和个人品牌调度器
+
+LinkedIn 受众增长自动化工具
+
+自动推荐收集和显示小部件
+
+适用于 Facebook/Google 的 SaaS 广告活动创意生成器
+
+本地企业声誉管理平台
+
+小型企业多平台评论聚合器
+
+电商联盟计划管理平台
+
+使用 Google 广告的企业潜在客户数据库
+
+具有高级分析功能的新闻通讯活动管理器
+
+持续更新、可搜索的利基市场数据库（例如，3D 打印文件、法律文档）
+
+面向特定地区或资产类别投资者的投资组合追踪器
+
+Web面向非程序员的抓取和数据分析工具
+
+网站自动化 SEO 标签/索引管理器
+
+落地页评估器和报告工具
+
+基于 AI 洞察的财务管理/跟踪应用
+
+自由职业者的收据上传和会计同步
+
+SaaS 应用的权限/授权管理
+
+自动化业务流程构建器
+
+自由职业者/顾问的发票生成器和跟踪器
+
+企业 SaaS 订阅管理器
+
+Visual Tailwind CSS 构建器/调试器
+
+使用 Google 表格作为后端的无代码动态网站构建器
+
+使用自然语言提示的 Web 应用快速原型设计工具
+
+面向设计师和游戏开发者的 AI 生成的 3D 资源创建器
+
+Webflow 项目的登录/授权/数据集成工具
+
+歌唱自学和培训平台
+
+整体生活方式跟踪和健康应用
+
+用于个人提升的习惯或目标跟踪 SaaS
+
+阅读清单和书籍摘要跟踪器
+
+选择利基市场，验证痛点，您就可以实现 1,000 美元的 MRR！
+
+WILL（X-lab）(wxid_7l0prsxunh0022) 05-31 16:37:08
+reddit上看到的，供参考
+
+WILL（X-lab）(wxid_7l0prsxunh0022) 05-31 16:37:15
+![图片](http://127.0.0.1:5030/image/42560f2d7f77a281836fc6244a1fdb45)
+
+米乐¹³¹⁴(wxid_9piy3i48d43l22) 05-31 17:05:28
+补交作业第三课：http://localhost:5173/   婚姻情感红灯自助网站
+
+米乐¹³¹⁴(wxid_9piy3i48d43l22) 05-31 17:05:48
+![图片](http://127.0.0.1:5030/image/af730dcf68ff303ed88b6620b7b80a13)
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 17:06:18
+厉害了
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 17:06:21
+我也在做这个
+
+米乐¹³¹⁴(wxid_9piy3i48d43l22) 05-31 17:07:12
+谢谢鼓励[呲牙]，我还没加进其他的功能，感觉页面还可以，后面继续迭代
+
+小李F刀(wxid_cgr2mr7ea63l22) 05-31 17:07:22
+> 米乐¹³¹⁴(wxid_9piy3i48d43l22) 05-31 17:05:28
+> 补交作业第三课：http://localhost:5173/   婚姻情感红灯自助网站
+localhost 是表示本机的意思，是你电脑的地址， 这个地址除了你自己，其它人访问不了。   [破涕为笑]
+
+米乐¹³¹⁴(wxid_9piy3i48d43l22) 05-31 17:08:11
+[尴尬]俺在继续多看几遍
+
+半尘(muling12) 05-31 17:09:05
+> 米乐¹³¹⁴(wxid_9piy3i48d43l22) 05-31 17:05:28
+> 补交作业第三课：http://localhost:5173/   婚姻情感红灯自助网站
+5173端口，你是用windsurf的吧
+
+米乐¹³¹⁴(wxid_9piy3i48d43l22) 05-31 17:09:44
+![图片](http://127.0.0.1:5030/image/ad5f69520975c323545bc74b44ff1f82)
+
+米乐¹³¹⁴(wxid_9piy3i48d43l22) 05-31 17:10:19
+你说的这个，我暂且还听不懂
+
+浮梦(wxid_ohawz2c3wzcl12) 05-31 17:10:24
+没事，你跟着教程，发到vercel就行了。
+
+浮梦(wxid_ohawz2c3wzcl12) 05-31 17:10:53
+你可以问问ai，为什么我们访问不了http://localhost:5173/这个地址
+
+我 05-31 17:11:00
+"半尘" 撤回了一条消息
+
+米乐¹³¹⁴(wxid_9piy3i48d43l22) 05-31 17:11:25
+好喔，谢谢同学们，我继续找AI
+
+米乐¹³¹⁴(wxid_9piy3i48d43l22) 05-31 17:11:29
+[呲牙]
+
+半尘(muling12) 05-31 17:11:58
+> 米乐¹³¹⁴(wxid_9piy3i48d43l22) 05-31 17:09:44
+> ![图片](http://127.0.0.1:5030/image/ad5f69520975c323545bc74b44ff1f82)
+好吧，并不是，这ai误导人，给新手增加难度，还弄个其他端口出来
+
+卫斯理🤍(wxid_cap2car89b7811) 05-31 17:14:00
+我的cursor一直说我3000被占用，让我用3001,3002，甚至3003[裂开]
+
+小李F刀(wxid_cgr2mr7ea63l22) 05-31 17:15:24
+> 卫斯理🤍广州(wxid_cap2car89b7811) 05-31 17:14:00
+> 我的cursor一直说我3000被占用，让我用3001,3002，甚至3003[裂开]
+因为你之前启动的服务没有关， 你看一下  终端那是不是有多个窗口
+
+小李F刀(wxid_cgr2mr7ea63l22) 05-31 17:15:41
+![图片](http://127.0.0.1:5030/image/170c9b4739aa15427d18888cef6177f4)
+
+半尘(muling12) 05-31 17:16:36
+> 卫斯理🤍广州(wxid_cap2car89b7811) 05-31 17:14:00
+> 我的cursor一直说我3000被占用，让我用3001,3002，甚至3003[裂开]
+这个是控制台的bug，中断了，但是进程没有关闭，需要把窗口关闭了
+
+浮梦(wxid_ohawz2c3wzcl12) 05-31 17:17:17
+> 卫斯理🤍广州(wxid_cap2car89b7811) 05-31 17:14:00
+> 我的cursor一直说我3000被占用，让我用3001,3002，甚至3003[裂开]
+那你就问他怎么启动3001、3002
+
+浮梦(wxid_ohawz2c3wzcl12) 05-31 17:17:37
+或者让他帮忙把3000端口的进程kill掉
+
+半尘(muling12) 05-31 17:18:04
+![图片](http://127.0.0.1:5030/image/52392c16db787aa985046c3edbf5bbec)
+
+半尘(muling12) 05-31 17:18:27
+我更喜欢这种启动方式，添加这个文件后，可以点按钮启动，重启和关闭也方便
+
+半尘(muling12) 05-31 17:19:04
+![图片](http://127.0.0.1:5030/image/ac81a3c7f4687658835bf8097ee4a7d7)
+
+我 05-31 17:19:07
+"半尘" 撤回了一条消息
+
+半尘(muling12) 05-31 17:19:16
+可以让ai写一个
+
+卫斯理🤍(wxid_cap2car89b7811) 05-31 17:19:30
+> 小李F刀(wxid_cgr2mr7ea63l22) 05-31 17:15:24
+> > 卫斯理🤍广州(wxid_cap2car89b7811) 05-31 17:14:00
+> > 我的cursor一直说我3000被占用，让我用3001,3002，甚至3003[裂开]
+> 因为你之前启动的服务没有关， 你看一下  终端那是不是有多个窗口
+是的，我后面手动把窗口关了，自己再重新执行下 npm run dev ，就可以访问3000端口了
+
+卫斯理🤍(wxid_cap2car89b7811) 05-31 17:20:57
+> 半尘(muling12) 05-31 17:18:27
+> 我更喜欢这种启动方式，添加这个文件后，可以点按钮启动，重启和关闭也方便
+这个不错呀
+
+阿信(wxid_i7dhzm3gw46p12) 05-31 17:32:43
+![图片](http://127.0.0.1:5030/image/2f8e58f78c1f3c381f1402ea6d6b589b)
+
+阿信(wxid_i7dhzm3gw46p12) 05-31 17:32:56
+> 阿信(wxid_i7dhzm3gw46p12) 05-31 17:32:44
+> ![图片](http://127.0.0.1:5030/image/2f8e58f78c1f3c381f1402ea6d6b589b)
+笑屡[Facepalm]
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 17:33:27
+用的多了 CURSOR天天跟我说我错了
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 17:33:27
+![图片](http://127.0.0.1:5030/image/0335640ea829bd28d73c041a24b834e8)
+
+半尘(muling12) 05-31 17:34:35
+能知道错误就知足吧，怕的是他觉得没有错，信誓旦旦跟你说是对的，结果是错的，你要是信就g了
+
+阿信(wxid_i7dhzm3gw46p12) 05-31 17:35:37
+它能知错，但有时候反复出错让你觉得很无语。。。
+
+半尘(muling12) 05-31 17:35:44
+为什么要用好一点的模型，模型不行有时候很坑人
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 17:36:06
+你可以让AI反复自我检查和多个模型交叉验证
+
+阿信(wxid_i7dhzm3gw46p12) 05-31 17:37:09
+> 良辰美 | 助教(wxid_8riqfa4drs6222) 05-31 17:36:06
+> 你可以让AI反复自我检查和多个模型交叉验证
+用A模型生成，然后切换到B模型检查A生成的结果吗？
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 17:38:31
+一般是CLAUDE4足够了 AI自己会深度拆解项目结构去做判断就能察觉错误 如果不放心就可以切换到其他模型再检查一下
+
+阿信(wxid_i7dhzm3gw46p12) 05-31 17:39:10
+我这几天基本一直都是用claude4，整体体验还不错，没遇到非常离谱的错误
+
+卫斯理🤍(wxid_cap2car89b7811) 05-31 17:40:31
+CLAUDE4是比3.7强一些吗？我一直用的3.7
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 17:41:19
+强得多
+
+阿信(wxid_i7dhzm3gw46p12) 05-31 17:42:08
+https://www.oneclickprofile.com/  对美感有很高的要求，但就是调不出想要的效果。。。太难了[捂脸]
+
+阿信(wxid_i7dhzm3gw46p12) 05-31 17:42:31
+自煤体帐号信息生成工具，欢迎体验
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 17:43:10
+toolify榜单可以多挖一些你觉得美感高的网站去让CURSOR学习下
+
+阿信(wxid_i7dhzm3gw46p12) 05-31 17:43:36
+好的
+
+刘小排(liuxiaopai) 05-31 17:45:23
+"${liuxiaopai}" 拍了拍 "${wxid_i7dhzm3gw46p12}"
+
+刘小排(liuxiaopai) 05-31 17:45:47
+@阿信 体验挺好的
+
+王玮(wxid_94jbos68gn3b22) 05-31 17:46:46
+> 阿信(wxid_i7dhzm3gw46p12) 05-31 17:42:08
+> https://www.oneclickprofile.com/  对美感有很高的要求，但就是调不出想要的效果。。。太难了[捂脸]
+这个用户界面很酷呀[强][强]
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 17:48:46
+![图片](http://127.0.0.1:5030/image/8f032634515243d5099b8d6c08b9f83c)
+
+阿信(wxid_i7dhzm3gw46p12) 05-31 17:48:49
+[Salute][Salute] 谢谢认可，信心又提高了档
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 05-31 17:49:48
+好强
+
+阿信(wxid_i7dhzm3gw46p12) 05-31 17:49:48
+> 良辰美 | 助教(wxid_8riqfa4drs6222) 05-31 17:48:46
+> ![图片](http://127.0.0.1:5030/image/8f032634515243d5099b8d6c08b9f83c)
+默认只生成了3个。你是用什么设备访问的？
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 17:52:42
+是3个 我用的微信打开的
+
+阿信(wxid_i7dhzm3gw46p12) 05-31 17:55:55
+是平板访问的吗？我做了移动设备兼容性优化，只有pad下生成的结果，第三个会换行
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 17:57:14
+电脑windows 可能是形状类似于pad框大小
+
+阿信(wxid_i7dhzm3gw46p12) 05-31 18:00:13
+了解了，可能是分辨率和pad差不多的原因
+
+小陈老师(wxid_1f5f4iwhhiqc22) 05-31 18:01:39
+硅基流动的API返回结果好慢[捂脸][捂脸]  是不是换国外的API接口会好一些
+
+阿信(wxid_i7dhzm3gw46p12) 05-31 18:02:40
+是挺慢的，而且还不稳定。我之前用硅基流动的生图API，经常超时
+
+卫斯理🤍(wxid_cap2car89b7811) 05-31 18:06:47
+我今天调用的openrouter发现也比以前慢很多
+
+wxid_iyevr7we4vxr11 05-31 18:09:02
+@阿信 体验很好!就是生成速度有点慢，结果很满意[强]
+
+wxid_iyevr7we4vxr11 05-31 18:09:16
+我是手机上操作的
+
+系统消息 05-31 18:22:28
+
+
+笑笑生(wxid_cv8ni72fmu9012) 05-31 18:24:58
+> 阿信(wxid_i7dhzm3gw46p12) 05-31 17:42:08
+> https://www.oneclickprofile.com/  对美感有很高的要求，但就是调不出想要的效果。。。太难了[捂脸]
+好酷炫，这个是完全用prompt生成的UI吗？
+
+黑鹰(yangxin0917) 05-31 18:27:01
+> Yao(wxid_iyevr7we4vxr11) 05-31 18:09:02
+> @阿信 体验很好!就是生成速度有点慢，结果很满意[强]
+谢谢反馈，我再优化下[抱拳]
+
+黑鹰(yangxin0917) 05-31 18:27:41
+> 笑笑生(wxid_cv8ni72fmu9012) 05-31 18:24:58
+> > 阿信(wxid_i7dhzm3gw46p12) 05-31 17:42:08
+> > https://www.oneclickprofile.com/  对美感有很高的要求，但就是调不出想要的效果。。。太难了[捂脸]
+> 好酷炫，这个是完全用prompt生成的UI吗？
+是的。因为是在原来的基础上修改， 没有用模板，调起来很费劲。还是要用模板省事
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-31 18:27:55
+> 良辰美 | 助教(wxid_8riqfa4drs6222) 05-31 16:23:47
+> > [引用]
+> 1. 可能是vercrl免费版本一天100次超限
+> 2. 可能是vercrl账号和github推送代码账号不一致
+> 3. 可能是有变量错误，自动部署失败不显示
+> 我都遇到过，需要注意排查
+1.100次这个应该没有，因为今天总共才提交几次。
+2.账号应该也是一致的，因为上午的提交成功了。
+3.变量的问题怎么解决呀。是在哪里
+
+silence(wxid_qfrdwbb1853b22) 05-31 18:37:36
+> 阿信(wxid_i7dhzm3gw46p12) 05-31 17:42:08
+> https://www.oneclickprofile.com/  对美感有很高的要求，但就是调不出想要的效果。。。太难了[捂脸]
+阿信哥太牛了！[哇]
+
+叶声(wxid_as4enn36rhhi21) 05-31 18:40:37
+> 阿信(wxid_i7dhzm3gw46p12) 05-31 17:42:08
+> https://www.oneclickprofile.com/  对美感有很高的要求，但就是调不出想要的效果。。。太难了[捂脸]
+可以加个等待进度条[呲牙]
+
+少年的李(wxid_kwbqv8tz77h222) 05-31 18:50:10
+> 卫斯理🤍广州(wxid_cap2car89b7811) 05-31 17:14:00
+> 我的cursor一直说我3000被占用，让我用3001,3002，甚至3003[裂开]
+告诉ai，关闭全部占用端口，重启服务器
+
+极客信条(kongfulive) 05-31 18:52:28
+打开任务管理器
+
+极客信条(kongfulive) 05-31 18:52:49
+然后打开命令行
+
+极客信条(kongfulive) 05-31 18:52:57
+查询端口占用情况
+
+极客信条(kongfulive) 05-31 18:53:08
+逮到哪了程序占用
+
+极客信条(kongfulive) 05-31 18:53:14
+结束任务
+
+极客信条(kongfulive) 05-31 18:53:37
+在命令行杀掉占用，经常杀不尽
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 18:54:02
+> 少年的李(wxid_kwbqv8tz77h222) 05-31 18:50:10
+> > [引用]
+> 告诉ai，关闭全部占用端口，重启服务器
+我之前也是天天这么给ai说，后面我直接写到rule
+
+Traveling Light(sishuai0328) 05-31 20:32:34
+真厉害这些分析工具
+
+Traveling Light(sishuai0328) 05-31 20:32:34
+![图片](http://127.0.0.1:5030/image/15f956a912f4db1597e14121ac2a4291)
+
+Traveling Light(sishuai0328) 05-31 20:33:07
+https://www.aieatworld.com/，有空的群友帮忙点点，我来分析一下
+
+亿豪(wxid_8rqui0adacvp12) 05-31 20:34:54
+@Traveling Light 点了
+
+Traveling Light(sishuai0328) 05-31 20:35:22
+这群能发红包吗，不会被踢出吧[捂脸]
+
+Traveling Light(sishuai0328) 05-31 20:35:41
+> 亿豪(wxid_8rqui0adacvp12) 05-31 20:34:54
+> @Traveling Light 点了
+谢谢
+
+亿豪(wxid_8rqui0adacvp12) 05-31 20:35:51
+[动画表情]
+
+亿豪(wxid_8rqui0adacvp12) 05-31 20:36:13
+> Traveling Light(sishuai0328) 05-31 20:35:22
+> 这群能发红包吗，不会被踢出吧[捂脸]
+可以发红包，别发广告[悠闲]
+
+Traveling Light(sishuai0328) 05-31 20:37:12
+[红包]
+
+李明进(mikipku) 05-31 20:37:13
+> Traveling Light(sishuai0328) 05-31 20:35:22
+> 这群能发红包吗，不会被踢出吧[捂脸]
+10块以上红包随便发
+
+Traveling Light(sishuai0328) 05-31 20:37:36
+拿到了好多群友的操作数据，好玩啊
+
+Traveling Light(sishuai0328) 05-31 20:38:32
+![图片](http://127.0.0.1:5030/image/63cb8f97f0ff74bc125b270f5163f922)
+
+李明进(mikipku) 05-31 20:39:06
+> Traveling Light(sishuai0328) 05-31 20:38:32
+> ![图片](http://127.0.0.1:5030/image/63cb8f97f0ff74bc125b270f5163f922)
+哈哈，牛逼
+
+李明进(mikipku) 05-31 20:39:45
+> Traveling Light(sishuai0328) 05-31 20:37:36
+> 拿到了好多群友的操作数据，好玩啊
+你用的啥工具？
+
+Traveling Light(sishuai0328) 05-31 20:40:06
+就是小排老师的第六课
+
+李明进(mikipku) 05-31 20:40:28
+> Traveling Light(sishuai0328) 05-31 20:40:06
+> 就是小排老师的第六课
+噢噢，还没学到[害羞]
+
+Traveling Light(sishuai0328) 05-31 20:40:56
+早期当网页产品经理的时候，也没这么牛批的工具[捂脸]
+
+亿豪(wxid_8rqui0adacvp12) 05-31 20:42:39
+这个确实牛B，国外不是很注重隐私吗？感觉这个，把被人的输出都看完了，毫无隐私可言[吃瓜]
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 20:43:41
+网站属于站长领域财产
+
+Traveling Light(sishuai0328) 05-31 20:44:19
+现在 APP 分析得更详细，这点网页数据还不算什么[捂脸]
+
+亿豪(wxid_8rqui0adacvp12) 05-31 20:44:21
+用户是不是都不知道有这个工具的存在[奸笑]
+
+哩厘锂力(zizhazhu) 05-31 20:46:32
+有的用户会屏蔽分析工具
+
+亿豪(wxid_8rqui0adacvp12) 05-31 20:46:56
+6
+
+于洋(wxid_hz6andvs4ahf22) 05-31 20:47:56
+@阿信 体验挺丝滑，页面也好看，反馈一个细节体验问题（红框的输入会直接覆盖原有输入的内容，绿框是追加风格补充，个人从交互上理解都应该是补充而不是覆盖，刚刚写了几句话一下子被覆盖，有点不开心。。。）
+
+
+于洋(wxid_hz6andvs4ahf22) 05-31 20:48:00
+![图片](http://127.0.0.1:5030/image/87ba124215576c0c873250c9fc3594f6)
+
+亿豪(wxid_8rqui0adacvp12) 05-31 20:49:43
+@良辰美 | 助教 大佬，一群的这个分享的工具可以转发个吗？感谢
+
+亿豪(wxid_8rqui0adacvp12) 05-31 20:49:44
+![图片](http://127.0.0.1:5030/image/48c5bc7e7fd36dd82e9dd4a0d4dfc619)
+
+Traveling Light(sishuai0328) 05-31 20:50:10
+> 亿豪(wxid_8rqui0adacvp12) 05-31 20:49:44
+> ![图片](http://127.0.0.1:5030/image/48c5bc7e7fd36dd82e9dd4a0d4dfc619)
++1
+
+刘小排(liuxiaopai) 05-31 20:50:19
+好的。我来转发
+
+亿豪(wxid_8rqui0adacvp12) 05-31 20:50:41
+@刘小排 感谢小排老师[呲牙]
+
+机器猫(wxid_9942319422914) 05-31 20:51:06
+> 亿豪(wxid_8rqui0adacvp12) 05-31 20:49:44
+> ![图片](http://127.0.0.1:5030/image/48c5bc7e7fd36dd82e9dd4a0d4dfc619)
+[强][强]
+
+Traveling Light(sishuai0328) 05-31 20:51:11
+[动画表情]
+
+刘小排(liuxiaopai) 05-31 20:51:15
+[合并转发|群聊的聊天记录]
+  大铭🌱 2025-05-31 15:31:16
+  升级到 0.2.4 ， 增加了 Deep Copy 的这个选项，请大家试用，麻烦给我反馈
+
+  大铭🌱 2025-05-31 15:31:16
+  
+
+  大铭🌱 2025-05-31 15:31:16
+  
+
+
+
+于洋(wxid_hz6andvs4ahf22) 05-31 20:53:00
+看起来很厉害[抱拳]
+
+卫斯理🤍(wxid_cap2car89b7811) 05-31 20:55:37
+这是什么神器看起来很厉害的样子
+
+宁王（加油！）(wxid_5182881829312) 05-31 21:00:05
+[动画表情]
+
+亿豪(wxid_8rqui0adacvp12) 05-31 21:00:43
+> 卫斯理🤍广州(wxid_cap2car89b7811) 05-31 20:55:37
+> 这是什么神器看起来很厉害的样子
+就是他描述的，复刻别人的元素
+
+叶声(wxid_as4enn36rhhi21) 05-31 21:02:18
+好像是和stagewise插件的作用一样
+
+Traveling Light(sishuai0328) 05-31 21:02:26
+我试了一下没有完全 1 比 1 复刻，整个页面的元素和布局是对的，样式有点小差异
+
+半尘(muling12) 05-31 21:02:35
+这个使用计算样式吧，生成的html太长了
+
+宁王（加油！）(wxid_5182881829312) 05-31 21:02:56
+"${wxid_5182881829312}" 拍了拍 "${sishuai0328}" 的一脑袋水
+
+刘小排(liuxiaopai) 05-31 21:10:37
+> 卫斯理🤍广州(wxid_cap2car89b7811) 05-31 20:55:37
+> 这是什么神器看起来很厉害的样子
+clickvibe是北京SCAI的创业者 大铭  在发现新手使用Cursor的痛点后，做的一个产品。目前还在非常早的早期阶段，欢迎大家反馈。
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 21:20:21
+cursor我最近使用多了也有一个不知道是不是痛点：我有好多问题要问，好多事情要做，但是每次发起问题cursor就中断了之前的回复，我想让问题进入排队模式，这样一个回答，完了继续处理我下一个，不过我人工看也是要有时候纠正cursoe执行方向的，有时候我也会一股脑把所有问题全部一起发过去（就是要一直等回复，查看文件，处理结果）
+
+小诸葛(gezhipeng002) 05-31 21:34:57
+> 良辰美 | 助教(wxid_8riqfa4drs6222) 05-31 21:20:21
+> cursor我最近使用多了也有一个不知道是不是痛点：我有好多问题要问，好多事情要做，但是每次发起问题cursor就中断了之前的回复，我想让问题进入排队模式，这样一个回答，完了继续处理我下一个，不过我人工看也是要有时候纠正cursoe执行方向的，有时候我也会一股脑把所有问题全部一起发过去（就是要一直等回复，查看文件，处理结果）
+最痛苦的是，修改bug总是修不正确，感觉它也没辙了
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 21:35:44
+> 良辰美 | 助教(wxid_8riqfa4drs6222) 05-31 15:06:53
+> > [引用]
+> 1. 先让CURSOR通读项目告诉你页面结构和代码文件，你自己也要看一熟悉下 2. 截图错误的地方和错误代码和错误日志  3. 给出本质问题和所有可能解决方案    基本上这步骤可以解决所有问题
+大部分bug其实都可以解决的
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 21:38:03
+有一个准则：修改bug，你要先理解bug。 ai自己不一定能修好bug，但是绝对能给帮助你理解bug，弄明白你就可以让ai帮你修好bug
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-31 21:41:26
+cursor 又更新了。大家知道更新了哪些吗
+
+HH皓月(wxid_aljol1bzywhb12) 05-31 21:42:55
+#举手 我今天下载了网页模板，为什么打开之后和原图展示不一样？ 图一是模板的文件夹，图二是打开之后的网页。
+
+HH皓月(wxid_aljol1bzywhb12) 05-31 21:43:00
+![图片](http://127.0.0.1:5030/image/f2ba53a1d88e5c454a851aa03babfcdb)
+
+HH皓月(wxid_aljol1bzywhb12) 05-31 21:43:03
+![图片](http://127.0.0.1:5030/image/3052199946dc25cac30eaa6cd361d535)
+
+吴海晖®(wxid_78jyonoq7hyk22) 05-31 21:43:12
+之前设置的Rules   更新后都没有了
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 21:44:04
+> HH皓月(wxid_aljol1bzywhb12) 05-31 21:42:55
+> #举手 我今天下载了网页模板，为什么打开之后和原图展示不一样？ 图一是模板的文件夹，图二是打开之后的网页。
+这个是node代码需要服务器打开访问
+
+HH皓月(wxid_aljol1bzywhb12) 05-31 21:46:01
+> 良辰美 | 助教(wxid_8riqfa4drs6222) 05-31 21:44:04
+> > [引用]
+> 这个是node代码需要服务器打开访问
+啥意思？ 我直接让Corsor读取代码，然后给一个链接给我，我就成了图二了。
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 21:48:27
+这就是已经本地服务器打开了 要看哪里不一样 继续问
+
+大兵(iceriver315) 05-31 21:51:54
+@云飞 谢谢老板的建议
+
+HH皓月(wxid_aljol1bzywhb12) 05-31 21:52:29
+[文件|syntax.zip](http://127.0.0.1:5030/file/0d230536a0db5e121c1a91be0e74b43b)
+
+HH皓月(wxid_aljol1bzywhb12) 05-31 21:53:09
+> 良辰美 | 助教(wxid_8riqfa4drs6222) 05-31 21:48:27
+> 这就是已经本地服务器打开了 要看哪里不一样 继续问
+助教老师，有时间可以看看哈
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 21:53:35
+问cursor.是最好的，我也是要问cursor[捂脸]
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 21:54:32
+刘小排老师在北京的分享，关于如何提高产品成功率，完整视频上传到了B站，可以在此观看 https://www.bilibili.com/video/BV1Xa7PzZEG9/ 。 不看十遍消化不良
+
+图图啊(wxid_07qmkfjpx0kk21) 05-31 21:58:42
+那我也多看几遍
+
+Traveling Light(sishuai0328) 05-31 22:01:04
+> 良辰美 | 助教(wxid_8riqfa4drs6222) 05-31 21:54:32
+> 刘小排老师在北京的分享，关于如何提高产品成功率，完整视频上传到了B站，可以在此观看 https://www.bilibili.com/video/BV1Xa7PzZEG9/ 。 不看十遍消化不良
+收到，就是个看
+
+阿信(wxid_i7dhzm3gw46p12) 05-31 22:01:22
+> 于洋(wxid_hz6andvs4ahf22) 05-31 20:47:56
+> @阿信 体验挺丝滑，页面也好看，反馈一个细节体验问题（红框的输入会直接覆盖原有输入的内容，绿框是追加风格补充，个人从交互上理解都应该是补充而不是覆盖，刚刚写了几句话一下子被覆盖，有点不开心。。。）
+谢谢反馈，我去修改下
+
+陈远清(a526141232) 05-31 22:02:11
+"${a526141232}" 拍了拍 "${wxid_8riqfa4drs6222}" 说“上兵伐谋”[炸弹]
+
+自由人生体验家(wxid_nm7t40hfs5er21) 05-31 22:02:43
+一键生成自媒体账号形象，欢迎试用，请大家给点意见哈，感谢~ [抱拳]
+https://www.profileinstant.com/
+
+我 05-31 22:05:01
+"HH皓月" 撤回了一条消息
+
+HH皓月(wxid_aljol1bzywhb12) 05-31 22:05:17
+> 良辰美 | 助教(wxid_8riqfa4drs6222) 05-31 21:53:35
+> 问cursor.是最好的，我也是要问cursor[捂脸]
+好滴收到
+
+图图啊(wxid_07qmkfjpx0kk21) 05-31 22:06:12
+@自由人生体验家 不知道是不是我的电脑浏览器兼容原因，感觉右上角的显示没那么协调美观
+
+图图啊(wxid_07qmkfjpx0kk21) 05-31 22:06:13
+![图片](http://127.0.0.1:5030/image/a9b5c2aa90082ecdc98d591c625a2a06)
+
+自由人生体验家(wxid_nm7t40hfs5er21) 05-31 22:08:20
+具体点说呢？[捂脸]  右上角的意思是个自媒体账号的意思，是头像上面的黄色块有点突兀是吗？
+
+Linfeng(qoomee) 05-31 22:23:12
+#举手 下午在clarity上添加了网站，但是上面一排的按钮一直是灰色的。问了下ai还需要做什么设置，说不用，等着就行。到现在大概过去了七八个小时。请问可能是什么问题？
+
+Linfeng(qoomee) 05-31 22:23:13
+![图片](http://127.0.0.1:5030/image/b5c8d0d9fc07c51683245214adb26b6c)
+
+Linfeng(qoomee) 05-31 22:23:13
+![图片](http://127.0.0.1:5030/image/738e0dacc0fdc1cbf42b0086c665c28d)
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 22:24:17
+这说明你还没有设置好
+
+Linfeng(qoomee) 05-31 22:24:31
+代码我已经写进网站了
+
+Linfeng(qoomee) 05-31 22:25:08
+我是贴了这段进去
+
+Linfeng(qoomee) 05-31 22:25:08
+![图片](http://127.0.0.1:5030/image/f484f89e38bec7b19717b300835b8c20)
+
+Linfeng(qoomee) 05-31 22:25:46
+然后推送给github的仓库了
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 22:25:52
+让AI帮你确认，这里显示的还是almost there
+
+Linfeng(qoomee) 05-31 22:28:11
+是啊，真是奇怪，下午我问了一遍dia，就说让我等一等
+
+Linfeng(qoomee) 05-31 22:28:23
+那我再换一个网站看看吧
+
+我 05-31 22:30:00
+"半尘" 撤回了一条消息
+
+半尘(muling12) 05-31 22:30:11
+> 糖刃(qoomee) 05-31 22:25:08
+> ![图片](http://127.0.0.1:5030/image/f484f89e38bec7b19717b300835b8c20)
+你原封不动粘贴吗
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 22:31:17
+是你没有操作好，同样的流程，更换网站，可能一样不成功。你要学会这个代码是干嘛的，问清楚AI
+
+Linfeng(qoomee) 05-31 22:31:54
+![图片](http://127.0.0.1:5030/image/c25a6c2db753493ff3bf68eb781a2ddd)
+
+Linfeng(qoomee) 05-31 22:32:15
+是原封不动贴的
+
+Linfeng(qoomee) 05-31 22:32:52
+我是需要改什么吗？
+
+Linfeng(qoomee) 05-31 22:33:21
+有没有可能，是网站访问太少，所以没有记录？
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 22:33:48
+有可能，但是你要问AI学会这个动作的目的和流程
+
+Linfeng(qoomee) 05-31 22:36:34
+嗯，我之前问了ai，说就是打追踪标签，然后就告诉我等待
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 22:36:48
+要问详细些
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 22:37:37
+主要是我们不清楚你具体的项目情况，而且AI如此强大几乎无所不知无所不能，所以一切都依赖于AI。我感觉主要的回复就是人工心里按摩和大概思路和方向以及我是怎么做的
+
+半尘(muling12) 05-31 22:37:39
+如果脚本有正常加载的话，你在 开发者工具-网络 是可以看到获取js的
+
+半尘(muling12) 05-31 22:37:41
+![图片](http://127.0.0.1:5030/image/f626d673507e6bdcbe0393107a9b3cf7)
+
+半尘(muling12) 05-31 22:39:11
+你这是纯html，还是nextjs，nextjs的script首字母是要大写的
+
+Linfeng(qoomee) 05-31 22:39:38
+我看看。因为这里设置只有三个选项，我就选了当中一个直接抄代码
+
+Linfeng(qoomee) 05-31 22:40:16
+> 半尘(muling12) 05-31 22:39:11
+> 你这是纯html，还是nextjs，nextjs的script首字母是要大写的
+最初是html，后来加了个ai助手，有nextjs，然后好像混合部署
+
+Linfeng(qoomee) 05-31 22:40:34
+我换个纯nextjs的网站吧
+
+Linfeng(qoomee) 05-31 22:41:04
+> 半尘(muling12) 05-31 22:39:11
+> 你这是纯html，还是nextjs，nextjs的script首字母是要大写的
+谢谢，我再研究下
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 22:41:43
+> 糖刃(qoomee) 05-31 22:40:16
+> > 半尘(muling12) 05-31 22:39:11
+> > 你这是纯html，还是nextjs，nextjs的script首字母是要大写的
+> 最初是html，后来加了个ai助手，有nextjs，然后好像混合部署
+那这可能就是问题根源
+
+Linfeng(qoomee) 05-31 22:43:04
+那有可能是网站本身的问题
+
+宋晓阳(songxy1990) 05-31 22:47:15
+#举手 哈喽助教老师，请问下1群大神做的这个网站（https://www.posterai.online/），想问下这个网站主页中背景的动画特效也是用bolt/lovable/V0生成的吗？还是需要cursor去雕花雕出来？
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 22:48:59
+看起来很精细化，大概率是CURSOR参与了
+
+卫斯理🤍(wxid_cap2car89b7811) 05-31 22:54:18
+#举手 哈喽助教老师，我想快速定位网页里的文字或者元素具体在对应的是哪个文件有简单点 的方法吗？或者有什么插件吗? 用的window电脑 
+
+宋晓阳(songxy1990) 05-31 22:55:05
+> 良辰美 | 助教(wxid_8riqfa4drs6222) 05-31 22:48:59
+> 看起来很精细化，大概率是CURSOR参与了
+了解。谢谢。准备试试哪个ai能逆向工程出方法或者提示词复刻出这种效果
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 22:55:54
+> 卫斯理🤍广州(wxid_cap2car89b7811) 05-31 22:54:18
+> #举手 哈喽助教老师，我想快速定位网页里的文字或者元素具体在对应的是哪个文件有简单点 的方法吗？或者有什么插件吗? 用的window电脑 
+直接鼠标选中左键单击选择检查
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 22:56:22
+![图片](http://127.0.0.1:5030/image/853ac0cc65c4afb0bf38741f2b684149)
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 22:56:33
+你会看到ELEMENT这种，看不懂也没关系，截图和复制代码发给AI
+
+卫斯理🤍(wxid_cap2car89b7811) 05-31 22:58:02
+大概懂了，我看苹果电脑好像有鼠标一点自动定位的插件，还是苹果方便很多
+
+半尘(muling12) 05-31 22:58:50
+https://play.tailwindcss.com/QL4FpK0BSW
+
+半尘(muling12) 05-31 22:59:10
+我分享在这里，你可以试着拿给cursor，让他提取试试
+
+宋晓阳(songxy1990) 05-31 23:00:32
+> 半尘(muling12) 05-31 22:59:10
+> 我分享在这里，你可以试着拿给cursor，让他提取试试
+感谢🙏
+
+弘(zhuazi2009999) 05-31 23:10:18
+#举手  这个是航海手册中使用o3的示例思考了31秒  生成的很好
+
+弘(zhuazi2009999) 05-31 23:10:19
+![图片](http://127.0.0.1:5030/image/c2b56006b5f7465ac40887b089aacf3c)
+
+弘(zhuazi2009999) 05-31 23:10:42
+![图片](http://127.0.0.1:5030/image/02198739b94c31a32b4b9929321d536d)
+
+半尘(muling12) 05-31 23:10:49
+> 宋晓阳(songxy1990) 05-31 22:47:15
+> #举手 哈喽助教老师，请问下1群大神做的这个网站（https://www.posterai.online/），想问下这个网站主页中背景的动画特效也是用bolt/lovable/V0生成的吗？还是需要cursor去雕花雕出来？
+我精简了一下，你可以直接看这个， https://play.tailwindcss.com/vE4yul5yh1
+
+弘(zhuazi2009999) 05-31 23:11:07
+为什么我的o3没有思考时间 并且回答的不好啊
+
+张耘瀚(wxid_0319273194712) 05-31 23:12:38
+这是个啥
+
+张耘瀚(wxid_0319273194712) 05-31 23:12:39
+![图片](http://127.0.0.1:5030/image/61087e11a27f306e42f30ba667f80ffb)
+
+张耘瀚(wxid_0319273194712) 05-31 23:12:47
+> 半尘(muling12) 05-31 23:10:49
+> > [引用]
+> 我精简了一下，你可以直接看这个， https://play.tailwindcss.com/vE4yul5yh1
+这个
+
+张耘瀚(wxid_0319273194712) 05-31 23:13:13
+@半尘 
+
+半尘(muling12) 05-31 23:14:16
+他想要网站的背景动画效果，我提取了一下，用这个工具分享代码
+
+早睡早睡(qq780213045) 05-31 23:15:29
+终于完成了一个有完整功能的 mvp ，大家给点意见哇。
+网站名称：Free Character Headcanon Generator | AI-Powered Character Background Creator
+网址：https://www.characterheadcanongeneratorai.com/
+这是一个免费的 AI 角色设定生成器，支持自定义姓名、性格、类型等，快速生成单人或多角色的背景、性格和关系设定，适用于多种创作场景。多角色模式下可用关系模板生成带互动和情节的故事片段，支持多种长度。
+ 还提供对话生成功能（https://www.characterheadcanongeneratorai.com/dialogue），可根据设定自动生成角色对话，丰富故事表现。
+
+早睡早睡(qq780213045) 05-31 23:15:29
+![图片](http://127.0.0.1:5030/image/f8b936cfcb78d70abb95498580967b8f)
+
+张耘瀚(wxid_0319273194712) 05-31 23:16:50
+明白了
+
+Es muss sein(wxid_qfhct3hwtuj022) 05-31 23:19:21
+#举手 求助，这cursor真的用得我崩溃，一个问题反反复复修改，而且还改出了新问题。是我模型的选的有问题吗？我用到的是claude3.5
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 23:20:42
+用CLAUDE4
+
+半尘(muling12) 05-31 23:20:45
+> Jack(wxid_qfhct3hwtuj022) 05-31 23:19:21
+> #举手 求助，这cursor真的用得我崩溃，一个问题反反复复修改，而且还改出了新问题。是我模型的选的有问题吗？我用到的是claude3.5
+可以试试claude 4 或者 o4-mini ，3.5和3.7这两个模型，你这种情况我遇到太多了
+
+卫斯理🤍(wxid_cap2car89b7811) 05-31 23:20:51
+claude3.5有点降智感觉，起码得3.7 吧[捂脸]
+
+Es muss sein(wxid_qfhct3hwtuj022) 05-31 23:21:03
+好的
+
+半尘(muling12) 05-31 23:21:11
+3.7也不行
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 23:21:20
+1. 先让CURSOR通读项目告诉你页面结构和代码文件，你自己也要看一熟悉下 2. 截图错误的地方和错误代码和错误日志  3. 给出本质问题和所有可能解决方案    基本上这步骤可以解决所有问题
+
+Es muss sein(wxid_qfhct3hwtuj022) 05-31 23:22:36
+> 良辰美 | 助教(wxid_8riqfa4drs6222) 05-31 23:21:20
+> 1. 先让CURSOR通读项目告诉你页面结构和代码文件，你自己也要看一熟悉下 2. 截图错误的地方和错误代码和错误日志  3. 给出本质问题和所有可能解决方案    基本上这步骤可以解决所有问题
+前两步都做了。 第三点是什么意思呢
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 23:22:50
+让CUSOR这么做 发给AI
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 23:24:14
+![图片](http://127.0.0.1:5030/image/ee77651ec26a4b22ac7092f08f37d66c)
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 05-31 23:24:29
+cursor的回复会很系统，给的很全面，
+
+刘小排(liuxiaopai) 05-31 23:24:52
+"${liuxiaopai}" 拍了拍 "${qq780213045}"
+
+宋晓阳(songxy1990) 05-31 23:25:16
+> 半尘(muling12) 05-31 23:10:49
+> > [引用]
+> 我精简了一下，你可以直接看这个， https://play.tailwindcss.com/vE4yul5yh1
+太谢谢啦
+
+早睡早睡(qq780213045) 05-31 23:30:41
+"${qq780213045}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+早睡早睡(qq780213045) 05-31 23:30:44
+[嘿哈]
+
+光脚踢球(guangjiaotiqiu001) 05-31 23:37:58
+![图片](http://127.0.0.1:5030/image/99b6f6f240df76624b5abe12f1174513)
+
+光脚踢球(guangjiaotiqiu001) 05-31 23:37:59
+https://www.magictaleai.com/
+这是我做的生成儿童故事的网站，欢迎试用，多提建议。网站支持自定义主角名称，选择故事类型，生成对应的故事，并且支持语音播放，解决家长睡前哄娃睡觉的时候，不知道怎么编故事，而且支持语音播放，解放家长。[呲牙]有娃的家长欢迎试用。
+
+刘小排(liuxiaopai) 05-31 23:40:40
+[强]
+
+张耘瀚(wxid_0319273194712) 05-31 23:41:35
+> 肥鱼(guangjiaotiqiu001) 05-31 23:37:59
+> https://www.magictaleai.com/
+> 这是我做的生成儿童故事的网站，欢迎试用，多提建议。网站支持自定义主角名称，选择故事类型，生成对应的故事，并且支持语音播放，解决家长睡前哄娃睡觉的时候，不知道怎么编故事，而且支持语音播放，解放家长。[呲牙]有娃的家长欢迎试用。
+确实不错，如果有中文版的更好
+
+光脚踢球(guangjiaotiqiu001) 05-31 23:42:22
+听小排老师的话，做海外，国内留给卷王们。哈哈
+
+笃行明远(wxid_xnyvv41yu3n822) 05-31 23:49:58
+# 举手
+老师，产品需求的页面在V0中设计好后，将代码转到cursor中，给出API和key，cursor不能完成真实功能
+同样的代码和API，在V0中继续，却能完成真实功能，我哪里操作的不对呢？
+
+刘小排(liuxiaopai) 05-31 23:51:00
+你把cursor对你说的话、报的错看懂
+
+笃行明远(wxid_xnyvv41yu3n822) 05-31 23:54:15
+谢谢老师，我仔细看看
+
+> 明远(wxid_xnyvv41yu3n822) 05-31 23:49:58
+> # 举手
+> 老师，产品需求的页面在V0中设计好后，将代码转到cursor中，给出API和key，cursor不能完成真实功能
+> 同样的代码和API，在V0中继续，却能完成真实功能，我哪里操作的不对呢？
+说点个人经验，告诉你一个简单的方法，直接把v0的系统提示词，放到cursor的规则里，我用起来很流畅。大规则里面放系统提示词，项目规则放你要完成的任务需求，然后让ai拆分任务步骤，一步步执行，每完成一个小任务目标自动打√。思路来自技术爬爬虾的启发。
+
+  银河星游 2025-05-31 22:47:22
+  #举手 中文+英文TTS有没有推荐的呀？最好能指定音色、情绪那种。
+
+  良辰美 2025-05-31 22:50:29
+  AI给的非常多，几十个，我发出来会刷屏
+
+  良辰美 2025-05-31 22:50:30
+  ![图片](http://127.0.0.1:5030/image/943fa66d72047f566bdcd0775a29e5ee)
+
+  良辰美 2025-05-31 22:51:08
+  ![图片](http://127.0.0.1:5030/image/f31e672af3dc3ca89045e0dfaea76563)
+
+
+
+  银河星游 2025-05-31 22:47:22
+  #举手 中文+英文TTS有没有推荐的呀？最好能指定音色、情绪那种。
+
+  良辰美 2025-05-31 22:50:29
+  AI给的非常多，几十个，我发出来会刷屏
+
+  良辰美 2025-05-31 22:50:30
+  ![图片](http://127.0.0.1:5030/image/943fa66d72047f566bdcd0775a29e5ee)
+
+  良辰美 2025-05-31 22:51:08
+  ![图片](http://127.0.0.1:5030/image/f31e672af3dc3ca89045e0dfaea76563)
+
+

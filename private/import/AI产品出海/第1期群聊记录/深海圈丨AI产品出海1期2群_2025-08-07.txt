@@ -1,0 +1,149 @@
+刘小排(liuxiaopai) 08-07 00:35:05
+production和rls没有关系
+
+桑桑(wxid_q2c7fp10z2522) 08-07 11:00:47
+#生财精选
+
+参加 AI 自动化航海，作为新手成功做出 5 个工作流。用工作流 10 分钟就做出了自己要花半天才能剪好的视频，还能一键批量生成小红书爆款图文。大家真的别被编程吓到，稍微学习下都能上手。推荐还没开始学习 AI 编程的圈友看看。
+
+原帖可见：@李先飞 https://scys.com/t/BOA74vvO
+ 
+
+ThalesZhen(wxid_pprwdq6lwt3112) 08-07 11:28:05
+刘小排(liuxiaopai) 08-07 11:31:33
+没太明白
+
+刘小排(liuxiaopai) 08-07 11:31:42
+现在遇到了啥问题呢[疑问]
+
+ThalesZhen(wxid_pprwdq6lwt3112) 08-07 11:35:41
+ThalesZhen(wxid_pprwdq6lwt3112) 08-07 11:41:09
+目前没啥问题了
+
+ThalesZhen(wxid_pprwdq6lwt3112) 08-07 11:42:18
+> 之恩甄(wxid_pprwdq6lwt3112) 08-07 11:28:05
+> > [引用]
+> 昨天举手的问题，这个开了tun mode后早上试了下就好了[捂脸]，但是我又找了别的模板搞了一半
+这个但是是因为我一条路没有通，换了条路找了另一个模板走了一半[破涕为笑]
+
+星吟(wxid_ivo4n28g15qj21) 08-07 12:55:24
+分享这篇好文～
+
+星吟(wxid_ivo4n28g15qj21) 08-07 12:55:24
+[链接|60 次失败换来 300 万美元，我用失败密度换成功率](https://mp.weixin.qq.com/s?__biz=MzE5ODY4NTkyMA==&mid=2247483790&idx=1&sn=64fe751b1d33a6e8df79527b1ae9df52&chksm=978b81a26e05515e64f5f9c89af61161e0855a03a20420aa5a330b3d007c7629c096c2bfbc2a&mpshare=1&scene=1&srcid=0807ajNf3HBSM33xtcaqH4fK&sharer_shareinfo=2c56a929bf6ed22ac00320cdefbea58a&sharer_shareinfo_first=2150703c1d05be38ee6043f933295db6#rd)
+
+闻鉴(wxid_cdtcq1czmsgf22) 08-07 13:02:59
+claude code chat好用，就是经不起消耗token。
+另外就是反应慢。
+
+闻鉴(wxid_cdtcq1czmsgf22) 08-07 13:03:14
+![图片](http://127.0.0.1:5030/image/9463f195b14420e0388a88d1c5f9b473)
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-07 13:04:43
+试试100刀的，基本够用 
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 08-07 13:18:23
+有朋友用过GLM-4.5吗，我感觉蛮好用，除了没有think模式
+
+刘小排(liuxiaopai) 08-07 13:18:45
+还可以的。
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 08-07 13:21:06
+感觉能和sonnet拼一把
+
+闻鉴(wxid_cdtcq1czmsgf22) 08-07 16:53:24
+#举手，这个是不是claude code chat的一个bug啊，突然就这样显示。
+
+闻鉴(wxid_cdtcq1czmsgf22) 08-07 16:53:24
+prompt超长了。大家有碰到这个情况吗
+
+闻鉴(wxid_cdtcq1czmsgf22) 08-07 16:53:32
+![图片](http://127.0.0.1:5030/image/55531e169a05c3bfea16ab3c7ec4fd83)
+
+闻鉴(wxid_cdtcq1czmsgf22) 08-07 16:53:40
+![图片](http://127.0.0.1:5030/image/b890b40b2c31606ba7ec14f160a7dce0)
+
+Moore(xiaobei1984) 08-07 16:57:23
+> 闻鉴-广州(wxid_cdtcq1czmsgf22) 08-07 16:53:24
+> #举手，这个是不是claude code chat的一个bug啊，突然就这样显示。
+开新窗口
+
+闻鉴(wxid_cdtcq1czmsgf22) 08-07 17:11:53
+> Moore 助教(xiaobei1984) 08-07 16:57:23
+> > [引用]
+> 开新窗口
+感谢
+
+新世界(wxid_98g2m3mfrobz31) 08-07 17:26:11
+我这个怎么到 8 点才能恢复了，之前是半小时或者最多一个小时后恢复啊
+
+新世界(wxid_98g2m3mfrobz31) 08-07 17:26:15
+![图片](http://127.0.0.1:5030/image/8508c3c46e6a2b218c22c2cfb3c0978c)
+
+新世界(wxid_98g2m3mfrobz31) 08-07 17:26:18
+刚出现的
+
+枫宇翔(wxid_g83uvjmroaje21) 08-07 17:29:02
+和我一样，而且我感觉到达限制的时间变快了，没用多久就到达限制了[破涕为笑]
+
+新世界(wxid_98g2m3mfrobz31) 08-07 17:30:32
+确实，是不是大规模人的使用造成的，
+
+新世界(wxid_98g2m3mfrobz31) 08-07 17:30:59
+解禁限制的时间半个小时 一个小时还好，这样长时间 就没意思了
+
+别卡呀(wxid_0p66sc5q9aea11) 08-07 17:59:37
+求问小排老师指的测评类网站是哪种哦
+
+别卡呀(wxid_0p66sc5q9aea11) 08-07 17:59:37
+![图片](http://127.0.0.1:5030/image/d4483809d91d68b713a9e21677931a7b)
+
+星吟(wxid_ivo4n28g15qj21) 08-07 18:05:27
+mbti、星座测评那种吧
+
+无极(wxid_wdl7p3msdupm22) 08-07 18:09:21
+或者可能类似于购物的，可以参考电脑测评，给搜索的的人提供一些购买的参考信息
+
+无极(wxid_wdl7p3msdupm22) 08-07 18:09:25
+可能是这种
+
+闻鉴(wxid_cdtcq1czmsgf22) 08-07 18:16:46
+> 新世界(wxid_98g2m3mfrobz31) 08-07 17:30:59
+> 解禁限制的时间半个小时 一个小时还好，这样长时间 就没意思了
+不是不限量200美元那种用户，最好不开思考模式。太费token了
+
+无极(wxid_wdl7p3msdupm22) 08-07 18:25:40
+得有钞能力
+
+无极(wxid_wdl7p3msdupm22) 08-07 18:25:41
+[动画表情]
+
+Insight(lyo_jo) 08-07 20:16:40
+做了一个【微博详情页导出工具】，可以把图片/文字/评论，导出为 HTML PDF～方便保存微博内容，不怕丢失！（我一直想要的功能，但是市面上没有，所以自己做了一个）
+
+
+https://chromewebstore.google.com/detail/acjbgddibobbelbghjgllmlfbhfkamaj?utm_source=item-share-cb
+
+Insight(lyo_jo) 08-07 20:17:16
+![图片](http://127.0.0.1:5030/image/a36ddc9b74bf63768f78e4bbcf0cf85b)
+
+Insight(lyo_jo) 08-07 20:17:44
+![图片](http://127.0.0.1:5030/image/f3c4738f7f5d1370c38e5be1f64489a4)
+
+JACKIE(qq573729221) 08-07 20:18:49
+[强]
+
+卫斯理🤍(wxid_cap2car89b7811) 08-07 20:29:47
+优秀
+
+新世界(wxid_98g2m3mfrobz31) 08-07 21:42:14
+> 闻鉴-广州(wxid_cdtcq1czmsgf22) 08-07 18:16:46
+> > [引用]
+> 不是不限量200美元那种用户，最好不开思考模式。太费token了
+我没主动开思考模式啊，是自动开的吗
+
+闻鉴(wxid_cdtcq1czmsgf22) 08-07 22:35:42
+> 新世界(wxid_98g2m3mfrobz31) 08-07 21:42:14
+> > [引用]
+> 我没主动开思考模式啊，是自动开的吗
+应该不是。

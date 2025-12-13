@@ -1,0 +1,409 @@
+舒未读(wxid_1814638146314) 11-02 00:01:08
+是
+
+蚕(wxid_b7icucoyx1nb21) 11-02 00:04:23
+还是老样子[流泪]
+
+蚕(wxid_b7icucoyx1nb21) 11-02 00:04:36
+睡了，明天再搞[衰]
+
+舒未读(wxid_1814638146314) 11-02 00:08:43
+[捂脸]，项目那里有个日志能看到具体运行错误信息的，免费用户只显示最近一小时的，你看看就知道哪里报错了，再投喂给AI排查就有了
+
+舒未读(wxid_1814638146314) 11-02 00:10:12
+![图片](http://127.0.0.1:5030/image/9b067557fe97d739a5d90e9f640aa6fa)
+
+新侠(wxid_kysk4x0anmy712) 11-02 00:36:33
+#举手 我之前买的 max 5x，再升级到 20x，5x 剩余的 29 天也会升级吗
+
+舒未读(wxid_1814638146314) 11-02 00:37:18
+> 新侠(wxid_kysk4x0anmy712) 11-02 00:36:33
+> #举手 我之前买的 max 5x，再升级到 20x，5x 剩余的 29 天也会升级吗
+直接claude问会告诉你，讲道理会折算
+
+剑廿三(nianlvting) 11-02 00:44:48
+> 新侠(wxid_kysk4x0anmy712) 11-02 00:36:33
+> #举手 我之前买的 max 5x，再升级到 20x，5x 剩余的 29 天也会升级吗
+直接去官方网站升级，他会给出你还要多少钱才能升级
+
+文身艺术家_补丁(wxid_8983149830812) 11-02 01:20:39
+文身艺术家_补丁(wxid_8983149830812) 11-02 01:22:24
+宁王（加油！）(wxid_5182881829312) 11-02 01:27:25
+能画出来或者描述清楚更好，避免歧义[让我看看]
+
+宁王（加油！）(wxid_5182881829312) 11-02 01:27:32
+"${wxid_5182881829312}" 拍了拍 "${wxid_8983149830812}"
+
+文身艺术家_补丁(wxid_8983149830812) 11-02 01:31:17
+文身艺术家_补丁(wxid_8983149830812) 11-02 01:34:19
+#举手 小排老师，我这回想做的产品形态有点复杂，（是一个AI销售转化助手）AI建议我先做个mvp，然后mvp也分了v1，v2等等；问题是1.这个规划中每个阶段产品形态/架构都不大一样，感觉每一版都要改好多。 2.我可以选择先做个假demo给用户看（验证是否有人愿意买单），也可以选择先做个mvp放自己网站上先收集一些真实数据（验证产品是否真的能提高销售转化）。您怎么看？第一版应该怎么做？
+
+刘小排(liuxiaopai) 11-02 01:36:30
+可以 很好
+
+刘小排(liuxiaopai) 11-02 01:36:47
+验证付费资源是不需要有真功能的
+
+刘小排(liuxiaopai) 11-02 01:37:35
+你如果问我怎么做，我会先做真功能的，我相对比较熟练一点吧。反正是AI写 又不是我写 能难到哪儿去
+
+文身艺术家_补丁(wxid_8983149830812) 11-02 01:38:05
+嗯，那对我们这种小白来说，v1应该先做个mvp验证核心功能可用，还是先做个demo验证有人愿意付费？
+
+文身艺术家_补丁(wxid_8983149830812) 11-02 01:38:31
+（关键是要做好久 哈哈哈）
+
+文身艺术家_补丁(wxid_8983149830812) 11-02 01:42:20
+谢谢老师[呲牙]
+
+刘小排(liuxiaopai) 11-02 02:32:23
+看你自己的优先级。现在对你来说是学习技术更重要，还是找需求更重要？
+
+文身艺术家_补丁(wxid_8983149830812) 11-02 02:44:20
+懂了😉那我先做核心功能
+
+Ruiqin袁锐钦(wetas6) 11-02 03:56:32
+[视频号|白墨烫画记账系统#白墨烫画 #袁锐钦](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibusn4vVFEyiaryQIMLtgAt9Qd4rCf9ibEtabJ1L456icD3xBiaqpAWVwJuDnq4ESqbVia0ibniaEMIKgBwSAibEsXTrWpmZx1wmFVwyialM6OyicYG3Tl2NQYmfEpEvNA&hy=SZ&idx=1&m=adb38f29307d785c2782207bb2921123&uzid=7a206&token=AxricY7RBHdUzRibrpuGeAUT8BPmrIDUVMBzhZYcybHMIwEoQ1gsCncfsz7OFibECMr7Vr7haLtJdjIKZpicbgCBpVVmo4cwdBFrg7QS4ialC1E7yBm9LGVKfjGdxvqHn69b1qgaMaYMZSy5icm4D0aHrtxwjXmFPxsjVbHxmGmPxAEkA&basedata=CAESABoDeFYwIgAqBwipWhAAGAI&sign=TP3VcK0L3BBbC5gd-qI65rvOyoNkL7NvEnX3AiKHbtK9vbJiL6XJvbmsR0x_vlLGqA6XxwCe4aarRL1zNO9_Qw)
+
+Ruiqin袁锐钦(wetas6) 11-02 03:56:34
+终于搞好了[捂脸]
+
+蚕(wxid_b7icucoyx1nb21) 11-02 06:55:08
+> 志愿者-舒未读(wxid_1814638146314) 11-02 00:08:43
+> [捂脸]，项目那里有个日志能看到具体运行错误信息的，免费用户只显示最近一小时的，你看看就知道哪里报错了，再投喂给AI排查就有了
+好滴，谢谢
+
+骷髅骨头(nicolaslau) 11-02 10:05:49
+为啥高强度训练的目录不可跳转
+
+骷髅骨头(nicolaslau) 11-02 10:06:06
+![图片](http://127.0.0.1:5030/image/45f3279898e5e28970a3acb8e93c800b)
+
+独孤风(wxid_xjrjth5wdu0322) 11-02 10:35:47
+"${wxid_xjrjth5wdu0322}" 拍了拍 "${wetas6}"
+
+独孤风(wxid_xjrjth5wdu0322) 11-02 10:35:56
+![图片](http://127.0.0.1:5030/image/a2d3e319890317ebcabdb9c6517daa8d)
+
+独孤风(wxid_xjrjth5wdu0322) 11-02 10:36:34
+#举手 我四月份那个站确实流量大了一阵 然后就被vercel给停了
+
+骷髅骨头(nicolaslau) 11-02 10:39:37
+> 骷髅-深圳(nicolaslau) 11-02 10:05:49
+> 为啥高强度训练的目录不可跳转
+@西约-助教 
+
+西约(KKmity) 11-02 10:41:36
+> 骷髅-深圳(nicolaslau) 11-02 10:05:49
+> 为啥高强度训练的目录不可跳转
+我问问
+
+剑廿三(nianlvting) 11-02 11:07:36
+月访问300万吗？
+
+Jupiter-zeus(wxid_u9qhmvlqb9or21) 11-02 11:08:38
+#举手
+大家是如何解决无法给claude code终端发截图问题的？保存下来？
+
+舒未读(wxid_1814638146314) 11-02 11:16:46
+> Jupiter-zeus(wxid_u9qhmvlqb9or21) 11-02 11:08:38
+> #举手
+> 大家是如何解决无法给claude code终端发截图问题的？保存下来？
+直接粘贴不就好了吗？ctrl+v
+
+舒未读(wxid_1814638146314) 11-02 11:16:57
+mac是cmd+v
+
+舒未读(wxid_1814638146314) 11-02 11:17:32
+codex也是可以操作的mac也是control+v
+
+西约(KKmity) 11-02 11:20:35
+@骷髅-深圳 这块目前还不能跳转，下周更新哈
+
+Jupiter-zeus(wxid_u9qhmvlqb9or21) 11-02 11:25:05
+> 志愿者-舒未读(wxid_1814638146314) 11-02 11:16:46
+> > [引用]
+> 直接粘贴不就好了吗？ctrl+v
+粘贴不了
+
+Jupiter-zeus(wxid_u9qhmvlqb9or21) 11-02 11:25:31
+![图片](http://127.0.0.1:5030/image/199ad398c915ecd69617c08ec02c0ee2)
+
+舒未读(wxid_1814638146314) 11-02 11:31:37
+好吧，win你只走粘贴路径+文件名的方式了。
+比如：c:/windows/xxx.png
+
+舒未读(wxid_1814638146314) 11-02 11:31:59
+mac这边是能直接粘贴的
+
+我 11-02 11:32:46
+"志愿者-舒未读" 撤回了一条消息
+
+Chris(Chris_-) 11-02 11:33:38
+#举手 有没有专门针对发布到域名访问的详细步骤。
+
+阿贾会开心💗(jiafuwei1996) 11-02 11:33:39
+claude 可以用 vscode 装插件，那个插件能直接粘贴图片上去，终端是放文件名进去
+
+舒未读(wxid_1814638146314) 11-02 11:33:47
+或者你还可以这样，下载WSL在这里面就能直接粘贴图片了，等于套了一层Linux的外壳
+
+舒未读(wxid_1814638146314) 11-02 11:34:15
+> 月起星九-南京(jiafuwei1996) 11-02 11:33:39
+> claude 可以用 vscode 装插件，那个插件能直接粘贴图片上去，终端是放文件名进去
+对对对，差点忘记了插件了，这个也能实现
+
+舒未读(wxid_1814638146314) 11-02 11:35:01
+> Chris(Chris_-) 11-02 11:33:38
+> #举手 有没有专门针对发布到域名访问的详细步骤。
+GPT能帮你解决
+
+Jupiter-zeus(wxid_u9qhmvlqb9or21) 11-02 11:36:10
+收到，我研究下在vscode装claude插件，谢谢
+
+Jupiter-zeus(wxid_u9qhmvlqb9or21) 11-02 11:36:57
+用惯了IDE再用claude code命令行不太习惯
+
+阿贾会开心💗(jiafuwei1996) 11-02 11:38:08
+插件比较方便，输入框的编辑，内容的复制都方便些的
+
+舒未读(wxid_1814638146314) 11-02 11:38:24
+> Jupiter-zeus(wxid_u9qhmvlqb9or21) 11-02 11:36:57
+> 用惯了IDE再用claude code命令行不太习惯
+插件完美解决
+
+我 11-02 11:53:25
+"新侠" 撤回了一条消息
+
+我 11-02 13:02:34
+"蚕–东京" 撤回了一条消息
+
+蚕(wxid_b7icucoyx1nb21) 11-02 13:59:08
+![图片](http://127.0.0.1:5030/image/0c685fb388a255f65562423dbec23fe0)
+
+蚕(wxid_b7icucoyx1nb21) 11-02 13:59:51
+![图片](http://127.0.0.1:5030/image/3fc84d2931bf9ea0944b8281e9c1bf3a)
+
+蚕(wxid_b7icucoyx1nb21) 11-02 14:00:41
+#举手 老师，我明明配置好了环境变量，而且更改了变量后又重新部署了，但程序老说我 变量是空的，这是怎么回事呢
+
+新页(zqx10104) 11-02 14:03:15
+名字都对不上呀
+
+舒未读(wxid_1814638146314) 11-02 14:04:50
+估计代码中读得变量名不一致
+
+蚕(wxid_b7icucoyx1nb21) 11-02 14:05:42
+我改下名字再试试
+
+新页(zqx10104) 11-02 14:09:30
+要看你代码用的啥变量
+
+舒未读(wxid_1814638146314) 11-02 14:09:31
+变量名命名规范应该是:平台_API_KEY，以此类推
+
+蚕(wxid_b7icucoyx1nb21) 11-02 14:26:54
+![图片](http://127.0.0.1:5030/image/a9ef41b51cff3dd762ebe9369fc032db)
+
+新侠(wxid_kysk4x0anmy712) 11-02 14:26:57
+我发现 vibe coding 就是一个不断写需求文档的过程，只要把需求实现逻辑描述的越来越清楚，就能写出不错质量的代码
+
+蚕(wxid_b7icucoyx1nb21) 11-02 14:43:16
+终于OK了
+
+蚕(wxid_b7icucoyx1nb21) 11-02 14:43:27
+太不容易了[流泪]
+
+蚕(wxid_b7icucoyx1nb21) 11-02 14:45:07
+![动画表情](http://wxapp.tc.qq.com/262/20304/stodownload?m=c1a1926358ed461cd617a7261887c6e2&filekey=30350201010421301f02020106040253480410c1a1926358ed461cd617a7261887c6e2020300abed040d00000004627466730000000132&hy=SH&storeid=2631dfdc0000b1735000000000000010600004f5053480bc64b40b7426c54b&bizid=1023)
+
+盟主君(wxid_9371643717112) 11-02 15:04:32
+今天发现sora2都不免费了
+
+盟主君(wxid_9371643717112) 11-02 15:05:13
+页面也更新改版了，其他渠道也都是收费了[捂脸]
+
+蚕(wxid_b7icucoyx1nb21) 11-02 15:06:32
+![图片](http://127.0.0.1:5030/image/e0c2b239b99b33666d408c0f956b6b99)
+
+蚕(wxid_b7icucoyx1nb21) 11-02 15:08:56
+我们能够用芥末便宜的大模型，都是投资银的慷慨赠予啊
+
+盟主君(wxid_9371643717112) 11-02 15:21:40
+大模型也许就变成基础设施了，
+
+田超(abraham1) 11-02 17:22:35
+就是ai基建
+
+Shrek(linchen102013) 11-02 17:35:09
+> 补丁(wxid_8983149830812) 11-02 01:31:17
+> > [引用]
+> 嗯就是跟他巴拉巴拉说一堆吗
+https://youtu.be/fK_bm84N7bs?si=C2CTJ6-eVl1R-hFj
+你看下这个视频 前几天出的 很简单 不管什么样的形式 是手画还是软件画 描述清楚就完全没问题。
+
+Shrek(linchen102013) 11-02 17:36:54
+甚至你可以找到你的对标 让ai根据你的对标 画出ascii图 在这一步只要确定房子的骨架正确。
+至于后面要怎么装修 有其他的办法。
+
+约德尔人(wxid_giurv9gqrakx22) 11-02 17:50:58
+这种英文视频，用手机看有什么好的翻译软件吗
+
+陈宇强(change-fate) 11-02 17:52:29
+![图片](http://127.0.0.1:5030/image/2478a5be1227145e9909deb2fda59b5e)
+
+陈宇强(change-fate) 11-02 17:52:43
+太爽了，同时搞两个窗口跑 cc
+
+黑马(wxid_vi0z5p6rndkt22) 11-02 18:23:37
+对比了下 glm 和 cc 发现我之前一直用的一家中转应该偷偷的给我对接的应该是 glm 各种错误各种弱智 真正的 cc 双太多了
+
+田超(abraham1) 11-02 18:24:19
+cc 你是直接官网用。还是中转？  @黑马
+
+黑马(wxid_vi0z5p6rndkt22) 11-02 18:24:44
+我现在也是中转 就是春秋的
+
+田超(abraham1) 11-02 18:24:54
+哦哦
+
+黑马(wxid_vi0z5p6rndkt22) 11-02 18:24:58
+是之前的中转有问题 
+
+新侠(wxid_kysk4x0anmy712) 11-02 18:35:40
+春秋大哥的没降智，但是用了官方 cc 你会发现网速从 3g 变成了 5g
+
+黑马(wxid_vi0z5p6rndkt22) 11-02 18:39:35
+[流泪][流泪][流泪]我主要是封号了 没时间去搞官方的 怕封浪费时间
+
+蚕(wxid_b7icucoyx1nb21) 11-02 18:41:04
+![图片](http://127.0.0.1:5030/image/71e4485ab028830a984c574cb1b7936d)
+
+蚕(wxid_b7icucoyx1nb21) 11-02 18:41:31
+#举手 老师，这个勾选会不会不安全呢
+
+黑马(wxid_vi0z5p6rndkt22) 11-02 18:43:43
+@新侠 您一直用的不封号吗 是用的什么 ip
+
+潘阳阳·天光(wxid_wu5lk3glyhnr51) 11-02 19:09:39
+![图片](http://127.0.0.1:5030/image/5af42026e12f00724a36ff030c8a6ebd)
+
+潘阳阳·天光(wxid_wu5lk3glyhnr51) 11-02 19:09:56
+namecheap 买完域名被封了[苦涩]
+
+田超(abraham1) 11-02 19:20:03
+什么原因被封@潘阳阳·天光 
+
+潘阳阳·天光(wxid_wu5lk3glyhnr51) 11-02 19:20:36
+说是命中风控了@田超 
+
+蚕(wxid_b7icucoyx1nb21) 11-02 19:26:16
+你还没上线，就……干了啥
+
+潘阳阳·天光(wxid_wu5lk3glyhnr51) 11-02 19:28:53
+没上线，下午买完域名出去转了会，晚上想绑定的，就被封了[苦涩]。不知道是不是因为我用了 visa 卡，填的中国地址
+
+田超(abraham1) 11-02 19:29:21
+我昨天群里问了。中国地址没事呀
+
+田超(abraham1) 11-02 19:29:32
+按照自己实际情况填就行
+
+潘阳阳·天光(wxid_wu5lk3glyhnr51) 11-02 19:29:39
+我也是
+
+蚕(wxid_b7icucoyx1nb21) 11-02 19:31:13
+不会呀，域名不会限制国籍
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-02 19:31:21
+我发现AI是不是统计了个人信息，kimi有时直接说出我的年龄，我没告诉过他
+
+蚕(wxid_b7icucoyx1nb21) 11-02 19:31:55
+你肯定在社交上号上留了信息
+
+蚕(wxid_b7icucoyx1nb21) 11-02 19:32:06
+被抓取了
+
+潘阳阳·天光(wxid_wu5lk3glyhnr51) 11-02 19:32:13
+我的 claude，GPT 都是正常的
+
+潘阳阳·天光(wxid_wu5lk3glyhnr51) 11-02 19:32:23
+> 蚕–东京(wxid_b7icucoyx1nb21) 11-02 19:31:55
+> 你肯定在社交上号上留了信息
+x 之类的吗？
+
+蚕(wxid_b7icucoyx1nb21) 11-02 19:32:50
+![图片](http://127.0.0.1:5030/image/fd80fe275002a7dcbf8c26dfa2528542)
+
+蚕(wxid_b7icucoyx1nb21) 11-02 19:34:10
+那个浏览器都自告奋勇去删我的仓库啥的，他肯定在后面悄悄刷了很多你的信息
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-02 19:36:19
+哈哈，之前我用kimi写pyhton，用他测试的时候，他直接说出了我的年龄，也可能是巧合，哈哈哈
+
+蚕(wxid_b7icucoyx1nb21) 11-02 19:39:05
+[视频号|假如AI开始说真话 毒舌嘲讽不能自理的人类 像打了鸡血疯狂输出#英语#英语学习](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQDRAasNxWmnMiaxBzc7RJ0vE0icI5sugJ7Z2TCh42oibqadgOvO4icd8t49xIBNT7MpryFIHEHs9Iic6OQ3NgMo4cM0x&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a21a&token=6xykWLEnztJZOjh46HSCSLhR4BlyF2UqOdf6WXYTH6nZ14E7ibutultWiapUjGf9PumVQZOvKy4MdHvribtwrUM8ERzX6zNoTxyKYQ15S9XdVWJnns9lOiaG5Pm8icunh9PfPEHsB9aTREicDzqQejSp8A6058GPqRU2r8uqqnjz313UQ&basedata=CAESBnhXVDExMhoGeFdUMTExGgZ4V1QxMTIaBnhXVDExMyIMCgoKBnhXVDExMhABKgcIs0QQABgC&sign=J9RyfY1qZKtQJpbPHMxZm2aJNny-UGMm73nRMmWP5bL1IFGPinJrevy01xO-pMxLBZQ4TAUsYU1EYmCsoorRuQ&ctsc=198&extg=10ec000&svrbypass=AAuL%2FQsFAAABAAAAAADkVrZEpgzu6phxzkIHaRAAAADnaHZTnGbFfAj9RgZXfw6VoqXiuSQv2Kuhop03JVReYYEhaohld2Ogzl9Lh9ofdvP39CYui1ehvng%3D&svrnonce=1762083534)
+
+阿紫(wxid_2a408cdrn8aa22) 11-02 19:39:31
+> Newbie_成都(wxid_p6ohfe1htnil22) 11-02 19:31:21
+> 我发现AI是不是统计了个人信息，kimi有时直接说出我的年龄，我没告诉过他
+很简单，你直接问他，你怎么知道的。
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-02 19:42:55
+> 阿紫(wxid_2a408cdrn8aa22) 11-02 19:39:31
+> > [引用]
+> 很简单，你直接问他，你怎么知道的。
+有道理，之前我看到周鸿祎说AI会骗人，不知道是不是真的
+
+蚕(wxid_b7icucoyx1nb21) 11-02 19:47:20
+会呀，当他找不到答案的时候，他就会编
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-02 19:49:38
+不是，我看周鸿祎说研发人员问AI，你撒谎了吗？它说没有，问了几轮，才说撒谎了
+
+李小伟(wxid_gc80tr4yx20022) 11-02 20:42:29
+老外也有恶心的操作，在免费试用的时候，里面有协议告诉你（很不明显），后面会自动扣款，没认真看，就被扣$19一个月[捂脸]
+
+李小伟(wxid_gc80tr4yx20022) 11-02 20:42:29
+![图片](http://127.0.0.1:5030/image/e1335862a1f41803efc1c6813ddfb028)
+
+蚕(wxid_b7icucoyx1nb21) 11-02 21:28:38
+![图片](http://127.0.0.1:5030/image/9b5819805dda4c03d8ffa63cdc24f681)
+
+蚕(wxid_b7icucoyx1nb21) 11-02 21:28:56
+为啥我每一步都要反复抽卡[流泪]
+
+蚕(wxid_b7icucoyx1nb21) 11-02 21:29:56
+![图片](http://127.0.0.1:5030/image/aed34aa2c20699e82e5f4ac5ecc0c43e)
+
+蚕(wxid_b7icucoyx1nb21) 11-02 21:30:09
+这都OK的呀[流泪]
+
+Ruiqin袁锐钦(wetas6) 11-02 21:36:10
+你这是要弄什么啊
+
+新页(zqx10104) 11-02 21:44:05
+> 李小伟(wxid_gc80tr4yx20022) 11-02 20:42:29
+> 老外也有恶心的操作，在免费试用的时候，里面有协议告诉你（很不明显），后面会自动扣款，没认真看，就被扣$19一个月[捂脸]
+订阅的试用就是这样的呀，可以取消订阅的
+
+李小伟(wxid_gc80tr4yx20022) 11-02 21:48:02
+被扣钱了才发现[捂脸]，主要它那个产品不是很好用
+
+Ruiqin袁锐钦(wetas6) 11-02 22:05:16
+你把信用卡自动扣费关了就好了[偷笑]
+
+蚕(wxid_b7icucoyx1nb21) 11-02 23:00:23
+![图片](http://127.0.0.1:5030/image/77c18d31fec4ca015135eade6f82269f)
+
+蚕(wxid_b7icucoyx1nb21) 11-02 23:00:38
+终于搞定了。。。
+
+刘小排(liuxiaopai) 11-02 23:59:01
+官方版的Claude Code for VS Code 已经支持bypass permission mode (Allow Dangerously Skip Permissions)
+
+刘小排(liuxiaopai) 11-02 23:59:01
+![图片](http://127.0.0.1:5030/image/3d62307653b086e09bb176ad484e8b40)
+
+万青（闭关中）(wxid_3e9ju9f13ptx21) 11-02 23:59:27
+"${wxid_3e9ju9f13ptx21}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]

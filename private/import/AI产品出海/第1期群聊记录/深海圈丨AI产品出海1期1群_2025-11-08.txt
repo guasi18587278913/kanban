@@ -1,0 +1,239 @@
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-08 00:02:21
+[动画表情]
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-08 00:02:26
+我就说火的莫名其妙
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-08 00:02:30
+我的阅读也不高
+
+Moore(xiaobei1984) 11-08 00:03:02
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-08 00:03:59
+就是还真不是假的 真的能调用上
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-08 00:04:02
+[动画表情]
+
+离心之巅(wxid_zct5h7skjhaq22) 11-08 00:05:00
+[链接|Mini Price，Max Performance，关于API、编程套餐和Agent](https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ==&mid=2247487105&idx=1&sn=7e5c4ec0a954c9e529ba4bf144a30a69&chksm=97cc8aff8ec87ff3737e7f5762e132cd05ee250a0ce9f177f442889b10d96ce3e755ebd76734&mpshare=1&scene=1&srcid=1108EaMIgHNBDXypCgn1T0Cm&sharer_shareinfo=3f5c37ea6f6d1db6b6e981943bd9f52f&sharer_shareinfo_first=3f5c37ea6f6d1db6b6e981943bd9f52f#rd)
+
+离心之巅(wxid_zct5h7skjhaq22) 11-08 00:05:17
+minimax 价格是真便宜
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-08 01:49:22
+> Moore 助教(xiaobei1984) 11-08 00:03:02
+> > [引用]
+> 好久不用cursor 还有以前的500次？
+有的，只是消耗很快几天就没了
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-08 01:50:14
+Moore(xiaobei1984) 11-08 08:07:08
+> 土豆君(wxid_gzr7bvbdlvlv22) 11-08 01:49:22
+> > [引用]
+> 有的，只是消耗很快几天就没了
+[旺柴] 加上cc 够用了
+
+顺利(wxid_n6kjtdjnivea21) 11-08 08:08:55
+cursor里的codex模型速度还是很快的
+
+顺利(wxid_n6kjtdjnivea21) 11-08 08:09:12
+没比sonnet慢多少，效果也不错
+
+我 11-08 08:13:35
+"Moore 助教" 撤回了一条消息
+
+Moore(xiaobei1984) 11-08 08:15:20
+[旺柴] codex 已经改成 cursor gemini flash 2.5，很少直接codex
+
+wwwddd(q283477748) 11-08 08:22:38
+> 顺利(wxid_n6kjtdjnivea21) 11-08 08:08:55
+> cursor里的codex模型速度还是很快的
+Its fake
+
+wwwddd(q283477748) 11-08 08:22:47
+还是终端调用靠谱
+
+浮生(luheng_430) 11-08 08:31:01
+确实 codex 终端用起来就是比其他地方用靠谱
+
+猫小白（🥗🐟🐔🍠🌽）(rain_artneo) 11-08 08:48:58
+codex有自己的IDE插件，在cursor里安装也蛮好用。
+
+张骏飞(wxid_5935259353112) 11-08 10:07:20
+最好就是 用终端
+
+张骏飞(wxid_5935259353112) 11-08 10:07:31
+传数据用mcp
+
+张骏飞(wxid_5935259353112) 11-08 10:07:47
+文档化 自动化 全部通过mcp
+
+张骏飞(wxid_5935259353112) 11-08 10:08:13
+理论上mcp 能完成任何自动化需求  任何
+
+Lily 兰心(wxid_55i7xj4ozfa022) 11-08 10:11:06
+改进后的cursor非常好用，还能提示防止IP滥用做出了优化，很贴心，适合我这种非技术流
+
+张骏飞(wxid_5935259353112) 11-08 10:31:58
+目前ai coding 最优解应该就是：
+新开项目用cc写代码和测试 codex审计和设计； 
+老项目迭代就反过来 用codex写代码和分析 cc审计和测试；
+通过mcp加速这个过程，比如codex思考很慢，就可以用sequential-thinking辅助他快速思考；
+全过程需求/设计/编写/测试报告 全文档化（热知识：cc和codex的上下文已经超过200k，理论可阅读远超过20万以上文档量）；
+
+顺利(wxid_n6kjtdjnivea21) 11-08 10:33:06
+一直在用vscode插件里的codex，今天是时候尝试一下终端调用了
+
+顺利(wxid_n6kjtdjnivea21) 11-08 10:34:11
+![图片](http://127.0.0.1:5030/image/c28b5c3317a0c99a4b64df7b714f0870)
+
+顺利(wxid_n6kjtdjnivea21) 11-08 10:34:27
+我发现gemini一旦牵扯到codex相关的问题，就会装傻充愣
+
+顺利(wxid_n6kjtdjnivea21) 11-08 10:34:53
+一个月前就这样，现在还这样[捂脸]这就是朴实无华的商战吗
+
+张骏飞(wxid_5935259353112) 11-08 10:36:46
+你问他一下 他的数据截止到什么时候
+
+顺利(wxid_n6kjtdjnivea21) 11-08 10:39:56
+我觉得跟那个没关系，现在大模型都能联网搜索，不至于这么火热的关键词都不懂，它就是在装傻，国内的模型都能回答
+
+顺利(wxid_n6kjtdjnivea21) 11-08 10:40:02
+![图片](http://127.0.0.1:5030/image/24250989744d94a56cc8d0f5e8bd9512)
+
+Moore(xiaobei1984) 11-08 11:59:14
+vercel 的开源计划，新增了一个动画组件库：https://animate-ui.com/
+
+Ash焚芯(wxid_siqp6j111tho22) 11-08 11:59:52
+"${wxid_siqp6j111tho22}" 拍了拍 "${xiaobei1984}"
+
+Moore(xiaobei1984) 11-08 12:01:11
+> Moore 助教(xiaobei1984) 11-08 11:59:14
+> vercel 的开源计划，新增了一个动画组件库：https://animate-ui.com/
+我个人比较喜欢它的 background 组件，比较适合做 hero section 的背景
+
+Moore(xiaobei1984) 11-08 12:01:54
+还有一些卡片的背景
+
+Ash焚芯(wxid_siqp6j111tho22) 11-08 12:03:23
+我是 21st 上的组件，复制提示词加截图，也可以直接出一样效果
+
+Moore(xiaobei1984) 11-08 12:05:24
+21st 和 animate 解决的场景不一样
+
+顺利(wxid_n6kjtdjnivea21) 11-08 12:05:37
+这个鼠标悬停不错
+
+顺利(wxid_n6kjtdjnivea21) 11-08 12:05:38
+![图片](http://127.0.0.1:5030/image/8470006b7a245a6edec4c5fb4319c359)
+
+顺利(wxid_n6kjtdjnivea21) 11-08 12:05:38
+很酷
+
+Ash焚芯(wxid_siqp6j111tho22) 11-08 12:06:11
+嗯，一会看下
+
+Moore(xiaobei1984) 11-08 12:07:29
+> 顺利(wxid_n6kjtdjnivea21) 11-08 12:05:38
+> ![图片](http://127.0.0.1:5030/image/8470006b7a245a6edec4c5fb4319c359)
+其它的细节也可以，做交互，做卡片，做section背景，都可以选择
+
+顺利(wxid_n6kjtdjnivea21) 11-08 12:12:41
+是啊，很棒
+
+顺利(wxid_n6kjtdjnivea21) 11-08 12:12:58
+![图片](http://127.0.0.1:5030/image/39081f67eb239bac07706b4fa10fa695)
+
+顺利(wxid_n6kjtdjnivea21) 11-08 12:13:04
+这个主题切换的动画也很酷
+
+Moore(xiaobei1984) 11-08 12:15:10
+主要是针对 黑色主题风格为主，可以统一风格，不像 21st 只注重效果，细节还是有点瑕疵，不是一整套解决方案
+
+Moore(xiaobei1984) 11-08 12:16:37
+前者是方案，21st是模板市场
+
+Ash焚芯(wxid_siqp6j111tho22) 11-08 12:28:06
+微信在截图的时候
+准心所在的位置显示当前色值
+Ctrl+C 可以直接复制下来
+在开发过程中直接粘贴给大模型
+如：把字体颜色改成 xxx  把背景颜色改成 xxx
+实现精准调色
+非常方便好用
+
+顺利(wxid_n6kjtdjnivea21) 11-08 12:42:45
+"${wxid_n6kjtdjnivea21}" 拍了拍 "${wxid_siqp6j111tho22}"
+
+Ash焚芯(wxid_siqp6j111tho22) 11-08 12:49:32
+> 顺利(wxid_n6kjtdjnivea21) 11-08 12:13:04
+> 这个主题切换的动画也很酷
+确实帅，有些网站可以提升下逼格了
+
+Moore(xiaobei1984) 11-08 12:51:51
+[旺柴] 多收集几套组件库，保持Ui新鲜
+
+Ash焚芯(wxid_siqp6j111tho22) 11-08 12:52:21
+嗯，组件真细腻
+
+droidHZ(wxid_5396913969012) 11-08 13:01:13
+> Ash焚芯-临沂(wxid_siqp6j111tho22) 11-08 12:28:06
+> 微信在截图的时候
+> 准心所在的位置显示当前色值
+> Ctrl+C 可以直接复制下来
+> 在开发过程中直接粘贴给大模型
+> 如：把字体颜色改成 xxx  把背景颜色改成 xxx
+> 实现精准调色
+> 非常方便好用
+微信这个功能经常用，以前还要专门找颜色拾取的产品[破涕为笑]
+
+Ash焚芯(wxid_siqp6j111tho22) 11-08 13:03:03
+我是最近调颜色的时候偶然发现的，真好用
+
+前行(gejinpeng123) 11-08 13:21:57
+> Ash焚芯-临沂(wxid_siqp6j111tho22) 11-08 12:28:06
+> 微信在截图的时候
+> 准心所在的位置显示当前色值
+> Ctrl+C 可以直接复制下来
+> 在开发过程中直接粘贴给大模型
+> 如：把字体颜色改成 xxx  把背景颜色改成 xxx
+> 实现精准调色
+> 非常方便好用
+这是啥意思呢，我经常也用微信的截图
+
+Ash焚芯(wxid_siqp6j111tho22) 11-08 13:28:52
+![图片](http://127.0.0.1:5030/image/9e866c74d21b2ad489c7dfbac7b03125)
+
+前行(gejinpeng123) 11-08 13:52:35
+明白了，感谢
+
+浙大吴美律(wxid_wey7hbsz7pzq22) 11-08 14:53:07
+[强][强][强]以前没注意过
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-08 17:17:33
+翻石头写了篇文章[让我看看]
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-08 17:17:33
+[链接|一个 AI 合同网站一个月流量暴涨 18 万？我查了下，真相离谱](https://mp.weixin.qq.com/s?__biz=Mzg2NzYxNTQwNw==&mid=2247483995&idx=1&sn=1009dc7cc89d5d0c4427b25307854876&chksm=cf92dff98bbbc8ed469e0d8991811f64a250740254be10789f4205649e3ae7b5440c1ae49a3c&mpshare=1&scene=1&srcid=1108vwA7HxyTpKyfHH02QZwM&sharer_shareinfo=a84b77fd5220c17dce90fbd6b83e57c1&sharer_shareinfo_first=a84b77fd5220c17dce90fbd6b83e57c1#rd)
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-08 17:18:43
+把公众号寄捡起来hhh
+
+Super黄（沉迷AI编程）(lookforward) 11-08 17:37:40
+"${lookforward}" 拍了拍 "${wxid_gzr7bvbdlvlv22}" 的西瓜，舀了一勺[烟花]
+
+青竹(wxid_1348793487711) 11-08 19:21:26
+这个过程，感觉要是能有个工具直接分析出结果，会省很多时间，也会有很多同行愿意付钱吧
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-08 19:25:03
+是的，ai就是缺数据，这些网站数据都需要自己登录去查看
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-08 19:25:43
+做个工具我觉得比较难，不过我觉得每天截截图丢给ai分析出报告还是可以的[奸笑]
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-08 19:26:11
+可以先手动后自动hhh
+
+Max(wxid_phqmrpttvhpj51) 11-08 19:43:14
+"${wxid_phqmrpttvhpj51}" 拍了拍 "${szm800717}"

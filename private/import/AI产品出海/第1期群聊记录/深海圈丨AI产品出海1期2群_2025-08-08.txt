@@ -1,0 +1,438 @@
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-08 08:32:51
+![图片](http://127.0.0.1:5030/image/a0359575b1ed667f81ebfb1425cd20a9)
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-08 08:33:28
+又又更新啦
+
+江城子(abcd2456906317) 08-08 08:40:06
+更新之后 o3已经没了吗
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-08 08:40:38
+没找到。应该是没了。
+
+SuperEric(janetchristmas) 08-08 08:42:28
+![图片](http://127.0.0.1:5030/image/dca7df70c8d34ed91042b992e15f803e)
+
+SuperEric(janetchristmas) 08-08 08:42:33
+还没有 5
+
+王玮(wxid_94jbos68gn3b22) 08-08 08:50:22
+cusor已经更新上gpt-5了，用起来还挺丝滑的[呲牙]
+
+王玮(wxid_94jbos68gn3b22) 08-08 08:50:27
+![图片](http://127.0.0.1:5030/image/b1af1e465d1d5a975448d566132dc189)
+
+晓峰-丁火(Lufy84) 08-08 08:57:03
+@SuperEric 删除 cookie
+
+闻鉴(wxid_cdtcq1czmsgf22) 08-08 09:08:58
+今天用了cursor，点了一下升级，出现了gpt-5模型。
+但是，但是，但是，哪怕开了TUN模型，也被限制使用了。
+而我的claude code能正常使用。
+
+于是，我直接退订了。cursor已经不是必选项了。
+
+SweetCandy(nieyalan6621) 08-08 09:25:38
+> 闻鉴-广州(wxid_cdtcq1czmsgf22) 08-08 09:08:58
+> 今天用了cursor，点了一下升级，出现了gpt-5模型。
+> 但是，但是，但是，哪怕开了TUN模型，也被限制使用了。
+> 而我的claude code能正常使用。
+> 于是，我直接退订了。cursor已经不是必选项了。
+200刀一个月的claude code 吗
+
+金子。(wxid_lfipf3htcv6m22) 08-08 09:28:01
+kiro也开始收费了
+
+无极(wxid_wdl7p3msdupm22) 08-08 09:32:53
+我觉得还挺好的  个人感觉kior比cursor舒服，用起来，尤其是他的规划任务
+
+无极(wxid_wdl7p3msdupm22) 08-08 09:32:54
+![图片](http://127.0.0.1:5030/image/ee3d9586091198b0fe7e9fb52863c0f5)
+
+哩厘锂力(zizhazhu) 08-08 09:34:27
+收费是好事
+
+WILL（X-lab）(wxid_7l0prsxunh0022) 08-08 09:38:45
+正在使用cursor+gpt5
+
+闻鉴(wxid_cdtcq1czmsgf22) 08-08 09:40:33
+> SweetCandy(nieyalan6621) 08-08 09:25:38
+> > [引用]
+> 200刀一个月的claude code 吗
+20美元的
+
+冯小夏(adongdonggua) 08-08 09:43:31
+cursor+gpt 5 我觉得蛮好用的，之前有一个输入框唤起命令的问题，改了好几次都没改对，用gpt 5试了一次就改好了
+
+小李F刀(wxid_cgr2mr7ea63l22) 08-08 09:51:36
+> 闻鉴-广州(wxid_cdtcq1czmsgf22) 08-08 09:08:58
+> 今天用了cursor，点了一下升级，出现了gpt-5模型。
+> 但是，但是，但是，哪怕开了TUN模型，也被限制使用了。
+> 而我的claude code能正常使用。
+> 于是，我直接退订了。cursor已经不是必选项了。
+@闻鉴-广州  请问一下， cursor 退订是在哪操作？ 我找了一圈，没找到退订按钮。
+
+朝云(Underground_) 08-08 09:53:05
+要登录网页的setting里面
+
+朝云(Underground_) 08-08 09:56:43
+【分享】为境外支付发愁的圈友可以搜下近期生财的文章safepal+fiat24，昨天已经顺利付款claude，可作为yeka的替代方案
+
+新世界(wxid_98g2m3mfrobz31) 08-08 10:01:14
+> 朝云(Underground_) 08-08 09:56:43
+> 【分享】为境外支付发愁的圈友可以搜下近期生财的文章safepal+fiat24，昨天已经顺利付款claude，可作为yeka的替代方案
+我用google play 支付的挺好用啊，为何还是有好多人困在这个问题
+
+朝云(Underground_) 08-08 10:03:07
+因为没有安卓手机啊
+
+Es muss sein(wxid_qfhct3hwtuj022) 08-08 10:03:39
+> 新世界(wxid_98g2m3mfrobz31) 08-08 10:01:14
+> > 朝云(Underground_) 08-08 09:56:43
+> > 【分享】为境外支付发愁的圈友可以搜下近期生财的文章safepal+fiat24，昨天已经顺利付款claude，可作为yeka的替代方案
+> 我用google play 支付的挺好用啊，为何还是有好多人困在这个问题
+google play要在安卓手机支付才行吗？网页端可以吗
+
+新世界(wxid_98g2m3mfrobz31) 08-08 10:03:54
+cc 里调用 mcp
+
+新世界(wxid_98g2m3mfrobz31) 08-08 10:03:55
+是不是特别消耗 token ,昨天就用一个调用这个 访问关键词下的网站，直接干了 三个小时后才能继续用
+
+新世界(wxid_98g2m3mfrobz31) 08-08 10:03:56
+![图片](http://127.0.0.1:5030/image/7c39f1a7094ec57583064773d5a5a910)
+
+晓峰-丁火(Lufy84) 08-08 10:04:13
+因为用华为[尴尬]
+
+新世界(wxid_98g2m3mfrobz31) 08-08 10:04:29
+我用的是 oppo 的可以啊
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-08 10:04:39
+> 朝云(Underground_) 08-08 10:03:07
+> 因为没有安卓手机啊
+苹果用礼品卡可以支付
+
+WILL（X-lab）(wxid_7l0prsxunh0022) 08-08 10:05:09
+> 新世界(wxid_98g2m3mfrobz31) 08-08 10:01:14
+> > [引用]
+> 我用google play 支付的挺好用啊，为何还是有好多人困在这个问题
+我Google play绑的国内visa，但是支付的时候还是提示卡不通过，正在折腾safepal
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 08-08 10:05:18
+安卓是googleplay内购
+
+新世界(wxid_98g2m3mfrobz31) 08-08 10:05:37
+> WILL(wxid_7l0prsxunh0022) 08-08 10:05:09
+> > [引用]
+> 我Google play绑的国内visa，但是支付的时候还是提示卡不通过，正在折腾safepal
+是不是跟卡有关系，我的交通可以用
+
+新世界(wxid_98g2m3mfrobz31) 08-08 10:05:47
+也是 vis a
+
+WILL（X-lab）(wxid_7l0prsxunh0022) 08-08 10:06:20
+估计和平台有关系，我是付suno卡
+
+朝云(Underground_) 08-08 10:06:20
+> 小李哥(wxid_cejgi1lomjcl21) 08-08 10:04:39
+> > [引用]
+> 苹果用礼品卡可以支付
+我记得你之前说好像价格不一样？
+
+新世界(wxid_98g2m3mfrobz31) 08-08 10:06:21
+在 cc里调用mcp是不是不太划算啊，有人经常用不，消耗特别快
+
+Paradise Quest(wxid_g27abmn3c4ws21) 08-08 10:06:31
+VISA没啥用啊感觉，连G PT都充不了
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-08 10:07:24
+> 朝云(Underground_) 08-08 10:06:20
+> > 小李哥(wxid_cejgi1lomjcl21) 08-08 10:04:39
+> > > [引用]
+> > 苹果用礼品卡可以支付
+> 我记得你之前说好像价格不一样？
+用safepal+fiat24这种方式开的，是20、100、200刀么@朝云 
+
+朝云(Underground_) 08-08 10:07:34
+> 小李哥(wxid_cejgi1lomjcl21) 08-08 10:07:24
+> > [引用]
+> 用safepal+fiat24这种方式开的，是20、100、200刀么@朝云 
+对
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-08 10:08:08
+okk
+
+新世界(wxid_98g2m3mfrobz31) 08-08 10:08:19
+如果想调研关键词数据，是不是别用 cc 里的 mcp，动一下就几个小时不能用了，最好是 cc 配合 o3  简言之，总体成本 两个 20 美元就足够了   o3 做主要做调研， cc 根据调研的关键词方案来搞代码
+
+朝云(Underground_) 08-08 10:08:41
+> 小李哥(wxid_cejgi1lomjcl21) 08-08 10:08:08
+> okk
+我是网页端支付的。我记得你说礼品卡好像要贵25%？
+
+吴师兄(wxid_utfdt9w7xu8b21) 08-08 10:08:51
+> 小李哥(wxid_cejgi1lomjcl21) 08-08 10:04:39
+> > [引用]
+> 苹果用礼品卡可以支付
+我用礼品卡支付这块一直卡在手机上要填写银行卡信息这一步，无法跳过，查阅了网上包括星球的攻略，好像都没有说会遇到这一步？
+
+新世界(wxid_98g2m3mfrobz31) 08-08 10:09:02
+我昨天是用 cc 里的 MCP访问网站，获取数据，然后再分析，给出调研方案，弄几下，就废了
+
+WILL（X-lab）(wxid_7l0prsxunh0022) 08-08 10:11:05
+试用了gpt5，感觉没有Claude4好用？纯感觉
+
+WILL（X-lab）(wxid_7l0prsxunh0022) 08-08 10:11:11
+在cursor上面
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-08 10:11:16
+> 吴师兄(wxid_utfdt9w7xu8b21) 08-08 10:08:51
+> > 小李哥(wxid_cejgi1lomjcl21) 08-08 10:04:39
+> > > [引用]
+> > 苹果用礼品卡可以支付
+> 我用礼品卡支付这块一直卡在手机上要填写银行卡信息这一步，无法跳过，查阅了网上包括星球的攻略，好像都没有说会遇到这一步？
+@程序员吴师兄 支付宝切美国城市，里边可以买礼品卡。然后拿礼品卡号在appstore里兑换
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-08 10:11:39
+> 朝云(Underground_) 08-08 10:08:41
+> > 小李哥(wxid_cejgi1lomjcl21) 08-08 10:08:08
+> > okk
+> 我是网页端支付的。我记得你说礼品卡好像要贵25%？
+反正是贵点的
+
+吴师兄(wxid_utfdt9w7xu8b21) 08-08 10:12:44
+> 小李哥(wxid_cejgi1lomjcl21) 08-08 10:11:16
+> > [引用]
+> @程序员吴师兄 支付宝切美国城市，里边可以买礼品卡。然后拿礼品卡号在appstore里兑换
+对的，我是这样购买和兑换的，礼品卡已经充值进appstore账号，但claude应用里面直接升级一直提示失败
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-08 10:14:04
+app id如果是海外支持国家的，可能是网络的原因
+
+朝云(Underground_) 08-08 10:15:17
+fiat24支付场景更广一点，相当一张境外银行卡了，就是不要放太多钱，随买随用。记得要先用台/港区的apple id下载safepal和bi安。原帖有省略步骤可以去油管看视频操作
+
+JsonChao（晚10点睡觉）(wxid_txyrbyqpqhcc22) 08-08 10:16:43
+> 朝云(Underground_) 08-08 10:15:17
+> fiat24支付场景更广一点，相当一张境外银行卡了，就是不要放太多钱，随买随用。记得要先用台/港区的apple id下载safepal和bi安。原帖有省略步骤可以去油管看视频操作
+可以支付replicate、fal等模型站的费用吗？
+
+朝云(Underground_) 08-08 10:18:44
+> JsonChao（晚10点睡觉）(wxid_txyrbyqpqhcc22) 08-08 10:16:43
+> > [引用]
+> 可以支付replicate、fal等模型站的费用吗？
+这个还没测试，昨天只是网页端付了claude。今天试下看看
+
+JsonChao（晚10点睡觉）(wxid_txyrbyqpqhcc22) 08-08 10:20:03
+> 朝云(Underground_) 08-08 10:18:44
+> > [引用]
+> 这个还没测试，昨天只是网页端付了claude。今天试下看看
+好的👌
+
+桑桑(wxid_q2c7fp10z2522) 08-08 10:32:36
+@所有人 我们整理了份《AI产品高频问答》，大家要是遇到什么卡点，可以去翻翻看，基本上大家遇到的问题里面都有
+
+https://scys.com/t/BOA7mhXO
+
+桑桑(wxid_q2c7fp10z2522) 08-08 10:32:54
+黑客马拉松开冲！🚀 看到已经不少学员交作业啦～还在打磨的队伍继续加油，期待大家的惊喜作品！~
+
+👉 作品提交链接： https://scys.com/form/z27VzyLq
+
+朝云(Underground_) 08-08 10:33:37
+@JsonChao（晚10点睡觉） replicate没问题，刚试下了下，我没用过fal。不过replicate可以用国内银行卡咯～
+
+Moore(xiaobei1984) 08-08 10:35:08
+> 朝云(Underground_) 08-08 10:33:37
+> @JsonChao（晚10点睡觉） replicate没问题，刚试下了下，我没用过fal。不过replicate可以用国内银行卡咯～
+这个要看是什么卡，好多卡是不行的
+
+王玮(wxid_94jbos68gn3b22) 08-08 10:35:44
+是用replicate里面claude的api来使用Claude code吗？费用会不会很高啊？@朝云 
+
+朝云(Underground_) 08-08 10:38:15
+> Moore 助教(xiaobei1984) 08-08 10:35:08
+> > [引用]
+> 这个要看是什么卡，好多卡是不行的
+好诶，原来是我的卡可以。不过，我刚试了fiat24，付款没问题
+
+朝云(Underground_) 08-08 10:39:04
+> 王玮(wxid_94jbos68gn3b22) 08-08 10:35:44
+> 是用replicate里面claude的api来使用Claude code吗？费用会不会很高啊？@朝云 
+这个我不清楚，不好意思。助教老师帮忙回答下[呲牙]
+
+Moore(xiaobei1984) 08-08 10:41:11
+肯定开claudecode 订阅啊，否则多少钱都不够
+
+JsonChao（晚10点睡觉）(wxid_txyrbyqpqhcc22) 08-08 10:46:29
+> Moore 助教(xiaobei1984) 08-08 10:35:08
+> > [引用]
+> 这个要看是什么卡，好多卡是不行的
+招行的全币种信用卡可以支付replicate吗？
+
+Moore(xiaobei1984) 08-08 10:46:36
+> 朝云(Underground_) 08-08 10:38:15
+> > [引用]
+> 好诶，原来是我的卡可以。不过，我刚试了fiat24，付款没问题
+使用 fiat24，要下载 3 个 app，一个是 fiat 24，一个是身份认证的app（支持身份证和护照），一个是 币安等交易，通过币安c2c交易（微信或支付宝充值），然后链上提现到  fiat 24吧，目前看起来是这样
+
+Moore(xiaobei1984) 08-08 10:46:43
+> JsonChao（晚10点睡觉）(wxid_txyrbyqpqhcc22) 08-08 10:46:29
+> > [引用]
+> 招行的全币种信用卡可以支付replicate吗？
+没试过不清楚
+
+JsonChao（晚10点睡觉）(wxid_txyrbyqpqhcc22) 08-08 10:47:17
+好的，我今天下午办完看看能不能用
+
+朝云(Underground_) 08-08 10:53:02
+> Moore 助教(xiaobei1984) 08-08 10:46:36
+> > [引用]
+> 使用 fiat24，要下载 3 个 app，一个是 fiat 24，一个是身份认证的app（支持身份证和护照），一个是 币安等交易，通过币安c2c交易（微信或支付宝充值），然后链上提现到  fiat 24吧，目前看起来是这样
+对，没错。我忘记还有身份验证这个事情了。是有三个软件，我用的台区apple id下载的。办好之后支付链条是微信/支付宝 - 币安买币 - 转到safepal - safepal转到fiat24（同软件）。我看到有人fiat24申请有被拒的情况（油管up主说的），需要发邮件给fiat24申诉。我自己申请没有问题。
+
+Moore(xiaobei1984) 08-08 10:53:24
+[旺柴]
+
+刘小排(liuxiaopai) 08-08 11:02:56
+本周在Cursor里使用GPT-5是免费的。
+
+Orla(wxid_5910059100012) 08-08 11:03:54
+太好了[666]
+
+冯小夏(adongdonggua) 08-08 11:19:33
+怪不得，用了一早上没扣次数
+
+李澹归(wxid_ixr3b2qghvtx22) 08-08 11:29:12
+你们的cursor cil能用吗
+
+和平 hepingfly(wxid_nhiimgfgcitu21) 08-08 12:56:40
+![图片](http://127.0.0.1:5030/image/19c4175ca8e7ad24a7f99bbf103f9339)
+
+和平 hepingfly(wxid_nhiimgfgcitu21) 08-08 12:57:02
+这波新增了一个聊天气泡颜色[破涕为笑]
+
+和平 hepingfly(wxid_nhiimgfgcitu21) 08-08 12:57:35
+![图片](http://127.0.0.1:5030/image/23a4a3336a0048e2ea915c282ec738f4)
+
+阿漫(wxid_0jm70wtbqehf21) 08-08 14:11:04
+大家用kiro 还会写rules么？
+
+Moore(xiaobei1984) 08-08 15:09:12
+写啊，补充些细节
+
+阿漫(wxid_0jm70wtbqehf21) 08-08 15:11:55
+> Moore 助教(xiaobei1984) 08-08 15:09:12
+> 写啊，补充些细节
+好像没有专门的rules 设置的地方，是写个文件在chat 里引用么？
+
+Moore(xiaobei1984) 08-08 15:12:16
+写到kiro 生成的md里
+
+阿漫(wxid_0jm70wtbqehf21) 08-08 15:12:49
+Tasks.md那个文件夹里？
+
+Moore(xiaobei1984) 08-08 15:13:47
+不是，kiro 生成的文档都会有调整的地方
+
+阿漫(wxid_0jm70wtbqehf21) 08-08 15:19:53
+必须要在kiro 生成的文档里添加么？
+
+阿漫(wxid_0jm70wtbqehf21) 08-08 15:21:24
+![图片](http://127.0.0.1:5030/image/394d8f09a1de867ae04bca95fa3c779f)
+
+ 08-08 15:21:37
+"阿漫" 撤回了一条消息
+
+阿漫(wxid_0jm70wtbqehf21) 08-08 15:21:55
+我看kiro 就生成了这几个文档
+
+Moore(xiaobei1984) 08-08 15:25:49
+看你需要
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-08 15:26:43
+[视频号]
+
+Moore(xiaobei1984) 08-08 15:27:16
+kiro生成的文档难道就100%满足你的需求吗
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-08 15:28:12
+> 小李哥(wxid_cejgi1lomjcl21) 08-08 15:26:44
+> [视频号]
+这个效果，微信就自己做了[捂脸]
+
+刷到还以为国外新出的软件
+
+阿漫(wxid_0jm70wtbqehf21) 08-08 15:39:22
+> Moore 助教(xiaobei1984) 08-08 15:27:16
+> kiro生成的文档难道就100%满足你的需求吗
+就是需要在这个文件夹中新建相关的rules文档对吧
+
+Moore(xiaobei1984) 08-08 15:39:36
+不用
+
+Moore(xiaobei1984) 08-08 15:39:41
+除非你有需求
+
+Moore(xiaobei1984) 08-08 15:40:30
+也有人创建很多文档来提效，但不推荐，太复杂了
+
+阿漫(wxid_0jm70wtbqehf21) 08-08 15:41:09
+就是如果需要添加rules ，建在这个文件夹中？
+
+Moore(xiaobei1984) 08-08 15:42:15
+嗯，都可以
+
+阿漫(wxid_0jm70wtbqehf21) 08-08 15:42:31
+[OK][抱拳]
+
+Moore(xiaobei1984) 08-08 15:46:18
+[链接|Claude Code 太烧钱？你 80% 的成本可能都被浪费了！附省钱攻略](https://mp.weixin.qq.com/s?__biz=MjM5NDI4MTY3NA==&mid=2257494095&idx=1&sn=01a2daad14d59da67d18c0adc49a8820&chksm=a4a22078023bc407a696a6134f3d9efe2ee6d0c59a653c553dd238c6593e563b7d0575d03126&mpshare=1&scene=1&srcid=0808q5nxD94MB2QkRtyloU19&sharer_shareinfo=198e0d596141d8bb4afb9738a14dc747&sharer_shareinfo_first=198e0d596141d8bb4afb9738a14dc747#rd)
+
+无极(wxid_wdl7p3msdupm22) 08-08 16:49:52
+> 小李哥(wxid_cejgi1lomjcl21) 08-08 15:28:12
+> > [引用]
+> 这个效果，微信就自己做了[捂脸]
+> 刷到还以为国外新出的软件
+老哥知道这个是哪个模型做的吗
+
+无极(wxid_wdl7p3msdupm22) 08-08 16:49:59
+效果还挺不错的
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-08 16:50:59
+微信自己做的。你看评论区，点击同款。就可以用了
+
+微信用的啥模型不知道
+
+无极(wxid_wdl7p3msdupm22) 08-08 16:55:48
+可以，感谢，我去看看
+
+闻鉴(wxid_cdtcq1czmsgf22) 08-08 17:41:11
+> 朝云(Underground_) 08-08 10:53:02
+> > [引用]
+> 对，没错。我忘记还有身份验证这个事情了。是有三个软件，我用的台区apple id下载的。办好之后支付链条是微信/支付宝 - 币安买币 - 转到safepal - safepal转到fiat24（同软件）。我看到有人fiat24申请有被拒的情况（油管up主说的），需要发邮件给fiat24申诉。我自己申请没有问题。
+搞不定支付，真伤脑筋。google play 一绑定国内的信用卡，就被限制区域了，然后chatgpt就没有办法安装了。
+
+HelloCsl 陈穗轮(qq-664867596) 08-08 17:57:29
+> 闻鉴-广州(wxid_cdtcq1czmsgf22) 08-08 17:41:11
+> > [引用]
+> 搞不定支付，真伤脑筋。google play 一绑定国内的信用卡，就被限制区域了，然后chatgpt就没有办法安装了。
+这个是 gp 账号的区域问题
+
+HelloCsl 陈穗轮(qq-664867596) 08-08 18:00:05
+> 闻鉴-广州(wxid_cdtcq1czmsgf22) 08-08 17:41:11
+> > [引用]
+> 搞不定支付，真伤脑筋。google play 一绑定国内的信用卡，就被限制区域了，然后chatgpt就没有办法安装了。
+我的经验是用手机 GMAIL 注册一个账号，在 GP 切换到这个账号的时候，在绑卡的时候梯子是什么区域这个账号就是什么地区了
+
+HelloCsl 陈穗轮(qq-664867596) 08-08 18:00:55
+我绑的也是国内招行 VISA 卡
+
+浮梦(wxid_ohawz2c3wzcl12) 08-08 18:01:31
+在绑卡前，地区是可以随便切的
+
+> 朝云(Underground_) 08-08 10:53:02
+> > [引用]
+> 对，没错。我忘记还有身份验证这个事情了。是有三个软件，我用的台区apple id下载的。办好之后支付链条是微信/支付宝 - 币安买币 - 转到safepal - safepal转到fiat24（同软件）。我看到有人fiat24申请有被拒的情况（油管up主说的），需要发邮件给fiat24申诉。我自己申请没有问题。
+@朝云 大神请教下，safepal转到fiat24（同软件），这个要如何转呢？我现在瑞士信用卡激活要10usd，但没激活前又无法充值，死循环了[捂脸]

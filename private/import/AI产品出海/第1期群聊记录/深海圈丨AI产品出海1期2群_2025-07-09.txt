@@ -1,0 +1,252 @@
+HelloCsl 陈穗轮(qq-664867596) 07-09 09:17:42
+HelloCsl 陈穗轮(qq-664867596) 07-09 09:18:16
+> HelloCsl 陈穗轮(qq-664867596) 07-09 09:17:42
+> > [引用]
+> 因为这个被 ignore 了，你可以看看 git 的 ignore 规则，正常也应该被 ignore 的，这些隐私信息是不应该上传的
+@星城祝大家2025健康快乐 
+
+星城祝大家2025健康快乐(yowsss) 07-09 09:18:39
+@HelloCsl 陈穗轮 好的，感谢，解决了哈
+
+江坤(wxid_x8f52rye1agm21) 07-09 09:21:25
+#举手 3.5.3内容中有配置Zero trust的选项，想问下教练，这个是每次都必须配置的吗？后续产品上线了，也是需要配置的吗？这块没有看懂这个
+
+吴海晖®(wxid_78jyonoq7hyk22) 07-09 09:30:04
+【WildCard】尊敬的客户，您尾号 0071 的卡片于 2025年07月09日 08时22分 在 NANONOBLE 消费 $5.00，因余额不足已累计 3 次支付失败。根据风控政策，卡片已被冻结，请您登录官网处理。
+
+请问NANONOBLE 是哪个软件？
+
+亿豪(wxid_8rqui0adacvp12) 07-09 09:33:12
+> 吴海晖®-广州白云(wxid_78jyonoq7hyk22) 07-09 09:30:04
+> 【WildCard】尊敬的客户，您尾号 0071 的卡片于 2025年07月09日 08时22分 在 NANONOBLE 消费 $5.00，因余额不足已累计 3 次支付失败。根据风控政策，卡片已被冻结，请您登录官网处理。
+> 请问NANONOBLE 是哪个软件？
+海螺AI@吴海晖®-广州白云
+
+吴海晖®(wxid_78jyonoq7hyk22) 07-09 09:34:09
+好的好的。  😂感觉都忘了什么时候开通的。
+
+SweetCandy(nieyalan6621) 07-09 10:21:37
+小明(wxid_at9px5nf07qm22) 07-09 10:40:27
+> 江坤(wxid_x8f52rye1agm21) 07-09 09:21:25
+> #举手 3.5.3内容中有配置Zero trust的选项，想问下教练，这个是每次都必须配置的吗？后续产品上线了，也是需要配置的吗？这块没有看懂这个
+后续做产品，不用配置。
+
+教程里配置 zero trust，是为了练习localhost3000 实现支付功能的测试，后续做其他产品，不用这一步，直接用测试网址（比如 vercel 给你的域名）去配 creem 的 webhook 就可以
+
+江坤(wxid_x8f52rye1agm21) 07-09 10:41:04
+好的，谢谢教练
+
+小明(wxid_at9px5nf07qm22) 07-09 10:47:38
+MarkH(hanpen4423532) 07-09 11:50:19
+claude code 代码能回退吗？还是得用 git 命令来搞啊
+
+李明进(mikipku) 07-09 11:59:05
+![图片](http://127.0.0.1:5030/image/bed9c805beadcd5ada2b3b53e3a9ebcf)
+
+w1(z938839) 07-09 13:05:35
+> 小明-助教(wxid_at9px5nf07qm22) 07-09 10:47:38
+> > [引用]
+> 登陆、密码重置，这套功能的实现是靠 supabase，你的项目中的编程，起到一个做前端界面的作用
+> 先研究下 supabase 中的各个按钮是啥，配置的是否正确，确认后把 bug 发给 cursor，表述清现状应该就可以了
+好的，谢谢助教
+
+Jerry(wxid_6vm3pqk1wtc221) 07-09 13:25:48
+[链接|180 天狠赚 5.7 亿，8 人团队全员财富自由，最大功臣是 Claude 和 Gemini](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651250271&idx=1&sn=a28f0deaecc5f63976a9016a4b2cebc0&chksm=bcf4707343efc75ce644aaeb22c4c9089db39142692117ae0b86398185ce5fc092d447cd8a71&mpshare=1&scene=1&srcid=070964X3n1EKnTyPnZlV64zS&sharer_shareinfo=430370f48fde049601d5c63519f21bc0&sharer_shareinfo_first=430370f48fde049601d5c63519f21bc0#rd)
+
+Jerry(wxid_6vm3pqk1wtc221) 07-09 13:26:43
+Base44 采用了一种称之为 “内置所有功能” 的方法。意思是，在 Base44 上构建的每个应用，都已经内置了数据库、集成功能、用户管理、分析工具等，无需连接第三方服务或提供 API 密钥之类的东西。我觉得这对于将一个由 AI 编写的应用扩展成复杂且功能完善的应用非常有帮助。
+
+亿豪(wxid_8rqui0adacvp12) 07-09 14:36:10
+> MarkH(hanpen4423532) 07-09 11:50:19
+> claude code 代码能回退吗？还是得用 git 命令来搞啊
+@MarkH 你可以直接告诉claude code 让他回退，也可以自己用git
+
+木白(abo550828) 07-09 14:47:11
+https://github.com/RonitSachdev/ccundo
+
+这个工具特别适合经常用 Claude Code 写代码、需要频繁撤销/恢复操作的开发者。
+
+常用命令包括：
+ • ‎`ccundo list` 查看最近的操作
+ • ‎`ccundo preview` 预览将要撤销的内容
+ • ‎`ccundo undo` 撤销操作
+ • ‎`ccundo redo` 恢复已撤销的操作
+
+MarkH(hanpen4423532) 07-09 14:48:46
+好的，谢谢
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-09 14:51:56
+> 木白(abo550828) 07-09 14:47:11
+> https://github.com/RonitSachdev/ccundo
+> 这个工具特别适合经常用 Claude Code 写代码、需要频繁撤销/恢复操作的开发者。
+> 常用命令包括：
+>  • ‎`ccundo list` 查看最近的操作
+>  • ‎`ccundo preview` 预览将要撤销的内容
+>  • ‎`ccundo undo` 撤销操作
+>  • ‎`ccundo redo` 恢复已撤销的操作
+我试试
+
+江坤(wxid_x8f52rye1agm21) 07-09 16:07:23
+cursor 降智降得有点猛，claude4分析半天错误都找不到具体原因。我把错误发给gemini网页版直接就指出了错误方向，然后顺着方向在把具体代码给到gemini一下就找到了错误。
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-09 16:09:04
+最近被喷得不行
+
+卫斯理🤍(wxid_cap2car89b7811) 07-09 16:09:21
+同感，我现在遇到cursor解决不了的都是把日志给其他ai分析，再把分析结果给cursor来解决[捂脸]
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-09 16:09:28
+转战claude code去
+
+金子。(wxid_lfipf3htcv6m22) 07-09 16:15:33
+回复也很慢
+
+无极(wxid_wdl7p3msdupm22) 07-09 16:46:17
+＃举手
+
+claude的cursor价格差不多，而且克劳德比较强，有了他，Cursor还有必要买吗
+
+我 07-09 17:04:28
+"猪猪侠" 撤回了一条消息
+
+陈远清(a526141232) 07-09 17:12:11
+有没有愿意出自己写好的成品站的同学
+
+或者找个技术好的同学代写我这边的需求~
+
+孙德斌(wxid_ik4njdanxiud21) 07-09 17:38:26
+这就开始收购了[强]
+
+阿漫(wxid_0jm70wtbqehf21) 07-09 17:41:57
+> Paradise Quest(wxid_g27abmn3c4ws21) 07-09 16:09:28
+> 转战claude code去
+还是在cursor 里用claude code，还是有其他ide呀？
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-09 17:42:25
+我还没开始用呢
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-09 17:42:42
+在看说明
+
+rain(wxid_9302913028612) 07-09 17:42:55
+可以在cursor里面用
+
+rain(wxid_9302913028612) 07-09 17:43:12
+小排老师就是在cursor里面用的
+
+rain(wxid_9302913028612) 07-09 17:44:27
+https://anyrouter.top/register?aff=gSUJ 这个是claude镜像站，用github注册有100刀免费羊毛薅
+
+半尘(muling12) 07-09 17:52:11
+这种中转镜像站存在泄漏数据风险，慎用，其实100刀额度也没有多少，建议花点钱
+
+Paradise Quest(wxid_g27abmn3c4ws21) 07-09 18:04:37
+话说大家有用过windsurf吗
+
+轩辕(wxid_4m8bzf34d67v22) 07-09 18:48:04
+看到一个词搜索量很大，问了一下gpt后就开眼界了[破涕为笑]
+
+轩辕(wxid_4m8bzf34d67v22) 07-09 18:48:04
+![图片](http://127.0.0.1:5030/image/c726b1300b515412a85ea02d4696514a)
+
+轩辕(wxid_4m8bzf34d67v22) 07-09 18:50:06
+![图片](http://127.0.0.1:5030/image/f14d9b9990e5f5c2f127b0cf8b8ede6f)
+
+HelloCsl 陈穗轮(qq-664867596) 07-09 19:00:52
+> 轩辕(wxid_4m8bzf34d67v22) 07-09 18:48:04
+> ![图片](http://127.0.0.1:5030/image/c726b1300b515412a85ea02d4696514a)
+这个是什么工具，搜 IndieKeywords 搜不出来
+
+roderickོ(wxid_vc3bimw9zofj21) 07-09 19:02:25
+https://www.indiekeywords.com/
+
+roderickོ(wxid_vc3bimw9zofj21) 07-09 19:02:35
+问了下 GPT，搜出来了。
+
+roderickོ(wxid_vc3bimw9zofj21) 07-09 19:02:46
+不过数据和 semrush 不一致，不知道哪个准。
+
+轩辕(wxid_4m8bzf34d67v22) 07-09 19:05:13
+这个是按gpts日搜索5000 相对值来估算的
+
+轩辕(wxid_4m8bzf34d67v22) 07-09 19:05:26
+也就是这个跟 google trends 的是一致的
+
+轩辕(wxid_4m8bzf34d67v22) 07-09 19:06:08
+我可以帮你们安排赠送会员 有需要的可以私我  免费
+
+roderickོ(wxid_vc3bimw9zofj21) 07-09 19:09:14
+弱弱问下，这个网站你1天就做完了，还是先做最后买的域名？好快啊。。。[ThumbsUp]
+
+roderickོ(wxid_vc3bimw9zofj21) 07-09 19:09:14
+![图片](http://127.0.0.1:5030/image/9273bb425061b2f7131bfbcfb4e656b1)
+
+HelloCsl 陈穗轮(qq-664867596) 07-09 19:10:09
+> roderickོ(wxid_vc3bimw9zofj21) 07-09 19:02:25
+> https://www.indiekeywords.com/
+[抱拳] 图片复制文字，把 i 复制成 l 了，怪不得
+
+HelloCsl 陈穗轮(qq-664867596) 07-09 19:10:51
+> 轩辕(wxid_4m8bzf34d67v22) 07-09 19:06:08
+> 我可以帮你们安排赠送会员 有需要的可以私我  免费
+这是你开发的？@轩辕 
+
+轩辕(wxid_4m8bzf34d67v22) 07-09 19:11:44
+[破涕为笑]是 用的小排老师的 raphael-starterkit 开发的  献丑了
+
+轩辕(wxid_4m8bzf34d67v22) 07-09 19:12:02
+> roderickོ(wxid_vc3bimw9zofj21) 07-09 19:09:14
+> 弱弱问下，这个网站你1天就做完了，还是先做最后买的域名？好快啊。。。[ThumbsUp]
+先做了再买域名的  我不急抢域名 哈哈
+
+HelloCsl 陈穗轮(qq-664867596) 07-09 19:12:03
+[强]
+
+轩辕(wxid_4m8bzf34d67v22) 07-09 19:12:24
+> roderickོ(wxid_vc3bimw9zofj21) 07-09 19:09:14
+> ![图片](http://127.0.0.1:5030/image/9273bb425061b2f7131bfbcfb4e656b1)
+这天刚好是我生日 送自己第一个商业化网站
+
+roderickོ(wxid_vc3bimw9zofj21) 07-09 19:13:42
+[ThumbsUp][ThumbsUp][ThumbsUp]
+
+轩辕(wxid_4m8bzf34d67v22) 07-09 19:14:14
+> HelloCsl 陈穗轮(qq-664867596) 07-09 19:00:52
+> > [引用]
+> 这个是什么工具，搜 IndieKeywords 搜不出来
+没有啦 谷歌搜不到 是因为我还没去录谷歌索引
+
+和平 hepingfly(wxid_nhiimgfgcitu21) 07-09 19:53:30
+[链接|每一步，都算数。
+
+@Cheer林悦己 从0学习ai编程做产品，第一个站做了 116 天，才出第一个单。
+
+第二个站从想法到上线做了 9 天，已经出了 12 单，赚了 37.88 刀。
+
+每一次都是 10x 速，最难的就是第一块美金，坚持下来最重要。
+
+所有](https://t.zsxq.com/Mx0eO)
+
+和平 hepingfly(wxid_nhiimgfgcitu21) 07-09 19:54:29
+@Moore 助教   能不能让悦己老师分享一下经验[旺柴]
+
+Moore(xiaobei1984) 07-09 20:02:05
+@和平 hepingfly [旺柴]我是外援，这个你要找小排老师
+
+Moore(xiaobei1984) 07-09 20:02:43
+其实按照课程的内容是可以做到的[旺柴]
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-09 20:58:33
+加油，我还在啃nextjs
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-09 20:58:49
+我现在已经基本上能看懂了
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 07-09 20:59:14
+基本上就靠cc教我
+
+Moore(xiaobei1984) 07-09 21:08:14
+https://scys.com/articleDetail/xq_topic/8852155225584242 生财刚好上了篇新文章，说得是如何做工具站拿下3000单
+
+轩辕(wxid_4m8bzf34d67v22) 07-09 21:09:47
+[666]

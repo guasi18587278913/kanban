@@ -1,0 +1,161 @@
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-05 13:13:31
+# Claude Code 限时优惠活动核心要点
+
+## 优惠内容
+- **Pro用户**: 250美元 API抵用金
+- **Max用户**: 1000美元 API抵用金
+- **适用范围**: 仅限网页版和移动版 Claude Code
+- **活动时间**: 2025年11月4日 09:00 - 11月18日 23:59（太平洋时间）
+
+## 资格要求
+- 拥有有效的Pro或Max个人订阅
+- 不适用于团队/企业套餐
+- 新用户数量有限，先到先得
+
+## 使用方式
+1. 访问 claude.ai/code
+2. 连接GitHub账户（需安装Claude GitHub应用）
+3. 促销积分自动应用，优先消耗
+4. 可在信用跟踪面板查看余额
+
+## 关键限制
+- **积分过期**: 11月18日 23:59（太平洋时间）统一失效
+- **用完后**: 自动计入标准订阅额度，无需额外付费
+- **不可转让**: 无现金价值，不可与其他优惠叠加
+
+## 核心逻辑
+这是一次**体验推广活动**，让用户免费试用Claude Code的并行会话功能，积分用完后无缝切换到常规订阅额度。
+官网链接：https://support.claude.com/en/articles/12690958-claude-code-promotion
+
+刘小排(liuxiaopai) 11-05 13:30:56
+我已经领了，挺好！谢谢书虫
+
+刘小排(liuxiaopai) 11-05 13:30:58
+![图片](http://127.0.0.1:5030/image/c39e45129cec7f66eb0d3f71e38e5d1a)
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 11-05 13:33:09
+[动画表情]
+
+CAI(jiyiche) 11-05 16:03:50
+![图片](http://127.0.0.1:5030/image/8e6df88fc59a16e44108d505cfe54e13)
+
+CAI(jiyiche) 11-05 16:04:08
+请问下这个Full Name是 姓在前还是在后呢
+
+刘小排(liuxiaopai) 11-05 16:04:33
+你的passport上怎么写的你就怎么写
+
+CAI(jiyiche) 11-05 16:04:55
+用身份证注册的话呢
+
+CAI(jiyiche) 11-05 16:05:22
+[发呆]身份证没有拼音
+
+刘小排(liuxiaopai) 11-05 16:05:32
+我是把名写前面的
+
+CAI(jiyiche) 11-05 16:05:57
+好的，谢谢老师
+
+CAI(jiyiche) 11-05 16:07:31
+![图片](http://127.0.0.1:5030/image/2a80393de6d51979dea992ecc3953276)
+
+CAI(jiyiche) 11-05 16:07:52
+这个联系邮箱，用域名后缀的，是只要收邮件就行还是要能发？
+
+刘小排(liuxiaopai) 11-05 16:08:36
+你的截图里已经有答案了。
+
+Adam(zm554394490) 11-05 16:08:40
+![图片](http://127.0.0.1:5030/image/3f0f00a2ef5ca7daa7d828de5f527318)
+
+刘小排(liuxiaopai) 11-05 16:08:41
+仔细阅读下
+
+Adam(zm554394490) 11-05 16:08:43
+半个月
+
+CAI(jiyiche) 11-05 16:09:41
+我以前用spaceship的forwarding email服务是只能收，如果要发送就得另外开通邮件服务
+
+刘小排(liuxiaopai) 11-05 16:10:09
+这里只需要收邮件
+
+CAI(jiyiche) 11-05 16:10:24
+好的，明白了谢谢
+
+刘小排(liuxiaopai) 11-05 16:11:18
+"${liuxiaopai}" 拍了拍 "${jiyiche}"
+
+刘小排(liuxiaopai) 11-05 16:11:20
+@CAI 都这么久了，还没养成完事问AI的习惯啊[呲牙]
+
+刘小排(liuxiaopai) 11-05 16:11:28
+我帮你把你的截图和你的问题发给GPT
+
+刘小排(liuxiaopai) 11-05 16:11:29
+![图片](http://127.0.0.1:5030/image/46afd365b03c73e884d579c4c7aad44c)
+
+CAI(jiyiche) 11-05 16:12:05
+[呲牙]我错了老师，我想说这个问题群里可能比AI更有经验
+
+CAI(jiyiche) 11-05 16:13:49
+因为我怕后面万一审核失败还要用这个邮箱发回去给creem的工作人员申述
+
+刘小排(liuxiaopai) 11-05 16:14:48
+"${liuxiaopai}" 拍了拍 "${jiyiche}"
+
+刘小排(liuxiaopai) 11-05 16:27:44
+这里，只需要能收到邮件就可以了。但是强烈建议配置全套，以后和用户打交道，也是靠这个邮箱的。
+
+CAI(jiyiche) 11-05 16:37:33
+好的，配置全套用这个https://mymangomail.com/，一年18刀，可以配置多个网站域名
+
+刘小排(liuxiaopai) 11-05 16:38:16
+我用的是飞书的邮箱
+
+刘小排(liuxiaopai) 11-05 16:38:20
+企业认证后是免费的
+
+刘小排(liuxiaopai) 11-05 16:38:26
+可以配n个域名
+
+CAI(jiyiche) 11-05 16:38:53
+哦哦，我研究研究，学习了！[抱拳]
+
+shine_forever(shine_forevr) 11-05 16:44:40
+那小排老师群发邮件吗？
+
+刘小排(liuxiaopai) 11-05 16:47:35
+我没有群发过
+
+Sitin彭涛|出海 ing(taotao120peng) 11-05 16:49:46
+> 刘小排(liuxiaopai) 11-05 16:38:16
+> 我用的是飞书的邮箱
+我也是，最方便，企业邮箱全部搞定
+
+云涯(Hackermyth) 11-05 17:48:15
+我域名是：cloudflare.com上注册的，域名邮箱收邮件： 用的是cloudflare域名里的邮件转发功能，转到你自己用的Gamil邮箱。 域名邮箱发邮件：是Gamil配置邮件别名方式，这样收发都OK了，好几个域名邮箱都是这么搞的，完全免费，只是配置麻烦点
+
+云涯(Hackermyth) 11-05 17:49:22
+在google邮箱中配置标签过滤，这样每个域名过来的邮件就自动分类了，客服的、收款的、通知的各个邮件都会按标签归类
+
+CAI(jiyiche) 11-05 17:51:24
+[抱拳][强]
+
+桑桑(wxid_q2c7fp10z2522) 11-05 19:31:47
+[链接|【深海圈丨AI产品出海】刘小排：内功篇导学](https://appamvpb5mq9834.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoyLCJhcHBfaWQiOiJhcHBhbXZwYjVtcTk4MzQiLCJyZXNvdXJjZV9pZCI6ImxfNjkwODdkNGFlNGIwNjk0YzViNDg3YWRiIiwicmVzb3VyY2VfdHlwZSI6NCwicGF5bWVudF90eXBlIjoiIiwicHJvZHVjdF9pZCI6InBfNjhmMjFhMTBlNGIwNjk0YzViM2UxZWQ5IiwiYXZhaWxhYmxlIjp0cnVlLCJhdmFpbGFibGVfcHJvZHVjdCI6ZmFsc2UsInNoYXJlX3VzZXJfaWQiOiJ1XzY3YWMwYTgyMTM4N2JfVmtXdUpSWG44ZiIsInNoYXJlX3R5cGUiOjUsInNjZW5lIjoiXHU1MjA2XHU0ZWFiIn0?share_scene=1&entry=2&entry_type=2002)
+
+桑桑(wxid_q2c7fp10z2522) 11-05 19:32:11
+@所有人 今晚20：00小排老师直播分享：内功篇导学
+
+感兴趣点击链接预约直播
+
+来来说AI(wxid_s51w6qhhcpya22) 11-05 20:44:52
+@桑桑@生财 我们也能看到第2期直播是吗？
+
+桑桑(wxid_q2c7fp10z2522) 11-05 20:46:03
+可以的
+
+浙大吴美律(wxid_wey7hbsz7pzq22) 11-05 21:01:21
+第二期课程完善了好多[强][强][强]

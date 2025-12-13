@@ -1,0 +1,124 @@
+一夕(phil7028) 11-19 11:34:36
+这个怎么解？
+
+一夕(phil7028) 11-19 11:35:11
+your current account is not eligible for antigravity，because it is not currently available in your location
+
+一夕(phil7028) 11-19 12:19:05
+换了个帐号解决了
+
+Mr.🐟喻(lang-417528116) 11-19 13:05:04
+> 一夕(phil7028) 11-19 11:35:11
+> your current account is not eligible for antigravity，because it is not currently available in your location
+地区受限，换个线路应该就能解决了，欧美比较好，我上次因为用香港或台w的线路遇到了这个
+
+一夕(phil7028) 11-19 13:07:36
+我没换线路，换了个帐号就好了[偷笑]
+
+刘小排(liuxiaopai) 11-19 13:09:40
+换个账号就行了，新账号就可以了
+
+一夕(phil7028) 11-19 13:10:43
+是的
+
+Dream(wxid_yemdymv9zqoh21) 11-19 13:11:15
+大佬们咨询个小白问题：
+gpt 和 gemini    大家怎么用呢呀  是不是有一个就行呀？[捂脸]
+
+宁王（加油！）(wxid_5182881829312) 11-19 13:22:04
+能用就都用呗，看你有多少资源可以调用，   我现在反正是gpt是订阅了，gemini之前可能网络问题，一直没法正常使用。今天正在测试analyzing
+
+宁王（加油！）(wxid_5182881829312) 11-19 13:22:08
+"${wxid_5182881829312}" 拍了拍 "${wxid_yemdymv9zqoh21}"
+
+Dream(wxid_yemdymv9zqoh21) 11-19 13:28:30
+嗯呢[抱拳]
+
+刘小排(liuxiaopai) 11-19 14:34:14
+[链接|全新AI编程工具 Google Antigravity 实测，特别适合产品经理](https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247499635&idx=1&sn=5c16f91fae260558c43b1b0bcec2f9cf&chksm=e8781694dbb3b4e3d3bd362c87b01ebeb6ce494877ad561b95e745c35bafac037790b03e0538&mpshare=1&scene=1&srcid=1119iPb2rwnEpGNl43yDsVMb&sharer_shareinfo=cdae81216214c5a7ad1aa85b8aa39336&sharer_shareinfo_first=cdae81216214c5a7ad1aa85b8aa39336#rd)
+
+一夕(phil7028) 11-19 14:43:53
+[强]正在用
+
+一夕(phil7028) 11-19 14:53:12
+嘴上说着让我确认方案，但不知道啥时候就直接开始干活了[破涕为笑]
+
+一夕(phil7028) 11-19 14:53:13
+![图片](http://127.0.0.1:5030/image/c0e7d0b797ce2e2dfa2547d035b4e115)
+
+桑桑(wxid_q2c7fp10z2522) 11-19 15:17:25
+@所有人 大家下午好呀，咱们的【深海圈丨AI产品出海】日报网站上线啦！~
+
+后续4 个深海圈群的群聊精华都会统一更新到网站，大家不用担心看不到其他群聊的重点[嘿哈]
+
+日报网站：https://aichanpinribao.com
+
+桑桑(wxid_q2c7fp10z2522) 11-19 15:17:25
+感谢各位学员的支持，大家对日报网站有任何建议欢迎反馈给我们，后续我们会结合大家建议持续打磨～
+
+日报网站共创链接：https://scys.com/t/BOA73WzK
+
+rain(wxid_9302913028612) 11-19 15:26:07
+![图片](http://127.0.0.1:5030/image/331183472a620cb2f9b3cbda26d3538b)
+
+rain(wxid_9302913028612) 11-19 15:26:14
+这个怎么回事儿呢
+
+刘小排(liuxiaopai) 11-19 15:27:25
+> 刘小排(liuxiaopai) 11-19 14:34:14
+> [链接|全新AI编程工具 Google Antigravity 实测，特别适合产品经理](https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247499635&idx=1&sn=5c16f91fae260558c43b1b0bcec2f9cf&chksm=e8781694dbb3b4e3d3bd362c87b01ebeb6ce494877ad561b95e745c35bafac037790b03e0538&mpshare=1&scene=1&srcid=1119iPb2rwnEpGNl43yDsVMb&sharer_shareinfo=cdae81216214c5a7ad1aa85b8aa39336&sharer_shareinfo_first=cdae81216214c5a7ad1aa85b8aa39336#rd)
+换个新账号登录。我文章写了
+
+R(qr277763897) 11-19 15:51:34
+我也发现，我最近三个google账户Gemini都上不了了
+
+R(qr277763897) 11-19 15:51:52
+怎么换梯都没用
+
+华仔(moomuhome) 11-19 16:52:50
+> R(qr277763897) 11-19 15:51:34
+> 我也发现，我最近三个google账户Gemini都上不了了
+去账号管理里面做下年龄认证
+
+小陈老师(wxid_1f5f4iwhhiqc22) 11-19 19:41:44
+gemini 处理后端怎么样 相比codex如何有人试过么
+
+超人(wxid_s3r9y62cvr7v22) 11-19 19:43:29
+> 深圳-小陈老师(wxid_1f5f4iwhhiqc22) 11-19 19:41:44
+> gemini 处理后端怎么样 相比codex如何有人试过么
+我现在后端都用mcp配合处理
+
+我 11-19 19:43:48
+"超人 助教" 撤回了一条消息
+
+超人(wxid_s3r9y62cvr7v22) 11-19 19:44:39
+superbase有推出mcp，可以试试看，可以直接修改数据库，生成云函数
+
+小陈老师(wxid_1f5f4iwhhiqc22) 11-19 19:51:50
+okok
+
+落尘(wxid_2d9fw2ta1t9n22) 11-19 23:14:35
+![图片](http://127.0.0.1:5030/image/17211b30e9119afc1b6f0f59a1d7df6b)
+
+落尘(wxid_2d9fw2ta1t9n22) 11-19 23:14:45
+也是开始神仙打架了
+
+刘小排(liuxiaopai) 11-19 23:16:33
+假消息吧
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 11-19 23:30:49
+没看到呀
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 11-19 23:31:24
+![图片](http://127.0.0.1:5030/image/a8681eee938d15bf247fb588d91d1c71)
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 11-19 23:31:32
+看起来像是用4.5的图P的
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 11-19 23:31:41
+![图片](http://127.0.0.1:5030/image/af2c1184695d720fbeb81b7f78f87dc5)
+
+> 桑桑@生财(wxid_q2c7fp10z2522) 11-19 15:17:25
+> 感谢各位学员的支持，大家对日报网站有任何建议欢迎反馈给我们，后续我们会结合大家建议持续打磨～
+> 日报网站共创链接：https://scys.com/t/BOA73WzK
+@桑桑@生财    反馈：1，用comet浏览器访问的时候，日报内容文字颜色偏淡

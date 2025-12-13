@@ -1,0 +1,303 @@
+🍭咖咪糖(wxid_qa97lxiyffpq21) 11-05 00:00:57
+好滴
+
+SuperEric(janetchristmas) 11-05 00:07:39
+既然你习惯用 cursor，不妨用用 Claude  code官方插件
+
+🍭咖咪糖(wxid_qa97lxiyffpq21) 11-05 00:10:17
+我还没概念，还在摸索工具怎么用使用的阶段，现在就是跟着课程走[捂脸]
+
+SuperEric(janetchristmas) 11-05 00:16:50
+(¯▽¯)👍
+
+🍭咖咪糖(wxid_qa97lxiyffpq21) 11-05 00:21:20
+🍭咖咪糖(wxid_qa97lxiyffpq21) 11-05 00:21:43
+![图片](http://127.0.0.1:5030/image/a406aa515cf91f83ccb0925a56e35db9)
+
+🍭咖咪糖(wxid_qa97lxiyffpq21) 11-05 00:23:50
+claude也是跟cursor一样下载客户端的吗？
+
+🍭咖咪糖(wxid_qa97lxiyffpq21) 11-05 00:23:54
+![图片](http://127.0.0.1:5030/image/4cb25fbdc757d43d3724cda024506906)
+
+🍭咖咪糖(wxid_qa97lxiyffpq21) 11-05 00:28:31
+我看课程里这个是在cursor里操作的，应该是不需要下载另一个叫claude的软件？（比较小白的问题，哈哈，见谅）
+
+🍭咖咪糖(wxid_qa97lxiyffpq21) 11-05 00:28:35
+![图片](http://127.0.0.1:5030/image/98882fcb2e71bcd0f21017be2d0605a5)
+
+刘小排(liuxiaopai) 11-05 00:36:19
+建议先学会Cursor，靠Cursor通关全部教程，再研究Claude Code哈。
+
+刘小排(liuxiaopai) 11-05 00:36:22
+"${liuxiaopai}" 拍了拍 "${wxid_qa97lxiyffpq21}" [庆祝][庆祝][庆祝]
+
+刘小排(liuxiaopai) 11-05 00:36:35
+后面有一篇 AI编程工具一通百通
+
+🍭咖咪糖(wxid_qa97lxiyffpq21) 11-05 00:41:22
+哦哦 好的，谢谢小排老师，那我知道了，先不纠结工具层面的细节，继续往后面走[拳头]
+
+SuperEric(janetchristmas) 11-05 00:44:32
+你安装的 Claude code 就是 Claude ，只是在终端和插件里的特定叫法，作为 Claude 的编程工具。一般 AI 讨论用或者统称就叫 Claude 
+
+🍭咖咪糖(wxid_qa97lxiyffpq21) 11-05 07:54:08
+好滴好滴 明白了
+
+SuperEric(janetchristmas) 11-05 07:56:53
+你听小排老师的先学会 cursor ，通关再来研究 Claude code 也不迟，生财 9 月 也有一期常规航海是 Claude code 到时可以补充学
+
+🍭咖咪糖(wxid_qa97lxiyffpq21) 11-05 07:58:18
+嗯嗯 好 先跑通
+
+系统消息 11-05 08:42:26
+"生财-领队-土豆君(wxid_gzr7bvbdlvlv22)"邀请"Fiona詹(zrrsuper)"加入了群聊
+
+大娄(loveallen) 11-05 10:04:32
+![图片](http://127.0.0.1:5030/image/3de787941aef903aea9ec7203d78e6ae)
+
+大娄(loveallen) 11-05 10:05:00
+深刻理解小排老师说的慢就是快
+
+大娄(loveallen) 11-05 10:06:50
+![图片](http://127.0.0.1:5030/image/e42c1a34a27ec4868690f66fd65972bc)
+
+Jessie圆子@AI出海(wxid_glupb8ygj1do12) 11-05 10:39:40
+"${wxid_glupb8ygj1do12}" 拍了拍 "${loveallen}"
+
+倩倩(wxid_wlzowxnwc1r222) 11-05 13:10:33
+课程需要反复学，不然小排老师悄咪咪更新既往的课程了也没发现呢
+
+倩倩(wxid_wlzowxnwc1r222) 11-05 13:10:33
+![图片](http://127.0.0.1:5030/image/8151132553c27e3b952f45d1a92c5eda)
+
+小李哥(wxid_cejgi1lomjcl21) 11-05 13:19:55
+claude code 网页版编程 赠送1000刀额度，可以薅羊毛
+
+
+小李哥(wxid_cejgi1lomjcl21) 11-05 13:19:56
+![图片](http://127.0.0.1:5030/image/d15ace25fda259c889081be4ac9e7baf)
+
+李楠律师：15332309361(wxid_9r2lgxtkmvt722) 11-05 13:20:29
+在哪里领取呢。
+
+小李哥(wxid_cejgi1lomjcl21) 11-05 13:20:54
+https://claude.ai/code/
+
+李楠律师：15332309361(wxid_9r2lgxtkmvt722) 11-05 13:21:55
+谢谢
+
+Jessie圆子@AI出海(wxid_glupb8ygj1do12) 11-05 13:22:33
+"${wxid_glupb8ygj1do12}" 拍了拍 "${wxid_wlzowxnwc1r222}"
+
+李楠律师：15332309361(wxid_9r2lgxtkmvt722) 11-05 13:24:21
+![图片](http://127.0.0.1:5030/image/4df1ea7c75cfc9cdf9fe2574f37995fd)
+
+闫景回（闫杰）(meixin1234) 11-05 13:24:50
+![图片](http://127.0.0.1:5030/image/ccb505cc0a2a196aca9b64ffb4ff7c77)
+
+闫景回（闫杰）(meixin1234) 11-05 13:25:02
+哪里领啊
+
+小李哥(wxid_cejgi1lomjcl21) 11-05 13:26:19
+![图片](http://127.0.0.1:5030/image/8db642d951da001e347624782ae2d7b8)
+
+李楠律师：15332309361(wxid_9r2lgxtkmvt722) 11-05 13:26:45
+这个咋办
+
+李楠律师：15332309361(wxid_9r2lgxtkmvt722) 11-05 13:26:47
+![图片](http://127.0.0.1:5030/image/4df1ea7c75cfc9cdf9fe2574f37995fd)
+
+Micheal(yayaya1992924) 11-05 13:26:51
+![图片](http://127.0.0.1:5030/image/333757f65b71aea781edff8e1bb7dbf0)
+
+小李哥(wxid_cejgi1lomjcl21) 11-05 13:26:54
+好像要claude会员才能领取
+
+Micheal(yayaya1992924) 11-05 13:27:09
+max有1000
+
+SuperEric(janetchristmas) 11-05 13:28:04
+要会员才能领
+
+闫景回（闫杰）(meixin1234) 11-05 13:28:49
+![图片](http://127.0.0.1:5030/image/7e120b5b351314aca83714f06bb0b3ba)
+
+叁斤(magicianwen) 11-05 14:10:14
+![图片](http://127.0.0.1:5030/image/f89ae5c5491bf0cb7f9c7e3bfc6779da)
+
+刘小排(liuxiaopai) 11-05 14:42:56
+今晚的直播非常重要，请大家一定要腾出时间
+
+大吉要发光(wxid_m2uo3n2z3ls412) 11-05 14:43:11
+"${wxid_m2uo3n2z3ls412}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+大娄(loveallen) 11-05 14:43:18
+> 刘小排(liuxiaopai) 11-05 14:42:56
+> 今晚的直播非常重要，请大家一定要腾出时间
+[OK]
+
+昕盛(RoryWm) 11-05 14:43:24
+"${RoryWm}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+阿朝🕺🏻(wxid_b3tzgkhkufhp22) 11-05 14:43:47
+![动画表情](http://wxapp.tc.qq.com/275/20304/stodownload?m=91944c90a7307f97095a67d15b04af68&filekey=30340201010420301e0202011304025348041091944c90a7307f97095a67d15b04af6802022d8b040d00000004627466730000000132&hy=SH&storeid=264795e08000767e5000000000000011300004f50534810b098e0b66a5a1a7&bizid=1023)
+
+孙金明(wxid_8961449614614) 11-05 14:43:59
+"${wxid_8961449614614}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+李楠律师：15332309361(wxid_9r2lgxtkmvt722) 11-05 15:56:02
+收到、收到，
+
+Gary(wxid_jri9no8npznb22) 11-05 16:02:32
+![图片](http://127.0.0.1:5030/image/9020ce40cdcfcd9640ecb8b5504f35a2)
+
+Gary(wxid_jri9no8npznb22) 11-05 16:02:46
+我的也只有250
+
+Shining佳伟～一烟火龙果(wxid_x22nbgzmxqcs22) 11-05 16:10:24
+"${wxid_x22nbgzmxqcs22}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-05 16:24:57
+1000刀  能干多少 token [皱眉]
+
+一路摇到顶(z517133685) 11-05 16:30:39
+很多很多。。因为还有缓存的存在。
+
+SuperEric(janetchristmas) 11-05 16:39:07
+有兴趣能力的可以自行研究
+
+SuperEric(janetchristmas) 11-05 16:39:07
+![图片](http://127.0.0.1:5030/image/70887a42562a561a7b8b18399e9fcf45)
+
+桑桑(wxid_q2c7fp10z2522) 11-05 17:22:01
+[群公告]
+
+桑桑(wxid_q2c7fp10z2522) 11-05 17:22:05
+有些学员想看一期的手册，一起同步到群公告里啦~
+
+桑桑(wxid_q2c7fp10z2522) 11-05 17:23:58
+@所有人 今晚高强度学习期第2次直播分享即将开始，请大家提前锁定时间：
+
+【分享时间】 11月5日（周三）晚20:00
+【分享人】刘小排
+【分享的主题】内功篇导学
+【分享地点】小鹅通
+
+点击下方链接预约直播间，今晚20:00不见不散～
+
+桑桑(wxid_q2c7fp10z2522) 11-05 17:24:27
+[链接|【深海圈丨AI产品出海】刘小排：内功篇导学](https://appamvpb5mq9834.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoyLCJhcHBfaWQiOiJhcHBhbXZwYjVtcTk4MzQiLCJyZXNvdXJjZV9pZCI6ImxfNjkwODdkNGFlNGIwNjk0YzViNDg3YWRiIiwicmVzb3VyY2VfdHlwZSI6NCwicGF5bWVudF90eXBlIjoiIiwicHJvZHVjdF9pZCI6InBfNjhmMjFhMTBlNGIwNjk0YzViM2UxZWQ5IiwiYXZhaWxhYmxlIjp0cnVlLCJhdmFpbGFibGVfcHJvZHVjdCI6ZmFsc2UsInNoYXJlX3VzZXJfaWQiOiJ1XzY3YWMwYTgyMTM4N2JfVmtXdUpSWG44ZiIsInNoYXJlX3R5cGUiOjUsInNjZW5lIjoiXHU1MjA2XHU0ZWFiIn0?share_scene=1&entry=2&entry_type=2002)
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-05 18:05:03
+supabase 看得蒙蒙的···[脸红]
+手一直在键盘上悬空····[流泪]
+
+刘小排(liuxiaopai) 11-05 18:06:04
+不要急，晚上直播简单讲一下。今晚直播内容很丰富，大家如果跟不上，回头多看回访。
+
+刘小排(liuxiaopai) 11-05 18:06:10
+看完直播再去学内功篇，会快很多
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-05 18:11:51
+嗯嗯[撇嘴]
+刚好 开发项目 二选一 ，让我提供 supabase 的 database url 
+配置在 .env 变量环境里。
+
+刘小排(liuxiaopai) 11-05 18:12:37
+没有标准答案。根据你的需要，选择合适的
+
+刘小排(liuxiaopai) 11-05 18:12:54
+你需要自己去理解选择这两个东西到底是什么、优劣势，然后才能知道哪个合适
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-05 18:14:37
+嗯。那我没理解错应该我现在要告诉cc 用本地存储方案
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-05 18:14:37
+![图片](http://127.0.0.1:5030/image/fefe54dc25689615df1691736683890c)
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-05 18:14:38
+AI 说的2个方案我都不用··[捂脸]
+暂时不去研究这块数据库
+
+桑桑(wxid_q2c7fp10z2522) 11-05 19:27:33
+[链接|【深海圈丨AI产品出海】刘小排：内功篇导学](https://appamvpb5mq9834.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoyLCJhcHBfaWQiOiJhcHBhbXZwYjVtcTk4MzQiLCJyZXNvdXJjZV9pZCI6ImxfNjkwODdkNGFlNGIwNjk0YzViNDg3YWRiIiwicmVzb3VyY2VfdHlwZSI6NCwicGF5bWVudF90eXBlIjoiIiwicHJvZHVjdF9pZCI6InBfNjhmMjFhMTBlNGIwNjk0YzViM2UxZWQ5IiwiYXZhaWxhYmxlIjp0cnVlLCJhdmFpbGFibGVfcHJvZHVjdCI6ZmFsc2UsInNoYXJlX3VzZXJfaWQiOiJ1XzY3YWMwYTgyMTM4N2JfVmtXdUpSWG44ZiIsInNoYXJlX3R5cGUiOjUsInNjZW5lIjoiXHU1MjA2XHU0ZWFiIn0?share_scene=1&entry=2&entry_type=2002)
+
+桑桑(wxid_q2c7fp10z2522) 11-05 19:28:53
+@所有人 今晚直播20：00准时开始，点击链接预约直播～
+
+桑桑(wxid_q2c7fp10z2522) 11-05 19:29:19
+未完成小鹅通权限兑换会影响后续直播观看
+
+兑换链接：https://fllv5.xetlk.com/s/lmPvC
+
+刘小排(liuxiaopai) 11-05 19:56:51
+@所有人 进来吧
+
+叁斤(magicianwen) 11-05 20:06:49
+有回放吧这个
+
+桑桑(wxid_q2c7fp10z2522) 11-05 20:10:27
+有的，不过有时间的话建议看直播效果更好哦
+
+Zs(wxid_no65wyu2b0qm22) 11-05 20:18:22
+老师从哪里进去看直播呢
+
+刘小排(liuxiaopai) 11-05 21:35:48
+"${liuxiaopai}" 拍了拍 "${wxid_no65wyu2b0qm22}"
+
+刘小排(liuxiaopai) 11-05 21:36:04
+> Zs(wxid_no65wyu2b0qm22) 11-05 20:18:22
+> 老师从哪里进去看直播呢
+要不你稍微往上面翻一点点呢。。
+
+Penny(wxid_6cr3xm6917ih21) 11-05 21:41:56
+> 桑桑@生财(wxid_q2c7fp10z2522) 11-05 19:27:33
+> [链接|【深海圈丨AI产品出海】刘小排：内功篇导学](https://appamvpb5mq9834.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoyLCJhcHBfaWQiOiJhcHBhbXZwYjVtcTk4MzQiLCJyZXNvdXJjZV9pZCI6ImxfNjkwODdkNGFlNGIwNjk0YzViNDg3YWRiIiwicmVzb3VyY2VfdHlwZSI6NCwicGF5bWVudF90eXBlIjoiIiwicHJvZHVjdF9pZCI6InBfNjhmMjFhMTBlNGIwNjk0YzViM2UxZWQ5IiwiYXZhaWxhYmxlIjp0cnVlLCJhdmFpbGFibGVfcHJvZHVjdCI6ZmFsc2UsInNoYXJlX3VzZXJfaWQiOiJ1XzY3YWMwYTgyMTM4N2JfVmtXdUpSWG44ZiIsInNoYXJlX3R5cGUiOjUsInNjZW5lIjoiXHU1MjA2XHU0ZWFiIn0?share_scene=1&entry=2&entry_type=2002)
+在这里看直播
+
+Jason Xie(x447962936) 11-05 21:44:57
+![图片](http://127.0.0.1:5030/image/9d16f0b117f05d59944a609f0aa2446c)
+
+桑桑(wxid_q2c7fp10z2522) 11-05 21:45:57
+@Jason Xie 未完成小鹅通权限兑换会影响后续直播观看
+
+兑换链接：https://fllv5.xetlk.com/s/lmPvC
+
+Jason Xie(x447962936) 11-05 21:46:46
+![图片](http://127.0.0.1:5030/image/010277dbdff90d2d4960ee63fafd07f1)
+
+Jason Xie(x447962936) 11-05 21:46:50
+![图片](http://127.0.0.1:5030/image/fbcfe8fcf669074dad153de01856449a)
+
+Jason Xie(x447962936) 11-05 21:47:04
+之前兑换过了，怎么还进不了啊
+
+桑桑(wxid_q2c7fp10z2522) 11-05 21:47:11
+> Jason Xie(x447962936) 11-05 21:46:50
+> ![图片](http://127.0.0.1:5030/image/fbcfe8fcf669074dad153de01856449a)
+点击查看兑换记录
+
+Jason Xie(x447962936) 11-05 21:48:57
+![图片](http://127.0.0.1:5030/image/02e3479a9cd5b9505bebfcbe253e97b0)
+
+我 11-05 21:49:22
+"Jason Xie" 撤回了一条消息
+
+Jason Xie(x447962936) 11-05 21:49:24
+![图片](http://127.0.0.1:5030/image/7fd5b7469ebf5aeaeef55045e3d10c3d)
+
+Jason Xie(x447962936) 11-05 21:49:39
+点进去就这样了
+
+桑桑(wxid_q2c7fp10z2522) 11-05 21:50:00
+应该是之前信息填写有误，我添加你处理
+
+Jason Xie(x447962936) 11-05 21:50:38
+👌
+
+系统消息 11-05 22:11:55
+"袁智翔(wxid_7483c6zwueat22)"邀请"李李(wxid_9jd4so62esih12)"加入了群聊
+
+系统消息 11-05 22:11:55
+"李李"与群里其他人都不是朋友关系，请注意隐私安全

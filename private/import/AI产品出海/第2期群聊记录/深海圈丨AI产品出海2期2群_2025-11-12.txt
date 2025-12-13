@@ -1,0 +1,22 @@
+我 11-12 09:36:58
+"IvanKing" 撤回了一条消息
+
+IvanKing(wxid_gjuajd7lpnvp22) 11-12 09:38:36
+小明(wxid_at9px5nf07qm22) 11-12 19:19:12
+> IvanKing(wxid_gjuajd7lpnvp22) 11-12 09:38:36
+> > [引用]
+> ##举手#这个链接利用方法，是将这个链接内容下载后上传到自己 Supabase 中进行演练吗？
+不是，这是完成练习后的代码内容
+
+小明(wxid_at9px5nf07qm22) 11-12 19:19:58
+IvanKing(wxid_gjuajd7lpnvp22) 11-12 19:22:09
+> 小明(wxid_at9px5nf07qm22) 11-12 19:19:12
+> > [引用]
+> 不是，这是完成练习后的代码内容
+收到。
+
+WYT(wxid_tmaweo2rblrs31) 11-12 21:49:57
+可以了
+
+WYT(wxid_tmaweo2rblrs31) 11-12 21:49:57
+![图片](http://127.0.0.1:5030/image/0fa3d7d49d8efeb05d2185c857833031)

@@ -1,0 +1,302 @@
+车(wxid_2x6x5y4p0sc522) 11-20 00:00:47
+[分享]
+
+车(wxid_2x6x5y4p0sc522) 11-20 00:01:17
+ai 博主
+
+青竹(wxid_1348793487711) 11-20 12:04:39
+大家 Creem 有没有遇到过这样的情况：
+
+登陆之后，发现之前改过名字的 store 名字又改回来了；今天我发现，我昨天刚创的 store 没有了，坑爹呀
+
+Min(szm800717) 11-20 14:13:30
+![图片](http://127.0.0.1:5030/image/ce0b3c37e219e3ea554182f0c5bab6ef)
+
+Min(szm800717) 11-20 14:13:31
+![图片](http://127.0.0.1:5030/image/f4f08cb6810c6403506253aacac87e76)
+
+Min(szm800717) 11-20 14:15:08
+灵光，感觉未来手机操作系统应该是个白板，里面大模型可以让用户自己随意制作app[捂脸]
+
+Min(szm800717) 11-20 14:24:51
+有点类似我的世界游戏那种感觉
+
+前行(gejinpeng123) 11-20 14:27:30
+你这个是在手机端Gemini生成的吗
+
+Min(szm800717) 11-20 14:36:20
+![视频](http://127.0.0.1:5030/video/)
+
+Min(szm800717) 11-20 14:37:01
+@前行-深圳龙华 不是，是阿里的灵光app
+
+前行(gejinpeng123) 11-20 14:37:16
+哦哦，好的
+
+Min(szm800717) 11-20 14:38:17
+也是完全可用，跟gemini3效果很像，但目前代码不能导出
+
+前行(gejinpeng123) 11-20 14:42:28
+Gemni3也是有这个效果的，但好像不是每个用户都开放
+
+来来说AI(wxid_s51w6qhhcpya22) 11-20 17:08:49
+![图片](http://127.0.0.1:5030/image/4922a502017f0d0b12b4087163e9497f)
+
+来来说AI(wxid_s51w6qhhcpya22) 11-20 17:09:11
+分享个工具，cherry STUDIO可以调挺多CLI工具
+
+袁智翔(wxid_7483c6zwueat22) 11-20 17:13:06
+> 来来说AI | 广州(wxid_s51w6qhhcpya22) 11-20 17:09:11
+> 分享个工具，cherry STUDIO可以调挺多CLI工具
+原来在这儿，上次找没找到，我以为他不支持这个功能 [Lol]
+
+青竹(wxid_1348793487711) 11-20 17:14:09
+@易焘 现在creem提现是设置直接提到国内银行卡吗？
+
+青竹(wxid_1348793487711) 11-20 17:14:10
+[链接|已经退回3次！我的Creem提现被拒了...](https://mp.weixin.qq.com/s?__biz=MzkwMDcxNjU3MA==&mid=2247484731&idx=1&sn=8651aeba9f9a97f8e897ab9bf8107f3e&chksm=c13d321308d5780890e4165a8b6497e232cdb3d64fec4f40bd6d0f641b6f68d5c6aa463be37c&mpshare=1&scene=1&srcid=1120xxDFJ4HJpKBAvAkJ0cgu&sharer_shareinfo=c1bf5a9a9dc4308652b3052c9a4c7bf2&sharer_shareinfo_first=c1bf5a9a9dc4308652b3052c9a4c7bf2#rd)
+
+袁智翔(wxid_7483c6zwueat22) 11-20 17:14:24
+> 来来说AI | 广州(wxid_s51w6qhhcpya22) 11-20 17:08:49
+> ![图片](http://127.0.0.1:5030/image/4922a502017f0d0b12b4087163e9497f)
+我选 codex 为啥模型不是 codex 的默认模型啊？
+
+袁智翔(wxid_7483c6zwueat22) 11-20 17:14:24
+![图片](http://127.0.0.1:5030/image/02f2a529b776a7e3514aad4c1ed22690)
+
+舒未读(wxid_1814638146314) 11-20 17:17:26
+> 青竹-上海(wxid_1348793487711) 11-20 17:14:09
+> @易焘 现在creem提现是设置直接提到国内银行卡吗？
+提港卡秒过，支付宝好像要填写什么证明，国内卡暂时没人成功过。
+
+易焘(wxid_3qozfhsivqi452) 11-20 17:21:18
+> 青竹-上海(wxid_1348793487711) 11-20 17:14:09
+> @易焘 现在creem提现是设置直接提到国内银行卡吗？
+我设置了香港银行卡
+入账很顺利
+国内银行卡没测过
+听说招行比较友好点
+
+青竹(wxid_1348793487711) 11-20 17:22:34
+"${wxid_1348793487711}" 拍了拍 "${wxid_1814638146314}"
+
+刘小排(liuxiaopai) 11-20 18:04:54
+今晚20:00直播 - 优秀产品拆解
+分享我分析新的AI SaaS产品的一些方法
+
+Ash焚芯(wxid_siqp6j111tho22) 11-20 18:05:17
+"${wxid_siqp6j111tho22}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+桑桑(wxid_q2c7fp10z2522) 11-20 18:06:58
+[链接|【深海圈丨AI产品出海】刘小排：优秀产品拆解](https://appamvpb5mq9834.h5.xiaoeknow.com/v4/course/alive/l_691c64cee4b0694ca14597d0?app_id=appamvpb5mq9834&alive_mode=0&pro_id=p_68f21a10e4b0694c5b3e1ed9&type=2&state=a0764775f06a82a1be51e50e4c9795d2_C9xop3&resource_id=l_691c64cee4b0694ca14597d0&resource_type=4&payment_type=&product_id=p_68f21a10e4b0694c5b3e1ed9&available=1&available_product=0&share_user_id=u_67ac0a821387b_VkWuJRXn8f&share_type=5&scene=%E5%88%86%E4%BA%AB&share_scene=1&entry=2&entry_type=2002)
+
+来来说AI(wxid_s51w6qhhcpya22) 11-20 18:07:02
+> 袁智翔(wxid_7483c6zwueat22) 11-20 17:14:24
+> > [引用]
+> 我选 codex 为啥模型不是 codex 的默认模型啊？
+这得看看帮助了
+
+桑桑(wxid_q2c7fp10z2522) 11-20 18:07:41
+> 桑桑@生财(wxid_q2c7fp10z2522) 11-20 18:07:00
+> [链接|【深海圈丨AI产品出海】刘小排：优秀产品拆解](https://appamvpb5mq9834.h5.xiaoeknow.com/v4/course/alive/l_691c64cee4b0694ca14597d0?app_id=appamvpb5mq9834&alive_mode=0&pro_id=p_68f21a10e4b0694c5b3e1ed9&type=2&state=a0764775f06a82a1be51e50e4c9795d2_C9xop3&resource_id=l_691c64cee4b0694ca14597d0&resource_type=4&payment_type=&product_id=p_68f21a10e4b0694c5b3e1ed9&available=1&available_product=0&share_user_id=u_67ac0a821387b_VkWuJRXn8f&share_type=5&scene=%E5%88%86%E4%BA%AB&share_scene=1&entry=2&entry_type=2002)
+点击链接预约今晚直播，20：00见～
+
+青竹(wxid_1348793487711) 11-20 18:10:13
+"${wxid_1348793487711}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 11-20 18:52:50
+注册谷歌，手机验证哪里有渠道可以接呀
+
+张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 11-20 18:52:50
+![图片](http://127.0.0.1:5030/image/c6c6336d5ae37fa816b3a93ba90621a8)
+
+刘小排(liuxiaopai) 11-20 18:53:05
+用中国的手机号即可
+
+来来说AI(wxid_s51w6qhhcpya22) 11-20 18:53:17
+中国手机号可以的
+
+Sitin彭涛|出海 ing(taotao120peng) 11-20 18:53:20
+> 张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 11-20 18:52:50
+> 注册谷歌，手机验证哪里有渠道可以接呀
+5sim
+
+Sitin彭涛|出海 ing(taotao120peng) 11-20 18:53:37
+中国的有时不灵
+
+张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 11-20 18:54:01
+> Sitin彭涛|出海 ing(taotao120peng) 11-20 18:53:20
+> > [引用]
+> 5sim
+这个试一下午了 接不到
+
+萧炎(wxid_wdwxza9uklqs21) 11-20 18:54:15
+> 张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 11-20 18:52:50
+> ![图片](http://127.0.0.1:5030/image/c6c6336d5ae37fa816b3a93ba90621a8)
+这个地方，最好不要接码，指不定下次什么时候跳，还要你原来的号码接码就哭不出来了
+
+这个地方，中国号码能接。
+
+张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 11-20 18:54:30
+我是想用Gemini 好像得美区注册
+
+张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 11-20 18:54:37
+中国的过不了
+
+孙金鑫(sunjinxin2005) 11-20 18:55:02
+中国的可以，你IP够干净就行
+
+萧炎(wxid_wdwxza9uklqs21) 11-20 18:55:11
+> 张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 11-20 18:54:01
+> > [引用]
+> 这个试一下午了 接不到
+如果短时间试太多次，就不要试了，24小时只能接4次左右，再往后接，本来能接的号码，也会提示手机号验证次数过多
+
+Sitin彭涛|出海 ing(taotao120peng) 11-20 18:55:16
+多试几个号
+
+张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 11-20 18:55:37
+![图片](http://127.0.0.1:5030/image/4ef5ec8cf0adfe8f12fadb039ac9ef0b)
+
+萧炎(wxid_wdwxza9uklqs21) 11-20 18:55:44
+换其他谷歌邮箱试了，这个号就不要动了
+
+张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 11-20 18:55:48
+国内手机号 是第一次就这样
+
+Sitin彭涛|出海 ing(taotao120peng) 11-20 18:55:51
+我有时候注册 gmail 啥都不用，电话都不用，直接注册了
+
+萧炎(wxid_wdwxza9uklqs21) 11-20 18:56:07
+> 萧炎(wxid_wdwxza9uklqs21) 11-20 18:55:12
+> > [引用]
+> 如果短时间试太多次，就不要试了，24小时只能接4次左右，再往后接，本来能接的号码，也会提示手机号验证次数过多
+@张柯Ker｜尽量24 小时内回复信息
+
+Sitin彭涛|出海 ing(taotao120peng) 11-20 18:56:14
+> 张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 11-20 18:55:48
+> 国内手机号 是第一次就这样
+我有几个卡也是这样
+
+张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 11-20 18:56:57
+> 萧炎(wxid_wdwxza9uklqs21) 11-20 18:55:11
+> > [引用]
+> 如果短时间试太多次，就不要试了，24小时只能接4次左右，再往后接，本来能接的号码，也会提示手机号验证次数过多
+是换个邮箱号吗  要开指纹浏览器不
+
+张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 11-20 18:57:26
+我IP应该没问题
+
+萧炎(wxid_wdwxza9uklqs21) 11-20 18:58:19
+> 张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 11-20 18:52:50
+> ![图片](http://127.0.0.1:5030/image/c6c6336d5ae37fa816b3a93ba90621a8)
+这个地方，接了码，指不定后面什么时候还会跳，那个时候，你的码要是接不到，这个邮箱暂时就废了
+
+Gary曹淦丨AI内容出海🚢(wxid_ti3kft1a406t22) 11-20 19:02:00
+来自油管的血泪教训
+
+来来说AI(wxid_s51w6qhhcpya22) 11-20 19:06:19
+你手机注册就不出这个验证码了，电脑注册是一定要验证码的
+
+来来说AI(wxid_s51w6qhhcpya22) 11-20 19:06:36
+> Gary曹淦丨AI内容出海🚢(wxid_ti3kft1a406t22) 11-20 19:02:00
+> 来自油管的血泪教训
+后续要用之前的号码验证，找不到号码了是吗？
+
+张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 11-20 19:07:26
+手机注册要发短信
+
+张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 11-20 19:07:33
+[动画表情]
+
+萧炎(wxid_wdwxza9uklqs21) 11-20 19:07:39
+> 来来说AI | 广州(wxid_s51w6qhhcpya22) 11-20 19:06:19
+> 你手机注册就不出这个验证码了，电脑注册是一定要验证码的
+手机注册，中国号码，很多时候注册不了
+
+萧炎(wxid_wdwxza9uklqs21) 11-20 19:07:58
+而且现在注册变严格了
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-20 19:32:48
+> 萧炎(wxid_wdwxza9uklqs21) 11-20 18:54:15
+> > [引用]
+> 这个地方，最好不要接码，指不定下次什么时候跳，还要你原来的号码接码就哭不出来了
+> 这个地方，中国号码能接。
+初次注册要填的手机号和后续要绑定的手机号不是同一个意思的，第一个是用于验证真人，国外的网站你会发现都是这样的
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-20 19:35:07
+有的国内手机号不行，我一个号是提示验证过多，估计号码早就被别人批量注册过
+
+范志杰 Fam(leiyushuma) 11-20 19:37:31
+> 张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 11-20 19:07:26
+> 手机注册要发短信
+你可以试试这个方法，
+1、首次注册用接码平台接
+2、注册成功后，完成注册后，进去绑定自己的手机号和邮箱
+
+如果首次注册用接码平台，然后进去后也没有绑定自己的手机号，现在大概率跳验证，这个邮箱直接报废
+
+张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 11-20 19:37:55
+费劲注册了一个，地区判定还不是美区[捂脸]直接上闲鱼买了个成品号
+
+张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 11-20 19:38:08
+手机注册可以，电脑不行
+
+张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 11-20 19:38:49
+而且我发现密码使用强密码就很容易过，打得乱七八糟就过了
+
+刘小排(liuxiaopai) 11-20 19:43:13
+等会20：00直播，今天没有新知识，就是随便聊聊，分享一些我看榜单、分析产品的方法。大家留好时间。
+
+陈旭(wxid_0aukhndssr7s21) 11-20 19:46:09
+太好了，准时观看
+
+许山山(wxid_5suyyigo39f311) 11-20 19:46:34
+> 张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 11-20 18:52:50
+> 注册谷歌，手机验证哪里有渠道可以接呀
+之前有个圈友介绍了个方法 用Gmail注册不用手机验证 完了绑定一个认证器
+
+感恩学习相信-小陶(wxid_tk9ar290zs4q21) 11-20 19:52:22
+> 张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 11-20 19:37:55
+> 费劲注册了一个，地区判定还不是美区[捂脸]直接上闲鱼买了个成品号
+你试试把谷歌浏览器先设置成英语再注册，我后面注册的三个号都是这样注册成功了。且绑定的都是国内手机
+
+桑桑(wxid_q2c7fp10z2522) 11-20 19:53:12
+[链接|【深海圈丨AI产品出海】刘小排：优秀产品拆解](https://appamvpb5mq9834.h5.xiaoeknow.com/v4/course/alive/l_691c64cee4b0694ca14597d0?app_id=appamvpb5mq9834&alive_mode=0&pro_id=p_68f21a10e4b0694c5b3e1ed9&type=2&state=a0764775f06a82a1be51e50e4c9795d2_C9xop3&resource_id=l_691c64cee4b0694ca14597d0&resource_type=4&payment_type=&product_id=p_68f21a10e4b0694c5b3e1ed9&available=1&available_product=0&share_user_id=u_67ac0a821387b_VkWuJRXn8f&share_type=5&scene=%E5%88%86%E4%BA%AB&share_scene=1&entry=2&entry_type=2002)
+
+大白心想事成(wxid_4752077525712) 11-20 20:36:26
+![图片](http://127.0.0.1:5030/image/a3d44904bca629e4bf7b260e2e58e138)
+
+大白心想事成(wxid_4752077525712) 11-20 20:36:28
+哈哈哈哈
+
+阿泽kk(wxid_cnhj0ziqf8t421) 11-20 21:08:47
+> 桑桑@生财(wxid_q2c7fp10z2522) 11-20 19:53:12
+> [链接|【深海圈丨AI产品出海】刘小排：优秀产品拆解](https://appamvpb5mq9834.h5.xiaoeknow.com/v4/course/alive/l_691c64cee4b0694ca14597d0?app_id=appamvpb5mq9834&alive_mode=0&pro_id=p_68f21a10e4b0694c5b3e1ed9&type=2&state=a0764775f06a82a1be51e50e4c9795d2_C9xop3&resource_id=l_691c64cee4b0694ca14597d0&resource_type=4&payment_type=&product_id=p_68f21a10e4b0694c5b3e1ed9&available=1&available_product=0&share_user_id=u_67ac0a821387b_VkWuJRXn8f&share_type=5&scene=%E5%88%86%E4%BA%AB&share_scene=1&entry=2&entry_type=2002)
+这个怎么看呢？
+
+阿泽kk(wxid_cnhj0ziqf8t421) 11-20 21:10:08
+点进去显示
+
+阿泽kk(wxid_cnhj0ziqf8t421) 11-20 21:10:09
+![图片](http://127.0.0.1:5030/image/ef88e6a57db43df6b529d6f232ac57af)
+
+清仔（专注中）(wxid_4oz7hsqrg8y722) 11-20 21:19:13
+> 阿泽kk(wxid_cnhj0ziqf8t421) 11-20 21:08:47
+> > [引用]
+> 这个怎么看呢？
+要用小鹅通，之前有发领取链接
+
+桑桑(wxid_q2c7fp10z2522) 11-20 21:25:14
+@阿泽kk 我来联系你处理
+
+刘杰(liujie1413) 11-20 21:26:07
+> 阿泽kk(wxid_cnhj0ziqf8t421) 11-20 21:10:09
+> ![图片](http://127.0.0.1:5030/image/ef88e6a57db43df6b529d6f232ac57af)
+我点进去也是这样
+
+桑桑(wxid_q2c7fp10z2522) 11-20 21:27:33
+> 刘杰(liujie1413) 11-20 21:26:07
+> > [引用]
+> 我点进去也是这样
+@所有人 不能正常观看课程是因为之前没有兑换小鹅通权限，可以联系我处理～

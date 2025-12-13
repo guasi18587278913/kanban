@@ -1,0 +1,121 @@
+宁王（加油！）(wxid_5182881829312) 10-10 00:05:00
+不急的话可以再等等，这价格是暂时的，
+
+Daniel(liaozhichao504125) 10-10 00:50:35
+求一个sora的邀请码
+
+Walker(YQFabc) 10-10 08:02:48
+29YZCP
+
+闻鉴(wxid_cdtcq1czmsgf22) 10-10 08:22:17
+#举手
+求助，求claude code中转账号推荐。
+需要在vscode中能用claude code插件的那种。
+
+现在用的中转账号太不稳定了，总是出问题。
+
+非常感谢
+
+闻鉴(wxid_cdtcq1czmsgf22) 10-10 08:23:08
+国产的什么时候才能彻底代替claude code啊，期待中。
+希望codebuddy能顶上来。
+
+落尘(wxid_2d9fw2ta1t9n22) 10-10 09:46:50
+我个人用的，360元 1100美元额度，感觉还行…之前是拼车，用了俩月，现在不能拼了…大部分时候都挺稳定
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 10-10 09:58:48
+> 闻鉴-广州(wxid_cdtcq1czmsgf22) 10-10 08:23:08
+> 国产的什么时候才能彻底代替claude code啊，期待中。
+> 希望codebuddy能顶上来。
+我现在用glm4.6
+
+刘小排(liuxiaopai) 10-10 09:59:27
+> 闻鉴-广州(wxid_cdtcq1czmsgf22) 10-10 08:23:08
+> &#x0A;国产的什么时候才能彻底代替claude&#x20;code啊，期待中。&#x0A;希望codebuddy能顶上来。
+GLM 4.6约等于sonnet 4，可以实战了。
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 10-10 10:00:00
+稍微强一点，不会像s4那样倒垃圾
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 10-10 10:00:12
+当然目前最强我认为还是s4.5
+
+酷克(wxid_wrvymzvoo21g12) 10-10 10:41:35
+VScode安装claude code插件后出现这个界面该怎么处理呢？想配置GLM4.6
+
+酷克(wxid_wrvymzvoo21g12) 10-10 10:41:35
+![图片](http://127.0.0.1:5030/image/87cffdd3a9e416be14220277b6837a85)
+
+刘小排(liuxiaopai) 10-10 10:43:08
+你用我们学员做的插件。  搜索 Claude Code YOLO
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 10-10 10:46:49
+reddit是不是也好容易封号，我前几天拿一个3个月的老号开了开发者账号，今天就登录不上了……
+
+酷克(wxid_wrvymzvoo21g12) 10-10 10:47:29
+> 刘小排(liuxiaopai) 10-10 10:43:08
+> 你用我们学员做的插件。  搜索 Claude Code YOLO
+安装Claude Code YOLO就不需要再安装claude code官方插件吗？
+
+酷克(wxid_wrvymzvoo21g12) 10-10 10:47:46
+安装后还是一个界面
+
+酷克(wxid_wrvymzvoo21g12) 10-10 10:47:46
+![图片](http://127.0.0.1:5030/image/70a74155e83624b261c505f0a137c08d)
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 10-10 10:48:03
+而且新注册的账号页直接报invalid username or password
+
+刘小排(liuxiaopai) 10-10 10:51:39
+> 酷克(wxid_wrvymzvoo21g12) 10-10 10:47:29
+> > [引用]
+> 安装Claude Code YOLO就不需要再安装claude code官方插件吗？
+是的
+
+刘小排(liuxiaopai) 10-10 10:52:00
+> 酷克(wxid_wrvymzvoo21g12) 10-10 10:47:46
+> ![图片](http://127.0.0.1:5030/image/70a74155e83624b261c505f0a137c08d)
+@酷克 显然不是同一个界面啊。这个不要求你登录，你直接配置GLM 4.6就行
+
+酷克(wxid_wrvymzvoo21g12) 10-10 10:53:13
+好的 谢谢
+
+酷克(wxid_wrvymzvoo21g12) 10-10 13:49:46
+前面用着好好地，突然就不能用了，这是什么情况？
+
+酷克(wxid_wrvymzvoo21g12) 10-10 13:49:46
+![图片](http://127.0.0.1:5030/image/09fdd646da7a87c40e57efa2a7381ce2)
+
+我 10-10 13:59:24
+"Chipen" 撤回了一条消息
+
+匪气书生(wxid_o8wq7kbo845321) 10-10 16:12:55
+@小明-助教  模板里面是不是没有退款和取消订阅的逻辑是吧？
+
+小明(wxid_at9px5nf07qm22) 10-10 16:27:55
+@匪气书生 是的，没做退款和取消订阅、更换订阅
+
+匪气书生(wxid_o8wq7kbo845321) 10-10 16:28:30
+[OK]
+
+刘小排(liuxiaopai) 10-10 16:29:08
+你在用我们新版starter做产品吗
+
+匪气书生(wxid_o8wq7kbo845321) 10-10 16:34:26
+是的
+
+刘小排(liuxiaopai) 10-10 16:38:03
+期待[哇]
+
+刘小排(liuxiaopai) 10-10 16:38:20
+等你上线，没准你是第一个用新版来上正式产品的@匪气书生 
+
+匪气书生(wxid_o8wq7kbo845321) 10-10 16:39:03
+[捂脸][捂脸]压力陡增
+
+桑桑(wxid_q2c7fp10z2522) 10-10 17:54:44
+刘小排(liuxiaopai) 10-10 20:19:42
+[链接|Claude Code for VS Code 魔改版！支持YOLO模式、支持配置国产大模型、无需登录、免配置网络！](https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247499210&idx=1&sn=2e6edd4a981182478aa25a1ee59a798b&chksm=e8f805f5cc51bb184add40b81c0fa41efaa6e7e9aa8b8053171cc08506802c009f5b204fe5c6&mpshare=1&scene=1&srcid=1010ObTzJV9KzsdfL0BQMqnQ&sharer_shareinfo=22fccc629f7fef3dc3bca256f0c2bac8&sharer_shareinfo_first=22fccc629f7fef3dc3bca256f0c2bac8#rd)
+
+刘小排(liuxiaopai) 10-10 20:19:51
+咱们的同学作品

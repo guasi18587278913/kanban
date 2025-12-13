@@ -1,0 +1,11 @@
+感恩学习相信-小陶(wxid_tk9ar290zs4q21) 11-10 09:50:23
+码叔编程(wxid_awv5vp6602ju22) 11-10 20:41:12
+[链接|AI编程冲刺“DeepSeek时刻”：00后团队用国产模型一键直出复杂应用，效果超越Claude Code](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247840831&idx=1&sn=a2be5347e8e8eb616e6b14de937e4377&chksm=e969232f0482f9e042554aa86d924978682c8daee742807634eb166e35a125636f29a4415838&mpshare=1&scene=1&srcid=1110PDWVC84Le6IlMCc3Xnoe&sharer_shareinfo=e52353dacfc5937c865e37265cab88dc&sharer_shareinfo_first=4031fccf7c356c2a59c26033950e343d#rd)
+
+银河星游(wxid_6253072530112) 11-10 21:37:22
+> 码叔编程(wxid_awv5vp6602ju22) 11-10 20:41:12
+> [链接|AI编程冲刺“DeepSeek时刻”：00后团队用国产模型一键直出复杂应用，效果超越Claude Code](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247840831&idx=1&sn=a2be5347e8e8eb616e6b14de937e4377&chksm=e969232f0482f9e042554aa86d924978682c8daee742807634eb166e35a125636f29a4415838&mpshare=1&scene=1&srcid=1110PDWVC84Le6IlMCc3Xnoe&sharer_shareinfo=e52353dacfc5937c865e37265cab88dc&sharer_shareinfo_first=4031fccf7c356c2a59c26033950e343d#rd)
+为啥我看这个介绍好多高大上的名词就是没看懂到底怎么做到千万token上下文的[捂脸]
+
+顺利(wxid_n6kjtdjnivea21) 11-10 21:44:28
+好像是记忆管理

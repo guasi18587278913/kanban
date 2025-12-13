@@ -1,0 +1,109 @@
+Afar(wxid_pl1vacz65tnb22) 11-16 00:00:05
+或者现在手动添加一下，多一段也不影响
+
+漠北(wxid_2196531965112) 11-16 00:00:17
+哦，手动哈，好的
+
+Afar(wxid_pl1vacz65tnb22) 11-16 00:00:50
+让cursor也行，就是中间这种方式比较好自查
+
+漠北(wxid_2196531965112) 11-16 09:08:41
+反馈一下，昨晚改成手动安装的方式，然后等了一夜，今早看，clarity可以正常统计了，plausible一夜以后也有数据了
+
+漠北(wxid_2196531965112) 11-16 09:08:41
+![图片](http://127.0.0.1:5030/image/d2eba31806c5e2a4ebd319e9d0df6c6f)
+
+我 11-16 10:06:41
+"海外代付-骷髅骨头" 撤回了一条消息
+
+我 11-16 10:06:55
+"海外代付-骷髅骨头" 撤回了一条消息
+
+Ruiqin袁锐钦(wetas6) 11-16 10:08:09
+[链接|【深海圈丨AI产品出海】刘小排：订阅支付的原理 & 使用脚手架加快开发](https://appamvpb5mq9834.h5.xiaoeknow.com/v4/course/alive/l_69130af7e4b0694ca140acae?type=2&resource_type=4&resource_id=l_69130af7e4b0694ca140acae&app_id=appamvpb5mq9834&pro_id=p_68f21a10e4b0694c5b3e1ed9&payment_type=&product_id=p_68f21a10e4b0694c5b3e1ed9&available=1&available_product=0&share_user_id=u_6808a1263d131_lAe4UmeWxb&share_type=5&scene=%E5%88%86%E4%BA%AB&share_scene=1&entry=2&entry_type=2002)
+
+Afar(wxid_pl1vacz65tnb22) 11-16 12:39:30
+[链接|放弃Claude Code，就在今天！](https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247499582&idx=1&sn=5e8e2cfe3c606a7f56623e2d32444b60&chksm=e8ef93bfdcba52a5fb166ac3417a7a05a79c70e4cdadaaeb72ad8cb9f5c85ba025766a4709f5&mpshare=1&scene=1&srcid=1116DdPaFXAOaWFRjA7OqBCb&sharer_shareinfo=abc778ef7fa17047f8bbfb25fac013dc&sharer_shareinfo_first=abc778ef7fa17047f8bbfb25fac013dc#rd)
+
+Afar(wxid_pl1vacz65tnb22) 11-16 12:39:59
+codex站起来了
+
+X1(j-e-e-j-e-e) 11-16 12:41:04
+我也刚看到
+
+刘小排(liuxiaopai) 11-16 12:41:08
+嗯，昨天群里说过了。我已经用了两天了，这两天都没用cc。  
+刚开始放弃cc有点不习惯，但是整体效率是提升的。
+
+lynn-林爱(wxid_e3hg72buvc8r22) 11-16 12:43:47
+立马跟上
+
+Afar(wxid_pl1vacz65tnb22) 11-16 12:46:07
+分享个小技巧是去闲鱼买team账号，小几十块就能进一个月
+
+Afar(wxid_pl1vacz65tnb22) 11-16 12:46:16
+额度比plus高
+
+宋恺(song_kai_microblog) 11-16 12:46:58
+牛啊，感觉可以试试了，之前感觉codex主要问题是慢
+
+刘小排(liuxiaopai) 11-16 12:47:13
+仍然没有cc和cursor快。只是比之前快
+
+宋恺(song_kai_microblog) 11-16 12:47:57
+哦哦，那可能还比较难完全放弃cc
+
+刘小排(liuxiaopai) 11-16 12:48:09
+对，属于硬切换
+
+刘小排(liuxiaopai) 11-16 12:48:12
+cc的用户体验太好了
+
+周志鑫(zhouzhixin853) 11-16 12:53:32
+想求证下，直接在cursor里用插件的方式使用codex，和用终端命令行的方式，是不是一样的？我问ai说是一样的
+
+周志鑫(zhouzhixin853) 11-16 12:53:32
+![图片](http://127.0.0.1:5030/image/e12153bcbb3d469dfacd55e75c41a5d1)
+
+骷髅骨头(nicolaslau) 11-16 12:54:39
+> 刘小排(liuxiaopai) 11-16 12:48:12
+> cc的用户体验太好了
+那今天还放弃不了？
+
+刘小排(liuxiaopai) 11-16 12:56:49
+根据个人使用习惯
+
+刘小排(liuxiaopai) 11-16 12:57:18
+有一天你觉得Cursor不够用的时候，你进步了。
+再有一天你发现CC不如Codex的时候，你又进步了。 （还挺难发现的，因为两个都很好）
+
+漠北(wxid_2196531965112) 11-16 13:30:02
+CC的入手难度一直很高，这对新手来说是一个好消息啊
+
+漠北(wxid_2196531965112) 11-16 14:06:03
+#举手 在cursor里如何使用codex？之前买了teams团队了，问gpt，告诉我不能用了[疑问]
+
+漠北(wxid_2196531965112) 11-16 14:06:04
+![图片](http://127.0.0.1:5030/image/4f7b2503cc78e4c23fea6604ab67b5ac)
+
+小明(wxid_at9px5nf07qm22) 11-16 14:24:32
+@漠北-天津 看手册，基础篇第三章的最后，或者内功篇 cursor 中 codex 的部分
+
+漠北(wxid_2196531965112) 11-16 15:06:20
+可以啦，谢谢小明老师
+
+漠北(wxid_2196531965112) 11-16 15:06:20
+![图片](http://127.0.0.1:5030/image/c6b801122b4bd85e8b3cfe67dd8ffcf4)
+
+新侠(wxid_kysk4x0anmy712) 11-16 15:17:04
+汇丰和众安秒通过，中银说是要等一个工作日，天星也要等[可怜]
+
+骷髅骨头(nicolaslau) 11-16 15:18:01
+手机上申请的，要求存款的是在国内银行卡再转过去吗
+
+新侠(wxid_kysk4x0anmy712) 11-16 15:33:08
+可以先转中银，然后再中银转汇丰吧
+
+༺常清悟静༻(q116169979) 11-16 15:48:46
+小辰在路上(wxid_8kdse5oms99722) 11-16 22:10:39
+cc有人跟我拼吗，中转包月的，每天基本用不到一半[捂脸]

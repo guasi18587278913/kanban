@@ -1,0 +1,193 @@
+李江(apexlj) 09-29 12:27:22
+[链接|别再只盯着 KD 值了！99% 新手都误解了“长尾关键词”](https://mp.weixin.qq.com/s?__biz=Mzk4ODE3NTIxOA==&mid=2247484245&idx=1&sn=9f0a8e4bcd29bf95d18c2ef7d517d5f1&chksm=c4a5281fba660073fd9bd33818ed74b0dc386fe929e8c93ba3d18643263f49538551692e5fcd&mpshare=1&scene=1&srcid=0929bClqg3vRduxFjaAdXeIw&sharer_shareinfo=9f3676f501841ac6b8472af1c1a550a5&sharer_shareinfo_first=9f3676f501841ac6b8472af1c1a550a5#rd)
+
+李江(apexlj) 09-29 12:28:07
+对于长尾关键词，大家不要只看 kd 大小。要注意判断用户意图。最近踩过的坑。
+
+A梦 (知牧)(mrleoxu) 09-29 12:32:34
+这个不错 技术上论证长尾关键词[强]
+
+A梦 (知牧)(mrleoxu) 09-29 12:33:39
+我也分享一个，国平老师的分享解读，讲到了从全量关键词到全量需求
+
+A梦 (知牧)(mrleoxu) 09-29 12:33:39
+[链接|国平老师分享读后感：从“全量洞察”到“千人千面的自动化”，以及在沙漠里种树的魄力](https://mp.weixin.qq.com/s?__biz=MjM5NDQ3ODI3NQ==&mid=2651431291&idx=1&sn=61022e75585532e8f19596327b3fc827&chksm=bce3136977bdefc276288e4b9c1cc7ef6a887471c15cb4828866c6e04e68a2001bda3a203539&mpshare=1&scene=1&srcid=0929PWcKCg2qaRue7jKM2PSQ&sharer_shareinfo=0c6b2cec6b9cdcdb61ac0fcc15890100&sharer_shareinfo_first=090273d29a28b9d6cb669a8ccad1633c#rd)
+
+李江(apexlj) 09-29 12:33:51
+[强][强]
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-29 12:39:38
+大家现在用cc的时候输入ultrathink，cc会跑去找ultrathink的实现吗
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-29 12:39:42
+我碰到好几次了
+
+无极(wxid_wdl7p3msdupm22) 09-29 12:40:20
+> 李江(apexlj) 09-29 12:27:22
+> [链接|别再只盯着 KD 值了！99% 新手都误解了“长尾关键词”](https://mp.weixin.qq.com/s?__biz=Mzk4ODE3NTIxOA==&mid=2247484245&idx=1&sn=9f0a8e4bcd29bf95d18c2ef7d517d5f1&chksm=c4a5281fba660073fd9bd33818ed74b0dc386fe929e8c93ba3d18643263f49538551692e5fcd&mpshare=1&scene=1&srcid=0929bClqg3vRduxFjaAdXeIw&sharer_shareinfo=9f3676f501841ac6b8472af1c1a550a5&sharer_shareinfo_first=9f3676f501841ac6b8472af1c1a550a5#rd)
+这篇文章太好了    很有收获  我也分享下国平老师的文章   之前收藏了一些，对我很有帮助
+
+A梦 (知牧)(mrleoxu) 09-29 12:40:29
+没碰到 现在你输入后这几个字会变成彩色 会被正确识别意图
+
+无极(wxid_wdl7p3msdupm22) 09-29 12:41:00
+[文件|流量之道【国平】.pdf](http://127.0.0.1:5030/file/660697098a7cb79e3eb1acecce420925)
+
+无极(wxid_wdl7p3msdupm22) 09-29 12:41:11
+[文件|当流量比黄金还贵，怎么做好流量增长？.pdf](http://127.0.0.1:5030/file/55d0abc122ac7c612066be0de4e7636d)
+
+无极(wxid_wdl7p3msdupm22) 09-29 12:41:25
+[文件|我以前在阿里巴巴的流量方法论.mhtml](http://127.0.0.1:5030/file/232ea5e927f9896a55bce0de3e0a67e5)
+
+星吟(wxid_ivo4n28g15qj21) 09-29 12:41:58
+谢谢分享
+
+星吟(wxid_ivo4n28g15qj21) 09-29 12:42:32
+[动画表情]
+
+李江(apexlj) 09-29 12:43:30
+> 无极(wxid_wdl7p3msdupm22) 09-29 12:40:20
+> > [引用]
+> 这篇文章太好了    很有收获  我也分享下国平老师的文章   之前收藏了一些，对我很有帮助
+嗯嗯，有帮助就好。我在这上面走了弯路，认知上有很大误区。大部分的方法只说找 kd 低的词，只说对了一半。我相信还有跟我一样认知存在误区的朋友
+
+李江(apexlj) 09-29 12:44:13
+> 无极(wxid_wdl7p3msdupm22) 09-29 12:41:00
+> [文件|流量之道【国平】.pdf](http://127.0.0.1:5030/file/660697098a7cb79e3eb1acecce420925)
+这太有帮助了[强][强]
+
+李江(apexlj) 09-29 12:44:30
+![图片](http://127.0.0.1:5030/image/9655f6764a63dc7b98a3d2ca90a3c626)
+
+李江(apexlj) 09-29 12:45:01
+也推荐一本经典的讲 seo 的书，很体系。不是碎片化的知识
+
+无极(wxid_wdl7p3msdupm22) 09-29 12:45:11
+我有收获的部分主要是他说的搜索结果会合并，当大词和长尾词相近的时候
+
+李江(apexlj) 09-29 12:45:40
+> 无极(wxid_wdl7p3msdupm22) 09-29 12:45:11
+> 我有收获的部分主要是他说的搜索结果会合并，当大词和长尾词相近的时候
+写就是我今天早上悟到的点[捂脸]
+
+无极(wxid_wdl7p3msdupm22) 09-29 12:45:51
+之前一直没想清楚    但是现在看这篇文章，我觉得逻辑是完全队的，无论是用户角度还是平台角度都对，从技术层面也应该是不难实现的
+
+无极(wxid_wdl7p3msdupm22) 09-29 12:45:56
+[动画表情]
+
+李江(apexlj) 09-29 12:46:56
+是的。第一性原理还是解决没有被满足的需求。关键词只是表象。透过表象看用户搜索意图。找出没有被满足的意图。
+
+Moore(xiaobei1984) 09-29 12:47:09
+[旺柴] kd 越高说明热度越高，投流可以喝点汤
+
+无极(wxid_wdl7p3msdupm22) 09-29 12:47:31
+> 无极(wxid_wdl7p3msdupm22) 09-29 12:40:59
+> [文件|流量之道【国平】.pdf](http://127.0.0.1:5030/file/660697098a7cb79e3eb1acecce420925)
+这个文档  真的是碾压级别的    我收获了很多在这里   无论是用技术做流量，还是流量到底是什么，反正很多很多
+
+无极(wxid_wdl7p3msdupm22) 09-29 12:47:34
+很棒的文章
+
+无极(wxid_wdl7p3msdupm22) 09-29 12:47:54
+@Moore 助教 话说   助教是不是开始就会投流？
+
+无极(wxid_wdl7p3msdupm22) 09-29 12:48:20
+之前看到一个文章   说开始投流验证，然后用短视频自然流推广，最后是seo
+
+无极(wxid_wdl7p3msdupm22) 09-29 12:48:24
+分阶段做
+
+Moore(xiaobei1984) 09-29 12:48:32
+都做啊
+
+无极(wxid_wdl7p3msdupm22) 09-29 12:48:46
+刚开始也是都做吗
+
+无极(wxid_wdl7p3msdupm22) 09-29 12:48:51
+比如一个新网站
+
+Moore(xiaobei1984) 09-29 12:48:54
+seo只有新词快
+
+Moore(xiaobei1984) 09-29 12:49:01
+否则很慢
+
+Moore(xiaobei1984) 09-29 12:49:30
+同步做
+
+无极(wxid_wdl7p3msdupm22) 09-29 12:49:34
+实际上我暂时没考虑seo，一个是学习时间长，第二个是见效慢，我更倾向于投流和短视频矩阵
+
+无极(wxid_wdl7p3msdupm22) 09-29 12:49:40
+最后在seo补充
+
+李江(apexlj) 09-29 12:49:51
+同步做，不同策略
+
+星吟(wxid_ivo4n28g15qj21) 09-29 12:49:56
+seo 在投流面前就是弟弟
+
+Moore(xiaobei1984) 09-29 12:52:01
+> 无极(wxid_wdl7p3msdupm22) 09-29 12:49:34
+> 实际上我暂时没考虑seo，一个是学习时间长，第二个是见效慢，我更倾向于投流和短视频矩阵
+seo其实就是顺便做的事，日常运营也需要seo结合
+
+李江(apexlj) 09-29 12:53:35
+seo 最终是为用户服务的，顺便让搜索引擎方便地找到
+
+Moore(xiaobei1984) 09-29 12:53:41
+比如nanobanana做一个内页，再做一个场景页来承接
+
+Moore(xiaobei1984) 09-29 12:53:53
+或者blog
+
+Moore(xiaobei1984) 09-29 12:54:18
+这个程序化seo就可以了
+
+星吟(wxid_ivo4n28g15qj21) 09-29 12:54:36
+[动画表情]
+
+Moore(xiaobei1984) 09-29 12:54:46
+投流的时候，肯定也是关键词投流啊
+
+A梦 (知牧)(mrleoxu) 09-29 13:04:50
+关键词应该被归类，一种按照 Semrush 等软件里出现的定义，比如意图词品牌词；一种按照逻辑呈现方式归类，比如阿彪在AI大会分享的：功能页面、工具页面、竞品词页面、文章页面、程序seo页面，这些结构是关键词“表达”的主要形式。关键词还看组合，如果同一个关键词 出现在一篇 how to 或者 2025 best 的文章里，我理解也是提供了额外信息增量。
+
+A梦 (知牧)(mrleoxu) 09-29 13:05:35
+![图片](http://127.0.0.1:5030/image/38df852aa4f6f9725541fbc8bece20e8)
+
+李江(apexlj) 09-29 13:18:19
+> A梦(mrleoxu) 09-29 13:04:50
+> 关键词应该被归类，一种按照 Semrush 等软件里出现的定义，比如意图词品牌词；一种按照逻辑呈现方式归类，比如阿彪在AI大会分享的：功能页面、工具页面、竞品词页面、文章页面、程序seo页面，这些结构是关键词“表达”的主要形式。关键词还看组合，如果同一个关键词 出现在一篇 how to 或者 2025 best 的文章里，我理解也是提供了额外信息增量。
+是的，用户意图分多种类型。信息，导航，交易。
+内容形式也分多种，比如功能页，博客页。
+
+我也理解是应该多方面去对齐的。
+
+我 09-29 13:19:32
+"🥷🏿 发呆." 撤回了一条消息
+
+🥷🏿 发呆.(wxid_767zp9hgv7b922) 09-29 13:19:46
+> 李江(apexlj) 09-29 12:27:22
+> [链接|别再只盯着 KD 值了！99% 新手都误解了“长尾关键词”](https://mp.weixin.qq.com/s?__biz=Mzk4ODE3NTIxOA==&mid=2247484245&idx=1&sn=9f0a8e4bcd29bf95d18c2ef7d517d5f1&chksm=c4a5281fba660073fd9bd33818ed74b0dc386fe929e8c93ba3d18643263f49538551692e5fcd&mpshare=1&scene=1&srcid=0929bClqg3vRduxFjaAdXeIw&sharer_shareinfo=9f3676f501841ac6b8472af1c1a550a5&sharer_shareinfo_first=9f3676f501841ac6b8472af1c1a550a5#rd)
+感谢分享！ 正在做这部分
+
+李江(apexlj) 09-29 13:22:28
+客气了，我还在继续踩坑。有新的认知再记下来
+
+Moore(xiaobei1984) 09-29 13:57:10
+拿到词可以让GPT初步分析一下用户需求、场景和解决方案
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-29 16:32:08
+#举手 creem在用户支付后收款失败会发webhook吗？我在docs里没有找到类似stripe的refund.failed事件或者refund.updated事件
+
+韦安妮(wxid_fvtzl5na1qgz11) 09-29 18:26:27
+举手：我刚发现我连续几个月都收到一个扣费短信 ：每个月的30美元的扣款 来自XAI LLC PALO ALTO大家知道是什么服务的自动续费吗 ，我查了下Grok我确实订阅了，但它是每个月20美元啊
+
+路飞(wxid_ew99ir7f4ku321) 09-29 21:31:38
+supergrok，是30美元每月
+
+飞猫(wxid_6tcw1qlxyybm22) 09-29 21:32:13
+SuperGrok

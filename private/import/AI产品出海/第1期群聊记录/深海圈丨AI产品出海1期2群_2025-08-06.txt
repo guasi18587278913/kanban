@@ -1,0 +1,216 @@
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-06 00:18:34
+大家构建有遇到这种情况么
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-06 00:18:42
+![图片](http://127.0.0.1:5030/image/637ef0605195990c564c4c8661e18f53)
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-06 00:18:57
+![图片](http://127.0.0.1:5030/image/ceb34ef936eb4df06940050d5cb7c981)
+
+刘小排(liuxiaopai) 08-06 00:22:06
+你没设置环境变量
+
+刘小排(liuxiaopai) 08-06 00:22:19
+这是vercel吧？你截图发给AI，让AI教你到哪里设置。
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-06 00:25:19
+> 小李哥(wxid_cejgi1lomjcl21) 08-06 00:18:35
+> ![图片](http://127.0.0.1:5030/image/637ef0605195990c564c4c8661e18f53)
+我设置了，没设置成功，一直提示这个。
+是vercel。之前一把过，这次不知道为啥
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-06 00:25:32
+![图片](http://127.0.0.1:5030/image/16abfade2bb9686e653516e7384c2673)
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-06 00:25:39
+明天再研究吧[捂脸]
+
+刘小排(liuxiaopai) 08-06 00:25:48
+提示这个说明你没设置对。
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-06 00:27:24
+嗯，我再找找原因
+
+刘小排(liuxiaopai) 08-06 11:15:40
+大家抓紧提交黑客马拉松作品啊 嘿嘿，现在竞争还不算激烈。
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-06 11:18:37
+这个是先提交想法，然后指定时间开始做好再提交作品是吧？
+已经做好的不能参加吧？
+
+刘小排(liuxiaopai) 08-06 11:21:35
+已经做好的可以啊。只要是课程期间做的
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-06 11:22:12
+ok 
+
+和平 hepingfly(wxid_nhiimgfgcitu21) 08-06 11:56:19
+![图片](http://127.0.0.1:5030/image/3029971dab1c7e4a1f9b673215107b58)
+
+和平 hepingfly(wxid_nhiimgfgcitu21) 08-06 11:56:29
+Dia 浏览器也限速了
+
+刘小排(liuxiaopai) 08-06 12:08:56
+dia开放公测后 日常使用变慢了
+
+刘小排(liuxiaopai) 08-06 12:09:23
+Dia如果收$20/mo 我会愿意付费的。
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 08-06 12:19:25
+用了半天Dia,主要是感觉回复质量不及o3，有4o的感觉，简单问题可能还可以，回复的内容也比较短，相比chrome+gpt有点用不惯
+
+和平 hepingfly(wxid_nhiimgfgcitu21) 08-06 12:19:28
+确实感觉现在回答变慢了
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 08-06 12:20:18
+看mactalk推荐comet
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 08-06 12:20:36
+[链接|这个 AI 浏览器让我极度舒适，Dia 劲敌没错了](https://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650732281&idx=1&sn=b53b81acac82b69e90353ceadb586539&chksm=bf8a2d6df7908d05b2697c5ee414959b466b4b8f079fd5dd331ed7adc36f723eddbf879ece35&mpshare=1&scene=1&srcid=0806ap4QoTs8m0BESP45jCdX&sharer_shareinfo=f89daa333131a97d0ed6f16657932aab&sharer_shareinfo_first=f89daa333131a97d0ed6f16657932aab#rd)
+
+刘小排(liuxiaopai) 08-06 12:21:36
+Dia默认是chatgpt-4.1，可以选择o3。 o3也是免费的。
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 08-06 12:40:10
+![图片](http://127.0.0.1:5030/image/dc21f0f57b6e5f2912f7244807f6b63a)
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 08-06 12:40:29
+跟o3掰扯了好久，终于找到了，这入口真深
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 08-06 12:41:26
+确实回复好慢 还报错了
+
+我 08-06 12:41:28
+"🌫️" 撤回了一条消息
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 08-06 12:42:00
+应该是他们模型达到上限了
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 08-06 12:42:03
+![图片](http://127.0.0.1:5030/image/ce777cf8c7e0e7ce62aad54f43ee7af4)
+
+桑桑(wxid_q2c7fp10z2522) 08-06 14:08:32
+#生财精选
+
+程序员从0开始做的出海测评站，上月收入超过了1000刀。除了挖掘低密度竞争的搜索词外，靠的就是重复和勤奋。希望对还在出海工具站路上，还没拿到结果的圈友一些鼓励和启发。
+
+原帖可见：@醉春风 https://scys.com/t/BOA7uhvO
+ 
+
+闻鉴(wxid_cdtcq1czmsgf22) 08-06 14:21:15
+请教下大家，如何在cursor中使用claude code chat？在cursor中使用claude code是在终端中使用。
+那么，要使用claude code chat，是不是在cursor中先打开claude code，再打开claude code chat作为claude code的命令输入端？
+我在curosr中直接打开claude code chat，输入命令没有反应
+
+天青色等烟雨(wxid_vwoqk3aok14122) 08-06 14:22:56
+> 闻鉴-广州(wxid_cdtcq1czmsgf22) 08-06 14:21:15
+> 请教下大家，如何在cursor中使用claude code chat？在cursor中使用claude code是在终端中使用。
+> 那么，要使用claude code chat，是不是在cursor中先打开claude code，再打开claude code chat作为claude code的命令输入端？
+> 我在curosr中直接打开claude code chat，输入命令没有反应
+不是
+
+天青色等烟雨(wxid_vwoqk3aok14122) 08-06 14:23:26
+你应该下载了claude code chat插件，那点击图标就能直接进入了
+
+Eliot(jackglen) 08-06 14:46:05
+安装好 claude code ,配置好了环境变量，Claude code chat 可以直接用
+
+刘小排(liuxiaopai) 08-06 14:58:20
+这是一个界面的插件。不需要命令行。你在VS Code侧边栏找到这个图标
+
+刘小排(liuxiaopai) 08-06 14:58:21
+![图片](http://127.0.0.1:5030/image/f870a20adff85e326c8c5ad3bbee1303)
+
+极客信条(kongfulive) 08-06 15:00:32
+> 闻鉴-广州(wxid_cdtcq1czmsgf22) 08-06 14:21:15
+> 请教下大家，如何在cursor中使用claude code chat？在cursor中使用claude code是在终端中使用。
+> 那么，要使用claude code chat，是不是在cursor中先打开claude code，再打开claude code chat作为claude code的命令输入端？
+> 我在curosr中直接打开claude code chat，输入命令没有反应
+corsur可以自己拉取你vscode的配置
+
+极客信条(kongfulive) 08-06 15:01:30
+当然。vscode插件有的corsur也可以搜到
+
+R(qr277763897) 08-06 15:14:24
+求问，我在Claude code里配置了智谱的api，我以为自己用的是GLM-4.5，但它说自己是Claude Sonnet 4，我该信吗[破涕为笑]
+
+R(qr277763897) 08-06 15:14:24
+![图片](http://127.0.0.1:5030/image/a0544e871172757805d43b0deef4d151)
+
+无极(wxid_wdl7p3msdupm22) 08-06 15:15:55
+应该是内置的提示词吧
+
+无极(wxid_wdl7p3msdupm22) 08-06 15:16:01
+官方的提示词
+
+闻鉴(wxid_cdtcq1czmsgf22) 08-06 15:38:41
+> 极客信条-厦门(kongfulive) 08-06 15:00:32
+> > [引用]
+> corsur可以自己拉取你vscode的配置
+谢谢。
+
+闻鉴(wxid_cdtcq1czmsgf22) 08-06 15:38:57
+> 刘小排(liuxiaopai) 08-06 14:58:20
+> 这是一个界面的插件。不需要命令行。你在VS Code侧边栏找到这个图标
+谢谢老师[抱拳]
+
+闻鉴(wxid_cdtcq1czmsgf22) 08-06 16:46:48
+#举手 ，为何claude code chat没有反应呢？claude code能正常使用。
+
+闻鉴(wxid_cdtcq1czmsgf22) 08-06 16:46:55
+![图片](http://127.0.0.1:5030/image/)
+
+闻鉴(wxid_cdtcq1czmsgf22) 08-06 16:47:03
+![图片](http://127.0.0.1:5030/image/)
+
+天青色等烟雨(wxid_vwoqk3aok14122) 08-06 16:49:33
+我遇到过这个问题
+
+天青色等烟雨(wxid_vwoqk3aok14122) 08-06 16:49:38
+查一下网络
+
+闻鉴(wxid_cdtcq1czmsgf22) 08-06 16:54:52
+网络能用，因为claude code能正常在终端中使用
+
+一夕(phil7028) 08-06 17:30:05
+哪位老板有v2ex邀请码？跪求～
+
+吕明亮😄 Nike(wxid_d3efvdgoh3xy22) 08-06 17:30:44
+好像咸鱼可以买，几十块
+
+一夕(phil7028) 08-06 17:31:12
+这么值钱的吗？
+
+吕明亮😄 Nike(wxid_d3efvdgoh3xy22) 08-06 17:31:53
+没错[旺柴]
+
+一夕(phil7028) 08-06 17:32:40
+厉害厉害，感谢～
+
+ThalesZhen(wxid_pprwdq6lwt3112) 08-06 19:40:15
+#举手 小排老师准备的这个本课程专属 Starter Kit - Raphael Starter这个，我windows系统，开着梯子在npm i时候还是一直转圈，这个怎么解决的？
+
+ThalesZhen(wxid_pprwdq6lwt3112) 08-06 19:45:41
+![图片](http://127.0.0.1:5030/image/fe45d8512e2209ac9a47a0a5c80c0d83)
+
+ThalesZhen(wxid_pprwdq6lwt3112) 08-06 19:46:48
+![图片](http://127.0.0.1:5030/image/0e10449a0d0d4eff8adb3fcd23ca8f27)
+
+ThalesZhen(wxid_pprwdq6lwt3112) 08-06 19:53:22
+然后加了镜像的这一堆
+
+ThalesZhen(wxid_pprwdq6lwt3112) 08-06 19:53:22
+也不行
+
+ThalesZhen(wxid_pprwdq6lwt3112) 08-06 19:53:23
+![图片](http://127.0.0.1:5030/image/c4d20ec4bb04f4fef94e44cc60d741ea)
+
+ThalesZhen(wxid_pprwdq6lwt3112) 08-06 19:53:33
+有大佬遇到过没
+
+Okada 欢欢(wxid_bdbgo44zkrrv22) 08-06 21:04:56
+![图片](http://127.0.0.1:5030/image/081ece6fdd63a8e666d0a7e0edec7aac)
+
+Okada 欢欢(wxid_bdbgo44zkrrv22) 08-06 21:05:16
+需求匹配价值，圈友做出的产品，同样也有圈友在进行使用，大家冲哇
+

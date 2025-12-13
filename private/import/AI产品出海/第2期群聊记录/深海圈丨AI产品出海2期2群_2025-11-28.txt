@@ -1,0 +1,65 @@
+桑桑(wxid_q2c7fp10z2522) 11-28 11:37:45
+今日 11.28 学习进度提醒（1/15）
+
+目标：打造你的第一款成熟产品
+
+1.规划「结业作品」的核心功能与开发步骤(约1天)
+2.上手开发「结业作品」核心功能(约7天)
+3.接入完整功能并发布你的「结业作品」(约 4 天)
+4.产品冷启动，推广获取首批用户验证盈利性(约 3 天)
+
+桑桑(wxid_q2c7fp10z2522) 11-28 11:37:53
+📊 11.26日报总结已更新，点击链接查看
+
+日报网站：https://aichanpinribao.com
+（ps：点击日报网站直播链接可以直接跳转小鹅通，昨晚没看直播的学员可以中午加个餐呀～）
+
+桑桑(wxid_q2c7fp10z2522) 11-28 11:37:54
+![图片](http://127.0.0.1:5030/image/3a78d45b0690f427d83cb7bdaab5f792)
+
+刘小排(liuxiaopai) 11-28 12:22:15
+3位大哥一起帮我分析性能问题
+
+左： GPT-5.1-Codex-MAX (Extra High)
+中： Claude Code - Opus 4.5
+右： Gemini 3 Pro (High)
+
+刘小排(liuxiaopai) 11-28 12:22:15
+![图片](http://127.0.0.1:5030/image/8545a66d39ee121f614614c9d48d22e1)
+
+云帆(wxid_mxoykp5f3ryn22) 11-28 12:23:45
+hhhh
+
+毛海山Sam(wxid_yd7njlmm3ibf21) 11-28 12:23:54
+这是开一个 antigravity 就可以实现的吗
+
+云帆(wxid_mxoykp5f3ryn22) 11-28 12:24:24
+ultralthink，看起来每个模型都可以加上啊，我之前一直以为只给 claude 有用
+
+立(wxid_ibh69d742cyn11) 11-28 12:24:32
+这是cursor里吗，认不出
+
+刘小排(liuxiaopai) 11-28 12:25:00
+> 云帆(wxid_mxoykp5f3ryn22) 11-28 12:24:24
+> ultralthink，看起来每个模型都可以加上啊，我之前一直以为只给 claude 有用
+只对claude有用。我是复制的，懒得改了
+
+刘小排(liuxiaopai) 11-28 12:27:05
+> 立(wxid_ibh69d742cyn11) 11-28 12:24:32
+> 这是cursor里吗，认不出
+这是Antigravity
+
+陈江林(wxid_k6vyrtz64fs421) 11-28 12:28:31
+好高级啊[强][呲牙]
+
+云帆(wxid_mxoykp5f3ryn22) 11-28 12:29:08
+这模型能力真是越来越强，以前这种性能优化的事情得找资深的人分析好久，上线了还不一定好用。现在一口气都给 3 个思路和方案。真的很爽了
+
+立(wxid_ibh69d742cyn11) 11-28 12:29:09
+三位大哥怎么分工，打不打架[偷笑]
+
+Jessie圆子@AI出海(wxid_glupb8ygj1do12) 11-28 12:34:36
+"${wxid_glupb8ygj1do12}" 拍了拍 "${wxid_q2c7fp10z2522}" happyhappyhappy～
+
+Jessie圆子@AI出海(wxid_glupb8ygj1do12) 11-28 12:36:09
+[强]今天试试

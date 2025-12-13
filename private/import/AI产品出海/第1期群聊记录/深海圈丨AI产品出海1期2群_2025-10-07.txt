@@ -1,0 +1,14 @@
+刘小排(liuxiaopai) 10-07 12:19:07
+Claude Code官方的VS Code插件还挺好用的。大家可以卸载第三方的Claude Code Chat插件了。
+
+小陈老师(wxid_1f5f4iwhhiqc22) 10-07 12:24:04
+这个嘛小排老师
+
+小陈老师(wxid_1f5f4iwhhiqc22) 10-07 12:24:05
+![图片](http://127.0.0.1:5030/image/8b0abe9a16ea0c67d70d2d6483004dca)
+
+刘小排(liuxiaopai) 10-07 12:25:02
+是的
+
+刘小排(liuxiaopai) 10-07 13:46:50
+另外，claude sonnet 4.5比claude opus 4.1强太多了。。。

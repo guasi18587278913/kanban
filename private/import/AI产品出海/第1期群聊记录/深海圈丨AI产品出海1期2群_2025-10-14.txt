@@ -1,0 +1,163 @@
+阿漫(wxid_0jm70wtbqehf21) 10-14 09:47:26
+请问大家现在的chtgpt 能用么？昨天开始用不了了，openai 官网也上不去，不知道是我自己代理的问题还是网站的问题
+
+小李F刀(wxid_cgr2mr7ea63l22) 10-14 09:47:40
+使用正常。
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 10-14 09:47:49
+使用正常
+
+阿漫(wxid_0jm70wtbqehf21) 10-14 09:49:10
+那估计是我的代理出问题了[尴尬]
+
+刘小排(liuxiaopai) 10-14 14:23:35
+我们课程配套的新starter发布了，欢迎使用～ 老的那个弃用了
+自助申请地址：https://applysistine.vercel.app/
+GitHub仓库地址：https://github.com/Idea-To-Business/sistine-starter-vibe-to-production/
+
+刘小排(liuxiaopai) 10-14 14:23:35
+![图片](http://127.0.0.1:5030/image/0490d110b1a7e60b0b24d8176b9483df)
+
+刘小排(liuxiaopai) 10-14 14:23:59
+点这里使用
+
+刘小排(liuxiaopai) 10-14 14:24:00
+![图片](http://127.0.0.1:5030/image/088a309cc207390d982b0de0b8f51c4e)
+
+宁王（加油！）(wxid_5182881829312) 10-14 14:24:55
+"${wxid_5182881829312}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+Eliot(jackglen) 10-14 14:27:31
+![图片](http://127.0.0.1:5030/image/1e6527d78815c826e3d3213ed9e8e026)
+
+小耳朵(wxid_72hc6w5d4veg21) 10-14 14:28:00
+用的国庆前2天发布的那个，已经上线了[憨笑]
+
+小耳朵(wxid_72hc6w5d4veg21) 10-14 14:28:02
+"${wxid_72hc6w5d4veg21}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+小明(wxid_at9px5nf07qm22) 10-14 14:30:35
+和国庆前的比，解决了大家反馈的问题
+
+1.多语种文件，将 seo 部分拆分
+2.颜色全局控制
+3.env 配置文件优化
+4.移动端适配
+5.细微的界面优化
+
+刘小排(liuxiaopai) 10-14 14:30:35
+啊？已经上线正式产品了？
+
+刘小排(liuxiaopai) 10-14 14:30:54
+就是那个，结合大家国庆期间的反馈，我们又做了很多优化
+
+小明(wxid_at9px5nf07qm22) 10-14 14:31:20
+@小耳朵 康康[奸笑]
+
+小耳朵(wxid_72hc6w5d4veg21) 10-14 14:33:26
+对 无脑直接上线更改，能感受到有很多用心的设计[强]，可能是我的网站比较简单，完全够用了
+
+小耳朵(wxid_72hc6w5d4veg21) 10-14 14:36:55
+> 小明-助教(wxid_at9px5nf07qm22) 10-14 14:31:20
+> @小耳朵 康康[奸笑]
+那只能献丑了[捂脸]，去 Sora 水印工具 https://www.removesorawatermark.online，把小排老师的starter 大材小用了
+
+Moore(xiaobei1984) 10-14 14:39:43
+"${xiaobei1984}" 拍了拍 "${wxid_72hc6w5d4veg21}" 他开心地庆祝了下[庆祝]
+
+Moore(xiaobei1984) 10-14 14:39:47
+[强] 好站@小耳朵 
+
+小耳朵(wxid_72hc6w5d4veg21) 10-14 14:41:52
+非常感谢 Moore 教练鼓励，还有不少赶工痕迹，继续加油[加油]
+
+Moore(xiaobei1984) 10-14 14:44:17
+[旺柴]能解决用户问题都是好站
+
+小耳朵(wxid_72hc6w5d4veg21) 10-14 14:47:25
+那倒是，去水印 5s[旺柴]，我自己用的很顺手
+
+小耳朵(wxid_72hc6w5d4veg21) 10-14 14:47:28
+[动画表情]
+
+小耳朵(wxid_72hc6w5d4veg21) 10-14 14:48:12
+也感谢 @良辰美 | 助教 的一对一指导帮助[强]
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 10-14 14:51:12
+[强]
+
+一夕(phil7028) 10-14 14:53:19
+这个做成插件是不是更好
+
+小耳朵(wxid_72hc6w5d4veg21) 10-14 15:00:02
+也是个思路，但是 目前 Sora2 的使用场景都是 app 比较多
+
+一夕(phil7028) 10-14 15:00:47
+[偷笑]我就不用app，哈哈
+
+小耳朵(wxid_72hc6w5d4veg21) 10-14 15:02:46
+那说不定也有不少人跟你一样，可以一试哦[强]
+
+一夕(phil7028) 10-14 15:03:47
+嗯，做个插件，然后挂到你的网站上就行
+
+小耳朵(wxid_72hc6w5d4veg21) 10-14 15:12:13
+[动画表情]
+
+江坤(wxid_x8f52rye1agm21) 10-14 15:14:15
+@小明-助教  新的starter支持neon数据库吗
+
+刘小排(liuxiaopai) 10-14 15:14:32
+支持。推荐用neon。
+
+江坤(wxid_x8f52rye1agm21) 10-14 15:14:50
+[动画表情]
+
+笃行明远(wxid_xnyvv41yu3n822) 10-14 15:58:15
+> 刘小排(liuxiaopai) 10-14 14:23:35
+> 我们课程配套的新starter发布了，欢迎使用～ 老的那个弃用了
+> 自助申请地址：https://applysistine.vercel.app/
+> GitHub仓库地址：https://github.com/Idea-To-Business/sistine-starter-vibe-to-production/
+感谢小排老师和助教们，再不上线产品，小排老师就来踢屁股了[捂脸]
+
+Logic(wxid_fs5hcz863o4u22) 10-14 16:09:21
+win直接安装插件还是需要登录有遇到这个问题的吗
+
+Logic(wxid_fs5hcz863o4u22) 10-14 16:09:23
+![图片](http://127.0.0.1:5030/image/4633209cc6d30ccaafff060b3593c3d7)
+
+刘小排(liuxiaopai) 10-14 16:11:09
+不需要登录
+
+刘小排(liuxiaopai) 10-14 16:11:16
+你直接点
+
+刘小排(liuxiaopai) 10-14 16:11:16
+![图片](http://127.0.0.1:5030/image/6048ab021ecc9ab8a68efb320b7ec789)
+
+Logic(wxid_fs5hcz863o4u22) 10-14 16:11:54
+[OK]
+
+我 10-14 16:14:11
+"Logic" 撤回了一条消息
+
+Logic(wxid_fs5hcz863o4u22) 10-14 16:14:13
+![图片](http://127.0.0.1:5030/image/6af256241ffed0a1335ea98fc275862e)
+
+Logic(wxid_fs5hcz863o4u22) 10-14 16:15:27
+这个就填国内api嘛？
+
+刘小排(liuxiaopai) 10-14 16:16:26
+你加作者微信问吧
+
+刘小排(liuxiaopai) 10-14 16:16:48
+[名片]
+
+Logic(wxid_fs5hcz863o4u22) 10-14 16:17:40
+好嘞
+
+人生提词器(zjhoscar) 10-14 17:19:48
+> 小耳朵(wxid_72hc6w5d4veg21) 10-14 14:36:55
+> > [引用]
+> 那只能献丑了[捂脸]，去 Sora 水印工具 https://www.removesorawatermark.online，把小排老师的starter 大材小用了
+[强][强][强]

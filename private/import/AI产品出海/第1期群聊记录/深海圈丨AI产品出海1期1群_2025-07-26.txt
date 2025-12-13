@@ -1,0 +1,299 @@
+银河星游(wxid_6253072530112) 07-26 00:48:51
+牛逼啊要看要看
+
+银河星游(wxid_6253072530112) 07-26 00:49:37
+cc出sub agents了！可以独立上下文，配工作流！以后可以不用roocode了，直接cc搞定呀！
+
+银河星游(wxid_6253072530112) 07-26 00:49:53
+[分享]
+
+银河星游(wxid_6253072530112) 07-26 00:53:05
+还可以复现kiro！Amazing！
+
+乐天(txwxlt) 07-26 01:17:34
+[动画表情]
+
+YS(wxid_erhr16xan1j122) 07-26 05:59:56
+> 银河星游(wxid_6253072530112) 07-26 00:49:53
+> [分享]
+[Doge] 我直接把小排老师模板抽出来个creem payment agent
+
+YS(wxid_erhr16xan1j122) 07-26 06:01:42
+确实还蛮不错的，subagent的md文档还可以本地保存给不同项目用
+
+DieselNiu(wxid_75zfebpbkzrb22) 07-26 10:40:26
+![图片](http://127.0.0.1:5030/image/47252779dff9a7ab155d2c4e24f409d2)
+
+银河星游(wxid_6253072530112) 07-26 12:13:09
+#举手 有了英国公司之后，paddle注册是中国地址个人账户好，还是英国公司英国地址好？
+
+政(wxid_unp611hu9f0052) 07-26 12:51:38
+[链接|对于近日涌现的一系列不实言论的公开声明](https://mp.weixin.qq.com/s?__biz=MzkwODY1NjY5Mg==&mid=2247484891&idx=1&sn=074606966f4730534f5d37a15d4cd431&chksm=c1611b15d1ef37d0771bbccb516833bf8ff8b329acd891fbd0a0790a1bf1823cbe1b5eb09465&mpshare=1&scene=1&srcid=0726ZCh4aO2D379YUvyRCiA3&sharer_shareinfo=f2d96df4236352d847b6f852b00665f1&sharer_shareinfo_first=f2d96df4236352d847b6f852b00665f1#rd)
+
+大铭🌱(wxid_c7zf4hpjug5322) 07-26 13:07:41
+[链接|Anthropic 团队如何使用 Claude Code](https://mp.weixin.qq.com/s/2TWL7_C1u5TwxlOkrxHEfA)
+
+大铭🌱(wxid_c7zf4hpjug5322) 07-26 13:07:42
+Anthropic 最新文章，Anthropic 团队如何使用 Claude Code。很长但是可以借鉴很多
+
+银河星游(wxid_6253072530112) 07-26 14:33:16
+paddle要个体工商户才能注册啊我擦
+
+银河星游(wxid_6253072530112) 07-26 14:33:21
+那我还是英国公司吧
+
+Adam(zm554394490) 07-26 14:51:08
+#提问 请问下让AI写的文章,有没有办法能去AI化,AI写的文章AI这个味太浓了,也容易被识别出来
+
+何慢慢(wxid_jktjwjue5t2i22) 07-26 15:09:12
+你要给到几篇范例，让ai去推导提示词，多迭代几次就可以
+
+何慢慢(wxid_jktjwjue5t2i22) 07-26 15:09:23
+"${wxid_jktjwjue5t2i22}" 拍了拍 "${zm554394490}"
+
+Adam(zm554394490) 07-26 15:09:46
+[抱拳]
+
+Adam(zm554394490) 07-26 15:09:49
+谢谢大哥
+
+Adam(zm554394490) 07-26 15:09:54
+我来试试
+
+Min(szm800717) 07-26 15:34:26
+![图片](http://127.0.0.1:5030/image/130ee42ba6ec7f00da904ae5c1f8fde1)
+
+Min(szm800717) 07-26 15:35:09
+最全的，关于降智的解释
+
+Adam(zm554394490) 07-26 15:38:49
+![图片](http://127.0.0.1:5030/image/f9116814f60a4d439536ae2fb99d294d)
+
+Adam(zm554394490) 07-26 15:39:06
+我这个怕是没有降智
+
+银河星游(wxid_6253072530112) 07-26 16:04:24
+> Adam(zm554394490) 07-26 14:51:08
+> #提问 请问下让AI写的文章,有没有办法能去AI化,AI写的文章AI这个味太浓了,也容易被识别出来
+给个设定，比如喜欢二次元的宅男，激情满满的程序猿创业者，等等
+
+Adam(zm554394490) 07-26 16:05:49
+> 银河星游(wxid_6253072530112) 07-26 16:04:24
+> > [引用]
+> 给个设定，比如喜欢二次元的宅男，激情满满的程序猿创业者，等等
+我现在抓了一个博主的上百篇文章,我让他去学习
+
+Adam(zm554394490) 07-26 16:06:08
+然后来模仿这个风格生成文章
+
+银河星游(wxid_6253072530112) 07-26 16:11:11
+> Adam(zm554394490) 07-26 16:05:49
+> > [引用]
+> 我现在抓了一个博主的上百篇文章,我让他去学习
+让gemini总结一个风格prompt也行
+
+青竹(wxid_1348793487711) 07-26 16:11:25
+用 Fine-Tune，到生财里找找
+
+青竹(wxid_1348793487711) 07-26 16:12:28
+https://platform.openai.com/docs/guides/model-optimization
+
+Adam(zm554394490) 07-26 16:16:00
+我来找找看,我查到了一个刀姐分享的案例
+
+Adam(zm554394490) 07-26 16:16:26
+这个也是我最近困扰的地方,我让ai在群里聊天,或者去评价帖子,完全的ai味
+
+袁智翔(wxid_7483c6zwueat22) 07-26 16:30:37
+[链接|三天搞定美国公司注册](https://mp.weixin.qq.com/s?__biz=MzU2MDcyNDQ1OA==&mid=2247483885&idx=1&sn=13c5d798a2f21f4e8515cc143d9f98e1&chksm=fd4ad97dfb1f360aa13154be4aa1ee26599e426f1fd83428455ad464c5214babcbd0302f39dc&mpshare=1&scene=1&srcid=0726oI0l02uRvz7W1TlroWrL&sharer_shareinfo=a5a516765c6639d06b466a9271ac4d7a&sharer_shareinfo_first=a5a516765c6639d06b466a9271ac4d7a#rd)
+
+袁智翔(wxid_7483c6zwueat22) 07-26 16:30:46
+这是我注册美国公司的完整流程（公司注册 + EIN 申请 + BOI 申报），每一步都有截图，耗时三天 154$，后续每年续费85$
+
+袁智翔(wxid_7483c6zwueat22) 07-26 16:31:04
+"${wxid_7483c6zwueat22}" 拍了拍 "${dora82443278}"
+
+老朱(wxid_redtsshstijr22) 07-26 16:56:35
+刚刚查了一下，申请itin是不是需要提前准备好护照[捂脸]
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 07-26 16:57:41
+是
+
+stewart🤔(stewart) 07-26 17:17:07
+"${stewart}" 拍了拍 "${wxid_7483c6zwueat22}"
+
+刘小排(liuxiaopai) 07-26 18:08:00
+> 袁气森林(wxid_7483c6zwueat22) 07-26 16:30:37
+> [链接|三天搞定美国公司注册](https://mp.weixin.qq.com/s?__biz=MzU2MDcyNDQ1OA==&mid=2247483885&idx=1&sn=13c5d798a2f21f4e8515cc143d9f98e1&chksm=fd4ad97dfb1f360aa13154be4aa1ee26599e426f1fd83428455ad464c5214babcbd0302f39dc&mpshare=1&scene=1&srcid=0726oI0l02uRvz7W1TlroWrL&sharer_shareinfo=a5a516765c6639d06b466a9271ac4d7a&sharer_shareinfo_first=a5a516765c6639d06b466a9271ac4d7a#rd)
+这个很棒！
+
+我 07-26 18:08:53
+"🌫️" 撤回了一条消息
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 07-26 18:09:57
+![图片](http://127.0.0.1:5030/image/92184e4b3eebd0988ad7514f64e2f055)
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 07-26 18:11:15
+美国公司找代理，有的给的资料会全一些。这个网站只有三个文件好像，申请传统银行有些资料拿不出来。走stripe得atlas虽然贵点，但是两天下stripe默认通过水星银行。代理和第三方网站的不一定能过
+
+刘小排(liuxiaopai) 07-26 18:14:04
+其实，我有一次通过stripe altas，并没有通过水星银行。。。
+
+刘小排(liuxiaopai) 07-26 18:14:10
+没有那么默认
+
+刘小排(liuxiaopai) 07-26 18:14:20
+整体上同意你的观点，通过stripe atlas是最省心的
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 07-26 18:16:09
+我有个美国公司通过了stripe&wise但是水星死活不给通过。有朋友说是申请了几十次，审核松了才偶然通过。我通过了不同方式对比的注册公司方式，用第三方网站diy申请 省钱花时间 &淘宝代理  适合想人工沟通多 &stripe atlas花钱省心要懂英文
+
+Demons(wxid_2ixwcv17ac7i41) 07-26 18:18:20
+> 良辰美 | 助教(wxid_8riqfa4drs6222) 07-26 18:16:09
+> 我有个美国公司通过了stripe&wise但是水星死活不给通过。有朋友说是申请了几十次，审核松了才偶然通过。我通过了不同方式对比的注册公司方式，用第三方网站diy申请 省钱花时间 &淘宝代理  适合想人工沟通多 &stripe atlas花钱省心要懂英文
+最近水星松了一点点，去年没通过，前天也审核通过了。
+
+袁智翔(wxid_7483c6zwueat22) 07-26 18:35:51
+这两天在填水星的申请资料，看看能不能通过
+
+Sitin彭涛|出海 ing(taotao120peng) 07-26 19:37:31
+> 良辰美 | 助教(wxid_8riqfa4drs6222) 07-26 18:16:09
+> 我有个美国公司通过了stripe&wise但是水星死活不给通过。有朋友说是申请了几十次，审核松了才偶然通过。我通过了不同方式对比的注册公司方式，用第三方网站diy申请 省钱花时间 &淘宝代理  适合想人工沟通多 &stripe atlas花钱省心要懂英文
+水星这个，我打包了一堆资料才过，真的折腾
+
+shine_forever(shine_forevr) 07-26 19:38:11
+我一次就过了……这个感觉看运气[捂脸]
+
+Sitin彭涛|出海 ing(taotao120peng) 07-26 19:40:30
+就是我看很多人都说用招行信用卡账单，但是就是说我没有名字，后续我打包了 驾照翻译件，护照，招行信用卡才过，总共卡了三次
+
+王马扎(wxid_3zuzcesouarv22) 07-26 19:41:14
+我水星也是一次过，用的stripe atlas 香港银行卡的上面的英文账单地址
+
+王马扎(wxid_3zuzcesouarv22) 07-26 19:58:26
+一个水星银行的福利，是可以申请一年的supabase会员，我申请到了，https://forms.supabase.com/mercury 通过这个地址申请。 如果有需要的圈友可以去申请[嘿哈]
+
+tothegump(wxid_0g5n7pj8j3qg21) 07-26 20:02:04
+我也是 atlas 带水星，招行信用卡账单直接通过[捂脸]
+
+HP(wxid_7p8wu94j6gr822) 07-26 22:18:28
+老师们，新产品上线，求帮忙投一票，谢谢啦～🙏
+https://www.producthunt.com/products/aiweb3atlas?launch=aiweb3atlas
+
+船长(wxid_xb0vtbzdgnri22) 07-26 22:30:01
+up了
+
+船长(wxid_xb0vtbzdgnri22) 07-26 22:30:06
+![图片](http://127.0.0.1:5030/image/fe03ca2423262c71e47dbd63fe4de59f)
+
+船长(wxid_xb0vtbzdgnri22) 07-26 22:30:12
+"${wxid_xb0vtbzdgnri22}" 拍了拍 "${wxid_7p8wu94j6gr822}" 说：一起暴富
+
+HP(wxid_7p8wu94j6gr822) 07-26 22:31:04
+感谢
+
+清仔(wxid_4oz7hsqrg8y722) 07-26 22:34:08
+up了
+
+啊吹（不二）(wxid_ezuncd5lcu1c22) 07-26 22:34:51
+up
+
+Mercury(wxid_21dn07xbnitk22) 07-26 22:35:00
+up
+
+清仔(wxid_4oz7hsqrg8y722) 07-26 22:35:58
+这算是web3导航站嘛
+
+yáng(wxid_cql36exndwhf22) 07-26 22:36:34
+![图片](http://127.0.0.1:5030/image/1a43a4cec8b7e6f64d96d7359b6de577)
+
+yáng(wxid_cql36exndwhf22) 07-26 22:36:38
+up了
+
+前行(gejinpeng123) 07-26 22:37:00
+Up了
+
+清仔(wxid_4oz7hsqrg8y722) 07-26 22:39:38
+要做哪些步骤才能被谷歌收录啊？
+
+清仔(wxid_4oz7hsqrg8y722) 07-26 22:39:39
+![图片](http://127.0.0.1:5030/image/256bd6e28aacc74aee5108219556a4e3)
+
+小宇Mick(muckie) 07-26 22:40:56
+up
+
+夕远(wxid_0kb3l3xk63ag21) 07-26 22:41:07
+> 清仔-广州(wxid_4oz7hsqrg8y722) 07-26 22:39:39
+> ![图片](http://127.0.0.1:5030/image/256bd6e28aacc74aee5108219556a4e3)
+site 指令看看, site:域名
+
+Kyro(wxs895854653) 07-26 22:41:12
+up up
+
+前行(gejinpeng123) 07-26 22:44:17
+> 清仔-广州(wxid_4oz7hsqrg8y722) 07-26 22:39:39
+> ![图片](http://127.0.0.1:5030/image/256bd6e28aacc74aee5108219556a4e3)
+你自己搜索前面要加site:
+
+夕远(wxid_0kb3l3xk63ag21) 07-26 22:51:03
+> 袁气森林(wxid_7483c6zwueat22) 07-26 16:30:46
+> 这是我注册美国公司的完整流程（公司注册 + EIN 申请 + BOI 申报），每一步都有截图，耗时三天 154$，后续每年续费85$
+/:strong/:strong/:strong  @袁气森林 你申请 ITIN 后大概多久收到的? 我也准备申请下
+
+我前几天也注册了美国公司, 因为没有 ITIN, 我是填写了 SS-4 表格然后发传真给 IRS 获取 EIN, 目前还没收到, 听说要一周左右
+
+小林日入万$(wxid_ezwxect889j422) 07-26 22:51:12
+up
+
+清仔(wxid_4oz7hsqrg8y722) 07-26 22:51:30
+site之后有的话，就是被谷歌收录了嘛？
+
+夕远(wxid_0kb3l3xk63ag21) 07-26 22:51:46
+> 清仔-广州(wxid_4oz7hsqrg8y722) 07-26 22:51:30
+> site之后有的话，就是被谷歌收录了嘛？
+是的
+
+清仔(wxid_4oz7hsqrg8y722) 07-26 22:52:21
+正常开发网站＋部署域名就可以嘛？有什么其他需要操作的步骤嘛
+
+清仔(wxid_4oz7hsqrg8y722) 07-26 22:52:41
+> 夕远(wxid_0kb3l3xk63ag21) 07-26 22:51:46
+> > [引用]
+> 是的
+谢谢，我晚点试试
+
+夕远(wxid_0kb3l3xk63ag21) 07-26 22:55:38
+> 清仔-广州(wxid_4oz7hsqrg8y722) 07-26 22:52:21
+> 正常开发网站＋部署域名就可以嘛？有什么其他需要操作的步骤嘛
+GSC 提交 sitemap + 手动提交页面 URL(如果想更快收录的话)
+
+Kyro(wxs895854653) 07-26 22:58:25
+site命令只是用来查询页面是否被收录了，要被谷歌收录还是得在google search console提交一下sitemap
+
+Kyro(wxs895854653) 07-26 22:59:58
+网站做了域名解析正式上线后一般也会被谷歌自动收录的 只是时间会比较长
+
+袁智翔(wxid_7483c6zwueat22) 07-26 23:07:49
+> 夕远(wxid_0kb3l3xk63ag21) 07-26 22:51:03
+> > [引用]
+> /:strong/:strong/:strong  @袁气森林 你申请 ITIN 后大概多久收到的? 我也准备申请下
+> 我前几天也注册了美国公司, 因为没有 ITIN, 我是填写了 SS-4 表格然后发传真给 IRS 获取 EIN, 目前还没收到, 听说要一周左右
+申请 ITIN 我大概花了两个月，没 ITIN 申请 EIN 有点麻烦，有了之后就简单多了，我自己走流程三天就搞完了，意外的轻松
+
+我 07-26 23:09:00
+"Sitin彭涛" 撤回了一条消息
+
+Sitin彭涛|出海 ing(taotao120peng) 07-26 23:09:14
+空中云汇申请，是需要 ITIN 的
+
+清仔(wxid_4oz7hsqrg8y722) 07-26 23:11:04
+谢谢各位[抱拳]
+
+清仔(wxid_4oz7hsqrg8y722) 07-26 23:11:12
+"${wxid_4oz7hsqrg8y722}" 拍了拍 "${wxs895854653}"
+
+夕远(wxid_0kb3l3xk63ag21) 07-26 23:37:18
+> 袁气森林(wxid_7483c6zwueat22) 07-26 23:07:49
+> > [引用]
+> 申请 ITIN 我大概花了两个月，没 ITIN 申请 EIN 有点麻烦，有了之后就简单多了，我自己走流程三天就搞完了，意外的轻松
+了解了/:@) 有ITIN确实方便

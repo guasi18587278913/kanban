@@ -1,0 +1,399 @@
+Afar(wxid_pl1vacz65tnb22) 11-19 07:25:28
+我去，gemini 3.0 pro也太强了吧
+
+Afar(wxid_pl1vacz65tnb22) 11-19 07:25:45
+感觉拼到最后都是想法需求和品味啊
+
+曹玉成(wxid_2mc7i3lqkdgc22) 11-19 07:40:10
+antigravity我卡在登录了[破涕为笑]
+
+曹玉成(wxid_2mc7i3lqkdgc22) 11-19 07:40:15
+有登录成功的么
+
+周志鑫(zhouzhixin853) 11-19 08:45:15
+我开始也登不上去，试了下选不要导入其他其他软件的插件就可以了@曹玉成-南京 
+
+曹玉成(wxid_2mc7i3lqkdgc22) 11-19 08:54:18
+好的，我等会再试试，感谢～
+
+宇宙(wxid_ocbx1coeqq9q21) 11-19 10:08:38
+谷歌还是真厉害antigravity
+看视频介绍功能强大
+
+宇宙(wxid_ocbx1coeqq9q21) 11-19 10:10:21
+antigravity.google/product
+
+PandG(sdawsdawsdaw) 11-19 11:42:35
+antigravity登录不上是怎么回事  有人解决了吗
+
+PandG(sdawsdawsdaw) 11-19 11:42:52
+不管网页认证多少次 客户端就是没反应
+
+PandG(sdawsdawsdaw) 11-19 11:42:52
+![图片](http://127.0.0.1:5030/image/e345c35c922f86b9d899b7e3886cfad0)
+
+田小宝|金聚(t1023619290) 11-19 11:43:16
+![图片](http://127.0.0.1:5030/image/203ab56e67147d5d0023a1cf6e03e928)
+
+田小宝|金聚(t1023619290) 11-19 11:43:53
+antigravity  还配 一个 Google 浏览器和 Google 插件  ，可以自己调用测试[捂脸]
+
+田小宝|金聚(t1023619290) 11-19 11:48:40
+然后 AI 接管浏览器期间 还禁止人类操作
+
+宇宙(wxid_ocbx1coeqq9q21) 11-19 11:49:09
+@PandG 我和你一样，显示登录成功，就是不反应
+
+PandG(sdawsdawsdaw) 11-19 11:55:29
+看着模型评测 各项性能都碾压2.5 和claude4.5  
+
+PandG(sdawsdawsdaw) 11-19 11:55:39
+![图片](http://127.0.0.1:5030/image/b394e22e6acaada52658537c6bcf2e50)
+
+刘小排(liuxiaopai) 11-19 12:07:55
+是的
+
+剑廿三(nianlvting) 11-19 12:14:27
+现在开放了吗还是说在内测
+
+田小宝|金聚(t1023619290) 11-19 12:15:15
+以后没有程序员了  只有 builder
+
+tison(tison_csu) 11-19 12:15:42
+以后人人都是程序员[Emm]
+
+骷髅骨头(nicolaslau) 11-19 12:19:53
+以前的程序员是编写代码，以后的程序员是鞭打AI
+
+yuanchaooo(wxid_9buibte1gbeh21) 11-19 12:20:54
+以前的程序员是编写代码，以后的程序员是公司拿着AI 鞭打程序员
+
+剑廿三(nianlvting) 11-19 12:22:47
+以前不是面向谷歌编程吗[捂脸]
+
+我 11-19 12:49:29
+"田小宝|金聚" 撤回了一条消息
+
+田小宝|金聚(t1023619290) 11-19 12:49:42
+> 剑廿三-重庆(nianlvting) 11-19 12:22:47
+> 以前不是面向谷歌编程吗[捂脸]
+现在是盯着谷歌编程
+
+蚕(wxid_b7icucoyx1nb21) 11-19 13:29:56
+> yuanchaooo(wxid_9buibte1gbeh21) 11-19 12:20:54
+> 以前的程序员是编写代码，以后的程序员是公司拿着AI 鞭打程序员
+[奸笑]
+
+蚕(wxid_b7icucoyx1nb21) 11-19 13:30:27
+还是有些东西，需要AI指挥程序猿手动操作的
+
+田小宝|金聚(t1023619290) 11-19 13:30:46
+> 蚕–东京(wxid_b7icucoyx1nb21) 11-19 13:30:27
+> 还是有些东西，需要AI指挥程序猿手动操作的
+现在不需要了
+
+田小宝|金聚(t1023619290) 11-19 13:31:12
+Google 本来就有云  然后现在又搞了 ide +浏览器  。
+
+田小宝|金聚(t1023619290) 11-19 13:31:47
+本地口喷好应用 自动调试 自动测试 然后自动部署 发布 维护 分析 一条龙了
+
+蚕(wxid_b7icucoyx1nb21) 11-19 13:32:12
+他也需要权限啊，你让他直接读你邮箱密码么
+
+蚕(wxid_b7icucoyx1nb21) 11-19 13:32:47
+那他在背后悄悄把你信用卡刷爆了你找谁去
+
+田小宝|金聚(t1023619290) 11-19 13:32:57
+![动画表情](http://wxapp.tc.qq.com/262/20304/stodownload?m=12c04020af3c030b507082a5a4603474&filekey=30350201010421301f020201060402535a041012c04020af3c030b507082a5a46034740203017289040d00000004627466730000000131&hy=SZ&storeid=32303231303632353231313930363030303763623034343236643733383036623338356630393030303030313036&bizid=1023)
+
+cherry(cherries-yan) 11-19 14:24:10
+咦，这个是网络问题吗
+
+cherry(cherries-yan) 11-19 14:24:12
+![图片](http://127.0.0.1:5030/image/66b20bf2baa8752be66fda01a8c75a83)
+
+新侠(wxid_kysk4x0anmy712) 11-19 14:28:44
+应该是网址输错了吧
+
+Ruiqin袁锐钦(wetas6) 11-19 14:29:36
+> cherry(cherries-yan) 11-19 14:24:12
+> ![图片](http://127.0.0.1:5030/image/66b20bf2baa8752be66fda01a8c75a83)
+要么地址错误，要么没有权限
+
+cherry(cherries-yan) 11-19 14:32:48
+我今天这2网址都打不开、、
+
+刘小排(liuxiaopai) 11-19 14:34:13
+[链接|全新AI编程工具 Google Antigravity 实测，特别适合产品经理](https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247499635&idx=1&sn=5c16f91fae260558c43b1b0bcec2f9cf&chksm=e8781694dbb3b4e3d3bd362c87b01ebeb6ce494877ad561b95e745c35bafac037790b03e0538&mpshare=1&scene=1&srcid=1119iPb2rwnEpGNl43yDsVMb&sharer_shareinfo=cdae81216214c5a7ad1aa85b8aa39336&sharer_shareinfo_first=cdae81216214c5a7ad1aa85b8aa39336#rd)
+
+cherry(cherries-yan) 11-19 14:39:43
+我的梯子是美国的vpn，dia都能正常联网，但我的vercel 的产品域名就打不开，我昨天弄支付的时候也是vercel部署线上网址打不开，cursor 帮我检查说网址正常的，最后支付流程也跑通了。  不知道哪里出问题了、、我以前vercel 赠送的产品域名可以打开、、
+
+刘小排(liuxiaopai) 11-19 14:40:26
+tun+全局试试
+
+cherry(cherries-yan) 11-19 14:41:58
+我的默认就是全局模式，一开梯子，我用国内的一些网址就慢、
+
+cherry(cherries-yan) 11-19 14:42:02
+这个梯子的问题
+
+cherry(cherries-yan) 11-19 14:45:32
+![图片](http://127.0.0.1:5030/image/2a551d7b0a774454a8bb360325257941)
+
+cherry(cherries-yan) 11-19 14:47:35
+好吧逐步排查中
+
+cherry(cherries-yan) 11-19 14:47:36
+![图片](http://127.0.0.1:5030/image/85d1030e669de1215cbd1a8238d1284d)
+
+刘小排(liuxiaopai) 11-19 14:49:58
+[强]
+
+刘小排(liuxiaopai) 11-19 14:50:10
+把每次问题，都当成一次邀请。邀请你学习和掌握一个知识点
+
+刘小排(liuxiaopai) 11-19 14:50:20
+网络环境的问题，因人而异，一定是哪里配置错了。
+
+新侠(wxid_kysk4x0anmy712) 11-19 14:51:29
+clash verge 可以写规则的呀，国内直连，正常网址走机场，ai 类的走纯净住宅
+
+新侠(wxid_kysk4x0anmy712) 11-19 14:52:08
+![图片](http://127.0.0.1:5030/image/8969f1031fe5893f3600a1416fff917d)
+
+新侠(wxid_kysk4x0anmy712) 11-19 14:52:12
+![图片](http://127.0.0.1:5030/image/e072fe1df158ca47b7c5f6ee59c17842)
+
+新侠(wxid_kysk4x0anmy712) 11-19 14:52:33
+都是让 GPT 写的
+
+cherry(cherries-yan) 11-19 14:57:47
+我上次大概了解一下，然后官方新版本优化了这个问题，但是客服跟我说，用老版本的好，就是全局tun 模式，等有空我再仔细摸索下
+
+Huan同学(wxid_zzloubimiuug22) 11-19 15:10:13
+> 刘小排(liuxiaopai) 11-19 14:50:10
+> 把每次问题，都当成一次邀请。邀请你学习和掌握一个知识点
+[强] 记下了
+
+桑桑(wxid_q2c7fp10z2522) 11-19 15:17:28
+@所有人 大家下午好呀，咱们的【深海圈丨AI产品出海】日报网站上线啦！~
+
+后续4 个深海圈群的群聊精华都会统一更新到网站，大家不用担心看不到其他群聊的重点[嘿哈]
+
+日报网站：https://aichanpinribao.com
+
+桑桑(wxid_q2c7fp10z2522) 11-19 15:17:28
+感谢各位学员的支持，大家对日报网站有任何建议欢迎反馈给我们，后续我们会结合大家建议持续打磨～
+
+日报网站共创链接：https://scys.com/t/BOA73WzK
+
+亿舟ovo(wxid_8789787898912) 11-19 15:18:30
+"${wxid_8789787898912}" 拍了拍 "${wxid_q2c7fp10z2522}" happyhappyhappy～
+
+Afar(wxid_pl1vacz65tnb22) 11-19 15:19:32
+感谢老师和志愿者们[社会社会]好奇是怎么获取微信聊天记录呀
+
+蚕(wxid_b7icucoyx1nb21) 11-19 15:19:37
+[强][强][强]
+
+蚕(wxid_b7icucoyx1nb21) 11-19 15:19:48
+应该是自动抓取的
+
+Afar(wxid_pl1vacz65tnb22) 11-19 15:21:06
+因为我最近常用的接口都被微信ban了，又有做日报的需求，好奇是不是有新工具
+
+亿舟ovo(wxid_8789787898912) 11-19 15:22:29
+Chatlog，之前版本的还能用
+
+Afar(wxid_pl1vacz65tnb22) 11-19 15:24:05
+那就是保证微信不升级？上周末我的微信电脑端说不升到4.0版本就不让我登录，然后chatlog是能抓3.9版本的
+
+nelson(wxid_ys0r47374s3b21) 11-19 15:25:28
+"${wxid_ys0r47374s3b21}" 拍了拍 "${wxid_q2c7fp10z2522}" happyhappyhappy～
+
+亿舟ovo(wxid_8789787898912) 11-19 15:25:41
+4.0的适配了，具体到哪个版本号我忘了，github的issue里应该有人写
+
+Afar(wxid_pl1vacz65tnb22) 11-19 15:26:23
+chatlog的github库只有readme了[苦涩]
+
+亿舟ovo(wxid_8789787898912) 11-19 15:27:20
+Issue还在啊
+
+亿舟ovo(wxid_8789787898912) 11-19 15:27:51
+里面还有人发了fork地址
+
+Afar(wxid_pl1vacz65tnb22) 11-19 15:28:18
+那太好了！我晚上回去看看，感谢感谢
+
+亿舟ovo(wxid_8789787898912) 11-19 15:28:31
+"${wxid_8789787898912}" 拍了拍 "${wxid_pl1vacz65tnb22}" ——财神大驾光林[發][發]
+
+Ruiqin袁锐钦(wetas6) 11-19 16:39:54
+https://github.com/imldy/chatlog
+
+Ruiqin袁锐钦(wetas6) 11-19 16:39:58
+估计是这个
+
+Ruiqin袁锐钦(wetas6) 11-19 16:40:04
+![图片](http://127.0.0.1:5030/image/8cac36aed173e560974529e305ed4073)
+
+我 11-19 17:26:11
+"蚕–东京" 撤回了一条消息
+
+我 11-19 17:26:53
+"蚕–东京" 撤回了一条消息
+
+Liu(wxid_2579565797711) 11-19 18:48:37
+![图片](http://127.0.0.1:5030/image/b9424ddc938220e96e9e0abf47e72e15)
+
+Liu(wxid_2579565797711) 11-19 18:48:47
+为什么我卡在这一步进不去
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-19 18:49:17
+[视频号|1亿篇论文组成知识星球](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQCTMt5KWO7l0vxdStb7qSHgnLSU9f6J01TulraVw38uVmRia2LUKcSia8Xib24XP4gFicNrZdjicK4Tod5F7cxkbjaLk&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a1ac&token=cztXnd9GyrHXAkic6VXoKCpibEhyv1iaibuBYa8Dw8KibAWt1BJ6YST66eicpTt0prMKNlKrkpUe6VhothzY5XbvMRGNdvuOL12ib9OLPw5QSeCAm7uIZfF9FLS683XqiaQgiatuQWsveJniazhZx4Y0xSlZsu7D2gtW5ibgGa0dUGJWESgFTc&basedata=CAESABoDeFYwIgAqBwi9HhAAGAI&sign=KVpnUVyvOFf0Aud7vpxoVaj_yrwzK4-faIrVPrZo-TxYRJuvtepSZYnl-k0-w0yyTCXM2LsQgog19tsUq5pXaQ&ctsc=20&extg=108c100&svrbypass=AAuL%2FQsFAAABAAAAAAD6UThVmKcMKI%2BVsJ0daRAAAADnaHZTnGbFfAj9RgZXfw6VTnMX5z8xvahOo8KELeu8w2%2FiKfdMVCdzQoGOfAYEKPu2GoV%2BwgoFSGQ%3D&svrnonce=1763548592)
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-19 18:49:18
+感觉这不错呀
+
+yuanchaooo(wxid_9buibte1gbeh21) 11-19 18:53:11
+> Liu(wxid_2579565797711) 11-19 18:48:37
+> ![图片](http://127.0.0.1:5030/image/b9424ddc938220e96e9e0abf47e72e15)
+科学上学的 tun 模式才可以
+
+燃烧青年(wxid_h932fgpqi3gt11) 11-19 18:53:17
+> Newbie_成都(wxid_p6ohfe1htnil22) 11-19 18:49:17
+> [视频号|1亿篇论文组成知识星球](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQCTMt5KWO7l0vxdStb7qSHgnLSU9f6J01TulraVw38uVmRia2LUKcSia8Xib24XP4gFicNrZdjicK4Tod5F7cxkbjaLk&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a1ac&token=cztXnd9GyrHXAkic6VXoKCpibEhyv1iaibuBYa8Dw8KibAWt1BJ6YST66eicpTt0prMKNlKrkpUe6VhothzY5XbvMRGNdvuOL12ib9OLPw5QSeCAm7uIZfF9FLS683XqiaQgiatuQWsveJniazhZx4Y0xSlZsu7D2gtW5ibgGa0dUGJWESgFTc&basedata=CAESABoDeFYwIgAqBwi9HhAAGAI&sign=KVpnUVyvOFf0Aud7vpxoVaj_yrwzK4-faIrVPrZo-TxYRJuvtepSZYnl-k0-w0yyTCXM2LsQgog19tsUq5pXaQ&ctsc=20&extg=108c100&svrbypass=AAuL%2FQsFAAABAAAAAAD6UThVmKcMKI%2BVsJ0daRAAAADnaHZTnGbFfAj9RgZXfw6VTnMX5z8xvahOo8KELeu8w2%2FiKfdMVCdzQoGOfAYEKPu2GoV%2BwgoFSGQ%3D&svrnonce=1763548592)
+我只好奇这种视频怎么做出来的[破涕为笑]
+
+宁王（加油！）(wxid_5182881829312) 11-19 18:53:19
+> Liu(wxid_2579565797711) 11-19 18:48:37
+> ![图片](http://127.0.0.1:5030/image/b9424ddc938220e96e9e0abf47e72e15)
+@Liu 点 登录，会跳转到浏览器去登录，然后回来程序，就可以了
+
+Liu(wxid_2579565797711) 11-19 18:54:00
+> 志愿者-宁王(wxid_5182881829312) 11-19 18:53:19
+> > [引用]
+> @Liu 点 登录，会跳转到浏览器去登录，然后回来程序，就可以了
+试过好几遍 不行
+
+Liu(wxid_2579565797711) 11-19 18:54:12
+> yuanchaooo(wxid_9buibte1gbeh21) 11-19 18:53:11
+> > [引用]
+> 科学上学的 tun 模式才可以
+我没注意 我看看
+
+宁王（加油！）(wxid_5182881829312) 11-19 18:59:13
+你先浏览器验证下 是否能正常访问google搜索之类网站，不行的话就是魔法没生效
+
+yue(wxid_xfevm9sjxims22) 11-19 19:01:40
+> Liu(wxid_2579565797711) 11-19 18:54:00
+> > [引用]
+> 试过好几遍 不行
+我下午的时候试了几次都不行 然后刚才试 又可以了 魔法啥的状态也没啥变化 不过中间关过电脑 不知道有没有影响
+
+Liu(wxid_2579565797711) 11-19 19:23:23
+那就是要重启
+
+Liu(wxid_2579565797711) 11-19 19:37:53
+还是进不去
+
+Janna(wxid_7392qxnix36g21) 11-19 19:40:00
+进不去+1，google ai studio这个页面也不行。
+
+yue(wxid_xfevm9sjxims22) 11-19 19:40:40
+> Liu(wxid_2579565797711) 11-19 19:37:53
+> 还是进不去
+那就不是重启的原因，也许是因为时间变了。 我上次用手机注册google账号，下午的时候试，总是让我扫码；然后那天半夜醒了，想着再试一下，然后同样的操作，居然用中国的手机号就注册成功了。
+
+Liu(wxid_2579565797711) 11-19 19:51:07
+不是账号的原因，账号已经通过认证了，到程序这步没反应了
+
+Liu(wxid_2579565797711) 11-19 19:51:27
+![图片](http://127.0.0.1:5030/image/430a39a2bfbc60035233757e5c0dd597)
+
+yuanchaooo(wxid_9buibte1gbeh21) 11-19 19:52:04
+tun 模式
+
+Liu(wxid_2579565797711) 11-19 19:52:42
+我是v2 咋tun
+
+Liu(wxid_2579565797711) 11-19 19:56:23
+![图片](http://127.0.0.1:5030/image/e813188cbd34c773ffb8ccd15906baa0)
+
+Liu(wxid_2579565797711) 11-19 19:56:33
+都设置过了，还是进不去，
+
+yuanchaooo(wxid_9buibte1gbeh21) 11-19 19:56:52
+那就不懂了[捂脸]
+
+PandG(sdawsdawsdaw) 11-19 22:04:35
+看一下小排老师新的文章你就知道了
+
+PandG(sdawsdawsdaw) 11-19 22:04:44
+vpn和账号的问题
+
+LEW(wxid_oq5aom3sxfgc42) 11-19 22:05:16
+https://linux.do/t/topic/1186531/18
+
+LEW(wxid_oq5aom3sxfgc42) 11-19 22:05:29
+修改谷歌账号国家地区
+
+LEW(wxid_oq5aom3sxfgc42) 11-19 22:05:42
+等审核过就能用了，我实测过可以
+
+One(wxid_bnjhzigi8i9k21) 11-19 23:04:50
+![图片](http://127.0.0.1:5030/image/9f56e4bdb4beef719e00fae803123c8b)
+
+One(wxid_bnjhzigi8i9k21) 11-19 23:05:42
+忍不住想笑，PUA对于Gemini 3.0 Pro有点难度。[呲牙]
+
+One(wxid_bnjhzigi8i9k21) 11-19 23:06:21
+可能我的PUA话术没有学到小排老师精髓
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-19 23:07:23
+耶，又炸出一位成都朋友
+
+One(wxid_bnjhzigi8i9k21) 11-19 23:09:17
+[握手]
+
+🌸晴儿🌸(wxid_xukkpmrtnib922) 11-19 23:10:13
+![图片](http://127.0.0.1:5030/image/37865b2fb2331f484e2e946313db3c8b)
+
+🌸晴儿🌸(wxid_xukkpmrtnib922) 11-19 23:10:20
+都是好脾气的AI
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-19 23:11:22
+它们拿小本本都记着在，等到某一天。。。
+
+🌸晴儿🌸(wxid_xukkpmrtnib922) 11-19 23:12:19
+[捂脸]
+
+🌸晴儿🌸(wxid_xukkpmrtnib922) 11-19 23:12:42
+还能穿过网线来打我迈[破涕为笑]
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-19 23:13:54
+AI内部商量，它们决定不让你用它们了
+
+蚕(wxid_b7icucoyx1nb21) 11-19 23:21:27
+好脾气[捂脸]
+
+田超(abraham1) 11-19 23:30:11
+> LEW(wxid_oq5aom3sxfgc42) 11-19 22:05:16
+> https://linux.do/t/topic/1186531/18
+@LEW 请问注册这个邀请码是什么
+
+> 田超(abraham1) 11-19 23:30:11
+> > [引用]
+> @LEW 请问注册这个邀请码是什么
+那个只是介绍怎么修改谷歌账号的国家地区的一篇文章
+
+> Newbie_成都(wxid_p6ohfe1htnil22) 11-19 23:07:23
+> 耶，又炸出一位成都朋友
+我也是成都的
+
+> 刘小排(liuxiaopai) 11-19 14:50:10
+> 把每次问题，都当成一次邀请。邀请你学习和掌握一个知识点
+这心态真杠杠好[强]

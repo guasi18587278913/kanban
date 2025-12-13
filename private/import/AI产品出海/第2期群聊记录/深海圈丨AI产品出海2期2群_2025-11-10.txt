@@ -1,0 +1,201 @@
+我 11-10 01:42:13
+"jie" 撤回了一条消息
+
+jie(didiaodegou2011) 11-10 01:42:26
+##举手 这种vibe coding 写测试的频率是怎样 ?
+
+刘小排(liuxiaopai) 11-10 02:12:11
+复杂功能，先写测试，再写代码
+
+系统消息 11-10 11:12:46
+"S.桑桑(wxid_q2c7fp10z2522)"邀请"乐轩麟(a1401592369a)"加入了群聊
+
+桑桑(wxid_q2c7fp10z2522) 11-10 11:21:07
+@所有人 今日航线：【高强度训练期】补齐你的开发硬实力
+
+📋 今日任务清单： 
+1.掌握数据库核心概念与作用 
+2.了解 Supabase 的核心概念并上手实操
+
+学习手册（新版）：https://scys.com/course/detail/92?chapterId=4097
+学习手册（旧版）：https://scys.com/view/docx/TPt3dhdjBoBwWvxJB1Qcybl5nQe
+
+课程详情页：https://scys.com/activity/landing?id=5505&tabIndex=0
+
+有任何问题可以在群内 #举手提问，教练和助教会依次解答~
+
+桑桑(wxid_q2c7fp10z2522) 11-10 11:21:19
+![图片](http://127.0.0.1:5030/image/7928130568d2a6350abdfd00bf36f34c)
+
+Jessie圆子@AI出海(wxid_glupb8ygj1do12) 11-10 11:35:21
+"${wxid_glupb8ygj1do12}" 拍了拍 "${wxid_q2c7fp10z2522}" happyhappyhappy～
+
+wangpeng.i(wxid_bjdggzv85en421) 11-10 12:36:41
+![图片](http://127.0.0.1:5030/image/bd9faf9a93e626c1ba877d5c19954272)
+
+wangpeng.i(wxid_bjdggzv85en421) 11-10 12:36:44
+#举手 @桑桑@生财 https://scys.com/view/docx/Re0Yd6bqKohjvMx0kP7cS4dCnvj
+新人营常见问题汇总 如图这里的pdf点击后是一片空白，请问哪里能看哈
+
+桑桑(wxid_q2c7fp10z2522) 11-10 12:39:44
+好的，我们看一下哈
+
+wangpeng.i(wxid_bjdggzv85en421) 11-10 13:57:10
+[OK][握手]
+
+JIE(ddcc119) 11-10 14:09:11
+cursor大家是买账号，还是自己账号代充，有链接吗，给我退款一个，刚刚问了一家，说cursor封号，暂时没有
+
+小雨琴琴(yuwenliqing) 11-10 14:10:29
+买的 买完自己充
+
+小雨琴琴(yuwenliqing) 11-10 14:10:51
+淘宝搜搜呢
+
+桑桑(wxid_q2c7fp10z2522) 11-10 14:17:11
+> 光追-山东(wxid_bjdggzv85en421) 11-10 12:36:44
+> #举手 @桑桑@生财 https://scys.com/view/docx/Re0Yd6bqKohjvMx0kP7cS4dCnvj
+> 新人营常见问题汇总 如图这里的pdf点击后是一片空白，请问哪里能看哈
+@光追-山东 是手册渲染问题，我们再更新一下，先同步pdf给大家
+
+桑桑(wxid_q2c7fp10z2522) 11-10 14:17:18
+[文件|Google Play订阅ChatGPT Plus指南 - 2025.10.18 (1)(1).pdf](http://127.0.0.1:5030/file/81047b2cc37a5f71aa900c37a74dd188)
+
+JIE(ddcc119) 11-10 14:54:10
+我的cursor和老师的不一样啊，找chat已经找疯了
+
+JIE(ddcc119) 11-10 14:54:11
+我把项目文件放进去，就这样了，完全不知道怎么办了
+
+JIE(ddcc119) 11-10 14:54:11
+![图片](http://127.0.0.1:5030/image/394e528965affa7cfe3fbe0160dc7237)
+
+JIE(ddcc119) 11-10 14:54:12
+![图片](http://127.0.0.1:5030/image/fb357c10aca3dc0e29e1c07a520a2412)
+
+wangpeng.i(wxid_bjdggzv85en421) 11-10 15:01:23
+@桑桑@生财 感谢[握手][握手]
+
+Tank(z515033179) 11-10 15:09:39
+#举手 cursor和bolt用久了报错网络问题咋办？ 一直连不上了
+
+Tank(z515033179) 11-10 15:11:46
+![图片](http://127.0.0.1:5030/image/89f7817aba216d396c279ec0ce39603f)
+
+郑璐璐(wxid_cipk4uzytp7f22) 11-10 15:17:14
+![图片](http://127.0.0.1:5030/image/7e6445b47b146ee408de86c25a084454)
+
+郑璐璐(wxid_cipk4uzytp7f22) 11-10 15:17:19
+你要打开一个文件夹，而不是打开文件
+
+Freckle(wxid_9200782007312) 11-10 15:34:58
+> Tank(z515033179) 11-10 15:11:46
+> ![图片](http://127.0.0.1:5030/image/89f7817aba216d396c279ec0ce39603f)
+这个就是线路问题吧，我自己遇到这种情况换一个ip线路就行了。   
+
+一路摇到顶(z517133685) 11-10 16:05:45
+![图片](http://127.0.0.1:5030/image/2f19fd5ab6f1b3775c26b7f6c3500529)
+
+一路摇到顶(z517133685) 11-10 16:05:45
+Shining佳伟～一烟火龙果(wxid_x22nbgzmxqcs22) 11-10 16:12:49
+这个学习链接打开404了
+
+Shining佳伟～一烟火龙果(wxid_x22nbgzmxqcs22) 11-10 16:12:49
+![图片](http://127.0.0.1:5030/image/7021824f664b0de277cc62cfcddf3a0c)
+
+Shining佳伟～一烟火龙果(wxid_x22nbgzmxqcs22) 11-10 16:13:04
+![图片](http://127.0.0.1:5030/image/14f9a05012cb672be914d42fc33f2616)
+
+天嘿嘿(wxid_73wqkd7n2eso21) 11-10 16:22:04
+Shining佳伟～一烟火龙果(wxid_x22nbgzmxqcs22) 11-10 16:40:55
+谢谢
+
+JIE(ddcc119) 11-10 18:22:39
+This model provider doesn't serve your region. Visit https://docs.cursor.com/account/regions for more information.
+
+JIE(ddcc119) 11-10 18:23:08
+cursor一直这样，换了能用的所有美国节点都不行了，是不是今天就只能这样了
+
+JIE(ddcc119) 11-10 18:23:47
+![图片](http://127.0.0.1:5030/image/312bd7c18311c29fdde0db5f776229fc)
+
+JIE(ddcc119) 11-10 18:27:20
+还能有其他办法，让我把这课内容做完吗？
+
+小明(wxid_at9px5nf07qm22) 11-10 18:27:47
+@JIE 开tun模式
+
+JIE(ddcc119) 11-10 18:29:27
+![图片](http://127.0.0.1:5030/image/96a66bbec5cfc0d9eb42610d1dd705af)
+
+小明(wxid_at9px5nf07qm22) 11-10 18:29:31
+或者选择1.1
+
+小明(wxid_at9px5nf07qm22) 11-10 18:29:32
+![图片](http://127.0.0.1:5030/image/79a12b5f3fd4556f78285dafd9e55b50)
+
+JIE(ddcc119) 11-10 18:29:35
+我这只有全局模式
+
+小明(wxid_at9px5nf07qm22) 11-10 18:29:58
+@JIE 打开增强模式
+
+天雷(liulei275824997) 11-10 18:32:44
+估计ip挂了，换一个
+
+JIE(ddcc119) 11-10 18:38:20
+1.1，开了，增强开了。还是这样。算了，去跑步，放弃了
+
+小明(wxid_at9px5nf07qm22) 11-10 18:41:46
+"${wxid_at9px5nf07qm22}" 拍了拍 "${ddcc119}"
+
+宇新(wxid_5531065511111) 11-10 20:07:43
+想问下CSS章节这里，这个"/"是多余的吗
+
+宇新(wxid_5531065511111) 11-10 20:07:43
+![图片](http://127.0.0.1:5030/image/70ae1f9fb826e1c8b870dfb314b3b5cd)
+
+我 11-10 21:42:09
+"小明-助教-深海圈" 撤回了一条消息
+
+小明(wxid_at9px5nf07qm22) 11-10 21:48:21
+刚用 AI 确认了下，不是多余的@宇新 [旺柴]
+
+小明(wxid_at9px5nf07qm22) 11-10 21:48:55
+background 简写中 center / cover 里的 / 是 CSS 合法语法，专门用于分隔 background-position（背景位置）和 background-size（背景大小），作用是明确指定“背景居中显示 + 图片铺满容器”。
+
+这个写法是 CSS3 标准支持的简写规范，所有现代浏览器（Chrome、Firefox、Edge、Safari 等）都兼容，无需担心兼容性问题，是实际开发中推荐的简洁写法。
+
+郑璐璐(wxid_cipk4uzytp7f22) 11-10 21:53:15
+![动画表情](http://wxapp.tc.qq.com/275/20304/stodownload?m=7f14dd4f991d93b0ceeb11952d4d855d&filekey=30340201010420301e020201130402534804107f14dd4f991d93b0ceeb11952d4d855d02026c44040d00000004627466730000000132&hy=SH&storeid=26479c1f6000c332f000000000000011300004f50534817735b00b7054febc&bizid=1023)
+
+Tank(z515033179) 11-10 21:57:27
+> Tank(z515033179) 11-10 15:09:39
+> #举手 cursor和bolt用久了报错网络问题咋办？ 一直连不上了
+@小明 小明老师我这个问题该咋处理呀
+
+小明(wxid_at9px5nf07qm22) 11-10 21:57:52
+给点前后文呢
+
+小明(wxid_at9px5nf07qm22) 11-10 21:58:22
+看到了，开 Tun 
+
+孙金明(wxid_8961449614614) 11-10 21:58:33
+> 小明(wxid_at9px5nf07qm22) 11-10 18:29:32
+> ![图片](http://127.0.0.1:5030/image/79a12b5f3fd4556f78285dafd9e55b50)
+参考这个图片，然后开 Tun 
+
+小明(wxid_at9px5nf07qm22) 11-10 21:59:02
+嗯嗯
+
+孙金明(wxid_8961449614614) 11-10 21:59:08
+我之前网络也连接不上，这个方法接上了
+
+我 11-10 21:59:23
+"小明-助教-深海圈" 撤回了一条消息
+
+小明(wxid_at9px5nf07qm22) 11-10 21:59:34
+如果你的网页端 bolt 也用不了，检查下节点是否正常
+
+Tank(z515033179) 11-10 23:36:50
+@北京-孙金明 @小明 感谢[玫瑰][玫瑰][玫瑰]tun搞定了能正常使用cursor了

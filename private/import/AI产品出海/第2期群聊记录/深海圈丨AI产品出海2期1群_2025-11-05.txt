@@ -1,0 +1,661 @@
+Frank(lihong602732212) 11-05 00:02:41
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-05 00:15:58
+之前做的程序放在这个网站里，好违和啊，哈哈
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-05 00:15:58
+![图片](http://127.0.0.1:5030/image/94cfc64cd41cb0d13f0f0ee943a80b3c)
+
+宁王（加油！）(wxid_5182881829312) 11-05 00:24:33
+[让我看看]不是也还挺好的么，暗黑风格
+
+宁王（加油！）(wxid_5182881829312) 11-05 00:24:40
+"${wxid_5182881829312}" 拍了拍 "${wxid_p6ohfe1htnil22}" 砰砰砰，发射
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-05 00:32:49
+哈哈，真的吗[旺柴]
+
+Ruiqin袁锐钦(wetas6) 11-05 00:33:42
+这是什么[发呆]
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-05 00:34:13
+这工作不挺好，不知道工作时间是不是写错了
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-05 00:34:13
+![图片](http://127.0.0.1:5030/image/c1b0bfd8aa6d57541d173e0a5b8f1354)
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-05 00:34:57
+> 袁锐钦(wetas6) 11-05 00:33:42
+> 这是什么[发呆]
+写需求文档的，瞎搞的，功能很垃圾，我后面完善
+
+彼得(wxid_6hxrobq97rho21) 11-05 00:35:48
+> Newbie_成都(wxid_p6ohfe1htnil22) 11-05 00:34:13
+> ![图片](http://127.0.0.1:5030/image/c1b0bfd8aa6d57541d173e0a5b8f1354)
+这就是“人工智能”前面那个“人工”
+
+yuanchaooo(wxid_9buibte1gbeh21) 11-05 00:36:32
+做数据标注的  [捂脸][捂脸]
+
+彼得(wxid_6hxrobq97rho21) 11-05 00:36:50
+AI其实什么都不认识，所以需要人先去标注，然后喂给AI，这个就是做标注的
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-05 00:37:39
+哈哈，懂不起，随便看看
+
+彼得(wxid_6hxrobq97rho21) 11-05 00:38:17
+做了这个你就开始画框框：这是一辆汽车，这是一辆摩托车，注意误差不能超过几个像素
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-05 00:39:18
+哦哦，好吧，挺无聊的工作
+
+yuanchaooo(wxid_9buibte1gbeh21) 11-05 00:39:30
+新时代的客服人员
+
+Ruiqin袁锐钦(wetas6) 11-05 00:39:31
+[视频号|一人公司神器系列之一键拥有你的专属ai敏捷开发团队，完全开源，已斩获20k星标 #人工智能 #AI工具 #智能体 #敏捷开发 #ai编程 #程序员 #产品经理](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibusn4vVFEyiaqrrCibm8drLavw2Z9miak5fx8anH2AzCyK7XlGoEt7dkXZ1Cb34AkSDConibzYIo2icLPtTaMicGnTxLuhcgsbFVS1HZcZiajV1NsjUBOTLG2XOsLg&hy=SZ&idx=1&m=63aac0906f64d613f5b34eecb8210177&uzid=7a260&token=cztXnd9GyrFj6p0icNEEa9lAC3jSDSavIiapJvvk7JNUzObiaiaTr3be3icicatQJxrPPYEduEsYXlBwVk6zMv5WefPmEnTBjO6TyUk7tQ6Skjr22JWMhwRZUTg4brWhjvyNaZg0YzyLAwUwIWp2ibJzspmyibBGNTia6a7kGeqk08wDzWN8&basedata=CAESABoDeFYwIgAqBwizHRAAGAI&sign=ppHAec3_PSP12vmVS294VYA3hGp9kQwSMJ2GDsWzeZoIbO605RxjfUoedn8niON97Z9ylB0dMbNf0zspFs--qw&ctsc=25&extg=8ac000&svrbypass=AAuL%2FQsFAAABAAAAAAD9UpCrxgz9Qzgkku4IaRAAAADnaHZTnGbFfAj9RgZXfw6VrhQbRzv2E7c2PlwAHz9YgInLjmzgVu1mzScvZe9AOnjU5%2FFlzS1KY28%3D&svrnonce=1762193042)
+
+Ruiqin袁锐钦(wetas6) 11-05 00:39:45
+@Newbie_成都 可以结合这个看看
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-05 00:40:13
+之前提离职，公司现在想叫我去搞AI产品经理，我来BOSS上看看工作内容
+
+剑廿三(nianlvting) 11-05 00:40:15
+哈哈  确实  数据标注算是行业标配
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-05 00:40:30
+感觉这是个趋势啊，业务+技术
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-05 00:40:47
+> 袁锐钦(wetas6) 11-05 00:39:45
+> @Newbie_成都 可以结合这个看看
+感谢，我来瞅瞅
+
+大将军浅水🐱(sujuycliu4) 11-05 00:44:10
+https://www.pptscript.com/
+
+大将军浅水🐱(sujuycliu4) 11-05 00:44:11
+做了个根据PPTX生成演讲稿的网站，上传文件仅限.pptx格式，5mb以内。目前只接了登录功能，上传的速度也比较慢，欢迎大家来试试~
+
+刘小排(liuxiaopai) 11-05 00:44:49
+"${liuxiaopai}" 拍了拍 "${sujuycliu4}" ，亲密度+1
+
+刘小排(liuxiaopai) 11-05 00:45:17
+5M内的ppt会不会有点小？我的ppt好像都是100M以上的呢～～很多图
+
+刘小排(liuxiaopai) 11-05 00:45:29
+我感觉你这个挺屌的，完整性很高
+
+大将军浅水🐱(sujuycliu4) 11-05 00:46:10
+是有点小，cursor目前返回给我的原因是vercel免费版限制了大小，我还在研究怎么弄大一点
+
+大将军浅水🐱(sujuycliu4) 11-05 00:46:37
+> 刘小排(liuxiaopai) 11-05 00:45:29
+> 我感觉你这个挺屌的，完整性很高
+[让我看看]哇塞谢谢小排老师
+
+刘小排(liuxiaopai) 11-05 00:48:25
+不过我还不知道谁会为他付费
+
+刘小排(liuxiaopai) 11-05 00:48:31
+先当成练手吧
+
+大将军浅水🐱(sujuycliu4) 11-05 00:51:24
+嗯嗯，我目前想到的一些用户是：1、需要做小组presentation的学生，制作ppt的人和演讲的人会不一样；2、企业内需要根据PPT宣讲的商务；3、根据课件要进行授课的老师（不过老师本身比较会讲可能不太需要）
+
+先跑一边流程！慢就是快，一边学习coding一边继续锻炼找需求的能力~
+
+Ruiqin袁锐钦(wetas6) 11-05 01:24:48
+"${wetas6}" 拍了拍 "${sujuycliu4}" ，亲密度+1
+
+Ruiqin袁锐钦(wetas6) 11-05 01:24:52
+![动画表情](http://wxapp.tc.qq.com/275/20304/stodownload?m=288194a86e832137738f949a886eb553&filekey=30350201010421301f02020113040253480410288194a86e832137738f949a886eb55302030189c6040d00000004627466730000000132&hy=SH&storeid=269097d2900080d08b428530c0000011300004f505348295e9661569c17e75&bizid=1023)
+
+Afar(wxid_pl1vacz65tnb22) 11-05 07:05:29
+数据分析用户行为太好玩了，把我一个旧站盘活了，之前苦于不知道怎么改进
+
+Afar(wxid_pl1vacz65tnb22) 11-05 07:40:37
+分享一个踩过的坑：之前用GA分析数据的时候，只把给我的代码放到了网站里，导致收集到的数据只能简单分析流量特征、参与度这些数据。可以在和ai沟通加代码时，跟它多说一句“同时设置完整的事件埋点系统”，就能边统计出一些常见按钮的点击率等等，对以后优化付费转化率会有帮助
+
+Afar(wxid_pl1vacz65tnb22) 11-05 07:44:35
+还有才发现clarity可以连上GA数据，虽然现在没感受到威力，但只要半分钟，所以先连上了
+
+Afar(wxid_pl1vacz65tnb22) 11-05 07:44:37
+![图片](http://127.0.0.1:5030/image/975555cf34313863550135db00cd1754)
+
+蚕(wxid_b7icucoyx1nb21) 11-05 07:54:14
+还能这么连
+
+蚕(wxid_b7icucoyx1nb21) 11-05 08:17:39
+内功篇也是一天一章哇
+
+蚕(wxid_b7icucoyx1nb21) 11-05 08:18:43
+難しいですね～
+
+王帆(wxid_i4ja4qz84kad21) 11-05 08:21:06
+太猛了
+
+王帆(wxid_i4ja4qz84kad21) 11-05 08:21:21
+内功一天一章，强度好大的
+
+漠北(wxid_2196531965112) 11-05 08:23:00
+時間が足りません
+
+文身艺术家_补丁(wxid_8983149830812) 11-05 08:32:29
+#举手 小排老师，我买了手册里推荐的tailwindcss.com/模板，下载下来一个UI kit文件包～ GPT说要按照我的需求一个一个把UI文件找出来再一个个输入cc，我感觉有一大堆文件要手动找，请问您有什么更好的办法吗？GPT还说要写一个Contract Spec 让cc只做骨架不要重复做UI，我感觉它写的这个文件过于复杂而且我大部分看不懂[Dizzy]所以在犹豫要不要这么做，我怕看不懂的地方会有坑
+
+王帆(wxid_i4ja4qz84kad21) 11-05 08:33:55
+大家已经开始修炼内功了吗
+
+Afar(wxid_pl1vacz65tnb22) 11-05 08:35:56
+> 王帆(wxid_i4ja4qz84kad21) 11-05 08:33:55
+> 大家已经开始修炼内功了吗
+我还没，还在冷启动
+
+蚕(wxid_b7icucoyx1nb21) 11-05 08:38:12
+内功篇只有7天的时间，一天一章是不够的
+
+蚕(wxid_b7icucoyx1nb21) 11-05 08:38:29
+感觉要完全脱产才能学完
+
+Afar(wxid_pl1vacz65tnb22) 11-05 08:41:08
+晚上听听小排老师的导学，说不定就好上手了
+
+王帆(wxid_i4ja4qz84kad21) 11-05 08:41:15
+前段时间让gpt教我学html，简单的还能看懂吗复杂点就蒙圈了
+
+王帆(wxid_i4ja4qz84kad21) 11-05 08:41:25
+> Afar 深圳(wxid_pl1vacz65tnb22) 11-05 08:41:08
+> 晚上听听小排老师的导学，说不定就好上手了
+是的
+
+王帆(wxid_i4ja4qz84kad21) 11-05 08:41:44
+先不慌
+
+蚕(wxid_b7icucoyx1nb21) 11-05 08:45:53
+![图片](http://127.0.0.1:5030/image/887a0390e62d1f34b1467dad9f73bd31)
+
+Afar(wxid_pl1vacz65tnb22) 11-05 08:47:22
+[链接|创业的真相](https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247499434&idx=1&sn=afc294ec1128f088c4663b4ff0fb3aa8&chksm=e84e570c3cfb4f3a47df534a8ff1d43d7e6f32c701283b23ff31b1ecb468f33659d422fe64c8&mpshare=1&scene=1&srcid=1105l1lTQ466zB0woCT5jbqv&sharer_shareinfo=854128412458536201e71bd147a1cd8c&sharer_shareinfo_first=854128412458536201e71bd147a1cd8c#rd)
+
+Afar(wxid_pl1vacz65tnb22) 11-05 08:48:37
+王帆(wxid_i4ja4qz84kad21) 11-05 08:54:37
+看过小排老师的文章，在获取idear的方法，排第一的就是原生的idear，结合自己的行业中遇到的痛点，一直没被解决的，并且自己的也是这方面困扰很久的重度使用者
+
+王帆(wxid_i4ja4qz84kad21) 11-05 08:55:04
+这样既不是自己想的，而是自己发现的，还能优化
+
+Afar(wxid_pl1vacz65tnb22) 11-05 09:25:25
+> 王帆(wxid_i4ja4qz84kad21) 11-05 08:54:37
+> 看过小排老师的文章，在获取idear的方法，排第一的就是原生的idear，结合自己的行业中遇到的痛点，一直没被解决的，并且自己的也是这方面困扰很久的重度使用者
+有道理，这篇印象好深
+
+Afar(wxid_pl1vacz65tnb22) 11-05 09:28:14
+找到了，复习一下https://scys.com/mobile/post/xq_topic/212485241245121
+
+王帆(wxid_i4ja4qz84kad21) 11-05 09:35:11
+对，就是这篇
+
+Afar(wxid_pl1vacz65tnb22) 11-05 09:36:42
+![动画表情](http://wxapp.tc.qq.com/275/20304/stodownload?m=7f29c30c25712ef9476c3a68753cae82&filekey=30350201010421301f020201130402534804107f29c30c25712ef9476c3a68753cae82020300b718040d00000004627466730000000132&hy=SH&storeid=2656468af000262c2b48483f70000011300004f5053480b034b00b6f70bd00&bizid=1023)
+
+Dyna迪娜(wxid_z2eqpmwr8cen22) 11-05 09:56:22
+Gemini怎么都登不上去了，一直显示不在服务国家。换线路也没用，今天有人这样吗？
+
+Nina(qq396682710) 11-05 09:57:58
+你们都有自己部署plausible 吗这个开源代码在自己服务器上
+
+yuanchaooo(wxid_9buibte1gbeh21) 11-05 10:00:33
+> 迪娜-武汉(wxid_z2eqpmwr8cen22) 11-05 09:56:22
+> Gemini怎么都登不上去了，一直显示不在服务国家。换线路也没用，今天有人这样吗？
+我的也这样。
+
+新页(zqx10104) 11-05 10:10:30
+> Nina(qq396682710) 11-05 09:57:58
+> 你们都有自己部署plausible 吗这个开源代码在自己服务器上
+部署这个的目的是啥呀
+
+Ruiqin袁锐钦(wetas6) 11-05 10:12:51
+> 迪娜-武汉(wxid_z2eqpmwr8cen22) 11-05 09:56:22
+> Gemini怎么都登不上去了，一直显示不在服务国家。换线路也没用，今天有人这样吗？
+开tun
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-05 10:15:25
+> Nina(qq396682710) 11-05 09:57:58
+> 你们都有自己部署plausible 吗这个开源代码在自己服务器上
+是指放 plausible给的代码 到自己的网站中吗
+
+Afar(wxid_pl1vacz65tnb22) 11-05 10:17:53
+> 新页-广州(zqx10104) 11-05 10:10:30
+> > [引用]
+> 部署这个的目的是啥呀
+数据分析那章手册
+
+新页(zqx10104) 11-05 10:19:02
+可以先用免费的呀
+
+新页(zqx10104) 11-05 10:19:34
+他说的是自己部署plausible服务吧
+
+Afar(wxid_pl1vacz65tnb22) 11-05 10:19:50
+我也，用的免费Google analytic+clarity
+
+小枫哥(wxid_mqivyxf1zg4k22) 11-05 10:20:59
+我这个 dia  用着用着就罢工了  过一会就能用 这可能是啥问题
+
+小枫哥(wxid_mqivyxf1zg4k22) 11-05 10:20:59
+![图片](http://127.0.0.1:5030/image/58f74f2a1c5425117eb1ab0e2c8d0189)
+
+王帆(wxid_i4ja4qz84kad21) 11-05 10:21:32
+try again 就可以了
+
+王帆(wxid_i4ja4qz84kad21) 11-05 10:21:38
+正常
+
+王帆(wxid_i4ja4qz84kad21) 11-05 10:22:06
+总会有次把连不上服务器
+
+小枫哥(wxid_mqivyxf1zg4k22) 11-05 10:39:58
+我这个不太对劲 频率比较高 而且  短时间还链接不上
+
+王帆(wxid_i4ja4qz84kad21) 11-05 10:42:46
+是不是梯子的问题
+
+王帆(wxid_i4ja4qz84kad21) 11-05 10:43:03
+梯子不稳定也会
+
+Okada 欢欢(wxid_bdbgo44zkrrv22) 11-05 10:52:49
+咱们群里不讨论🪜相关滴问题哈，包含群安全
+
+王帆(wxid_i4ja4qz84kad21) 11-05 11:01:57
+👌
+
+蚕(wxid_b7icucoyx1nb21) 11-05 11:03:57
+直接肉身出海
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-05 11:06:58
+分享一个辅助决策的思路
+
+之前我用gpt模拟查理.芒格的思维，分析我适不适合做AI产品出海，感觉他说的挺有道理的
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-05 11:11:57
+我觉得可以让AI模拟Pieter Levels的思维，看看产品应该怎么做，或许有新思路
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-05 11:40:50
+我觉得还得考虑自己的能力圈，现在公司有个领导就是，我觉得他就属于不量力而行，接一堆项目，结果都烂尾了。哈哈，瞎哔哔一下
+
+珍希(wxid_6e2a0yq9wjsr22) 11-05 12:38:37
+> Newbie_成都(wxid_p6ohfe1htnil22) 11-05 11:06:58
+> 分享一个辅助决策的思路
+> 之前我用gpt模拟查理.芒格的思维，分析我适不适合做AI产品出海，感觉他说的挺有道理的
+这个可阔以哇  活学活用[破涕为笑]
+
+珍希(wxid_6e2a0yq9wjsr22) 11-05 12:39:13
+有时候思路就是要打卡开呀  就会发现一些不一样的东西
+
+珍希(wxid_6e2a0yq9wjsr22) 11-05 12:40:09
+我也在看这本书 我怎么就没想到要用gpt模拟一下查理芒格的思维呢
+
+Nina(qq396682710) 11-05 12:52:45
+> 新页-广州(zqx10104) 11-05 10:19:34
+> 他说的是自己部署plausible服务吧
+是，但是我免费的一个月用完了。服务器部署会更便宜吗?不知道有没操作指南
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-05 12:58:36
+> 珍希(wxid_6e2a0yq9wjsr22) 11-05 12:40:09
+> 我也在看这本书 我怎么就没想到要用gpt模拟一下查理芒格的思维呢
+可以试试，我觉得对我还是有帮助的
+
+大将军浅水🐱(sujuycliu4) 11-05 13:02:40
+> Newbie_成都(wxid_p6ohfe1htnil22) 11-05 11:06:58
+> 分享一个辅助决策的思路
+> 之前我用gpt模拟查理.芒格的思维，分析我适不适合做AI产品出海，感觉他说的挺有道理的
+感谢分享，我刚刚试了一下，感觉一些分析很有帮助
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-05 13:40:42
+[社会社会][社会社会]
+
+文丽-Annie(wlluo_520) 11-05 14:10:19
+#举手 我在闲鱼买的cursor，claude 3.7用不了，试了下gpt5可以用。不知道cc3.7限用是cursor现在不支持这个版本了，还是因为我的cursor账号问题？买的是cursor pro
+
+约德尔人(wxid_giurv9gqrakx22) 11-05 14:11:24
+![图片](http://127.0.0.1:5030/image/a67003be481455bb59a049fb3f8aceda)
+
+约德尔人(wxid_giurv9gqrakx22) 11-05 14:11:27
+是不是这里没有配置
+
+约德尔人(wxid_giurv9gqrakx22) 11-05 14:11:36
+我闲鱼买的可以用4.5
+
+勿忘心安(wxid_5z0kem6hjo522) 11-05 14:12:22
+直接咸鱼去问卖家
+
+文丽-Annie(wlluo_520) 11-05 14:12:52
+我就是在这个model这里设置，本来没看到3.7，我点了add model，打字加上的。我这里也能支持sonnet4.5，就是看教程小排老师推荐用3.7
+
+新页(zqx10104) 11-05 14:13:52
+直接用4.5啦
+
+约德尔人(wxid_giurv9gqrakx22) 11-05 14:13:53
+3.7是之前版本的，能用4.5肯定用4.5
+
+文丽-Annie(wlluo_520) 11-05 14:14:27
+喔喔，我还以为3.7有特别之处
+
+大将军浅水🐱(sujuycliu4) 11-05 14:15:37
+我的cursor pro也用不了cc，不知道是不是因为我cursor注册的手机号是国内的
+
+文丽-Annie(wlluo_520) 11-05 14:16:38
+你用邮箱注册试试看
+
+大将军浅水🐱(sujuycliu4) 11-05 14:16:58
+我邮箱注册之后就会跳出来手机号认证
+
+文丽-Annie(wlluo_520) 11-05 14:17:21
+还有就是网络环境，我之前没有用静态IP的时候，连bolt都注册不了
+
+文丽-Annie(wlluo_520) 11-05 14:18:21
+> 大将军浅水🐱(sujuycliu4) 11-05 14:16:58
+> 我邮箱注册之后就会跳出来手机号认证
+这个我不记得了自己有没有手机号注册了
+
+大将军浅水🐱(sujuycliu4) 11-05 14:18:39
+[捂脸]我现在用claude教我学习代码，然后再把学习之后的指令输入cursor，虽然笨笨的，但是也逼着我自己学着看代码了
+
+大将军浅水🐱(sujuycliu4) 11-05 14:19:16
+> 文丽-Annie(wlluo_520) 11-05 14:17:21
+> 还有就是网络环境，我之前没有用静态IP的时候，连bolt都注册不了
+我再试试！！
+
+文丽-Annie(wlluo_520) 11-05 14:24:38
+你的claude是中转吗？那你为啥不直接用claude呢
+
+大将军浅水🐱(sujuycliu4) 11-05 14:25:47
+> 文丽-Annie(wlluo_520) 11-05 14:24:38
+> 你的claude是中转吗？那你为啥不直接用claude呢
+我是用的claude的那个对话学习的，cc还不会用[捂脸]
+
+刘小排(liuxiaopai) 11-05 14:43:00
+今晚的直播非常重要，请大家一定要腾出时间
+
+大将军浅水🐱(sujuycliu4) 11-05 14:43:25
+![动画表情](http://wxapp.tc.qq.com/275/20304/stodownload?m=ee7b6d5fb146550f67c51968d9314f76&filekey=30340201010420301e02020113040253480410ee7b6d5fb146550f67c51968d9314f7602020faf040d00000004627466730000000132&hy=SH&storeid=264b0efa50005b14db44799d40000011300004f5053482f635b00b0fb29245&bizid=1023)
+
+大螃蟹(milly-you) 11-05 14:53:26
+一定到
+
+文丽-Annie(wlluo_520) 11-05 14:59:58
+收到
+
+剑廿三(nianlvting) 11-05 15:00:38
+![动画表情](http://wxapp.tc.qq.com/262/20304/stodownload?m=c82f0e27a584143a5831402fe4e4c842&filekey=30350201010421301f020201060402535a0410c82f0e27a584143a5831402fe4e4c8420203067484040d00000004627466730000000131&hy=SZ&storeid=32303231303632373136353635363030303462353536393834356334613662323239353630393030303030313036&bizid=1023)
+
+X1(j-e-e-j-e-e) 11-05 15:02:42
+晚上在公司听完课再回家了
+
+蚕(wxid_b7icucoyx1nb21) 11-05 15:02:48
+> 刘小排(liuxiaopai) 11-05 14:43:00
+> 今晚的直播非常重要，请大家一定要腾出时间
+好滴
+
+Jen(wxid_smz7vuq0670d22) 11-05 15:11:02
+收到🫡
+
+周靠谱(rainbowzhou) 11-05 15:11:32
+![动画表情](http://wxapp.tc.qq.com/262/20304/stodownload?m=c82f0e27a584143a5831402fe4e4c842&filekey=30350201010421301f02020106040253480410c82f0e27a584143a5831402fe4e4c8420203067484040d00000004627466730000000132&hy=SH&storeid=2631ea9ad00051026000000000000010600004f505348080c596097539290c&bizid=1023)
+
+Ichts(wxid_1wgvppbrk22c12) 11-05 15:12:15
+收到！
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-05 15:14:52
+收到！
+
+tison(tison_csu) 11-05 15:15:49
+收到！
+
+陈宇强(change-fate) 11-05 15:41:08
+收到
+
+宇宙(wxid_ocbx1coeqq9q21) 11-05 15:42:23
+7点50准时报道
+
+゛Lyleon·Cheung🇨🇳(wxid_60jfehwtwz3122) 11-05 15:46:29
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-05 16:02:26
+> 张咩咩-深圳(wxid_60jfehwtwz3122) 11-05 15:46:29
+> > [引用]
+> 是不是也可以解释为：沉默成本？
+有点没理解你的意思，之前都是瞎哔哔
+
+゛Lyleon·Cheung🇨🇳(wxid_60jfehwtwz3122) 11-05 16:10:58
+比如，开办新公司，你购置的桌子，椅子办公设备等等这些就是沉默成本。换成你语境下的话  就是  你在聊天中产生的一些想法，沟通产生的灵感，耗费的时间，这些吧  我是这样想的[破涕为笑]
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-05 16:16:20
+桌子，椅子办公设备，这些算是固定成本吧。你请客户吃饭，但他还是不买你的东西，餐费算沉没成本吧
+
+゛Lyleon·Cheung🇨🇳(wxid_60jfehwtwz3122) 11-05 16:17:11
+对  是这个意思
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-05 16:17:18
+产生的一些想法，沟通产生的灵感，耗费的时间，这些不算沉没成本吧，将来是可能给你带来产出的
+
+卿真(gugu24487494) 11-05 17:07:51
+想问下老师，我们的代码可以同步部署ios吗？
+
+卿真(gugu24487494) 11-05 17:08:07
+还是以网页为主
+
+枺榛(wxid_qu3b4qfoz9ka11) 11-05 17:13:56
+一通百通吧，只不过换换开发语言之类的
+
+黄松松(wxid_4p8ps72x0w0q52) 11-05 17:14:25
+手册里有这个内容，讲了为什么先做网页
+
+桑桑(wxid_q2c7fp10z2522) 11-05 17:21:04
+[群公告]
+
+桑桑(wxid_q2c7fp10z2522) 11-05 17:21:45
+有些学员想看一期的手册，一起同步到群公告里啦~
+
+桑桑(wxid_q2c7fp10z2522) 11-05 17:24:14
+@所有人 今晚高强度学习期第2次直播分享即将开始，请大家提前锁定时间：
+
+【分享时间】 11月5日（周三）晚20:00
+【分享人】刘小排
+【分享的主题】内功篇导学
+【分享地点】小鹅通
+
+点击下方链接预约直播间，今晚20:00不见不散～
+
+蚕(wxid_b7icucoyx1nb21) 11-05 17:26:09
+每次开播都要兑换吗
+
+蚕(wxid_b7icucoyx1nb21) 11-05 17:26:21
+还是兑换了一次就可以了
+
+卿真(gugu24487494) 11-05 17:27:00
+> 黄松松(wxid_4p8ps72x0w0q52) 11-05 17:14:25
+> 手册里有这个内容，讲了为什么先做网页
+我去看看谢谢
+
+桑桑(wxid_q2c7fp10z2522) 11-05 17:28:06
+[链接|【深海圈丨AI产品出海】刘小排：内功篇导学](https://appamvpb5mq9834.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoyLCJhcHBfaWQiOiJhcHBhbXZwYjVtcTk4MzQiLCJyZXNvdXJjZV9pZCI6ImxfNjkwODdkNGFlNGIwNjk0YzViNDg3YWRiIiwicmVzb3VyY2VfdHlwZSI6NCwicGF5bWVudF90eXBlIjoiIiwicHJvZHVjdF9pZCI6InBfNjhmMjFhMTBlNGIwNjk0YzViM2UxZWQ5IiwiYXZhaWxhYmxlIjp0cnVlLCJhdmFpbGFibGVfcHJvZHVjdCI6ZmFsc2UsInNoYXJlX3VzZXJfaWQiOiJ1XzY3YWMwYTgyMTM4N2JfVmtXdUpSWG44ZiIsInNoYXJlX3R5cGUiOjUsInNjZW5lIjoiXHU1MjA2XHU0ZWFiIn0?share_scene=1&entry=2&entry_type=2002)
+
+文丽-Annie(wlluo_520) 11-05 17:28:10
+![图片](http://127.0.0.1:5030/image/81eb64cb4e0156a8d734bc0ca2d4ce2f)
+
+文丽-Annie(wlluo_520) 11-05 17:28:11
+![图片](http://127.0.0.1:5030/image/4c1b47a1151b7e9eabb2bd59520dfe56)
+
+桑桑(wxid_q2c7fp10z2522) 11-05 17:28:15
+> 蚕–东京(wxid_b7icucoyx1nb21) 11-05 17:26:09
+> 每次开播都要兑换吗
+兑换一次就可以了
+
+文丽-Annie(wlluo_520) 11-05 17:28:25
+请问作业反馈打开是这样的，在哪里看反馈呀
+
+桑桑(wxid_q2c7fp10z2522) 11-05 17:28:26
+@文丽-Annie 作业反馈查询链接：https://scys.com/form/z27VzvBS
+
+桑桑(wxid_q2c7fp10z2522) 11-05 17:29:33
+> 桑桑(wxid_q2c7fp10z2522) 11-05 17:28:25
+> @文丽-Annie 作业反馈查询链接：https://scys.com/form/z27VzvBS
+点击这个链接哈
+
+小然吖🌟(jing30501) 11-05 17:36:51
+> 文丽-Annie(wlluo_520) 11-05 17:28:10
+> ![图片](http://127.0.0.1:5030/image/81eb64cb4e0156a8d734bc0ca2d4ce2f)
+同问，这链接只是让点击已查看作业点评，没看到实际的
+
+新侠(wxid_kysk4x0anmy712) 11-05 17:51:28
+我在 vscode 里用 cc 官方插件，感觉还是终端，没有小排老师公众号那种对话模式呀
+
+新侠(wxid_kysk4x0anmy712) 11-05 18:32:26
+在 vscode 里一会就跳出来乱码，一会又变好了，是咋回事，问 ai 他让我安装中文包也安装过了[Emm]
+
+新侠(wxid_kysk4x0anmy712) 11-05 18:32:33
+![图片](http://127.0.0.1:5030/image/ca48a56075f4f95f308d5957434de158)
+
+蔡(wxid_cg0yatr2hfio21) 11-05 18:35:40
+> 新侠(wxid_kysk4x0anmy712) 11-05 18:32:26
+> 在 vscode 里一会就跳出来乱码，一会又变好了，是咋回事，问 ai 他让我安装中文包也安装过了[Emm]
+好像是 vs code 的 bug，你用鼠标快速并不断缩小窗口再放大就不会了
+
+新侠(wxid_kysk4x0anmy712) 11-05 18:36:55
+快速不断缩小窗口是指最小化吗
+
+新侠(wxid_kysk4x0anmy712) 11-05 18:37:20
+确实…好了
+
+蔡(wxid_cg0yatr2hfio21) 11-05 18:37:21
+不是，是用鼠标拉窗口，缩小放大
+
+新侠(wxid_kysk4x0anmy712) 11-05 18:37:54
+全屏状态有问题，缩小一下就好了，神奇
+
+蔡(wxid_cg0yatr2hfio21) 11-05 18:38:02
+我实验出来的解决方案
+
+蔡(wxid_cg0yatr2hfio21) 11-05 18:38:04
+[旺柴]
+
+新侠(wxid_kysk4x0anmy712) 11-05 18:38:16
+![动画表情](http://wxapp.tc.qq.com/262/20304/stodownload?m=5c8595f1d191481c72e1f84ac706b52c&filekey=30350201010421301f020201060402535a04105c8595f1d191481c72e1f84ac706b52c0203010833040d00000004627466730000000131&hy=SZ&storeid=32303231303632383031323631353030303563356638316632373033303765643536353830393030303030313036&bizid=1023)
+
+小明(wxid_at9px5nf07qm22) 11-05 19:08:17
+朋友们，做个用户调研，新版手册大家没发现，章节内的目录是可展开的，拍拍我[旺柴]
+
+小明(wxid_at9px5nf07qm22) 11-05 19:08:35
+![图片](http://127.0.0.1:5030/image/24aa010d49a3484e4d943ccf197c0b88)
+
+蔡(wxid_cg0yatr2hfio21) 11-05 19:09:03
+还有这东西？[捂脸]
+
+杨明妹(ymm87717890909) 11-05 19:10:16
+早发现了
+
+杨明妹(ymm87717890909) 11-05 19:10:18
+"${ymm87717890909}" 拍了拍 "${wxid_at9px5nf07qm22}"
+
+桑桑(wxid_q2c7fp10z2522) 11-05 19:27:34
+[链接|【深海圈丨AI产品出海】刘小排：内功篇导学](https://appamvpb5mq9834.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoyLCJhcHBfaWQiOiJhcHBhbXZwYjVtcTk4MzQiLCJyZXNvdXJjZV9pZCI6ImxfNjkwODdkNGFlNGIwNjk0YzViNDg3YWRiIiwicmVzb3VyY2VfdHlwZSI6NCwicGF5bWVudF90eXBlIjoiIiwicHJvZHVjdF9pZCI6InBfNjhmMjFhMTBlNGIwNjk0YzViM2UxZWQ5IiwiYXZhaWxhYmxlIjp0cnVlLCJhdmFpbGFibGVfcHJvZHVjdCI6ZmFsc2UsInNoYXJlX3VzZXJfaWQiOiJ1XzY3YWMwYTgyMTM4N2JfVmtXdUpSWG44ZiIsInNoYXJlX3R5cGUiOjUsInNjZW5lIjoiXHU1MjA2XHU0ZWFiIn0?share_scene=1&entry=2&entry_type=2002)
+
+Ruiqin袁锐钦(wetas6) 11-05 19:28:02
+![图片](http://127.0.0.1:5030/image/509b74d9be69c092b5d1295845750550)
+
+Ruiqin袁锐钦(wetas6) 11-05 19:28:07
+时刻准备着
+
+桑桑(wxid_q2c7fp10z2522) 11-05 19:28:38
+@所有人 今晚直播20：00准时开始，点击链接预约直播～
+
+桑桑(wxid_q2c7fp10z2522) 11-05 19:29:25
+未完成小鹅通权限兑换会影响后续直播观看
+
+兑换链接：https://fllv5.xetlk.com/s/lmPvC
+
+陈宇强(change-fate) 11-05 19:56:21
+开播咯
+
+陈宇强(change-fate) 11-05 19:56:27
+大家来
+
+刘小排(liuxiaopai) 11-05 19:56:45
+@所有人 进来吧
+
+文身艺术家_补丁(wxid_8983149830812) 11-05 21:24:31
+cc有网页版了，可以用dia
+
+文身艺术家_补丁(wxid_8983149830812) 11-05 21:24:32
+![图片](http://127.0.0.1:5030/image/f84aa89b453935556d0a2c3ad1bd0ec7)
+
+大成℡(wxid_5120091200412) 11-05 21:59:24
+刚换了一个Mac电脑是把 Dia浏览器设成默认浏览器？还用google浏览器设置成默认的？？？
+
+王帆(wxid_i4ja4qz84kad21) 11-05 22:06:20
+我是交替这用，不做选择
+
+王帆(wxid_i4ja4qz84kad21) 11-05 22:06:22
+都要
+
+王帆(wxid_i4ja4qz84kad21) 11-05 22:06:51
+默认还是 Google
+
+王帆(wxid_i4ja4qz84kad21) 11-05 22:07:02
+需要学习就用 dia
+
+王帆(wxid_i4ja4qz84kad21) 11-05 22:07:22
+谷歌的翻译对于我们英语不好的非常好用
+
+幸福的正记录Beta(wxid_35msirgyvoqm21) 11-05 22:12:19
+> 大成℡🌏(wxid_5120091200412) 11-05 21:59:24
+> 刚换了一个Mac电脑是把 Dia浏览器设成默认浏览器？还用google浏览器设置成默认的？？？
+你可以安装一个浏览器切换的软件，根据不同的规则，打开不同的浏览器就行。
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-05 22:13:30
+> 幸福的正记录Beta(wxid_35msirgyvoqm21) 11-05 22:12:19
+> > [引用]
+> 你可以安装一个浏览器切换的软件，根据不同的规则，打开不同的浏览器就行。
+这个软件可以干啥啊，我一般cmd+tab
+
+幸福的正记录Beta(wxid_35msirgyvoqm21) 11-05 22:13:34
+我用的这个。
+
+幸福的正记录Beta(wxid_35msirgyvoqm21) 11-05 22:13:34
+![图片](http://127.0.0.1:5030/image/6966105ea9314b69fd0972bbc388e4e5)
+
+珍希(wxid_6e2a0yq9wjsr22) 11-05 22:13:36
+浏览器切换的软件叫啥 
+
+Afar(wxid_pl1vacz65tnb22) 11-05 22:14:33
+好东西诶
+
+大将军浅水🐱(sujuycliu4) 11-05 22:14:52
+好东西
+
+幸福的正记录Beta(wxid_35msirgyvoqm21) 11-05 22:15:01
+> 幸福的正记录Beta(wxid_35msirgyvoqm21) 11-05 22:13:34
+> ![图片](http://127.0.0.1:5030/image/6966105ea9314b69fd0972bbc388e4e5)
+15块钱买的，个人感觉用的可以哈。
+
+鼹鼠(pingyuanduyou) 11-05 22:15:14
+还可以这样
+
+幸福的正记录Beta(wxid_35msirgyvoqm21) 11-05 22:15:24
+当然也可以自己用 Cursor 写一个了。
+
+新侠(wxid_kysk4x0anmy712) 11-05 22:18:51
+感觉不用这么麻烦，总 monica 插件就可以了
+
+大成℡(wxid_5120091200412) 11-05 22:26:06
+谢谢各位[抱拳][抱拳][抱拳]
+
+> 刘小排(liuxiaopai) 11-05 00:48:25
+> 不过我还不知道谁会为他付费
+@刘小排 小排老师，看到你评价的那个ppt转演讲稿不知道谁会为此付费，我想请教一下：您是如何作出这个判断的呢？
+
+按常理上说，只要不是文字堆叠的ppt，上面主要的是points，作为作者如果有路演的需求，确是有生成和润色演讲稿的需求的，类似ai代写的需求。
+
+这个看上去是一个需求，是否您觉得这个需求可以实现的途径太多？
+
+或者可能您是基于没有人会高频需要做ppt高频需要演讲的现实，所以觉得这个产品的购买理由不够？

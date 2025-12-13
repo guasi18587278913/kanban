@@ -1,0 +1,255 @@
+无常(wxid_e1yj7sv0ucpt51) 11-16 00:02:47
++1[鼓掌][鼓掌][鼓掌][强][强][强]
+
+夕远(wxid_0kb3l3xk63ag21) 11-16 00:09:18
+[强][强][强][强][强]
+
+卍傅思遥卍(YOYOFU2011) 11-16 00:09:58
+[动画表情]
+
+Dave(wxid_eq3atztv38sr21) 11-16 00:10:55
+"${wxid_eq3atztv38sr21}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+六六(wxid_9g1ly04kesnr11) 11-16 03:27:22
+谢谢大家
+
+六六(wxid_9g1ly04kesnr11) 11-16 03:27:34
+[动画表情]
+
+阿哲(wxid_qp3qyvfat3sy22) 11-16 05:21:47
+[强][强][强][666][666][666]
+
+不晚(wxid_uey4xxzk35lj22) 11-16 05:23:02
+[强][强][强]
+
+Min(szm800717) 11-16 06:30:21
+[强][强][强]
+
+寻叶亭(wxid_swnbotrdv93e22) 11-16 06:50:04
+[强][强][强]
+
+范志杰 Fam(leiyushuma) 11-16 07:39:34
+[强][强][强]
+
+shine_forever(shine_forevr) 11-16 08:26:09
+[强][强][强] 看完了，六六内心好细腻
+
+青竹(wxid_1348793487711) 11-16 10:25:44
+"${wxid_1348793487711}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-16 12:38:33
+[链接|放弃Claude Code，就在今天！](https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247499582&idx=1&sn=5e8e2cfe3c606a7f56623e2d32444b60&chksm=e8214a146910a9355572febc6c42244951ecdbb7018c9b13528ea7d6d1bb48cbd04f719c2ade&mpshare=1&scene=1&srcid=1116veAovonjFH5i0TdX9xpW&sharer_shareinfo=d025fcf9a1c37fe78321c261297afbb3&sharer_shareinfo_first=d025fcf9a1c37fe78321c261297afbb3#rd)
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-16 12:38:54
+"${wxid_gzr7bvbdlvlv22}" 拍了拍 "${wxid_9g1ly04kesnr11}"
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-16 12:39:57
+为啥我用着还是感觉没快？很久之前就用gpt-5.1-codex high审查代码，现在也是
+
+刘小排(liuxiaopai) 11-16 12:41:28
+只是变快了，但还没变得比claude sonent快
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-16 12:41:39
+难道我用法有啥不对？[嘿哈]
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-16 12:41:47
+哦哦
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-16 12:41:58
+编码我倒是用的cursor cc4.5
+
+Min(szm800717) 11-16 12:42:03
+我就想知道codex怎么实现bypass模式[捂脸]
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-16 12:42:17
+插件可以选呀
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-16 12:42:28
+![图片](http://127.0.0.1:5030/image/4d4c22f1e6eadcab61ca71126811f9c2)
+
+Min(szm800717) 11-16 12:43:01
+是我用的不对吗？昨天用的时候，还让我确认来的
+
+Min(szm800717) 11-16 12:43:08
+就这个
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-16 12:43:20
+你第一次开启的时候会让你确认
+
+Min(szm800717) 11-16 12:44:00
+噢噢，那还行
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-16 12:45:16
+> 土豆君(wxid_gzr7bvbdlvlv22) 11-16 12:41:58
+> 编码我倒是用的cursor cc4.5
+另外我觉得cursor的plan功能还不错哎，可以用来做复杂需求，加上4.5模型cursor里面不要钱[破涕为笑]简直不要太爽
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-16 12:46:15
+而codex当守门员审查
+
+刘小排(liuxiaopai) 11-16 12:46:28
+> 土豆君(wxid_gzr7bvbdlvlv22) 11-16 12:45:16
+> > [引用]
+> 另外我觉得cursor的plan功能还不错哎，可以用来做复杂需求，加上4.5模型cursor里面不要钱[破涕为笑]简直不要太爽
+是的，非常不错
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-16 12:48:39
+我现在是同时打开vscode和cursor[破涕为笑]
+因为cursor里面的codex插件经常这样就换到vscode用codex了
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-16 12:49:11
+![图片](http://127.0.0.1:5030/image/3189079e012cdc3273ff78d74a3fa34e)
+
+前行(gejinpeng123) 11-16 13:02:36
+后端codex确实比cc强很多，尤其涉及到比较复杂的逻辑
+
+青竹(wxid_1348793487711) 11-16 13:15:22
+我感觉 Cursor 还能抢救一下，最近好像又拿到融资了
+
+刘小排(liuxiaopai) 11-16 13:20:54
+cursor对新手非常好的
+
+刘小排(liuxiaopai) 11-16 13:21:03
+我也是从cursor过来的
+
+超然同学(wxid_lgfk7wufz9b651) 11-16 13:22:02
+这么一说，cursor最近又恢复了免费用户有自动tab的功能，我又不充钱了
+
+超然同学(wxid_lgfk7wufz9b651) 11-16 13:22:05
+"${wxid_lgfk7wufz9b651}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+青竹(wxid_1348793487711) 11-16 13:33:49
+> 随波逐流(szm800717) 11-16 12:42:03
+> 我就想知道codex怎么实现bypass模式[捂脸]
+上次介绍 Claude code 的时候，承诺也写一篇如何安全使用 codex 的 bypass 模式，文章写好一直放在 Obsidian 中，忘记发公众号了，哈哈，刚才花10分钟发了一下，稍等链接
+
+青竹(wxid_1348793487711) 11-16 13:34:34
+[链接|想安全的使用 Codex Cli 的 bypass 模式？安排……](https://mp.weixin.qq.com/s?__biz=Mzg4MzI5NDAxNA==&mid=2247484162&idx=1&sn=ea5136e4a02069902a1903a470a004b6&chksm=ce8b451cca704cb0fb04a5cc4e30a80370c6bc7fe50ba330342e78504ba03cb52e964776ff14&mpshare=1&scene=1&srcid=1116uiwIYR4nrCkYCffUMMrr&sharer_shareinfo=4ac1c71c1aa482ab91fa649e8ffa7e2d&sharer_shareinfo_first=4ac1c71c1aa482ab91fa649e8ffa7e2d#rd)
+
+超然同学(wxid_lgfk7wufz9b651) 11-16 13:35:09
+哦，我还说啥叫bypass模式，结果就是容器化运行啊。
+
+来来说AI(wxid_s51w6qhhcpya22) 11-16 13:35:46
+> 土豆君(wxid_gzr7bvbdlvlv22) 11-16 12:48:39
+> 我现在是同时打开vscode和cursor[破涕为笑]
+> 因为cursor里面的codex插件经常这样就换到vscode用codex了
+我感觉这玩意就和AI绘画的MJ，即梦，可灵一样，都是工具辅助看代码的而已
+
+青竹(wxid_1348793487711) 11-16 13:36:55
+我这里介绍的重点是安全，不是bypass，bypass不用容器就可以
+
+超然同学(wxid_lgfk7wufz9b651) 11-16 13:37:41
+哦
+
+超然同学(wxid_lgfk7wufz9b651) 11-16 13:37:59
+我一直用的容器化开发，不仅仅是安全问题，主要是不想弄脏本地环境
+
+超然同学(wxid_lgfk7wufz9b651) 11-16 13:38:07
+无论什么任务
+
+超然同学(wxid_lgfk7wufz9b651) 11-16 13:38:20
+那么问题来了，啥是bypass啊
+
+青竹(wxid_1348793487711) 11-16 13:51:36
+就是跳过很多的权限确认，自动执行
+
+超然同学(wxid_lgfk7wufz9b651) 11-16 13:53:13
+哦， codex --dangerously-bypass-approvals-and-sandbox 这个啊
+
+Super黄（沉迷AI编程）(lookforward) 11-16 13:53:34
+codex不是有插件么，那个里面就很方便，full access是不是就是cc的bypass
+
+超然同学(wxid_lgfk7wufz9b651) 11-16 13:53:37
+确实只能在容器里用，这个B整个硬盘都在扫描有没有他想要的东西
+
+超然同学(wxid_lgfk7wufz9b651) 11-16 13:54:36
+当时看它的日志人都傻了，还真实 dangerously啊，只敢在容器里用
+
+超然同学(wxid_lgfk7wufz9b651) 11-16 13:56:28
+# Extra tooling for native module builds and common dev shells.
+RUN apk add --no-cache bash git openssh python3 make g++ libc6-compat
+
+WORKDIR /app
+
+ENV HOSTNAME="0.0.0.0"
+
+# 安装常用开发工具
+RUN apk add --no-cache \
+    bash \
+    curl \
+    git \
+    vim \
+    sudo \
+    openssh \
+    procps \
+    fd \
+    make \
+    tzdata
+
+超然同学(wxid_lgfk7wufz9b651) 11-16 13:56:45
+容器化运行codex还得给它装点工具，否则不好使。
+
+Super黄（沉迷AI编程）(lookforward) 11-16 13:57:06
+太高端了，看不懂。。
+
+超然同学(wxid_lgfk7wufz9b651) 11-16 13:58:10
+容器化运行我太熟了，现在已经把所有开发环境容器化了。不仅针对codex的这个dangerous，针对所有场景，都确实好用
+
+青竹(wxid_1348793487711) 11-16 14:10:49
+claude code 官方自带的 Dockerfile 中安装了很多东西，codex 我就额外安装一个 pnpm 就够了，其他的，需要的时候codex会自己去安装的
+
+青竹(wxid_1348793487711) 11-16 14:12:33
+pnpm 用来安装 npm 包和执行 package.json 中定义的指令的
+
+青竹(wxid_1348793487711) 11-16 14:25:47
+> 超然同学(wxid_lgfk7wufz9b651) 11-16 13:54:36
+> 当时看它的日志人都傻了，还真实 dangerously啊，只敢在容器里用
+是这个道理，没有容器，我压根不敢开。
+
+可能也就咱们程序员胆子小不敢开[Chuckle]
+
+青竹(wxid_1348793487711) 11-16 14:53:14
+#举手 creem 订阅升级的功能大家都是怎么做的，我发现它没有升级页面，直接通过后台 API 就执行了，这个交互感觉不太好。
+
+前行(gejinpeng123) 11-16 15:29:16
+Creem的手册有写的，前端我是自己设计的，比如订阅了基本版，不能再重复订阅，可以升级订阅，升级订阅也有两种生效方式，一种是立即生效，另一种是次月生效，立即生效还涉及怎么抵扣原有的订阅
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-16 16:54:35
+> 青竹-上海(wxid_1348793487711) 11-16 14:53:14
+> #举手 creem 订阅升级的功能大家都是怎么做的，我发现它没有升级页面，直接通过后台 API 就执行了，这个交互感觉不太好。
+有的，有个开关可以打开就行
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-16 16:55:00
+它的升级前端集成也很简单
+
+青竹(wxid_1348793487711) 11-16 16:56:54
+是最近新加的功能吗？之前它的文档我通读过，没什么 印象了
+
+青竹(wxid_1348793487711) 11-16 17:06:20
+> 土豆君(wxid_gzr7bvbdlvlv22) 11-16 16:54:35
+> > [引用]
+> 有的，有个开关可以打开就行
+还记得在什么地方吗，帮忙看看，我搜了一下没找到
+
+青竹(wxid_1348793487711) 11-16 17:08:02
+是 Product Bundles 这个吗？
+
+Lily 兰心(wxid_55i7xj4ozfa022) 11-16 17:29:58
+ 大佬们，stripe审核不发邮件吗，以为没通过，好着急
+
+银河星游(wxid_6253072530112) 11-16 17:34:47
+> 兰心-深圳(wxid_55i7xj4ozfa022) 11-16 17:29:58
+>  大佬们，stripe审核不发邮件吗，以为没通过，好着急
+登上一周差不多吧
+
+银河星游(wxid_6253072530112) 11-16 17:34:51
+你多久了
+
+Lily 兰心(wxid_55i7xj4ozfa022) 11-16 17:54:40
+> 银河星游(wxid_6253072530112) 11-16 17:34:47
+> > [引用]
+> 登上一周差不多吧
+差不多一周，后台看到了，以为会发邮件，每天干着急[破涕为笑]
+
+高兴一下(wxid_27jlz5dm009k22) 11-16 22:32:05
+cursor自动生成提交信息怎么改成中文来着[疑问]

@@ -1,0 +1,114 @@
+新世界(wxid_98g2m3mfrobz31) 09-23 13:02:38
+cc这样是要重新授权一下吗
+
+新世界(wxid_98g2m3mfrobz31) 09-23 13:02:39
+![图片](http://127.0.0.1:5030/image/ae1256cc60ea93288d48394462c5b775)
+
+A梦 (知牧)(mrleoxu) 09-23 13:13:32
+> 新世界(wxid_98g2m3mfrobz31) 09-23 13:02:39
+> ![图片](http://127.0.0.1:5030/image/ae1256cc60ea93288d48394462c5b775)
+大概率是网络环境不行了，IP污染。你可以打开 claude.ai 试试看是否会跳出真人验证页面
+
+新世界(wxid_98g2m3mfrobz31) 09-23 13:15:45
+正常啊
+
+我 09-23 13:15:48
+"新世界" 撤回了一条消息
+
+新世界(wxid_98g2m3mfrobz31) 09-23 13:15:58
+![图片](http://127.0.0.1:5030/image/dfaeea8f2d2c1331d98d87efdd5e9449)
+
+新世界(wxid_98g2m3mfrobz31) 09-23 13:17:03
+这提示是OAuth过期，具体怎么弄新的 ，最开始用的时候哪个步骤找不到了
+
+新世界(wxid_98g2m3mfrobz31) 09-23 13:17:23
+我记得我开始用的时候，有个配置流程
+
+新世界(wxid_98g2m3mfrobz31) 09-23 13:17:51
+![图片](http://127.0.0.1:5030/image/7a92a5b3e8751bed65c38cfcda94d805)
+
+A梦 (知牧)(mrleoxu) 09-23 13:18:06
+/login
+
+新世界(wxid_98g2m3mfrobz31) 09-23 13:19:59
+可以了
+
+新世界(wxid_98g2m3mfrobz31) 09-23 13:20:14
+重新登录授权下即可感谢[呲牙]
+
+桑桑(wxid_q2c7fp10z2522) 09-23 18:28:10
+正为网站设计问题发愁的小伙伴，推荐看看这篇帖子，或许能找到解决办法～
+
+桑桑(wxid_q2c7fp10z2522) 09-23 18:28:18
+[链接|小白也能做出高大上的网站？我用这 3 个技巧拿下深海圈黑客松金奖！
+
+AI航海家大会结束了，相信小排老师的开场让生财朋友们对AI Web出海这件事充满兴趣。我作为第一期的学员也是一名设计师，希望给正在或未来要做AI Web的朋友们带来一些设计方面的补给。
+
+](https://t.zsxq.com/IT7yu)
+
+李江(apexlj) 09-23 18:45:59
+[强][强]好东西
+
+大福(wxid_g9uim6ey70a022) 09-23 20:28:17
+#举手 进阶篇 Raphael Starter    https://starterkit-chi.vercel.app/  谷歌登录谷歌注册都是无法访问此网站。
+
+大福(wxid_g9uim6ey70a022) 09-23 20:28:19
+![图片](http://127.0.0.1:5030/image/65730fe892bc18b2cc273649687ab4a6)
+
+刘小排(liuxiaopai) 09-23 20:29:11
+不要着急，我们马上做一个新的哈
+
+刘小排(liuxiaopai) 09-23 20:29:13
+这是旧版
+
+刘小排(liuxiaopai) 09-23 20:29:19
+旧版准备淘汰了
+
+大福(wxid_g9uim6ey70a022) 09-23 20:34:21
+[OK]
+
+A梦 (知牧)(mrleoxu) 09-23 22:19:03
+AI大会上小排老师分享内容的笔记整理，分享给没去成深圳的同学们参考
+
+A梦 (知牧)(mrleoxu) 09-23 22:19:03
+[链接|刘小排 AI 大会分享笔记，让你的 AI 认知升维，从“心经”开始：你不异 AI，AI 不异你](https://mp.weixin.qq.com/s?__biz=MjM5NDQ3ODI3NQ==&mid=2651431202&idx=1&sn=7c21336ac5bd43184b60a30f016c5504&chksm=bc55b37f3210431392ab565bce1cb4eb348b4bd196e3c3324dc7b983643711eecfbe9e8e19bc&mpshare=1&scene=1&srcid=0923BuSoQnHauyD6Ma2xD5j3&sharer_shareinfo=24be2c0f3c734b4aced4f6b7c2dc2d6e&sharer_shareinfo_first=61ee74166a059072628ea831472c8ef3#rd)
+
+桑桑(wxid_q2c7fp10z2522) 09-23 22:23:20
+[链接|《AI编程 - it is not for you, it is you》 演讲逐字稿
+
+大家好，我是刘小排。
+
+下面是我在2025年9月20日，生财有术AI航海家大会演讲《AI编程 - it is not for you, it is you》的逐字稿，以及广告。逐字稿尽量保留现场感，比较口语化，文风可能和以前的文章不 ...](https://t.zsxq.com/TjjZX)
+
+桑桑(wxid_q2c7fp10z2522) 09-23 22:23:43
+哈哈小排老师版刚发，一起分享给大家～
+
+A梦 (知牧)(mrleoxu) 09-23 22:24:09
+哇~ 早知道晚一点发 还可以补充一点
+
+刘小排(liuxiaopai) 09-23 22:24:28
+[旺柴]
+
+Okada 欢欢(wxid_bdbgo44zkrrv22) 09-23 22:32:23
+"${wxid_bdbgo44zkrrv22}" 拍了拍 "${mrleoxu}" 中得🐍年彩票大奖[庆祝]
+
+A梦 (知牧)(mrleoxu) 09-23 22:39:29
+现学现用，没有 claude for chrome， 正在用 comet 浏览器发推
+
+A梦 (知牧)(mrleoxu) 09-23 22:39:33
+![图片](http://127.0.0.1:5030/image/fab86cb05767a24be7f0591a574873cb)
+
+东君(wxid_ry89ulpvchj721) 09-23 22:39:47
+我在路上。
+
+SuperEric(janetchristmas) 09-23 22:40:28
+"${janetchristmas}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 09-23 22:50:18
+> 桑桑@生财(wxid_q2c7fp10z2522) 09-23 22:23:43
+> 哈哈小排老师版刚发，一起分享给大家～
+贴心。小排老师确实把我们当家人们了，冲啊[吃瓜]
+
+> 刘小排(liuxiaopai) 09-23 20:29:11
+> 不要着急，我们马上做一个新的哈
+[偷笑]小排老师 不知新版starter  kit什么时候能用呀？申请试试

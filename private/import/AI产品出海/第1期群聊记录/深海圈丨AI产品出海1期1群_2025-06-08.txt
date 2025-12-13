@@ -1,0 +1,841 @@
+王珣(wangxiaojian162088) 06-08 00:03:58
+刚刚发现更新了腾讯元宝以后，新增了一个功能：支持浏览器的文本内容直接搜索，亲测辅助学习还是不错的，当然它没有dia厉害，但是也算低配版学习助手了。
+
+王珣(wangxiaojian162088) 06-08 00:04:00
+![图片](http://127.0.0.1:5030/image/b1f90de50881f62ca8524149a3fc406d)
+
+王珣(wangxiaojian162088) 06-08 00:04:20
+对于没有Dia的伙伴来说，用这个搭配学习，也是会方便很多
+
+银河(wxid_9o25gzov7ukw21) 06-08 00:05:12
+[强][强]
+
+银河(wxid_9o25gzov7ukw21) 06-08 00:05:44
+明天试试
+
+GavinHawk(genius711) 06-08 00:11:16
+> 王珣(wangxiaojian162088) 06-08 00:04:00
+> ![图片](http://127.0.0.1:5030/image/b1f90de50881f62ca8524149a3fc406d)
+你这个是腾讯元宝的插件吗？装在其他浏览器的？
+
+王珣(wangxiaojian162088) 06-08 00:11:51
+不是插件噢，是软件，App Store下的
+
+王珣(wangxiaojian162088) 06-08 00:12:21
+要用这个功能，需要你打开了腾讯元宝，他就可以在浏览器中调用了
+
+GavinHawk(genius711) 06-08 00:12:32
+哦哦，我说怎么看着不像qq浏览器自带的那个玩意[破涕为笑]
+
+王珣(wangxiaojian162088) 06-08 00:12:51
+Chrome可以直接用，感觉还不错
+
+GavinHawk(genius711) 06-08 00:13:37
+> 王珣(wangxiaojian162088) 06-08 00:12:21
+> 要用这个功能，需要你打开了腾讯元宝，他就可以在浏览器中调用了
+我用的是windows系统[破涕为笑]
+我的mac book吃灰多年，intel芯片的，用不了dia[捂脸]
+
+王珣(wangxiaojian162088) 06-08 00:14:29
+我也是intel 所以也没用dia 今天正好看到浏览器多了一个能力 仔细一看 居然是元宝自带的
+
+王珣(wangxiaojian162088) 06-08 00:14:57
+Windows你试试呀 说不定可以呢[破涕为笑]
+
+GavinHawk(genius711) 06-08 00:15:26
+> 王珣(wangxiaojian162088) 06-08 00:14:29
+> 我也是intel 所以也没用dia 今天正好看到浏览器多了一个能力 仔细一看 居然是元宝自带的
+推荐试试Opera，也是自带ai的，起码有网页上下文
+
+王珣(wangxiaojian162088) 06-08 00:16:45
+好滴 我试试
+
+王珣(wangxiaojian162088) 06-08 00:17:51
+![图片](http://127.0.0.1:5030/image/63af9264107ad378d87e559514cf060f)
+
+王珣(wangxiaojian162088) 06-08 00:18:13
+原来它不局限浏览器，只要是能选中的都有[破涕为笑]
+
+GavinHawk(genius711) 06-08 00:21:42
+其实还是都挺人工智障的[捂脸] 无论是QQ浏览器还是Opera，上下文也没啥用，还不如去问 o3[捂脸]
+过段时间赚到钱了还是整个 mac 用 dia 好了[呲牙]
+
+王珣(wangxiaojian162088) 06-08 00:24:05
+早点挣到万刀就能鸟枪换大炮了[笑脸]
+
+GavinHawk(genius711) 06-08 00:32:38
+> 王珣(wangxiaojian162088) 06-08 00:24:05
+> 早点挣到万刀就能鸟枪换大炮了[笑脸]
+共勉！[呲牙]
+
+王珣(wangxiaojian162088) 06-08 00:34:37
+拍拍我[奸笑]
+
+乐天(txwxlt) 06-08 00:40:06
+我最近爱上豆包了
+
+乐天(txwxlt) 06-08 00:40:17
+非常方便功能还全面
+
+乐天(txwxlt) 06-08 00:40:42
+也可以读上下文
+
+GavinHawk(genius711) 06-08 00:41:06
+[666][666][666]
+
+GavinHawk(genius711) 06-08 07:37:05
+![图片](http://127.0.0.1:5030/image/bc48c8b67ef6ef9c3302f9ae4300131b)
+
+GavinHawk(genius711) 06-08 07:37:29
+#举手 这个地方 news 是不是应该改成 size ？
+
+天空之城(wxid_185q9g2shldo22) 06-08 08:15:30
+![图片](http://127.0.0.1:5030/image/db4d55918bcafa9fc4cecfa5f2b4af19)
+
+天空之城(wxid_185q9g2shldo22) 06-08 08:15:35
+实战手册打不开了吗
+
+大铭🌱(wxid_c7zf4hpjug5322) 06-08 08:31:05
+![图片](http://127.0.0.1:5030/image/7f4a982d53721ec42711a7a295eb420f)
+
+坐忘...知行(wxid_8el8nvvcryhi22) 06-08 09:06:50
+@小明-助教 Raphael Stater我也申请好久了，邮箱没收到开通提醒，麻烦看一下吧，谢谢[Salute]
+
+坐忘...知行(wxid_8el8nvvcryhi22) 06-08 09:06:50
+![图片](http://127.0.0.1:5030/image/2de05dbdc486b88a1122fba79ca35fb5)
+
+青雨·涤生(wxid_tlpm1lj3qv2522) 06-08 09:20:00
+> 坐忘...知行(wxid_8el8nvvcryhi22) 06-08 09:06:50
+> @小明-助教 Raphael Stater我也申请好久了，邮箱没收到开通提醒，麻烦看一下吧，谢谢[Salute]
++1,@小明-助教 老师也看下我的
+
+我 06-08 09:20:06
+"青雨" 撤回了一条消息
+
+青雨·涤生(wxid_tlpm1lj3qv2522) 06-08 09:20:06
+![图片](http://127.0.0.1:5030/image/f72284fef94281e798338b07ae224d44)
+
+arlen(skyarlen) 06-08 09:36:18
+![图片](http://127.0.0.1:5030/image/535354c204ef4dc80448ca1cc8bed983)
+
+arlen(skyarlen) 06-08 09:36:38
+谢谢老师们，谢谢ccav
+
+arlen(skyarlen) 06-08 09:37:19
+碗已经装备好，等人投钱
+
+arlen(skyarlen) 06-08 09:37:26
+[坏笑]
+
+arlen(skyarlen) 06-08 09:37:52
+深海的这个课价值上万
+
+顺利(wxid_n6kjtdjnivea21) 06-08 09:47:59
+真快呀，哥们儿
+
+My Dream(wxid_08zu1t0wtnm822) 06-08 09:48:10
+[强]，我今天也在接入支付
+
+shine_forever(shine_forevr) 06-08 09:50:35
+请问航海手册怎么打不开了..?
+
+大勇(zzy_xtfncel) 06-08 09:51:07
+#举手 同问，航海手册怎么打不开了..?
+
+My Dream(wxid_08zu1t0wtnm822) 06-08 09:52:10
+![图片](http://127.0.0.1:5030/image/0e4cefafde6ecadb2c7f45bb8afcc793)
+
+许则(leonzone521) 06-08 09:52:42
+可以打开呀
+
+许则(leonzone521) 06-08 09:52:42
+![图片](http://127.0.0.1:5030/image/b51d4c9432da3863ffad709d5ce2800e)
+
+许则(leonzone521) 06-08 09:52:47
+https://scys.com/view/docx/TPt3dhdjBoBwWvxJB1Qcybl5nQe#doxcnCuK6jbzaHphxzMqsmWxeDc
+
+许则(leonzone521) 06-08 09:52:53
+直接用这个链接试试呢？
+
+My Dream(wxid_08zu1t0wtnm822) 06-08 09:53:27
+> 许则(leonzone521) 06-08 09:52:47
+> https://scys.com/view/docx/TPt3dhdjBoBwWvxJB1Qcybl5nQe#doxcnCuK6jbzaHphxzMqsmWxeDc
+用这个可以打开
+
+大勇(zzy_xtfncel) 06-08 09:53:30
+> 许则(leonzone521) 06-08 09:52:47
+> https://scys.com/view/docx/TPt3dhdjBoBwWvxJB1Qcybl5nQe#doxcnCuK6jbzaHphxzMqsmWxeDc
+感谢，URL能直接打开。
+
+shine_forever(shine_forevr) 06-08 09:53:45
+@许则 可以打开了,只是航海页面里面链接被删除了..
+
+shine_forever(shine_forevr) 06-08 09:53:56
+> 许则(leonzone521) 06-08 09:52:53
+> 直接用这个链接试试呢？
+[抱拳]
+
+许则(leonzone521) 06-08 09:54:57
+幸亏我有存书签的习惯，hhh
+
+金龙(wxid_4zaur79woix122) 06-08 10:33:07
+corsor 用 claude-4 一直报这个错误 User API Key Rate limit exceeded  你们遇到过没
+
+姚盛旺(wxid_r7rswx8l8o5g22) 06-08 10:34:18
+显示没有航海手册
+
+姚盛旺(wxid_r7rswx8l8o5g22) 06-08 10:35:14
+@小明-助教
+
+七天假(wxid_btc5cjhytnw822) 06-08 10:35:55
+> 金龙(wxid_4zaur79woix122) 06-08 10:33:07
+> corsor 用 claude-4 一直报这个错误 User API Key Rate limit exceeded  你们遇到过没
+你的key 被限制了吧[捂脸]
+
+金龙(wxid_4zaur79woix122) 06-08 10:36:22
+这种要怎么解决 哈哈
+
+金龙(wxid_4zaur79woix122) 06-08 10:36:30
+用不成了[捂脸]
+
+七天假(wxid_btc5cjhytnw822) 06-08 10:38:24
+去你的aip 平台里看下，应该会有提示的
+
+金龙(wxid_4zaur79woix122) 06-08 10:41:00
+好的 感谢
+
+arlen(skyarlen) 06-08 10:51:35
+> shine_forever(shine_forevr) 06-08 09:53:45
+> @许则 可以打开了,只是航海页面里面链接被删除了..
+哪个大神给删了哟
+
+川行(wxid_33w0z8sezpr522) 06-08 11:11:02
+![图片](http://127.0.0.1:5030/image/03a022f45d6606ed23bb74691f02668e)
+
+川行(wxid_33w0z8sezpr522) 06-08 11:11:09
+封号后会退款
+
+银河(wxid_9o25gzov7ukw21) 06-08 11:13:20
+![图片](http://127.0.0.1:5030/image/082763abdbdb3386f2237f0b43837730)
+
+银河(wxid_9o25gzov7ukw21) 06-08 11:13:45
+我也是[捂脸]
+
+银河(wxid_9o25gzov7ukw21) 06-08 11:14:57
+再去发邮件解封试试，我上次封了就是发邮件解封的
+
+川行(wxid_33w0z8sezpr522) 06-08 11:15:27
+邮件发了还没给我回复来
+
+阿源(wxid_7qzxiizckrny12) 06-08 12:06:35
+航海手册怎么打不开了
+
+点妈(wxid_d61373blb39r22) 06-08 12:10:34
+> 许则(leonzone521) 06-08 09:52:47
+> https://scys.com/view/docx/TPt3dhdjBoBwWvxJB1Qcybl5nQe#doxcnCuK6jbzaHphxzMqsmWxeDc
+看这个
+
+点妈(wxid_d61373blb39r22) 06-08 12:11:33
+我刚刚也打不开，用@许则 圈友分享的链接就可以打开
+
+小明(wxid_at9px5nf07qm22) 06-08 12:14:47
+@坐忘...知行 @青雨 直接用本地代码文件吧
+
+小明(wxid_at9px5nf07qm22) 06-08 12:14:50
+[文件|raphael-starterkit-v1.zip](http://127.0.0.1:5030/file/20b5ea70e4f8e234436fbcc4b2132031)
+
+小明(wxid_at9px5nf07qm22) 06-08 12:15:48
+航海手册打不开问题，已反馈，稍等排查下哈
+
+Shine(wxid_ukxek3uvxzbp21) 06-08 12:17:03
+> 小明-助教(wxid_at9px5nf07qm22) 06-08 12:14:50
+> [文件|raphael-starterkit-v1.zip](http://127.0.0.1:5030/file/20b5ea70e4f8e234436fbcc4b2132031)
+这是什么
+
+小明(wxid_at9px5nf07qm22) 06-08 12:17:22
+> 小明-助教(wxid_at9px5nf07qm22) 06-08 12:15:48
+> 航海手册打不开问题，已反馈，稍等排查下哈
+已解决
+
+小明(wxid_at9px5nf07qm22) 06-08 12:17:54
+> Shine-厦门(wxid_ukxek3uvxzbp21) 06-08 12:17:03
+> > [引用]
+> 这是什么
+课程进阶篇会用到的代码项目
+
+坐忘...知行(wxid_8el8nvvcryhi22) 06-08 12:20:23
+> 小明-助教(wxid_at9px5nf07qm22) 06-08 12:14:47
+> @坐忘...知行 @青雨 直接用本地代码文件吧
+好的[Salute]
+
+钟林芯(fjgysai) 06-08 12:22:36
+creem.io 是网站完善之后就可以接入的吗？还是要有浏览后才能接入？
+
+小林日入万$(wxid_ezwxect889j422) 06-08 12:23:02
+手册都有教程的
+
+刘小排(liuxiaopai) 06-08 12:23:37
+> 钟林芯(fjgysai) 06-08 12:22:36
+> creem.io 是网站完善之后就可以接入的吗？还是要有浏览后才能接入？
+在开发的时候，你接入的是他的测试账号。你如果想要正式收款，是需要等你网站已经完善了，再去申请他的正式账号。
+
+钟林芯(fjgysai) 06-08 12:25:43
+我前面问题没写清楚，不用等有一定的流量再去正式接入是么？
+
+天空之城(wxid_185q9g2shldo22) 06-08 12:25:54
+小排老师请问creem用自己ip测试生产不会被封吧
+
+刘小排(liuxiaopai) 06-08 12:25:58
+这个看你自己的判断
+
+刘小排(liuxiaopai) 06-08 12:26:10
+我的习惯是，先做免费吧，因为这样最快等有流量了再去搞支付
+
+刘小排(liuxiaopai) 06-08 12:26:19
+也有人的习惯是 一来就先把支付做了。
+
+刘小排(liuxiaopai) 06-08 12:26:24
+各有各的好处哈
+
+刘小排(liuxiaopai) 06-08 12:26:44
+> 天空之城(wxid_185q9g2shldo22) 06-08 12:25:54
+> 小排老师请问creem用自己ip测试生产不会被封吧
+不会
+
+天空之城(wxid_185q9g2shldo22) 06-08 12:27:06
+好嘞~
+
+钟林芯(fjgysai) 06-08 12:27:14
+> 刘小排(liuxiaopai) 06-08 12:26:24
+> 各有各的好处哈
+明白了 [抱拳]
+
+乐天(txwxlt) 06-08 12:50:56
+> 衣龙川–上海(wxid_9o25gzov7ukw21) 06-08 11:13:20
+> ![图片](http://127.0.0.1:5030/image/082763abdbdb3386f2237f0b43837730)
+你的是纯净ip吗
+
+Moore(xiaobei1984) 06-08 12:52:03
+用o3/4o也不错的
+
+银河(wxid_9o25gzov7ukw21) 06-08 12:52:29
+> 乐天(txwxlt) 06-08 12:50:56
+> > [引用]
+> 你的是纯净ip吗
+不是，应该就是这个原因封的
+
+乐天(txwxlt) 06-08 12:54:29
+噢噢
+
+周彦君 Heidi(sevensevenforever) 06-08 14:47:54
+请问一下小排老师或各位助教，在cursor里如果不是每轮对话都git commit的话，没有没办法在「每轮对话」后完整查看 在这一轮里具体哪些文件、哪些代码被ai改动过呢？
+
+刘小排(liuxiaopai) 06-08 14:48:49
+可以的呀，每次提交都是有记录了，
+
+刘小排(liuxiaopai) 06-08 14:49:04
+不过，你这是代码都提交了，再去看。。。我们建议的是，代码提交前看。
+
+周彦君 Heidi(sevensevenforever) 06-08 14:56:44
+比如说完成一个小功能提交一次，但每两次提交代码之间和ai有很多轮对话，也就是ai新写或者修改了很多次代码。我想检查每一次对话session后ai的代码改动情况，这样可以吗？还是说只能看距离上一次commit提交到现在总的代码改动历史
+
+周彦君 Heidi(sevensevenforever) 06-08 14:58:58
+不好意思，描述的有点复杂😅
+
+周彦君 Heidi(sevensevenforever) 06-08 15:00:25
+就是不是看每次Git里提交的历史，是在cursor里能看到每次对话后ai修改了哪些代码吗
+
+在旅途的车(chegang222569) 06-08 15:02:24
+> 周彦君 Heidi(sevensevenforever) 06-08 15:00:25
+> 就是不是看每次Git里提交的历史，是在cursor里能看到每次对话后ai修改了哪些代码吗
+cursor每次修改的代码都会标红显示出来 agent模式直接修改， accept all 表示全部接收   你可以在确认 accept all 之前做代码审查
+
+刘小排(liuxiaopai) 06-08 15:02:33
++1
+
+周彦君 Heidi(sevensevenforever) 06-08 15:03:01
+好的好的
+
+周彦君 Heidi(sevensevenforever) 06-08 15:03:05
+感谢！
+
+wwwddd(q283477748) 06-08 15:04:35
+#举手 从github仓库导入项目到vercel时，只能默认导入到团队吗？无法导入到个人名下？那么从v0打开这个项目，就需要企业版团队权限才能打开和继续编辑？
+
+wwwddd(q283477748) 06-08 15:04:40
+![图片](http://127.0.0.1:5030/image/d4b9d72bb7ec2ad5be54420e84f67163)
+
+在旅途的车(chegang222569) 06-08 15:05:35
+如果不确定能否同意 可以对cursor明确要求 只分析错误原因 提修改建议  不修改任何代码；同时把错误信息 日志信息截图发给chatgpt O3 。综合双方的建议 自己做判断。@周彦君 Heidi 这个过程不可避免 最终还是需要看懂代码[捂脸][捂脸]
+
+周彦君 Heidi(sevensevenforever) 06-08 15:17:42
+> 在旅途的车(chegang222569) 06-08 15:05:35
+> 如果不确定能否同意 可以对cursor明确要求 只分析错误原因 提修改建议  不修改任何代码；同时把错误信息 日志信息截图发给chatgpt O3 。综合双方的建议 自己做判断。@周彦君 Heidi 这个过程不可避免 最终还是需要看懂代码[捂脸][捂脸]
+是的，在好几次已经写好的功能突然崩掉之后，意识到每一轮对话都要好好检查代码.. 谢谢建议！
+
+在旅途的车(chegang222569) 06-08 15:29:05
+@周彦君 Heidi [握手][握手]
+
+政(wxid_unp611hu9f0052) 06-08 16:02:59
+大家的dia浏览器今天可以正常使用吗
+
+彩笺(wxid_7bvhmd8m2q3y22) 06-08 16:03:36
+可以
+
+兔子Molly(wxid_cfa9thm9v9rv12) 06-08 17:07:51
+#举手 请问要根据03的建议在claude code里执行这个命令吗？
+
+兔子Molly(wxid_cfa9thm9v9rv12) 06-08 17:07:52
+![图片](http://127.0.0.1:5030/image/a1c22537f85e2a673e1a707254940149)
+
+兔子Molly(wxid_cfa9thm9v9rv12) 06-08 17:07:52
+![图片](http://127.0.0.1:5030/image/ae7e22cb28d1bc08a6f4d2bf36bff71a)
+
+Moore(xiaobei1984) 06-08 17:27:57
+可以
+
+兔子Molly(wxid_cfa9thm9v9rv12) 06-08 17:28:22
+好滴 谢谢
+
+灵然视邃(wxid_8za0t0e4cbox22) 06-08 18:00:27
+#举手 自己创建的env.local文件，怎么放到git ignore里面啊？
+
+刘小排(liuxiaopai) 06-08 18:04:50
+> 灵然视邃(wxid_8za0t0e4cbox22) 06-08 18:00:27
+> #举手 自己创建的env.local文件，怎么放到git ignore里面啊？
+让cursor帮你放
+
+灵然视邃(wxid_8za0t0e4cbox22) 06-08 18:06:05
+好的。
+
+arlen(skyarlen) 06-08 19:30:41
+我们这种MacroSAAS的订阅转化率是按多少算
+
+arlen(skyarlen) 06-08 19:30:49
+1/1000?
+
+刘小排(liuxiaopai) 06-08 19:50:00
+2%
+
+刘小排(liuxiaopai) 06-08 19:50:16
+2%是及格，分母是注册用户
+
+arlen(skyarlen) 06-08 20:42:24
+ok
+
+arlen(skyarlen) 06-08 21:12:51
+谢谢排老师
+
+arlen(skyarlen) 06-08 21:13:31
+那从访客到注册用户的比率一般是多少
+
+Shine(wxid_ukxek3uvxzbp21) 06-08 21:20:38
+又一个[疑问]
+
+Shine(wxid_ukxek3uvxzbp21) 06-08 21:20:38
+[小程序|闲鱼闲置交易二手买卖估价回收](https://mp.weixin.qq.com/mp/waerrpage?appid=wx9882f2a891880616&type=upgrade&upgradetype=3#wechat_redirect)
+
+Shine(wxid_ukxek3uvxzbp21) 06-08 21:21:28
+@雪雪@生财 
+
+yyyhx(wxid_9013080130212) 06-08 21:23:05
+举报起来
+
+何慢慢(wxid_jktjwjue5t2i22) 06-08 21:25:33
+![图片](http://127.0.0.1:5030/image/ce0e165e47fba574b24bc9ebef9f3184)
+
+刘小排(liuxiaopai) 06-08 21:26:10
+[抱拳]谢谢
+
+安宇轩｜进阶版~(wxid_ub49ms3x9c0622) 06-08 21:26:42
+[破涕为笑]哇擦，299,骨折卖吗
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 06-08 21:26:53
+Perplexity 年度会员，速度领取
+https://www.perplexity.ai/join/p/redeem
+验证券PPLXLIUMBLHOTVAJ2QI
+
+用美国节点~~
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 06-08 21:27:10
+有需要搞，不确定能维持几天，一般羊毛撑不了几天了现在
+
+李如实(wxid_1675346753512) 06-08 21:27:36
+"${wxid_1675346753512}" 拍了拍 "${wxid_qvv7nhu3xufq22}"
+
+droidHZ(wxid_5396913969012) 06-08 21:29:59
+![图片](http://127.0.0.1:5030/image/1447486ce8816509bc4745578ff78da6)
+
+杨昌(wxid_0mz1ox7didil22) 06-08 21:30:02
+"${wxid_0mz1ox7didil22}" 拍了拍 "${wxid_qvv7nhu3xufq22}"
+
+droidHZ(wxid_5396913969012) 06-08 21:30:05
+搜索有4个
+
+小林日入万$(wxid_ezwxect889j422) 06-08 21:30:20
+都挺猛的啊！顶风作案
+
+Shine(wxid_ukxek3uvxzbp21) 06-08 21:30:54
+@droidHZ-成都 发出来
+
+Shine(wxid_ukxek3uvxzbp21) 06-08 21:30:56
+举报
+
+Shine(wxid_ukxek3uvxzbp21) 06-08 21:31:01
+[旺柴]
+
+Shine(wxid_ukxek3uvxzbp21) 06-08 21:31:49
+都不好好维护知识产权吗，人家做的这么用心的教程直接复制粘贴就卖出去了
+
+双翼腾飞(wxid_2eoz43ywt1ut12) 06-08 21:31:58
+![图片](http://127.0.0.1:5030/image/3260c043a41f2215e3be5d3499786abf)
+
+双翼腾飞(wxid_2eoz43ywt1ut12) 06-08 21:31:59
+![图片](http://127.0.0.1:5030/image/eed021a31ce5aee2f1f452c8e183284a)
+
+双翼腾飞(wxid_2eoz43ywt1ut12) 06-08 21:32:11
+太差劲了！！！
+
+droidHZ(wxid_5396913969012) 06-08 21:32:26
+> Shine-厦门(wxid_ukxek3uvxzbp21) 06-08 21:30:54
+> @droidHZ-成都 发出来
+闲鱼搜刘小排就出来了
+
+droidHZ(wxid_5396913969012) 06-08 21:34:07
+4个都举报了
+
+猫小白（🥗🐟🐔🍠🌽）(rain_artneo) 06-08 21:34:17
+生财和盗版刚到底
+
+yyyhx(wxid_9013080130212) 06-08 21:35:16
+淘宝也有
+
+我 06-08 21:35:32
+"Xyy-QQQ" 撤回了一条消息
+
+青雨·涤生(wxid_tlpm1lj3qv2522) 06-08 21:35:39
+举报走起
+
+yyyhx(wxid_9013080130212) 06-08 21:35:43
+噢 跳转的闲鱼链接
+
+droidHZ(wxid_5396913969012) 06-08 21:36:00
+太可恶了，开发一个产品，给企业提供盗版监控服务
+
+章晗(wxid_ux74p8kp09do21) 06-08 21:36:20
+@droidHZ-成都 市面上有了
+
+章晗(wxid_ux74p8kp09do21) 06-08 21:36:35
+鲸版权
+
+我 06-08 21:36:40
+"金龙" 撤回了一条消息
+
+droidHZ(wxid_5396913969012) 06-08 21:36:52
+> 章晗(wxid_ux74p8kp09do21) 06-08 21:36:35
+> 鲸版权
+[强]
+
+金龙(wxid_4zaur79woix122) 06-08 21:37:02
+这不会是群里人再卖吧
+
+yyyhx(wxid_9013080130212) 06-08 21:38:12
+只有这个可能吧 不买课的得不到资料
+
+金龙(wxid_4zaur79woix122) 06-08 21:38:32
+这种让法务查 一定能找到人的
+
+刘小排(liuxiaopai) 06-08 21:40:02
+是的
+
+Shine(wxid_ukxek3uvxzbp21) 06-08 21:40:50
+抓到都踢出去[旺柴]
+
+章晗(wxid_ux74p8kp09do21) 06-08 21:40:57
+名师都会经历这个过程[阴险]
+
+Erik 🥤(wxid_i250bxtp3suz12) 06-08 21:52:53
+请问下大家，云服务推荐哪家，国内国外俱佳？
+我希望前后端分离，前端部署在vercel上方便自动发布，但是后端由于技术实现问题需要独立部署，如果后端api用的国内服务器，vercel上调用会不会有问题。
+
+乐天(txwxlt) 06-08 21:52:57
+我让cursor帮我做好的项目，用claude code增加个i18n功能，结果它自己改炸了[捂脸]修复几轮都不行
+
+许则(leonzone521) 06-08 21:54:47
+虽然有点那啥，我发现了一个山寨的 tailwindui 模板网站，和官网一模一样。可以免费复制代码：
+
+https://tailwindui.starxg.com/plus/ui-blocks/marketing/page-examples/landing-pages
+
+等我赚钱了，一定支持正版
+
+安宇轩｜进阶版~(wxid_ub49ms3x9c0622) 06-08 21:59:12
+NB
+
+安宇轩｜进阶版~(wxid_ub49ms3x9c0622) 06-08 21:59:13
+![图片](http://127.0.0.1:5030/image/269bd7bf4887ac58399c07ca16d80830)
+
+安宇轩｜进阶版~(wxid_ub49ms3x9c0622) 06-08 21:59:22
+Forever
+
+安宇轩｜进阶版~(wxid_ub49ms3x9c0622) 06-08 21:59:28
+[破涕为笑]
+
+小辉(wxid_6l9ubr5g504y21) 06-08 22:06:00
+> 乐天(txwxlt) 06-08 21:52:57
+> 我让cursor帮我做好的项目，用claude code增加个i18n功能，结果它自己改炸了[捂脸]修复几轮都不行
+我用gemini 2.5感觉还行，就是戏太多
+
+乐天(txwxlt) 06-08 22:06:49
+是的，总给我发：我很抱歉！
+
+在旅途的车(chegang222569) 06-08 22:08:39
+> Erik 🥤(wxid_i250bxtp3suz12) 06-08 21:52:53
+> 请问下大家，云服务推荐哪家，国内国外俱佳？
+> 我希望前后端分离，前端部署在vercel上方便自动发布，但是后端由于技术实现问题需要独立部署，如果后端api用的国内服务器，vercel上调用会不会有问题。
+昨天用render部署fastapi 还比较顺利
+
+不晚(wxid_uey4xxzk35lj22) 06-08 22:10:25
+> Erik 🥤(wxid_i250bxtp3suz12) 06-08 21:52:53
+> 请问下大家，云服务推荐哪家，国内国外俱佳？
+> 我希望前后端分离，前端部署在vercel上方便自动发布，但是后端由于技术实现问题需要独立部署，如果后端api用的国内服务器，vercel上调用会不会有问题。
+我用的google cloud部署的ffmpeg还可以，新用户前3个月有300美金
+
+GavinHawk(genius711) 06-08 22:12:02
+> Erik 🥤(wxid_i250bxtp3suz12) 06-08 21:52:53
+> 请问下大家，云服务推荐哪家，国内国外俱佳？
+> 我希望前后端分离，前端部署在vercel上方便自动发布，但是后端由于技术实现问题需要独立部署，如果后端api用的国内服务器，vercel上调用会不会有问题。
+Erik老师好[呲牙]
+我也是领了Google的300美金，先用看看；但是谷歌的API确实比其他的要贵，300美金感觉也要精打细算，一下子就用完了。可以让AI算算成本
+
+曹静(wxid_7030760307411) 06-08 22:14:27
+> 书虫——麻雀API找我(wxid_qvv7nhu3xufq22) 06-08 21:26:53
+> Perplexity 年度会员，速度领取
+> https://www.perplexity.ai/join/p/redeem
+> 验证券PPLXLIUMBLHOTVAJ2QI
+> 用美国节点~~
+领到了，感谢！
+
+GavinHawk(genius711) 06-08 22:15:20
+![图片](http://127.0.0.1:5030/image/a57f1f1faac21ec1959b09a701b03db1)
+
+小林日入万$(wxid_ezwxect889j422) 06-08 22:16:51
+> 书虫——麻雀API找我(wxid_qvv7nhu3xufq22) 06-08 21:26:53
+> Perplexity 年度会员，速度领取
+> https://www.perplexity.ai/join/p/redeem
+> 验证券PPLXLIUMBLHOTVAJ2QI
+> 用美国节点~~
+领取了，歇息，谢谢
+
+彭不凡(wxid_ci1pfhjhmy5622) 06-08 22:17:25
+![图片](http://127.0.0.1:5030/image/00ac2defc2c6bda051982251bae6727a)
+
+彭不凡(wxid_ci1pfhjhmy5622) 06-08 22:17:39
+是限制数量的吗
+
+彭不凡(wxid_ci1pfhjhmy5622) 06-08 22:22:03
+我密钥没输错吧，复制粘贴的[捂脸]
+
+yyyhx(wxid_9013080130212) 06-08 22:22:50
+没错
+
+yyyhx(wxid_9013080130212) 06-08 22:23:24
+没限制的
+
+yyyhx(wxid_9013080130212) 06-08 22:23:27
+![图片](http://127.0.0.1:5030/image/cad08906b3ecd20db7e365aa655e79e8)
+
+yyyhx(wxid_9013080130212) 06-08 22:24:21
+![图片](http://127.0.0.1:5030/image/1d60fc6fd8152e3ca5ed3835eab0608f)
+
+我 06-08 22:24:37
+"Erik 🥤" 撤回了一条消息
+
+彭不凡(wxid_ci1pfhjhmy5622) 06-08 22:24:44
+又可以了
+
+彭不凡(wxid_ci1pfhjhmy5622) 06-08 22:24:47
+该死！
+
+Erik 🥤(wxid_i250bxtp3suz12) 06-08 22:25:16
+@在旅途的车  @不晚  @GavinHawk-成都 谢谢，我试试
+
+Erik 🥤(wxid_i250bxtp3suz12) 06-08 22:26:46
+> sharge-长沙(wxid_6l9ubr5g504y21) 06-08 22:06:00
+> > [引用]
+> 我用gemini 2.5感觉还行，就是戏太多
+个人体感，gemini2.5还是不如claude4，速度，深度，准确性，都差点，思考过程目前也不支持中文。
+claude目前还是我的梦中情ai，逻辑太清晰了，感觉claude就是ai中的程序员
+很有条理，善于总结，干完事，来个总结，太舒服了
+而且如果用agent模式写代码，claude步步到位，改完代码还自动调terminal或者curl给测试，gemini就差点。
+遇到问题，比如npm依赖装不上，claude会不折不挠再次尝试别的办法，自动分析日志，genimin基本就绕开了
+
+岑西(wxid_hh73nehsjeml22) 06-08 22:27:37
+> 书虫——麻雀API找我(wxid_qvv7nhu3xufq22) 06-08 21:26:53
+> Perplexity 年度会员，速度领取
+> https://www.perplexity.ai/join/p/redeem
+> 验证券PPLXLIUMBLHOTVAJ2QI
+> 用美国节点~~
+谢谢书虫大佬，已领到！
+
+巴黎城下的小铁匠(wxid_xurl7he5g8bj22) 06-08 22:32:35
+请教一下，google cloud你们信用卡用的什么？我之前绑定yeka验证没通过 @GavinHawk-成都 @不晚
+
+不晚(wxid_uey4xxzk35lj22) 06-08 22:32:57
+招商的全币种VISA
+
+GavinHawk(genius711) 06-08 22:33:37
+> 巴黎城下的小铁匠-南京(wxid_xurl7he5g8bj22) 06-08 22:32:35
+> 请教一下，google cloud你们信用卡用的什么？我之前绑定yeka验证没通过 @GavinHawk-成都 @不晚
+我用的香港汇丰蓝狮子
+
+巴黎城下的小铁匠(wxid_xurl7he5g8bj22) 06-08 22:33:53
+他选择国家地区的时候好像没有中国，是选的中国香港，用国内银行能过？
+
+不晚(wxid_uey4xxzk35lj22) 06-08 22:34:15
+我好像选择的美国
+
+不晚(wxid_uey4xxzk35lj22) 06-08 22:34:30
+卡号就是国内的招商VISA，就过了
+
+不晚(wxid_uey4xxzk35lj22) 06-08 22:34:35
+我服务器部署在了美国
+
+GavinHawk(genius711) 06-08 22:34:43
+> 巴黎城下的小铁匠-南京(wxid_xurl7he5g8bj22) 06-08 22:33:53
+> 他选择国家地区的时候好像没有中国，是选的中国香港，用国内银行能过？
+我也选的美国……
+
+不晚(wxid_uey4xxzk35lj22) 06-08 22:35:25
+Oracle的服务器这个我申请没过，野卡和招商都没过
+
+巴黎城下的小铁匠(wxid_xurl7he5g8bj22) 06-08 22:36:08
+好滴，我有张中信的visa明天试试，以为选了国家他会校验卡和国家是否匹配
+
+GavinHawk(genius711) 06-08 22:36:49
+自从我发现这些服务商有地域歧视之后，账单地址就都选美国了[捂脸]
+
+彭不凡(wxid_ci1pfhjhmy5622) 06-08 22:39:56
+领取到了！！感谢
+
+echo(wxid_4225792257912) 06-08 22:46:29
+> 书虫——麻雀API找我(wxid_qvv7nhu3xufq22) 06-08 21:26:53
+> Perplexity 年度会员，速度领取
+> https://www.perplexity.ai/join/p/redeem
+> 验证券PPLXLIUMBLHOTVAJ2QI
+> 用美国节点~~
+领到啦！感谢书虫大佬！
+
+Martion(wxid_6amq500pa83821) 06-08 22:47:45
+领到了，领到了，谢谢！
+
+王珣(wangxiaojian162088) 06-08 23:27:46
+![图片](http://127.0.0.1:5030/image/c589c5baf2938a78a01bf7b7f1459dc8)
+
+王珣(wangxiaojian162088) 06-08 23:27:57
+一直提示这个，不知道什么原因
+
+梁青青(wxid_t9cl1hkb787c21) 06-08 23:28:50
+@王珣 用电脑试试，手机就是这样，电脑好些
+
+王珣(wangxiaojian162088) 06-08 23:29:08
+我就是用的电脑0.0
+
+Gary孙(xiaoyi0320) 06-08 23:30:27
+@王珣 检查下前后空格
+
+顺利(wxid_n6kjtdjnivea21) 06-08 23:30:43
+不行就换下网络环境
+
+顺利(wxid_n6kjtdjnivea21) 06-08 23:30:49
+这个还是很好用的
+
+顺利(wxid_n6kjtdjnivea21) 06-08 23:31:08
+现在日常问题都是用这个，没有车轱辘废话，答案很精准
+
+梁青青(wxid_t9cl1hkb787c21) 06-08 23:31:15
+@王珣 我是用电脑先账号登录，然后再输入免费领取的网站，手动填入就成功了，节点us
+
+梁青青(wxid_t9cl1hkb787c21) 06-08 23:32:13
+https://www.perplexity.ai/join/p/redeem
+验证券PPLXLIUMBLHOTVAJ2QI
+用美国节点
+
+王珣(wangxiaojian162088) 06-08 23:32:39
+我这个是不是切换节点失败了？问了AI，但是操作了，下面那个日本节点还是没有变
+
+王珣(wangxiaojian162088) 06-08 23:32:39
+![图片](http://127.0.0.1:5030/image/67fd0c803437c29f0870604f1c5b081d)
+
+z老鬼(zh280326264) 06-08 23:34:02
+开全局模式
+
+王珣(wangxiaojian162088) 06-08 23:35:00
+开了全局了，退出重进，它那个auto一直是日本节点，手动改了creamdata到美国节点，就是图片那种不一致的情况
+
+我 06-08 23:39:25
+"梁青青-杭州" 撤回了一条消息
+
+我 06-08 23:39:28
+"梁青青-杭州" 撤回了一条消息
+
+我 06-08 23:40:17
+"梁青青-杭州" 撤回了一条消息
+
+Moore(xiaobei1984) 06-08 23:40:23
+不建议聊梯子，不然群没了
+
+Moore(xiaobei1984) 06-08 23:42:24
+之前有个技术群前一天聊梯子，第二天群就只能看历史消息，所有发送的消息其他人都收不到
+
+刘小排(liuxiaopai) 06-08 23:42:27
+上网问题 大家私聊吧 谢谢
+
+王珣(wangxiaojian162088) 06-08 23:42:53
+好的
+
+判官(truly2011) 06-08 23:50:18
+刚测了一下，秒领，就是打开redeem那个页面要排队
+
+王珣(wangxiaojian162088) 06-08 23:52:28
+找到问题了，我之前没有登陆账号，直接在兑换券页面提交一直无效，我重新进入主页授权账号登录，然后再回到兑换页面，就领取成功了，分享给大家
+
+北(wxid_h2x4q8b8vmvj12) 06-08 23:54:03
+> 书虫——麻雀API找我(wxid_qvv7nhu3xufq22) 06-08 21:26:53
+> Perplexity 年度会员，速度领取
+> https://www.perplexity.ai/join/p/redeem
+> 验证券PPLXLIUMBLHOTVAJ2QI
+> 用美国节点~~
+感谢～领到啦
+
+梁青青(wxid_t9cl1hkb787c21) 06-08 23:55:24
+@王珣 [强][强][强]，其实刚才我说的步骤里有的[白眼][白眼]
+
+判官(truly2011) 06-08 23:55:57
+> 王珣(wangxiaojian162088) 06-08 23:52:28
+> 找到问题了，我之前没有登陆账号，直接在兑换券页面提交一直无效，我重新进入主页授权账号登录，然后再回到兑换页面，就领取成功了，分享给大家
+先兑换或者先注册登录都可以
+
+判官(truly2011) 06-08 23:56:02
+不影响的
+
+王珣(wangxiaojian162088) 06-08 23:57:25
+> 梁青青-杭州(wxid_t9cl1hkb787c21) 06-08 23:55:24
+> @王珣 [强][强][强]，其实刚才我说的步骤里有的[白眼][白眼]
+回看了一下还真是[强] 兑换流程以前没弄过，以为就是进入就兑换。卡了半天，仔细想了一下，直接兑换有点奇怪，不登陆账号兑换给谁呢？于是我就把域名的后缀去掉，进入官网，他提示我登陆账号，我就反应过来，是漏了关键步骤了
+
+王珣(wangxiaojian162088) 06-08 23:58:40
+也可能是我网络不好，但是他这个提示无效码，还是优先考虑网络和登陆这两个问题
+
+王珣(wangxiaojian162088) 06-08 23:59:12
+"${wangxiaojian162088}" 拍了拍 "${wxid_t9cl1hkb787c21}"
+
+判官(truly2011) 06-08 23:59:31
+> 王珣(wangxiaojian162088) 06-08 23:58:40
+> 也可能是我网络不好，但是他这个提示无效码，还是优先考虑网络和登陆这两个问题
+刚翻了一下其他群，头两个小时出现过这个错误提示。就是兑的人太多了，服务器抽风。
+
+> 梁青青-杭州(wxid_t9cl1hkb787c21) 06-08 23:32:13
+> https://www.perplexity.ai/join/p/redeem
+> 验证券PPLXLIUMBLHOTVAJ2QI
+> 用美国节点
+[捂脸]我这边登陆了，i   p是在洛杉矶，输入代码，不行，是过期了吗

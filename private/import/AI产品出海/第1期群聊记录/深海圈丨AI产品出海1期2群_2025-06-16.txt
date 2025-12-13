@@ -1,0 +1,637 @@
+Paradise Quest(wxid_g27abmn3c4ws21) 06-16 00:37:05
+话说内功篇和进阶篇后面会有视频讲解不
+
+sundy(wxid_8174031740612) 06-16 00:41:38
+靠自己领域
+
+刘小排(liuxiaopai) 06-16 00:43:28
+没有，那个录视频就太多了，看图文哈。把图文当成一个指引
+
+Paradise Quest(wxid_g27abmn3c4ws21) 06-16 00:46:58
+好
+
+百威(wxid_aaxezeq72q0321) 06-16 11:24:36
+[链接|她能做出爆款App，却没有进入大厂的资格。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654601679&idx=1&sn=e3c52b1d576e7516d7970eddbc542573&chksm=8a350c38fd8e672789ee897b6cdd999282188eb87d75dd614f581ab71fa7669a44d9385fa567&mpshare=1&scene=1&srcid=0616GgPUmDzID1ixFgRB0V6I&sharer_shareinfo=c1ca007e5a76d8ec80b7b9d2b8a0dfe7&sharer_shareinfo_first=c1ca007e5a76d8ec80b7b9d2b8a0dfe7#rd)
+
+芸光(wxid_rc2lable2y9022) 06-16 12:03:22
+![图片](http://127.0.0.1:5030/image/084c799f30ed3cbf40c5c3a17ec70ec0)
+
+芸光(wxid_rc2lable2y9022) 06-16 12:03:33
+![图片](http://127.0.0.1:5030/image/7c47a5f98343a5183596687a61aba123)
+
+芸光(wxid_rc2lable2y9022) 06-16 12:03:45
+> 芸光(wxid_rc2lable2y9022) 06-16 12:03:33
+> ![图片](http://127.0.0.1:5030/image/7c47a5f98343a5183596687a61aba123)
+#举手
+creem要求更改账户，但是点击进去，又显示成功。。。现在付款付不了[破涕为笑]有遇到这个问题的朋友吗？
+
+刘小排(liuxiaopai) 06-16 12:04:41
+等待creem审核。一般1天内好，如果没好，可以发邮件问
+
+芸光(wxid_rc2lable2y9022) 06-16 12:05:42
+已经两天了[破涕为笑]
+
+芸光(wxid_rc2lable2y9022) 06-16 12:05:52
+那我发邮件问问
+
+卫斯理🤍(wxid_cap2car89b7811) 06-16 13:43:46
+> 芸光(wxid_rc2lable2y9022) 06-16 12:03:45
+> > 芸光(wxid_rc2lable2y9022) 06-16 12:03:33
+> > ![图片](http://127.0.0.1:5030/image/7c47a5f98343a5183596687a61aba123)
+> #举手
+> creem要求更改账户，但是点击进去，又显示成功。。。现在付款付不了[破涕为笑]有遇到这个问题的朋友吗？
+我的也是这样，也不知道怎么修改，继续等待就可以通过吗？[裂开]
+
+卫斯理🤍(wxid_cap2car89b7811) 06-16 13:43:47
+![图片](http://127.0.0.1:5030/image/1150ab86ba04e5bef4ba6ff16e3f1d77)
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 06-16 15:11:40
+如果你第1遍审核不通过，你第2遍要写邮件给他发通知，告诉他整改了哪些东西
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 06-16 15:11:54
+https://drawingsalive.com/ 这个网站推荐研究学习一下，footer下面也有好几个类似的网站，都是做mvp的思路，网站做的很精美，产品思路也很好
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 06-16 15:12:02
+看榜单发现的
+
+Eliot(jackglen) 06-16 15:15:29
+![图片](http://127.0.0.1:5030/image/8dc31303121ace1805eb3195bf6b8e1b)
+
+Eliot(jackglen) 06-16 15:17:20
+liquid-glass 是一个用 SVG 滤镜实现液体玻璃特效的开源项目。
+
+该仓库由 shuding 创建，主要功能是通过 SVG 滤镜（SVG filters）实现类似液体玻璃的视觉特效。用户只需将仓库中的 liquid-glass.js 文件粘贴到任意网站的控制台，即可快速体验和应用这种特效。项目完全开源，采用 MIT 许可证，代码以 JavaScript 编写，适合前端开发者学习和集成到自己的网页项目中。
+ • 项目地址：https://github.com/shuding/liquid-glass
+ • 主要语言：JavaScript
+ • 授权协议：MIT
+ • 特色：极简用法，直接复制粘贴即可使用
+ • 适用场景：网页特效、前端学习、SVG 滤镜应用
+
+目前该项目已有 462 个 star 和 15 个 fork，社区活跃度较高。
+
+Eliot(jackglen) 06-16 15:17:41
+作者 shuding是V0 的开发人员
+
+Eliot(jackglen) 06-16 15:18:16
+![图片](http://127.0.0.1:5030/image/9cbbe3ae112ddd11e0144412e683e5dc)
+
+George(georgeWorld) 06-16 15:24:22
+> 卫斯理🤍广州(wxid_cap2car89b7811) 06-16 13:43:47
+> ![图片](http://127.0.0.1:5030/image/1150ab86ba04e5bef4ba6ff16e3f1d77)
+Subject: [Account Changes Requested] Store Review for xxx.com
+
+Hi Creem Compliance Team,
+
+As requested, I have updated my store and attached evidence for each item in the Account Review checklist.
+
+Account / Contact
+• Creem account: john@xxx.com
+• Legal name: XXX
+• Store name: XXX
+• Product URL: XXX
+• Country of tax residence: China
+
+Business & Product Description
+We provide an AI-powered SaaS that lets users remove backgrounds and generate new images in bulk...
+
+Evidence of Compliance
+1. Product readiness – see screenshot_1.png
+2. No false information – removed fake testimonials, see before_after.gif
+3. Privacy Policy & Terms – https://xxx.com/privacy , https://xxx.com/terms
+4. Product visibility – screenshot_2.png
+5. Pricing display – screenshot_3.png
+6. Acceptable use – product does not violate the prohibited list
+7. Reachable support email – support@xxx.com (visible in footer, screenshot_4.png)
+
+Please let me know if anything else is required.
+Thanks!
+John Chen
+
+George(georgeWorld) 06-16 15:25:02
+我也是这种情况，然后让O3帮我写了封上面的邮件，然后发过去就通过了
+
+George(georgeWorld) 06-16 15:26:19
+把里面相应的信息修改成自己的网站地址，相应的截图放在pdf里，做邮件的附件
+
+卫斯理🤍(wxid_cap2car89b7811) 06-16 15:29:56
+@George 感谢，正一筹莫展，我试下[憨笑]
+
+匪气书生(wxid_o8wq7kbo845321) 06-16 15:36:13
+> 良辰美 | 助教(wxid_8riqfa4drs6222) 06-16 15:11:54
+> https://drawingsalive.com/ 这个网站推荐研究学习一下，footer下面也有好几个类似的网站，都是做mvp的思路，网站做的很精美，产品思路也很好
+这里面的创意确实很好，好的创意真的是那么简单自然
+
+老K(wxid_3xetejurctrv12) 06-16 17:29:02
+@小明-助教 麻烦帮我审核一下，我提交3-4天了邮箱还没收到
+
+Paradise Quest(wxid_g27abmn3c4ws21) 06-16 17:31:15
+哇，4.0还是牛逼啊，一次给我支付搞通了
+
+hanyukui(hanyukui777) 06-16 17:33:13
+@Paradise Quest Claude官方账号，要国外的手机号，你是咋搞定的。
+
+Paradise Quest(wxid_g27abmn3c4ws21) 06-16 17:34:45
+我用dia访问creem的集成文档，让dia帮我组织语言给cursor，然后把它的话丢给cursor，再配上支付环境和密钥，就搞定了
+
+Paradise Quest(wxid_g27abmn3c4ws21) 06-16 17:35:04
+之前用3.7老出问题
+
+Paradise Quest(wxid_g27abmn3c4ws21) 06-16 17:36:10
+是在cursor里用的4.0
+
+hanyukui(hanyukui777) 06-16 17:36:26
+哦。
+
+hanyukui(hanyukui777) 06-16 17:36:33
+[强]
+
+小明(wxid_at9px5nf07qm22) 06-16 17:37:49
+@老K 都开了，应该是有问题
+
+GitHub 用户名和邮箱发我
+
+Paradise Quest(wxid_g27abmn3c4ws21) 06-16 17:38:49
+请问小是开啥好东西@小明-助教
+
+Paradise Quest(wxid_g27abmn3c4ws21) 06-16 17:38:58
+没注意消息
+
+小明(wxid_at9px5nf07qm22) 06-16 17:40:25
+> Paradise Quest(wxid_g27abmn3c4ws21) 06-16 17:38:49
+> 请问小是开啥好东西@小明-助教
+在课程的进阶篇 3.5 部分，可以用小排的 starter 框架快速开发，学习配置用户的登录和支付
+
+Paradise Quest(wxid_g27abmn3c4ws21) 06-16 17:40:57
+哦哦，我去瞅瞅
+
+卫斯理🤍(wxid_cap2car89b7811) 06-16 17:41:53
+> 小明-助教(wxid_at9px5nf07qm22) 06-16 17:40:25
+> > [引用]
+> 在课程的进阶篇 3.5 部分，可以用小排的 starter 框架快速开发，学习配置用户的登录和支付
+我也申请了好久，貌似也没邮件回复[破涕为笑]
+
+小明(wxid_at9px5nf07qm22) 06-16 17:42:11
+别跳哈，这块如果没有nextjs 内功，流程跟下来意义也不大
+
+小明(wxid_at9px5nf07qm22) 06-16 17:42:25
+> 卫斯理🤍广州(wxid_cap2car89b7811) 06-16 17:41:53
+> > [引用]
+> 我也申请了好久，貌似也没邮件回复[破涕为笑]
+@卫斯理🤍广州 都开了，应该是有问题
+
+GitHub 用户名和邮箱发我
+
+卫斯理🤍(wxid_cap2car89b7811) 06-16 17:42:44
+好的
+
+卫斯理🤍(wxid_cap2car89b7811) 06-16 17:44:09
+> Paradise Quest(wxid_g27abmn3c4ws21) 06-16 17:34:45
+> 我用dia访问creem的集成文档，让dia帮我组织语言给cursor，然后把它的话丢给cursor，再配上支付环境和密钥，就搞定了
+收款账户审核通过了吗？
+
+刘小排(liuxiaopai) 06-16 17:46:02
+@Paradise Quest [强]
+
+小明(wxid_at9px5nf07qm22) 06-16 17:46:51
+[文件|raphael-starterkit-v1.zip](http://127.0.0.1:5030/file/20b5ea70e4f8e234436fbcc4b2132031)
+
+小明(wxid_at9px5nf07qm22) 06-16 17:47:24
+> 小明-助教(wxid_at9px5nf07qm22) 06-16 17:46:51
+> [文件|raphael-starterkit-v1.zip](http://127.0.0.1:5030/file/20b5ea70e4f8e234436fbcc4b2132031)
+申请了如果没有收到邮件，可以用这个本地宝
+
+星城祝大家2025健康快乐(yowsss) 06-16 18:07:08
+#举手
+
+stitch导入html代码给v0，显示无法导入，怎么解决？
+
+星城祝大家2025健康快乐(yowsss) 06-16 18:07:14
+![图片](http://127.0.0.1:5030/image/82bba7a3d6340eea06593fe18f37a083)
+
+一君(wxid_mofob1lht8hi22) 06-16 18:12:29
+#举手 在做ai生成视频网站时，因为vercel只能允许超时查询60秒，但生成视频需要几分钟，不开通vercel pro的情况下，是不是通过异步webhook方案都能解决
+
+宁王（加油！）(wxid_5182881829312) 06-16 18:14:05
+试试直接复制代码，粘贴到聊天框里面？@星城祝大家2025健康快乐 
+上传截图一般可以，上传html的话我没试过能不能支持[吃瓜]
+
+宁王（加油！）(wxid_5182881829312) 06-16 18:14:14
+"${wxid_5182881829312}" 拍了拍 "${yowsss}"
+
+星城祝大家2025健康快乐(yowsss) 06-16 18:14:30
+@宁王（加油！） 就是复制代码不可以[破涕为笑]
+
+老K(wxid_3xetejurctrv12) 06-16 18:14:38
+@小明-助教 csking929@gmail.com
+
+老K(wxid_3xetejurctrv12) 06-16 18:14:59
+chenai2025
+
+小明(wxid_at9px5nf07qm22) 06-16 18:15:36
+你的用户名和你的邮箱对不上
+
+Moore(xiaobei1984) 06-16 18:15:38
+> 一君(wxid_mofob1lht8hi22) 06-16 18:12:29
+> #举手 在做ai生成视频网站时，因为vercel只能允许超时查询60秒，但生成视频需要几分钟，不开通vercel pro的情况下，是不是通过异步webhook方案都能解决
+生成视频最好用webhook
+
+我 06-16 18:15:43
+"小明-助教" 撤回了一条消息
+
+小明(wxid_at9px5nf07qm22) 06-16 18:16:03
+> 老K(wxid_3xetejurctrv12) 06-16 18:14:38
+> @小明-助教 csking929@gmail.com
+邮箱已经邀请过了
+
+小明(wxid_at9px5nf07qm22) 06-16 18:16:30
+> 老K(wxid_3xetejurctrv12) 06-16 18:14:59
+> chenai2025
+https://github.com/Idea-To-Business/raphael-starterkit-v1/invitations
+
+老K(wxid_3xetejurctrv12) 06-16 18:16:31
+1
+
+老K(wxid_3xetejurctrv12) 06-16 18:17:17
+邮箱没收到，现在收到了，谢谢
+
+宁王（加油！）(wxid_5182881829312) 06-16 18:17:41
+你拆分成两次对话看看，让他先别动手改代码，
+一次给他截图，另外一次给他参考代码@星城祝大家2025健康快乐 
+
+一君(wxid_mofob1lht8hi22) 06-16 18:19:34
+> Moore 助教 ｜只群聊(xiaobei1984) 06-16 18:15:38
+> > [引用]
+> 生成视频最好用webhook
+好的
+
+星城祝大家2025健康快乐(yowsss) 06-16 18:21:58
+"${yowsss}" 拍了拍 "${wxid_5182881829312}" 获得一个比特币[發][庆祝][福]
+
+Daniel(liaozhichao504125) 06-16 19:48:45
+@小明-助教  @Moore 助教 ｜只群聊 
+请教下，nextjs实践中这一步需要用到mcp去网上搜索下载图片吗？cursor自动调用了mcp，但我安装了几个mcp都报错，这里有无推荐的mcp？
+
+Daniel(liaozhichao504125) 06-16 19:49:08
+![图片](http://127.0.0.1:5030/image/71ae117fa78a598514a0800fab53d13a)
+
+青阳(wxid_gtp63xxelmjn22) 06-16 19:56:40
+谷歌Gemini Pro 会员领取，免费试用4月，
+这是官方邀请链接g.co/g1referral/ZTTSEVGL，
+有Gemini会员的，可以邀请自己小号试下，薅个羊毛
+
+青阳(wxid_gtp63xxelmjn22) 06-16 19:56:57
+![图片](http://127.0.0.1:5030/image/7806d4a09a98f1883d5df22a4905700d)
+
+青阳(wxid_gtp63xxelmjn22) 06-16 19:56:58
+![图片](http://127.0.0.1:5030/image/90db5fb8bede3730e762b37d8609ad9f)
+
+阿漫(wxid_0jm70wtbqehf21) 06-16 20:00:15
+#举手，自己最开始做的mvp的一个需求，已经完成基础篇的作业，想优化一下再整合用户个支付，但改来改去觉得做不下去了[捂脸]，觉得需求方向有些问题，代码也改得特别乱。这种情况是建议怎么进行下去呀，是不要这个mvp了，先开始学习内功篇？还是再重新开始找一个需求做mvp，再走一遍，思路有点乱[尴尬]
+
+刘小排(liuxiaopai) 06-16 20:01:03
+> 阿漫(wxid_0jm70wtbqehf21) 06-16 20:00:15
+> #举手，自己最开始做的mvp的一个需求，已经完成基础篇的作业，想优化一下再整合用户个支付，但改来改去觉得做不下去了[捂脸]，觉得需求方向有些问题，代码也改得特别乱。这种情况是建议怎么进行下去呀，是不要这个mvp了，先开始学习内功篇？还是再重新开始找一个需求做mvp，再走一遍，思路有点乱[尴尬]
+mvp不需要做支付哈。
+嗯，先补内功，不然会举步维艰的。
+
+刘小排(liuxiaopai) 06-16 20:01:24
+新开始一个mvp，在不做支付的前提下，获得用户反馈和肯定
+
+阿漫(wxid_0jm70wtbqehf21) 06-16 20:03:13
+好的，谢谢小排老师[抱拳]老想着是不是得先走通一个流程。还是先补内功篇[加油]
+
+9+9(wxid_yg2970qcx56t22) 06-16 20:10:05
+#举手
+如果一个功能完整的站，上线就接自己其他产品的链接会对本站有负面影响吗
+
+萌面侠(ckyief) 06-16 21:00:50
+> 一君(wxid_mofob1lht8hi22) 06-16 18:12:29
+> #举手 在做ai生成视频网站时，因为vercel只能允许超时查询60秒，但生成视频需要几分钟，不开通vercel pro的情况下，是不是通过异步webhook方案都能解决
+可以试试我在做的工具 提供视频拼接api 支持webhook，轮询，专为解决60秒超时而生
+https://videocomposer.io/ 
+目前注册送1000 credit 不够用跟我说 免费管饱
+
+无极(wxid_wdl7p3msdupm22) 06-16 21:10:24
+> 一君(wxid_mofob1lht8hi22) 06-16 18:12:29
+> #举手 在做ai生成视频网站时，因为vercel只能允许超时查询60秒，但生成视频需要几分钟，不开通vercel pro的情况下，是不是通过异步webhook方案都能解决
+问ai，这种要不然是api..提供这个功能，有的不提供
+
+无极(wxid_wdl7p3msdupm22) 06-16 21:10:33
+你就要通过其他网站中转了
+
+无极(wxid_wdl7p3msdupm22) 06-16 21:10:40
+我才搞完这个东西[破涕为笑]
+
+无极(wxid_wdl7p3msdupm22) 06-16 21:10:55
+已完美解决[旺柴]
+
+刘小排(liuxiaopai) 06-16 21:19:01
+> 大鹏(wxid_yg2970qcx56t22) 06-16 20:10:05
+> #举手
+> 如果一个功能完整的站，上线就接自己其他产品的链接会对本站有负面影响吗
+不能一概而论。
+
+新世界(wxid_98g2m3mfrobz31) 06-16 21:43:28
+@刘小排 
+
+新世界(wxid_98g2m3mfrobz31) 06-16 21:43:28
+小排老师，这个申请了 多久给过
+
+新世界(wxid_98g2m3mfrobz31) 06-16 21:43:28
+![图片](http://127.0.0.1:5030/image/45bd8c87c599d525198ea4214dd62957)
+
+刘小排(liuxiaopai) 06-16 21:44:37
+@小明-助教 
+
+小明(wxid_at9px5nf07qm22) 06-16 21:47:39
+@新世界 https://github.com/Idea-To-Business/raphael-starterkit-v1
+
+新世界(wxid_98g2m3mfrobz31) 06-16 21:48:26
+> 小明-助教(wxid_at9px5nf07qm22) 06-16 21:47:39
+> @新世界 https://github.com/Idea-To-Business/raphael-starterkit-v1
+@刘小排 感谢
+
+JACKIE(qq573729221) 06-16 21:55:48
+![图片](http://127.0.0.1:5030/image/76b37ba5a2f560c09d0993dfec80d974)
+
+JACKIE(qq573729221) 06-16 21:56:03
+老师，在看用户登录方案
+
+JACKIE(qq573729221) 06-16 21:56:52
+google 登录里面少了一个添加回调url和java url的步骤，
+
+JACKIE(qq573729221) 06-16 21:57:04
+调试了很久，建议更新一下教程
+
+小明(wxid_at9px5nf07qm22) 06-16 21:57:28
+> JACKIE(qq573729221) 06-16 21:56:52
+> google 登录里面少了一个添加回调url和java url的步骤，
+这个是在哪个章节
+
+JACKIE(qq573729221) 06-16 21:58:09
+![图片](http://127.0.0.1:5030/image/6f9df4b314e9e2891d2fa7e9d6e746c7)
+
+小明(wxid_at9px5nf07qm22) 06-16 21:58:46
+get[捂脸]进阶篇一、二是科普，实操在 3
+
+小明(wxid_at9px5nf07qm22) 06-16 21:59:15
+![图片](http://127.0.0.1:5030/image/175d4c68e431f50ebd4f0d6073508aed)
+
+JACKIE(qq573729221) 06-16 22:00:48
+看到了
+
+JACKIE(qq573729221) 06-16 22:00:52
+原来在后面
+
+刘小排(liuxiaopai) 06-16 22:14:15
+"${liuxiaopai}" 拍了拍 "${qq573729221}"
+
+闫冬(wxid_gy3ixfoqkjvs21) 06-16 22:22:05
+写了一个ip纯净度检测的工具 欢迎大家反馈提建议 [呲牙] ipquality.org
+
+Shawn(wxid_uj273x98ttum21) 06-16 22:24:46
+> 小明-助教(wxid_at9px5nf07qm22) 06-16 21:58:46
+> get[捂脸]进阶篇一、二是科普，实操在 3
+啊~刚折腾完…… 想着在用starter之前自己先熟悉下[破涕为笑]
+
+小明(wxid_at9px5nf07qm22) 06-16 22:25:27
+![图片](http://127.0.0.1:5030/image/72f436c7aea703db5406794e5fe7181a)
+
+小明(wxid_at9px5nf07qm22) 06-16 22:25:28
+![图片](http://127.0.0.1:5030/image/50304d4c1ac64fdc57368a031cc7ea6c)
+
+小明(wxid_at9px5nf07qm22) 06-16 22:25:55
+> 闫冬(wxid_gy3ixfoqkjvs21) 06-16 22:22:05
+> 写了一个ip纯净度检测的工具 欢迎大家反馈提建议 [呲牙] ipquality.org
+这和我平时用的检测工具不一样，该信谁的[旺柴]
+
+Mr.🐟(lang-417528116) 06-16 22:26:03
+![图片](http://127.0.0.1:5030/image/a5ceb1db240874f5c7596b1222118dcc)
+
+Mr.🐟(lang-417528116) 06-16 22:26:18
+@闫冬 这个地方好像样式出了问题
+
+机器猫(wxid_9942319422914) 06-16 22:26:20
+> 小明-助教(wxid_at9px5nf07qm22) 06-16 22:25:27
+> ![图片](http://127.0.0.1:5030/image/72f436c7aea703db5406794e5fe7181a)
+助教这个是哪一个呢？
+
+Mr.🐟(lang-417528116) 06-16 22:26:30
+别遮挡了
+
+小明(wxid_at9px5nf07qm22) 06-16 22:28:06
+> 机器猫(wxid_9942319422914) 06-16 22:26:20
+> > [引用]
+> 助教这个是哪一个呢？
+我信闫冬的，用他的[旺柴]
+
+闫冬(wxid_gy3ixfoqkjvs21) 06-16 22:29:33
+> Mr.🐟-深圳龙华大浪下早(lang-417528116) 06-16 22:26:18
+> @闫冬 这个地方好像样式出了问题
+多谢 我改一下样式[呲牙]
+
+刘小排(liuxiaopai) 06-16 22:39:08
+首屏没有静态内容，google可能不太喜欢。这部分可以想想看怎么办
+
+闫冬(wxid_gy3ixfoqkjvs21) 06-16 22:41:59
+> 刘小排(liuxiaopai) 06-16 22:39:08
+> 首屏没有静态内容，google可能不太喜欢。这部分可以想想看怎么办
+收到 谢谢小排老师
+
+刘小排(liuxiaopai) 06-16 22:44:28
+这个有点没看懂，叠起来了
+
+刘小排(liuxiaopai) 06-16 22:44:30
+![图片](http://127.0.0.1:5030/image/3c0d7ec3cd34df34affddd898536137c)
+
+刘小排(liuxiaopai) 06-16 22:44:38
+关也关不掉，还挡住背后的内容了
+
+闫冬(wxid_gy3ixfoqkjvs21) 06-16 22:46:37
+> 刘小排(liuxiaopai) 06-16 22:44:38
+> 关也关不掉，还挡住背后的内容了
+正在改这个 样式有一些遮挡
+
+无极(wxid_wdl7p3msdupm22) 06-16 22:48:22
+https://s.image123.pro/
+
+。这是我今天做出来了小demo，是之前吉卜力图片制作的类似的
+
+这中间解决了很多问题，主要的问题是vercel，只能持续性的调用10秒左右免费用户，我的API需要2分钟才能转成一个图片
+
+所以中间就会有问题，后来的解决方案就是
+
+用koyeb去做中转，用cf的r2去存图片
+
+无极(wxid_wdl7p3msdupm22) 06-16 22:48:54
+真的专心去做一个网站还是收获很大的，包括对于日志的深刻理解，很多报错，排查，大部分时候，能通过日志很快的去解决
+
+无极(wxid_wdl7p3msdupm22) 06-16 22:49:22
+也知道了gemini和cursor，真的不同，并不是一个AI能全部解决问题
+
+各有所长
+
+无极(wxid_wdl7p3msdupm22) 06-16 22:49:40
+有兴趣可以用一用，我用的是云雾api，他们家转一张图片的成本是9分
+
+无极(wxid_wdl7p3msdupm22) 06-16 22:50:03
+用的gpt的模型
+
+hanyukui(hanyukui777) 06-16 22:51:15
+> 小明-助教(wxid_at9px5nf07qm22) 06-16 21:47:39
+> @新世界 https://github.com/Idea-To-Business/raphael-starterkit-v1
+#举手 如果想基于这个starter进行开发，怎么把bolt产出的基础代码和这个starter进行融合。
+
+星城祝大家2025健康快乐(yowsss) 06-16 22:51:36
+![图片](http://127.0.0.1:5030/image/57cb56fcb2172687db46d14c1c8d1a88)
+
+星城祝大家2025健康快乐(yowsss) 06-16 22:51:45
+你这个排版，最好还是一行吧@无极 
+
+无极(wxid_wdl7p3msdupm22) 06-16 22:52:17
+前面这个还没有修整[破涕为笑]
+
+无极(wxid_wdl7p3msdupm22) 06-16 22:52:22
+我主要是把功能页做的细了一些
+
+无极(wxid_wdl7p3msdupm22) 06-16 22:52:45
+这几天主要解决的问题就是，Vercel，持续工作的时间太短的问题
+
+无极(wxid_wdl7p3msdupm22) 06-16 22:52:54
+实际上从上一次的web.航海就出现了
+
+无极(wxid_wdl7p3msdupm22) 06-16 22:53:01
+之前一直没有能解决，后面才找到方案
+
+无极(wxid_wdl7p3msdupm22) 06-16 22:53:31
+这两天我会把页面搞一些，前面两三天主要是解决功能性的问题了
+
+无极(wxid_wdl7p3msdupm22) 06-16 22:53:38
+[社会社会]感谢，希望大家多提意见
+
+hanyukui(hanyukui777) 06-16 22:56:30
+生成速度有点慢。
+
+hanyukui(hanyukui777) 06-16 22:56:30
+![图片](http://127.0.0.1:5030/image/7ed22472779558e7aacecc6ccd19bed9)
+
+无极(wxid_wdl7p3msdupm22) 06-16 22:57:03
+是的，这就是9分钱一张图片的代价
+
+无极(wxid_wdl7p3msdupm22) 06-16 22:57:05
+[破涕为笑]
+
+刘小排(liuxiaopai) 06-16 22:57:40
+"${liuxiaopai}" 拍了拍 "${wxid_wdl7p3msdupm22}"
+
+刘小排(liuxiaopai) 06-16 22:57:50
+> 李生(hanyukui777) 06-16 22:51:15
+> > [引用]
+> #举手 如果想基于这个starter进行开发，怎么把bolt产出的基础代码和这个starter进行融合。
+组件级复用
+
+黑帽子（私人号）(wxid_9qubnyq1piml12) 06-16 23:03:26
+#举手 我想将next.js的网站部署在国内的云服务器上，但是国内的云服务器在npm run build的时候总是因为网络问题不能够访问Npm 构建，有没有大佬有经验 [破涕为笑] 在vercel的部署的网站，国内用户访问速度很慢
+
+Moore(xiaobei1984) 06-16 23:04:35
+> 黑帽子（私人号）(wxid_9qubnyq1piml12) 06-16 23:03:26
+> #举手 我想将next.js的网站部署在国内的云服务器上，但是国内的云服务器在npm run build的时候总是因为网络问题不能够访问Npm 构建，有没有大佬有经验 [破涕为笑] 在vercel的部署的网站，国内用户访问速度很慢
+https://cloud.tencent.com/developer/article/1372949
+
+黑帽子（私人号）(wxid_9qubnyq1piml12) 06-16 23:05:02
+[社会社会]
+
+黑帽子（私人号）(wxid_9qubnyq1piml12) 06-16 23:05:04
+我去试试
+
+光脚踢球(guangjiaotiqiu001) 06-16 23:07:35
+> 无极(wxid_wdl7p3msdupm22) 06-16 22:48:22
+> https://s.image123.pro/
+> 。这是我今天做出来了小demo，是之前吉卜力图片制作的类似的
+> 这中间解决了很多问题，主要的问题是vercel，只能持续性的调用10秒左右免费用户，我的API需要2分钟才能转成一个图片
+> 所以中间就会有问题，后来的解决方案就是
+> 用koyeb去做中转，用cf的r2去存图片
+底部的footer没有正确链接，链接都是到主页 @无极
+
+光脚踢球(guangjiaotiqiu001) 06-16 23:07:36
+![图片](http://127.0.0.1:5030/image/ea5348d6747773e3db65ba82c3be9187)
+
+派大星(wxid_j7cdt1sb363b22) 06-16 23:08:52
+#举手，文本转语音API，问AI推荐的API是Azure，在https://portal.azure.com/创建操作有些费劲，请问在openrouter平台该如何找平替API方案
+
+无极(wxid_wdl7p3msdupm22) 06-16 23:10:24
+> 肥鱼(guangjiaotiqiu001) 06-16 23:07:35
+> > [引用]
+> 底部的footer没有正确链接，链接都是到主页 @无极
+感谢
+
+光脚踢球(guangjiaotiqiu001) 06-16 23:10:50
+[合并转发|群聊的聊天记录]
+光脚踢球(guangjiaotiqiu001) 06-16 23:11:00
+> 肥鱼(guangjiaotiqiu001) 06-16 23:10:50
+> [合并转发]
+@派大星
+
+派大星(wxid_j7cdt1sb363b22) 06-16 23:12:09
+[动画表情]
+
+黑帽子（私人号）(wxid_9qubnyq1piml12) 06-16 23:12:44
+> 派大星(wxid_j7cdt1sb363b22) 06-16 23:08:52
+> #举手，文本转语音API，问AI推荐的API是Azure，在https://portal.azure.com/创建操作有些费劲，请问在openrouter平台该如何找平替API方案
+我目前的项目有这个功能，浏览器自带文本转语言的能力
+
+黑帽子（私人号）(wxid_9qubnyq1piml12) 06-16 23:13:04
+不用任何api
+
+黑帽子（私人号）(wxid_9qubnyq1piml12) 06-16 23:14:00
+只是最好在服务端请求，客户端的话，有些不稳定，每个浏览器的合成的语言声音质量、语速都有区别
+
+无极(wxid_wdl7p3msdupm22) 06-16 23:14:54
+怎么说呢，微软家的我在用，免费，效果也不错，挺稳定[破涕为笑]
+
+无极(wxid_wdl7p3msdupm22) 06-16 23:15:13
+我把生财宝典转成语音版本了
+
+无极(wxid_wdl7p3msdupm22) 06-16 23:15:43
+效果真的不错，特别推荐
+
+无极(wxid_wdl7p3msdupm22) 06-16 23:15:45
+主要是免费
+
+无极(wxid_wdl7p3msdupm22) 06-16 23:16:50
+可以听下，这个效果真的很棒
+
+无极(wxid_wdl7p3msdupm22) 06-16 23:16:50
+[文件|【1】@Caoz_每一步都算数：长期主义者的赚钱之道(1).mp3](http://127.0.0.1:5030/file/6c72d64a4fcae488e9c9d3d930858b7c)
+
+星吟(wxid_ivo4n28g15qj21) 06-16 23:23:58
+要是能复刻曹大的声音，就更绝了[666]
+
+落尘(wxid_2d9fw2ta1t9n22) 06-16 23:25:19
+"${wxid_2d9fw2ta1t9n22}" 拍了拍 "${wxid_wdl7p3msdupm22}"
+
+CHK(wxid_t9mefurnptvz21) 06-16 23:47:40
+@无极 你有做队列处理吗
+
+无极(wxid_wdl7p3msdupm22) 06-16 23:47:48
+[旺柴]可以，只是这个可能就要找一些开源的项目去做了
+
+无极(wxid_wdl7p3msdupm22) 06-16 23:48:00
+啥叫队列，不懂
+
+无极(wxid_wdl7p3msdupm22) 06-16 23:48:13
+> 星吟(wxid_ivo4n28g15qj21) 06-16 23:23:58
+> 要是能复刻曹大的声音，就更绝了[666]
+这个能实现的，你可以去问问AI，我看到过有这种项目，只是没去做[破涕为笑]
+
+> 无极(wxid_wdl7p3msdupm22) 06-16 22:48:22
+> https://s.image123.pro/
+> 。这是我今天做出来了小demo，是之前吉卜力图片制作的类似的
+> 这中间解决了很多问题，主要的问题是vercel，只能持续性的调用10秒左右免费用户，我的API需要2分钟才能转成一个图片
+> 所以中间就会有问题，后来的解决方案就是
+> 用koyeb去做中转，用cf的r2去存图片
+做得不错啊[强][强]
+
+> 阿漫(wxid_0jm70wtbqehf21) 06-16 20:00:15
+> #举手，自己最开始做的mvp的一个需求，已经完成基础篇的作业，想优化一下再整合用户个支付，但改来改去觉得做不下去了[捂脸]，觉得需求方向有些问题，代码也改得特别乱。这种情况是建议怎么进行下去呀，是不要这个mvp了，先开始学习内功篇？还是再重新开始找一个需求做mvp，再走一遍，思路有点乱[尴尬]
+我也是这个问题，现在需求方面觉得不够深化。昨天和gpt聊了一天也没找到合适的方向，可能也是换个方向重新做了

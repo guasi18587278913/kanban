@@ -1,0 +1,189 @@
+昕盛(RoryWm) 11-20 00:01:01
+老师们 有在用vs code的嘛？现在是不是链接不上了？
+
+刘小排(liuxiaopai) 11-20 00:03:10
+什么叫连接不上？
+
+刘小排(liuxiaopai) 11-20 00:03:12
+正常使用中
+
+昕盛(RoryWm) 11-20 00:09:30
+刚才还好好的  突然claude就不反映了
+后面升级了一下vs code   就都打不开了 一直加载中  
+我再试试换个网络
+
+昕盛(RoryWm) 11-20 00:09:30
+![图片](http://127.0.0.1:5030/image/1f641c1f167d45bc9730a2b1791488a7)
+
+WYT(wxid_tmaweo2rblrs31) 11-20 07:42:18
+[视频号|Cloudflare 在 2025 年 11 月 18 日发生的大规模服务中断的详细事后分析报告，值得所有IT人学习与警示。 报告解释，此次中断并非由网络攻击或恶意活动引起，而是由于对数据库系统权限的更改意外导致“功能文件”大小增加，超过了其网络路由软件的限制，从而引发了系统故障并导致 HTTP 5xx 错误代码激增。  #cloudflare #故障复盘 #企业IT #IT](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibusn4vVFEyiaoCERPTicn4SQdiaAupAjnTokmLtWvmyVG2icv7uheVfvevSabyCHGd26rn9jBRbjVgVfskz3llNT2MgAbUYVtoRl1mFq16lGGAupFBPTMyzU3aQ&hy=SZ&idx=1&m=44bf6606f0137f3bce25a5283033ef1d&uzid=7a260)
+
+黎子(wxid_0pae6rzse8ne22) 11-20 13:08:07
+有人有稳定的魔法推荐吗，之前用的魔法最近不太稳定了，不知道为啥
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-20 13:13:27
+https://www.7-treebook.com/
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-20 13:17:08
+圈友们，可以给测测反馈反馈问题哈[社会社会]
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-20 13:17:25
+核心功能这几天 再加强下
+
+大娄(loveallen) 11-20 13:17:37
+"${loveallen}" 拍了拍 "${caiwenzuan}"
+
+jie(didiaodegou2011) 11-20 13:18:29
+[强] 很赞
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-20 13:21:39
+"${caiwenzuan}" 拍了拍 "${didiaodegou2011}"
+
+立(wxid_ibh69d742cyn11) 11-20 13:22:47
+背后的工作流应该花了好多功夫啊，厉害
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-20 13:24:56
+我再把首页区块完善下，下阶段搞下完善下工作流[捂脸]
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-20 13:25:31
+搞成一次，下次就不难了！[裂开]
+
+大娄(loveallen) 11-20 13:29:18
+@心绎传媒-老蔡(@) 优秀
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-20 13:31:06
+> 大娄(loveallen) 11-20 13:29:18
+> @心绎传媒-老蔡(@) 优秀
+刚入门[捂脸] 离成功还很长···
+不过正反馈++++[呲牙]
+
+黎子(wxid_0pae6rzse8ne22) 11-20 13:40:00
+[强]
+
+小雨琴琴(yuwenliqing) 11-20 13:40:35
+![图片](http://127.0.0.1:5030/image/f4d79d419fa61e50642b8da97e2e2467)
+
+小雨琴琴(yuwenliqing) 11-20 13:40:38
+手机不友好
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-20 13:42:52
+你们supabase 后台有问题吗？
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-20 13:42:53
+![图片](http://127.0.0.1:5030/image/28ecede1ebb0cabf197f576a15f1318f)
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-20 13:44:18
+> 小雨琴琴(yuwenliqing) 11-20 13:40:38
+> 手机不友好
+[OK]
+
+蔡素清(caisuqing) 11-20 14:15:42
+@心绎传媒-老蔡(@) 优秀[强]
+
+WYT(wxid_tmaweo2rblrs31) 11-20 14:40:49
+我支付还没跑通呢[捂脸]
+
+xixi(jinxidaisy) 11-20 14:43:18
+我也在支付卡了好几天了[苦涩]
+
+RICHARD(wxid_w7zx8b07bmy721) 11-20 15:26:05
+droid登录时需要手机号验证，接码平台的试了几个国家sms也没收到短信，这个验证要怎么过呀
+
+RICHARD(wxid_w7zx8b07bmy721) 11-20 15:26:05
+![图片](http://127.0.0.1:5030/image/03a493679a9366ed8f729ad7c74b2879)
+
+RICHARD(wxid_w7zx8b07bmy721) 11-20 15:26:18
+![图片](http://127.0.0.1:5030/image/8f16b44bbb247b7ddb628674421eafc4)
+
+小明(wxid_at9px5nf07qm22) 11-20 15:31:10
+@RICHARD 淘宝处理吧
+
+RICHARD(wxid_w7zx8b07bmy721) 11-20 15:32:57
+好
+
+考拉(wxid_trav1eag4vnk22) 11-20 16:04:00
+记得上次有人说开梯子访问不了生财的官网是怎么处理来着
+
+Geng ZHONG(zhonggeng002) 11-20 16:32:38
+> 考拉-北京(wxid_trav1eag4vnk22) 11-20 16:04:00
+> 记得上次有人说开梯子访问不了生财的官网是怎么处理来着
+全局变为规则
+
+xixi(jinxidaisy) 11-20 16:35:44
+#举手 配置支付的时候报错，说我的productid不是真实产品id。检查/新建了好几个productid，都报这个错，这个怎么弄呀
+
+xixi(jinxidaisy) 11-20 16:35:45
+![图片](http://127.0.0.1:5030/image/b142cc46e3e4f5e57d687120a111ac3c)
+
+小明(wxid_at9px5nf07qm22) 11-20 16:46:38
+> xixi 杭州(jinxidaisy) 11-20 16:35:44
+> #举手 配置支付的时候报错，说我的productid不是真实产品id。检查/新建了好几个productid，都报这个错，这个怎么弄呀
+研究下代码中怎么更换id
+
+考拉(wxid_trav1eag4vnk22) 11-20 16:49:38
+> Zenker — 深圳(zhonggeng002) 11-20 16:32:38
+> > [引用]
+> 全局变为规则
+谢谢～[玫瑰][玫瑰][玫瑰][蛋糕][蛋糕][蛋糕]
+
+守中(wxid_u8fluuw1m2mm11) 11-20 17:16:19
+> RICHARD(wxid_w7zx8b07bmy721) 11-20 15:26:05
+> droid登录时需要手机号验证，接码平台的试了几个国家sms也没收到短信，这个验证要怎么过呀
+@RICHARD 之前志愿者推荐 giffgaff，我用了，可以注册 droid
+
+RICHARD(wxid_w7zx8b07bmy721) 11-20 17:54:31
+> 守中(wxid_u8fluuw1m2mm11) 11-20 17:16:19
+> > [引用]
+> @RICHARD 之前志愿者推荐 giffgaff，我用了，可以注册 droid
+好的，多谢哈
+
+刘小排(liuxiaopai) 11-20 18:04:54
+今晚20:00直播 - 优秀产品拆解
+分享我分析新的AI SaaS产品的一些方法
+
+桑桑(wxid_q2c7fp10z2522) 11-20 18:08:36
+[链接|【深海圈丨AI产品出海】刘小排：优秀产品拆解](https://appamvpb5mq9834.h5.xiaoeknow.com/v4/course/alive/l_691c64cee4b0694ca14597d0?app_id=appamvpb5mq9834&alive_mode=0&pro_id=p_68f21a10e4b0694c5b3e1ed9&type=2&state=a0764775f06a82a1be51e50e4c9795d2_C9xop3&resource_id=l_691c64cee4b0694ca14597d0&resource_type=4&payment_type=&product_id=p_68f21a10e4b0694c5b3e1ed9&available=1&available_product=0&share_user_id=u_67ac0a821387b_VkWuJRXn8f&share_type=5&scene=%E5%88%86%E4%BA%AB&share_scene=1&entry=2&entry_type=2002)
+
+桑桑(wxid_q2c7fp10z2522) 11-20 18:08:45
+> 桑桑@生财(wxid_q2c7fp10z2522) 11-20 18:08:37
+> [链接|【深海圈丨AI产品出海】刘小排：优秀产品拆解](https://appamvpb5mq9834.h5.xiaoeknow.com/v4/course/alive/l_691c64cee4b0694ca14597d0?app_id=appamvpb5mq9834&alive_mode=0&pro_id=p_68f21a10e4b0694c5b3e1ed9&type=2&state=a0764775f06a82a1be51e50e4c9795d2_C9xop3&resource_id=l_691c64cee4b0694ca14597d0&resource_type=4&payment_type=&product_id=p_68f21a10e4b0694c5b3e1ed9&available=1&available_product=0&share_user_id=u_67ac0a821387b_VkWuJRXn8f&share_type=5&scene=%E5%88%86%E4%BA%AB&share_scene=1&entry=2&entry_type=2002)
+@所有人 点击链接预约今晚直播，20：00见～
+
+Jessie圆子@AI出海(wxid_glupb8ygj1do12) 11-20 18:47:33
+"${wxid_glupb8ygj1do12}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+刘小排(liuxiaopai) 11-20 19:43:14
+等会20：00直播，今天没有新知识，就是随便聊聊，分享一些我看榜单、分析产品的方法。大家留好时间。
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-20 19:44:26
+"${caiwenzuan}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+桑桑(wxid_q2c7fp10z2522) 11-20 19:53:11
+[链接|【深海圈丨AI产品出海】刘小排：优秀产品拆解](https://appamvpb5mq9834.h5.xiaoeknow.com/v4/course/alive/l_691c64cee4b0694ca14597d0?app_id=appamvpb5mq9834&alive_mode=0&pro_id=p_68f21a10e4b0694c5b3e1ed9&type=2&state=a0764775f06a82a1be51e50e4c9795d2_C9xop3&resource_id=l_691c64cee4b0694ca14597d0&resource_type=4&payment_type=&product_id=p_68f21a10e4b0694c5b3e1ed9&available=1&available_product=0&share_user_id=u_67ac0a821387b_VkWuJRXn8f&share_type=5&scene=%E5%88%86%E4%BA%AB&share_scene=1&entry=2&entry_type=2002)
+
+Harry(huanghongbing999600) 11-20 21:01:02
+"${huanghongbing999600}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+Jessie圆子@AI出海(wxid_glupb8ygj1do12) 11-20 21:20:26
+![图片](http://127.0.0.1:5030/image/a342370c2ab6ca41265cdc4b3ad000c6)
+
+Jessie圆子@AI出海(wxid_glupb8ygj1do12) 11-20 21:20:31
+是不是要结束直播才有回放
+
+wangpeng.i(wxid_bjdggzv85en421) 11-20 21:22:16
+"${wxid_bjdggzv85en421}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+刘小排(liuxiaopai) 11-20 21:23:14
+好，一会结束
+
+一颗发芽的花生仁(shanhu52) 11-20 21:25:26
+老师，像有了垂直信息和专业书籍资料之后，是怎么喂给AI让他回答更准呢？我们是RAG知识库更方便吗？
+
+刘小排(liuxiaopai) 11-20 21:26:45
+RAG更方便。
+
+一颗发芽的花生仁(shanhu52) 11-20 21:27:15
+噢噢好的
+
+wangpeng.i(wxid_bjdggzv85en421) 11-20 21:39:04
+[强]

@@ -1,0 +1,66 @@
+Shrek(linchen102013) 11-22 00:02:18
+约德尔人(wxid_giurv9gqrakx22) 11-22 00:03:25
+上站的话，不能用vercel给的域名吧？
+
+Shrek(linchen102013) 11-22 00:04:17
+对的 域名也要绑清楚
+
+约德尔人(wxid_giurv9gqrakx22) 11-22 00:05:02
+好的，谢谢
+
+文身艺术家_补丁(wxid_8983149830812) 11-22 02:44:14
+为啥我在cursor里面用codex，它没有max模型呢～
+
+文身艺术家_补丁(wxid_8983149830812) 11-22 02:44:15
+![图片](http://127.0.0.1:5030/image/ce3a0c7a93dcc29d34223f70cf93081a)
+
+前行(gejinpeng123) 11-22 08:39:08
+是不是没有更新
+
+Shrek(linchen102013) 11-22 09:42:09
+> 补丁(wxid_8983149830812) 11-22 02:44:14
+> 为啥我在cursor里面用codex，它没有max模型呢～
+是的 是没有 。
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-22 09:52:35
+GPT骂人，他说2B[旺柴]
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-22 09:52:35
+![图片](http://127.0.0.1:5030/image/fc04bb8c9a088bdc5adc74f384460dbb)
+
+蚕(wxid_b7icucoyx1nb21) 11-22 10:22:27
+[破涕为笑]
+
+X|Q(xiaoqing176416) 11-22 11:59:31
+[分享]
+
+袁亮(yuanliang0116) 11-22 12:24:38
+![图片](http://127.0.0.1:5030/image/a4ac1280b6dc7a038103d8a0f8860317)
+
+袁亮(yuanliang0116) 11-22 12:26:13
+> 袁亮(yuanliang0116) 11-22 12:24:31
+> ![图片](http://127.0.0.1:5030/image/a4ac1280b6dc7a038103d8a0f8860317)
+@小明 supabase的官方文档的这个快速开始的案例，要在课程里面加个指引哈，按上面弄，是弄不出这个结果的，教程里面引导下的Next.js的模版不对
+
+袁亮(yuanliang0116) 11-22 12:27:18
+会多一个登陆，还去不掉
+
+小明(wxid_at9px5nf07qm22) 11-22 14:38:13
+昨天大家反馈的 DevTools 教程，已更新哈，在内功篇倒数第二章
+
+https://scys.com/course/detail/92?chapterId=4206
+
+小明(wxid_at9px5nf07qm22) 11-22 14:38:36
+> 袁亮(yuanliang0116) 11-22 12:26:13
+> > [引用]
+> @小明 supabase的官方文档的这个快速开始的案例，要在课程里面加个指引哈，按上面弄，是弄不出这个结果的，教程里面引导下的Next.js的模版不对
+好的收到我看下@袁亮 
+
+袁亮(yuanliang0116) 11-22 14:57:12
+[抱拳]
+
+袁亮(yuanliang0116) 11-22 14:57:39
+> 小明(wxid_at9px5nf07qm22) 11-22 14:38:13
+> 昨天大家反馈的 DevTools 教程，已更新哈，在内功篇倒数第二章
+> https://scys.com/course/detail/92?chapterId=4206
+缓一缓，学这个，哈哈

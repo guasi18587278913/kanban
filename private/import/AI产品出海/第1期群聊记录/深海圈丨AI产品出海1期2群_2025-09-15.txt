@@ -1,0 +1,87 @@
+星吟(wxid_ivo4n28g15qj21) 09-15 21:06:08
+[链接|100+个Reddit推广案例库
+
+在独立开发者大神Tibo的博客里发现这份Reddit引流案例库，汇总了100+条真实合规的推广贴，适合独立开发者、出海运营与内容创作者参考。我已经搬运到飞书，并且开放了下载权限，大家可直接保存到本地做二次筛选与标注~
+
+链接直达→https://gwlxqear42r.feishu.cn/wiki/ZSoJwiG5PiY3OKk...](https://t.zsxq.com/FHSdm)
+
+星吟(wxid_ivo4n28g15qj21) 09-15 21:06:40
+链接直达→https://gwlxqear42r.feishu.cn/wiki/ZSoJwiG5PiY3OKkRfSMc03htnTS?from=from_copylink
+
+苹果（晚11点睡觉）(wxid_um5y0rv05etu22) 09-15 21:27:49
+"${wxid_um5y0rv05etu22}" 拍了拍 "${wxid_ivo4n28g15qj21}" 聪明的小脑袋瓜
+
+王玮(wxid_94jbos68gn3b22) 09-15 22:35:03
+![图片](http://127.0.0.1:5030/image/dd271acc03109037c95a59b3ac5f412c)
+
+王玮(wxid_94jbos68gn3b22) 09-15 22:35:25
+CC这是怎么了啊？改一个bug改了一个小时了[捂脸]
+
+刘小排(liuxiaopai) 09-15 22:38:25
+cc有点慢最近
+
+王玮(wxid_94jbos68gn3b22) 09-15 22:39:41
+折腾了一个小时，好像是改好了
+
+213(wxid_k53k9plaaz0d12) 09-15 22:41:38
+codex+cc 感觉体验很不错 cc拉了就用codex codex感觉不上趟了就继续换回cc 
+
+哩厘锂力(zizhazhu) 09-15 22:44:04
+大家codex是和cc一样的用法就可以吗？我感觉用起来还是不太一样
+
+SuperEric(janetchristmas) 09-15 22:46:22
+大家codex是在cursor里用吗
+
+王玮(wxid_94jbos68gn3b22) 09-15 22:50:39
+我是在cursor里面用的，左边放codex，右边放cc。cursor一般不用，用的话调出来，用完就关掉了
+
+派大星(wxid_j7cdt1sb363b22) 09-15 23:21:02
+![图片](http://127.0.0.1:5030/image/bf8df2ae2684b73936c4255a6e44dc3e)
+
+派大星(wxid_j7cdt1sb363b22) 09-15 23:21:40
+> 派大星(wxid_j7cdt1sb363b22) 09-15 23:21:02
+> ![图片](http://127.0.0.1:5030/image/bf8df2ae2684b73936c4255a6e44dc3e)
+#举手，手册中提供的starter已经变成这个页面样式了嘛？
+
+刘小排(liuxiaopai) 09-15 23:22:28
+嗯有学员帮忙做了一个示例功能
+
+刘小排(liuxiaopai) 09-15 23:23:04
+这个太简陋了。我正在准备第二期课程，我会做一个更完善的starter。估计还需要一两周
+
+派大星(wxid_j7cdt1sb363b22) 09-15 23:26:56
+好的，期待小排教练的starter，准备套壳用来着，乍一看像是练手的页面
+
+刘小排(liuxiaopai) 09-15 23:33:05
+好的
+
+刘小排(liuxiaopai) 09-15 23:33:14
+现在的starter本来就是教学用具
+
+刘小排(liuxiaopai) 09-15 23:33:21
+没想到这么多同学想直接用
+
+刘小排(liuxiaopai) 09-15 23:33:26
+那我就做一个更好的吧
+
+萌面侠(ckyief) 09-15 23:34:12
+"${ckyief}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+王玮(wxid_94jbos68gn3b22) 09-15 23:34:24
+第二期的课程我们可以参与围观不？
+
+刘小排(liuxiaopai) 09-15 23:35:16
+我想应该是可以的。课程更新同步
+
+王玮(wxid_94jbos68gn3b22) 09-15 23:35:34
+太好了[呲牙]
+
+李才双Shawn(ShawnLee000) 09-15 23:41:08
+"${ShawnLee000}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+小飞(xiaofei168496) 09-15 23:41:52
+[动画表情]
+
+> 王玮(wxid_94jbos68gn3b22) 09-15 22:50:39
+> 我是在cursor里面用的，左边放codex，右边放cc。cursor一般不用，用的话调出来，用完就关掉了
+圈友，请问一下，你是在 cursor 里下载了什么插件，才能在 cursor 里面使用 Codex 的吗？

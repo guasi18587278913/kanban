@@ -1,0 +1,148 @@
+广才(zhangguangcai5624) 11-30 00:25:44
+小排老师，我们在mvp阶段使用coze或者n8n；正式版本的话需要把这些工作流直接以代码的形式写在nextjs后台吗？
+
+刘小排(liuxiaopai) 11-30 00:56:02
+对
+
+刘小排(liuxiaopai) 11-30 00:56:05
+不然效率不高
+
+刘小排(liuxiaopai) 11-30 00:56:12
+我是单独写python代码
+
+广才(zhangguangcai5624) 11-30 00:59:08
+小排老师，我们在什么时候去切换呢？
+
+刘小排(liuxiaopai) 11-30 01:12:47
+当你发现性能不够的时候
+
+广才(zhangguangcai5624) 11-30 01:19:15
+好的，谢谢小排老师[玫瑰]
+
+新侠(wxid_kysk4x0anmy712) 11-30 02:40:32
+卡了个 bug，CC cli 里不能用 1m 上下文，但是 vscode 插件里可以用
+
+新侠(wxid_kysk4x0anmy712) 11-30 02:40:42
+![图片](http://127.0.0.1:5030/image/29a1b3150c32b427645b2ad36f67f5c8)
+
+新侠(wxid_kysk4x0anmy712) 11-30 02:40:54
+神奇啊
+
+我 11-30 10:30:59
+"剑廿三-重庆" 撤回了一条消息
+
+Home(caolipin137429) 11-30 12:49:04
+![视频](http://127.0.0.1:5030/video/942ff322321fbb6852e76b388ea0b50b,8dcdf1c7bda108660e63803cbdbb487d)
+
+小辰在路上(wxid_8kdse5oms99722) 11-30 12:57:59
+[强]
+
+小枫哥(wxid_mqivyxf1zg4k22) 11-30 13:00:44
+![图片](http://127.0.0.1:5030/image/c5bb2b93cd09da8f9269e9aa791fb5c2)
+
+小枫哥(wxid_mqivyxf1zg4k22) 11-30 13:01:36
+#举手  请教下进阶第四章的 coze 试了几个工作流 都不能正常运行 
+
+小枫哥(wxid_mqivyxf1zg4k22) 11-30 13:01:53
+大家是用那个工作流的呢
+
+前行(gejinpeng123) 11-30 13:02:11
+你看看报什么错
+
+小枫哥(wxid_mqivyxf1zg4k22) 11-30 13:03:17
+![图片](http://127.0.0.1:5030/image/f5bb00443ce81cf87efae2d0f0b8e5a6)
+
+小枫哥(wxid_mqivyxf1zg4k22) 11-30 13:03:59
+![图片](http://127.0.0.1:5030/image/596c6b7f5f62782c98f4cbdb911f63ac)
+
+小枫哥(wxid_mqivyxf1zg4k22) 11-30 13:14:58
+教程里面的 案例好像也没了
+
+前行(gejinpeng123) 11-30 13:38:30
+你选别的模型试试，报错里说你现在选的模型可能下架了
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-30 16:55:10
+这网站没功能，要了个邮箱，就没后续了[破涕为笑]
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-30 16:55:11
+![图片](http://127.0.0.1:5030/image/c2f88df9e5d7579343dfd8c5f95c616e)
+
+Home(caolipin137429) 11-30 16:55:36
+做什么的
+
+筠溪(wxid_ypcu9xqpxwwy41) 11-30 17:00:03
+#举手 ZippyStarter改颜色的这个页面进不去了，是不是最近不能用了？
+
+筠溪(wxid_ypcu9xqpxwwy41) 11-30 17:00:07
+![图片](http://127.0.0.1:5030/image/ed1f21687dcc8f23d3fdfcf17d163c40)
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-30 17:01:31
+> Home(caolipin137429) 11-30 16:55:36
+> 做什么的
+自动化，说是 搞数字化员工的
+
+cherry(cherries-yan) 11-30 17:06:33
+换个工作流，换个大模型
+
+Home(caolipin137429) 11-30 17:20:52
+就是说功能还没做呗
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-30 17:31:56
+是的
+
+小枫哥(wxid_mqivyxf1zg4k22) 11-30 18:25:05
+![图片](http://127.0.0.1:5030/image/a1af3b6054853291ec380dd7d8333207)
+
+小枫哥(wxid_mqivyxf1zg4k22) 11-30 18:25:32
+这个模型停运了 可以换模型吗 找了一下 没找到哪里可以换模型的  
+
+小枫哥(wxid_mqivyxf1zg4k22) 11-30 18:25:48
+coze的第二个案例
+
+小枫哥(wxid_mqivyxf1zg4k22) 11-30 18:26:15
+有同学跑通的么 求指点
+
+cherry(cherries-yan) 11-30 18:34:09
+在工作流里点那个模型，换一个其他的
+
+cherry(cherries-yan) 11-30 18:36:20
+![图片](http://127.0.0.1:5030/image/4e5b712cf535e8782083ad282e841e55)
+
+cherry(cherries-yan) 11-30 18:36:47
+点有问题的模型，在右边的窗口里换个可用的模型就可以了
+
+cherry(cherries-yan) 11-30 18:38:50
+你自己创建一下工作流，就可以体会到怎么选大模型
+
+小枫哥(wxid_mqivyxf1zg4k22) 11-30 18:41:50
+![动画表情](http://wxapp.tc.qq.com/262/20304/stodownload?m=57f9f8eed0f3384e3beb1c20d3c226d4&filekey=30340201010420301e0202010604025348041057f9f8eed0f3384e3beb1c20d3c226d402023fcf040d00000004627466730000000132&hy=SH&storeid=2630e8ffe000255ba000000000000010600004f5053482e667b40b7dfe3afc&bizid=1023)
+
+小枫哥(wxid_mqivyxf1zg4k22) 11-30 18:41:53
+@cherry 
+
+cherry(cherries-yan) 11-30 18:53:04
+借助智能体开发web产品这里我没有很深入的去跑完，主要的问题在于工作流里兜底策略有太多需要补充。之前做工作流的时候很容易出问题。出现什么空值，一会又有什么异常状态。工作流就会报错。那开发一个完整的web产品，这些兜底策略就需要补齐
+
+cherry(cherries-yan) 11-30 18:54:43
+总之优缺点很明显
+
+小枫哥(wxid_mqivyxf1zg4k22) 11-30 19:03:05
+谢谢分享
+
+新侠(wxid_kysk4x0anmy712) 11-30 19:21:16
+我发现稳定启用sonnet4.5 1m上下文的方法了，就是在NPX ZCF里面选择配置默认模型，选择sonnt 4.5 1m模型，然后在已经开的cc里面打/compact，它就会自动启用1m上下文。
+
+小辰在路上(wxid_8kdse5oms99722) 11-30 19:26:01
+![图片](http://127.0.0.1:5030/image/5c439afdb8ed7cb282f54481a7eca869)
+
+小辰在路上(wxid_8kdse5oms99722) 11-30 19:26:43
+小红书的虚拟资料正在往虚拟产品走
+
+A梦 (知牧)(mrleoxu) 11-30 20:37:46
+整理了自用软件的黑五折扣信息：
+https://bf2025.ameng.studio
+
+另外找人拼单 Aceternity UI PRO 这套前端组件和模板，有意愿的联系我哦～
+
+lily(wxid_pqa4321nguy021) 11-30 20:38:48
+"${wxid_pqa4321nguy021}" 拍了拍 "${mrleoxu}" 中得🐍年彩票大奖[庆祝]

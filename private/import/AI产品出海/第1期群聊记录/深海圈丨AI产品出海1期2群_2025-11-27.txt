@@ -1,0 +1,76 @@
+Mr.🐟喻(lang-417528116) 11-27 01:47:30
+![图片](http://127.0.0.1:5030/image/a9e36ccba2abc8adae2fe81dbc2424a2)
+
+Mr.🐟喻(lang-417528116) 11-27 01:47:43
+AI也开始说脏话了[破涕为笑]
+
+桑桑(wxid_q2c7fp10z2522) 11-27 10:32:05
+📊 11.26日报总结已更新，点击链接查看
+
+日报网站：https://aichanpinribao.com
+
+桑桑(wxid_q2c7fp10z2522) 11-27 10:32:09
+![图片](http://127.0.0.1:5030/image/632468d50138bc5b515ecafa991bd5a9)
+
+桑桑(wxid_q2c7fp10z2522) 11-27 10:34:58
+晚上有小排老师亲自下厨的【流量篇导读】直播夜宵，感兴趣点击下方链接预约今晚这顿“流量夜宵餐”🍱
+
+桑桑(wxid_q2c7fp10z2522) 11-27 10:35:05
+[链接|【深海圈丨AI产品出海】刘小排：流量篇导读](https://appamvpb5mq9834.h5.xiaoeknow.com/v4/course/alive/l_69266b93e4b0694ca14b27fa?app_id=appamvpb5mq9834&alive_mode=0&pro_id=p_68f21a10e4b0694c5b3e1ed9&type=2&resource_id=l_69266b93e4b0694ca14b27fa&resource_type=4&payment_type=&product_id=p_68f21a10e4b0694c5b3e1ed9&available=1&available_product=0&share_user_id=u_67ac0a821387b_VkWuJRXn8f&share_type=5&scene=%E5%88%86%E4%BA%AB&share_scene=1&entry=2&entry_type=2002)
+
+酷克(wxid_wrvymzvoo21g12) 11-27 14:04:35
+stater模板中这个名称去哪里修改啊，问了几个ai也没解决问题，在代码中让ai查了下也没发现任何“ai001”的字样
+
+酷克(wxid_wrvymzvoo21g12) 11-27 14:04:35
+![图片](http://127.0.0.1:5030/image/cc552194398baa5a4dbbfb6fd6c5115e)
+
+小明(wxid_at9px5nf07qm22) 11-27 14:06:21
+> 酷克(wxid_wrvymzvoo21g12) 11-27 14:04:35
+> stater模板中这个名称去哪里修改啊，问了几个ai也没解决问题，在代码中让ai查了下也没发现任何“ai001”的字样
+Google中，创建项目-创建凭证时的命名 @酷克
+
+酷克(wxid_wrvymzvoo21g12) 11-27 14:07:54
+我早上刚创建的凭证，没有命名这个名称
+
+酷克(wxid_wrvymzvoo21g12) 11-27 14:07:54
+![图片](http://127.0.0.1:5030/image/2de548a0cf992ce358f3c4a4328c0c21)
+
+小明(wxid_at9px5nf07qm22) 11-27 14:09:46
+创建项目中的项目命名
+
+酷克(wxid_wrvymzvoo21g12) 11-27 14:19:13
+[强][强]
+
+莫默(wxid_xtz5avm5c6t422) 11-27 19:16:39
+![图片](http://127.0.0.1:5030/image/d2318238b0d6dc33c9b9fec0b9300a6f)
+
+莫默(wxid_xtz5avm5c6t422) 11-27 19:16:40
+#举手 脚手架中的定时任务配置为什么不用vercel的，而是用外部cron-job.org的呢@小明-助教 @刘小排 
+
+桑桑(wxid_q2c7fp10z2522) 11-27 19:29:05
+[链接|【深海圈丨AI产品出海】刘小排：流量篇导读](https://appamvpb5mq9834.h5.xiaoeknow.com/v4/course/alive/l_69266b93e4b0694ca14b27fa?app_id=appamvpb5mq9834&alive_mode=0&pro_id=p_68f21a10e4b0694c5b3e1ed9&type=2&resource_id=l_69266b93e4b0694ca14b27fa&resource_type=4&payment_type=&product_id=p_68f21a10e4b0694c5b3e1ed9&available=1&available_product=0&share_user_id=u_67ac0a821387b_VkWuJRXn8f&share_type=5&scene=%E5%88%86%E4%BA%AB&share_scene=1&entry=2&entry_type=2002)
+
+桑桑(wxid_q2c7fp10z2522) 11-27 19:30:09
+晚上20：00【流量篇导读】直播夜宵，感兴趣点击上方链接预约[嘿哈]
+
+小明(wxid_at9px5nf07qm22) 11-27 19:42:01
+@莫默 不一定用 vercel 部署，有个外部任务触发就可以
+
+莫默(wxid_xtz5avm5c6t422) 11-27 20:08:21
+好的，感谢~
+
+白九(wxid_yps5og8zkue722) 11-27 21:31:26
+![图片](http://127.0.0.1:5030/image/e7d3d0194cc2d60ca557473fd228fd94)
+
+白九(wxid_yps5og8zkue722) 11-27 21:31:27
+@桑桑@生财 
+
+白九(wxid_yps5og8zkue722) 11-27 21:31:43
+这个怎么办啊[捂脸]
+
+桑桑(wxid_q2c7fp10z2522) 11-27 21:33:01
+@白九 我来联系你处理
+
+> 桑桑@生财(wxid_q2c7fp10z2522) 11-27 19:29:05
+> [链接|【深海圈丨AI产品出海】刘小排：流量篇导读](https://appamvpb5mq9834.h5.xiaoeknow.com/v4/course/alive/l_69266b93e4b0694ca14b27fa?app_id=appamvpb5mq9834&alive_mode=0&pro_id=p_68f21a10e4b0694c5b3e1ed9&type=2&resource_id=l_69266b93e4b0694ca14b27fa&resource_type=4&payment_type=&product_id=p_68f21a10e4b0694c5b3e1ed9&available=1&available_product=0&share_user_id=u_67ac0a821387b_VkWuJRXn8f&share_type=5&scene=%E5%88%86%E4%BA%AB&share_scene=1&entry=2&entry_type=2002)
+请问小排老师流量篇导读这次直播的飞书文档能分享出来吗？@刘小排 

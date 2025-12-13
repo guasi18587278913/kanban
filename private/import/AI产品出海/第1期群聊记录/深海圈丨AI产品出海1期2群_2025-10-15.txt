@@ -1,0 +1,71 @@
+Insight(lyo_jo) 10-15 01:40:05
+[视频号|42岁，创业做免费APP，身价暴涨到23亿美金。#财经#商业#创业#商机#AI#人工智能#科技#科技启示录](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQDtSobrwiboPvUqFFtLWicotSmkfiawr5xiapCy8wRYJ87ODtDgrEhKZeHBFmJJtRsUI1YomD67UM65XQn3ohfACms2&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a1fc)
+
+机器树(wxid_jy5ld7f3tnz312) 10-15 09:54:12
+#举手 想给自己的站添加blog，一般用哪些方案能方便实现呢？
+
+刘小排(liuxiaopai) 10-15 09:55:42
+最方便是mdx
+
+机器树(wxid_jy5ld7f3tnz312) 10-15 09:56:06
+好的
+
+橙(wxid_5p4o1lcta13121) 10-15 12:19:34
+@小明-助教 教练，那个SistineAI使用文档,支付系统那部分和更新的项目代码差别很大，是不是更新了很多内容。
+
+小明(wxid_at9px5nf07qm22) 10-15 13:15:49
+> 橙(wxid_5p4o1lcta13121) 10-15 12:19:34
+> @小明-助教 教练，那个SistineAI使用文档,支付系统那部分和更新的项目代码差别很大，是不是更新了很多内容。
+是的，代码示例文档在做新的，预计这周更新哈，到时候我叫你@橙 
+
+安来团队（18640264499）(wxid_15zvhbiqzzbz22) 10-15 13:27:45
+这个魔板在哪里啊，小明老师[抱拳][抱拳]
+
+小明(wxid_at9px5nf07qm22) 10-15 13:33:14
+> 安来团队（18640264499）(wxid_15zvhbiqzzbz22) 10-15 13:27:45
+> 这个魔板在哪里啊，小明老师[抱拳][抱拳]
+这里 @安来团队（18640264499） 
+
+自助申请地址：https://applysistine.vercel.app/
+GitHub仓库地址：https://github.com/Idea-To-Business/sistine-starter-vibe-to-production/
+env配置：https://sistine-tech.feishu.cn/wiki/E2ppw6MTNiUIZZkyRIichaABnPb
+
+安来团队（18640264499）(wxid_15zvhbiqzzbz22) 10-15 13:45:52
+收到谢谢[抱拳]
+
+小明(wxid_at9px5nf07qm22) 10-15 13:48:25
+"${wxid_at9px5nf07qm22}" 拍了拍 "${wxid_15zvhbiqzzbz22}"
+
+一夕(phil7028) 10-15 15:29:52
+@小耳朵  去水印失败：Processing failed
+Processing failed, please try again later.
+
+小耳朵(wxid_72hc6w5d4veg21) 10-15 16:33:37
+中午还可以的 感谢反馈 我来看看[捂脸]
+
+一夕(phil7028) 10-15 16:39:30
+[抱拳]
+
+Cody(wxid_t4v19eo7x1m522) 10-15 18:13:18
+#举手 教练，codex基本配置启动项目记忆，文档在哪里
+
+小耳朵(wxid_72hc6w5d4veg21) 10-15 18:35:19
+> 一夕(phil7028) 10-15 15:29:52
+> @小耳朵  去水印失败：Processing failed
+> Processing failed, please try again later.
+目前已恢复正常，只不过会有 1 分钟限制，你可以把号给我临时走白名单，等上线会员了，如果需要可以领 1 年会员，再次感谢反馈[抱拳][抱拳][抱拳]
+
+一夕(phil7028) 10-15 19:51:50
+> 小耳朵(wxid_72hc6w5d4veg21) 10-15 18:35:19
+> > [引用]
+> 目前已恢复正常，只不过会有 1 分钟限制，你可以把号给我临时走白名单，等上线会员了，如果需要可以领 1 年会员，再次感谢反馈[抱拳][抱拳][抱拳]
+客气～
+
+一夕(phil7028) 10-15 19:52:32
+1分钟限制是指两次下载要间隔1分钟吗？
+
+小耳朵(wxid_72hc6w5d4veg21) 10-15 20:04:35
+解除 1 分钟限制了，我私信你
+
+一夕(phil7028) 10-15 20:06:24
+[强]

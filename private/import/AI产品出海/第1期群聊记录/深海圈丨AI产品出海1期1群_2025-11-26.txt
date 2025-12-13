@@ -1,0 +1,152 @@
+银河星游(wxid_6253072530112) 11-26 01:21:53
+[视频号|🚀Opus 4.5+Claude for Chrome深度评测：比ChatGPT Atlas浏览器更强！自动操作网页、跨平台协作、智能填表一键完成！一个插件让 Chrome 变身全自动 AI 浏览器
+
+
+🚀🚀🚀视频简介：
+🔥 Anthropic不仅仅是模型升级！Claude Opus 4.5 携 Chrome 插件炸场，浏览器自动化终于实现了？
+⚡️ 本期视频详细演示了Anthropic最新发布的Claude Opus 4.5模型及Claude for Chrome浏览器扩展插件的强大功能！
+📌 主要测试内容：
+✅ 知识库截止日期测试
+✅ 网页内容总结与图像识别能力
+✅ 选中文本翻译功能
+✅ 自动改写文章并发布到X平台
+✅ 让Claude与ChatGPT进行多轮深度对话
+✅ 国际象棋网站全自动对弈
+✅ 操控Google AI Studio开发游戏
+✅ 抓取股票数据自动填入谷歌表格
+✅ 操作Gemini生成素描风格图像并评估
+🔥 核心亮点：这款Chrome插件可完全取代OpenAI的Atlas浏览器，无需切换浏览器即可实现强大的AI浏览器自动化功能！
+
+👉👉👉笔记:https://www.aivi.fyi/aiagents/introduce-Claude-Opus-4.5-for-Chrome
+
+🔥🔥🔥时间戳：
+00:00 开场介绍 - Anthropic发布Claude Opus 4.5旗舰模型及Claude for Chrome插件
+00:46 知识库测试 - 确认知识截止日期为2025年5月底，领先竞品
+01:04 插件安装 - Chrome扩展插件安装演示及界面功能介绍
+02:26 文章总结 - 测试网页内容总结能力，效果出色
+02:53 视觉识别 - 测试读取网页图像并解读图表内容
+03:30 选中翻译 - 测试获取选中文本并翻译为中文
+03:57 自动发帖 - 改写文章并自动发布到X平台，全流程自动化
+05:05 AI对话 - 让Claude与ChatGPT进行多轮深度讨论
+07:04 自动下棋 - 测试国际象棋网站全自动对弈能力
+07:53 AI协作 - 操作Google AI Studio自动开发游戏
+09:26 表格操作 - 抓取股票数据并自动填入谷歌表格
+10:44 图像生成 - 操作Gemini生成素描风格图像并自动评估
+12:04 总结对比 - 与Atlas浏览器对比及使用建议
+
+#claudecode #claude45 #opus45 #claudeopus #ai #browserautomation #browser #chrome #anthropic #aicoding #atlas #aiagents #agi #ai #aigc #claude
+](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQBMkvwg2MvwiaTic5puCgGM9sfIZnT3ODibVBPTib26gBHpRLBYtQgAV55psWFK8iaC21NNHEr2XMcgF0ylVW2cFwJicC&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a152&token=6xykWLEnztKfjNvwwQbvlQIf4P3hAlYG1PFHrNaCrMxhicPib6hJuqkibibVanianwe8m9v33EKsVTZQD1tYB0CtJuRagzGAHTHtEvM7lS8JqgdvLNgC9HOEeO9w3zuZ3HaY0P6ibn1M38U6Z3RmkuHILgUicl0qhJicGxyhbBjXgjXGTHs&basedata=CAESABoDeFYwIgAqBwizHRAAGAI&sign=rHQJLmxlmsW50V0j6X3nCGaiSypFfy2NycSTNGsRRooQDKI77tY6brAYrsjAbS9iLUXZGZk3QH4akfCJNsYx2g&ctsc=39&extg=2ebe00&ftype=642&svrbypass=AAuL%2FQsFAAABAAAAAABbD4FyPhOxcvtgq%2BUlaRAAAADnaHZTnGbFfAj9RgZXfw6VkvhaYYylMgAsq6GQHZtXiG5ynq5oeJgYvDRd7JrmdSDD20XwgATzMsI%3D&svrnonce=1764091307)
+
+雨文(wxid_igggjhbi5x7b22) 11-26 07:26:53
+我的网站上线三天，目前150个用户，付费用户60多个。本来是做海外AI产品，一不小心做成国内产品，所以暂时先在国内推广，后续再做一个适用于海外的产品。网站内测期，我给一小部分用户当内测会员，以优惠价格使用网站，他们在使用过程中发现bug向我反馈，同时也提供一些建议，共同优化这个网站，互惠互利。
+
+果潇洒(guoguoxiaodian) 11-26 07:32:54
+[动画表情]
+
+guolin liu(benxafrant) 11-26 07:50:15
+[强][强]
+
+夕远(wxid_0kb3l3xk63ag21) 11-26 08:40:05
+[强][强][强]
+
+小宇Mick(muckie) 11-26 09:17:32
+"${muckie}" 拍了拍 "${wxid_igggjhbi5x7b22}"
+
+我 11-26 09:22:48
+"青竹-上海" 撤回了一条消息
+
+青竹(wxid_1348793487711) 11-26 09:22:59
+#举手 请教个问题，看榜单的时候发现一个 coloring page, https://colorifyai.art/，访问量 400K 左右，主打免费、无需登陆、无水印，使用了一下，感觉功能还挺好的。但是，它真实免费的，也没有付费订阅的增值服务，有点不懂 TA 要如何盈利。这个域名是2024/4/22申请的，已经1年半了
+
+青竹(wxid_1348793487711) 11-26 09:25:33
+我看了一下 TA 的请求，有些生成的图片是自己域名的地址，有些是 replicate 的，成本应该不低
+
+Shrek(linchen102013) 11-26 09:36:44
+看到了么
+
+Shrek(linchen102013) 11-26 09:36:44
+![图片](http://127.0.0.1:5030/image/3b31a11f5869b1833bb203cacefd5f5c)
+
+Shrek(linchen102013) 11-26 09:40:56
+可能是给其他的网站引流 下面有一排出站的链接 正常情况下看不到
+
+舒未读(wxid_1814638146314) 11-26 09:43:15
+> 糖饼（闭关中）(linchen102013) 11-26 09:36:44
+> ![图片](http://127.0.0.1:5030/image/3b31a11f5869b1833bb203cacefd5f5c)
+好手段，SEO工具都找不到这个，看来只是给搜索引擎抓取的。
+
+青竹(wxid_1348793487711) 11-26 09:46:07
+我C，难怪 Dia 说可能有广告和引流，我没找到
+
+青竹(wxid_1348793487711) 11-26 09:46:07
+![图片](http://127.0.0.1:5030/image/77df7a1c91e596410bd24965856a64c1)
+
+我 11-26 10:22:16
+"安宇轩｜进阶版_厦门~" 撤回了一条消息
+
+银河星游(wxid_6253072530112) 11-26 10:24:54
+antigravitu帮我优化网页高大上一些，用起来真好啊，还可以生成图片，太妙了
+
+刘小排(liuxiaopai) 11-26 10:25:07
+"${liuxiaopai}" 拍了拍 "${wxid_6253072530112}"
+
+银河星游(wxid_6253072530112) 11-26 10:25:16
+codex写的首页标题都没居中对齐，让antigravity一键就改好了
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-26 11:04:09
+> 糖饼（闭关中）(linchen102013) 11-26 09:36:44
+> ![图片](http://127.0.0.1:5030/image/3b31a11f5869b1833bb203cacefd5f5c)
+这种一般是黑帽seo，大概率是别人在他网站上的加的，所以用白色看不见的
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-26 11:08:29
+> 青竹-上海(wxid_1348793487711) 11-26 09:22:59
+> #举手 请教个问题，看榜单的时候发现一个 coloring page, https://colorifyai.art/，访问量 400K 左右，主打免费、无需登陆、无水印，使用了一下，感觉功能还挺好的。但是，它真实免费的，也没有付费订阅的增值服务，有点不懂 TA 要如何盈利。这个域名是2024/4/22申请的，已经1年半了
+这个网站我也之前看到了，可能只是目前不需要变现吧，比如同好用爱发电
+
+土豆君(wxid_gzr7bvbdlvlv22) 11-26 11:09:36
+> 舒未读(wxid_1814638146314) 11-26 09:43:15
+> > [引用]
+> 好手段，SEO工具都找不到这个，看来只是给搜索引擎抓取的。
+别学这个，哥飞以前就说过黑帽seo搞不好容易被谷歌惩罚[破涕为笑]
+
+舒未读(wxid_1814638146314) 11-26 11:11:46
+> 土豆君(wxid_gzr7bvbdlvlv22) 11-26 11:09:36
+> > [引用]
+> 别学这个，哥飞以前就说过黑帽seo搞不好容易被谷歌惩罚[破涕为笑]
+没，就纯好奇人家怎么赚钱的
+
+哥飞(qiayue) 11-26 11:14:28
+![图片](http://127.0.0.1:5030/image/548f9acd83092ac3f5ca853dbf727169)
+
+哥飞(qiayue) 11-26 11:14:59
+这个我怀疑是被黑了，站长搞这么大流量，没有动机去搞这个
+
+桑桑(wxid_q2c7fp10z2522) 11-26 11:15:27
+本周四晚20：00直播预告，点击下方链接预约直播
+
+【分享时间】 11月27日（周四）晚20:00
+【分享人】刘小排
+【分享主题】流量篇导读
+【分享地点】小鹅通
+
+青竹(wxid_1348793487711) 11-26 11:16:27
+> 哥飞(qiayue) 11-26 11:14:59
+> 这个我怀疑是被黑了，站长搞这么大流量，没有动机去搞这个
+是的，我看网站的功能做的还挺用心的，要说只是给这几个网站引流，有点太夸张了
+
+桑桑(wxid_q2c7fp10z2522) 11-26 11:17:05
+[链接|【深海圈丨AI产品出海】刘小排：流量篇导读](https://appamvpb5mq9834.h5.xiaoeknow.com/v4/course/alive/l_69266b93e4b0694ca14b27fa?app_id=appamvpb5mq9834&alive_mode=0&pro_id=p_68f21a10e4b0694c5b3e1ed9&type=2&resource_id=l_69266b93e4b0694ca14b27fa&resource_type=4&payment_type=&product_id=p_68f21a10e4b0694c5b3e1ed9&available=1&available_product=0&share_user_id=u_67ac0a821387b_VkWuJRXn8f&share_type=5&scene=%E5%88%86%E4%BA%AB&share_scene=1&entry=2&entry_type=2002)
+
+我 11-26 19:08:03
+"小明-助教" 撤回了一条消息
+
+青竹(wxid_1348793487711) 11-26 19:19:12
+@桑桑@生财 直播列表也可以整理一下吗，现在没有分组，也没有按照实际直播的时间来，看着有点乱
+
+桑桑(wxid_q2c7fp10z2522) 11-26 19:24:27
+> 青竹-上海(wxid_1348793487711) 11-26 19:19:12
+> @桑桑@生财 直播列表也可以整理一下吗，现在没有分组，也没有按照实际直播的时间来，看着有点乱
+可以的，明天我按时间排一下～
+
+青竹(wxid_1348793487711) 11-26 19:39:41
+[Salute][ThumbsUp]

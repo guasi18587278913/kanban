@@ -1,0 +1,342 @@
+王帆(wxid_i4ja4qz84kad21) 11-07 00:20:00
+![图片](http://127.0.0.1:5030/image/1d8af6df8490efcaf6e053eebfe5f73e)
+
+王帆(wxid_i4ja4qz84kad21) 11-07 00:20:02
+![图片](http://127.0.0.1:5030/image/0fe5c5f872205e250e55da9d6db896e8)
+
+王帆(wxid_i4ja4qz84kad21) 11-07 00:20:06
+日拱一卒啊铁子们
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-07 00:34:21
+我是先找需求，看别人的失败案例，我觉得学这套课程得从长计议。毕竟，是想用这个赚钱，不是多一个技能
+
+我 11-07 00:35:23
+"Newbie_成都" 撤回了一条消息
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-07 00:35:25
+![图片](http://127.0.0.1:5030/image/2178c4fd28a211b663a1d76b1633f148)
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-07 00:35:40
+刚看到一个收集痛点的网站，感觉挺不错的
+
+约德尔人(wxid_giurv9gqrakx22) 11-07 00:35:53
+这是从哪找到的资源呢。
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-07 00:39:21
+Product Hunt里面的一个帖子挂出来的网站
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-07 00:41:47
+我觉得多用点笨办法，有很多收获的，不偷懒，不取巧
+
+Ruiqin袁锐钦(wetas6) 11-07 00:50:29
+"${wetas6}" 拍了拍 "${wxid_p6ohfe1htnil22}" 砰砰砰，发射
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-07 00:54:58
+突然感觉以前考试学的 公司战略与风险管理 ，有发挥作用的地方了
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-07 00:55:52
+什么波特五力模型，产品生命周期
+
+彼得(wxid_6hxrobq97rho21) 11-07 00:57:35
+> Newbie_成都(wxid_p6ohfe1htnil22) 11-07 00:54:58
+> 突然感觉以前考试学的 公司战略与风险管理 ，有发挥作用的地方了
+怎么发挥作用
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-07 01:04:00
+里面有很多分析框架，比如波特五力模型、营销定价策略等等，可以辅助决策吧
+
+寂空(q37261421) 11-07 03:00:51
+接呆寨，打硬仗。
+
+蚕(wxid_b7icucoyx1nb21) 11-07 05:19:17
+> Newbie_成都(wxid_p6ohfe1htnil22) 11-07 00:35:25
+> ![图片](http://127.0.0.1:5030/image/2178c4fd28a211b663a1d76b1633f148)
+[强][强][强]
+
+Afar(wxid_pl1vacz65tnb22) 11-07 07:12:33
+> 王帆-武汉(wxid_i4ja4qz84kad21) 11-07 00:20:00
+> ![图片](http://127.0.0.1:5030/image/1d8af6df8490efcaf6e053eebfe5f73e)
+[加油][加油][加油]
+
+lynn-林爱(wxid_e3hg72buvc8r22) 11-07 09:41:14
+![图片](http://127.0.0.1:5030/image/38415ada2fc7c6289963a3521f021e3c)
+
+lynn-林爱(wxid_e3hg72buvc8r22) 11-07 09:41:25
+杭州有没有学习搭子 周末一起🙋
+
+阿星(wxid_6456174561812) 11-07 10:49:50
+![图片](http://127.0.0.1:5030/image/d81207ff2496f8e57a63e697eb0510de)
+
+阿星(wxid_6456174561812) 11-07 10:50:00
+minimax 用得好爽，感谢小排老师推荐
+
+阿星(wxid_6456174561812) 11-07 10:50:22
+本来以为今早 8 点没了，一看公告，还有限时免费，继续薅[害羞]
+
+cherry(cherries-yan) 11-07 11:12:52
+我昨天在项目里用minimax，没跑通，不知道为啥提示我没充值…
+
+cherry(cherries-yan) 11-07 11:13:10
+然后我换了gemini 2.5flash了
+
+恩上加恩(wxid_806zwxhx7zt11) 11-07 12:17:36
+#提问 cc充值的话，一般地址和电话可以使用国内地址吗？
+
+刘小排(liuxiaopai) 11-07 12:31:21
+正版么？不能
+
+恩上加恩(wxid_806zwxhx7zt11) 11-07 12:35:35
+#提问 我有safe pal的卡，地址和电话不知道如何填写，这个卡可以直接充值cc吗？
+
+cherry(cherries-yan) 11-07 12:40:57
+> 刘小排(liuxiaopai) 11-07 12:31:21
+> 正版么？不能
+可能是我调用代码写的有问题，我先是用gpt4，要复制key的时候，想着minimax最近免费，让cursor帮我把AI AP I换成minimax。 ———各模型的核心能力还不太熟练…就没太折腾，换了gemini2.5flash，因为接口在postmen里测试过了…
+
+cherry(cherries-yan) 11-07 12:41:49
+而且昨晚看到11月8日就开始收费…想着就不折腾了
+
+cherry(cherries-yan) 11-07 12:42:53
+minimax报错要不就是我的key复制有问题，要不就是调用代码有问题，结果就是没跑起来
+
+Jupiter-zeus(wxid_u9qhmvlqb9or21) 11-07 12:52:36
+目前不收费
+
+Allen(wangzelin0837) 11-07 13:51:45
+#举手 对于openrouter里面图片识别的api，传参是一个图片的地址，是需要搭建一个图床服务，还是有其他好用的服务可以推荐？
+
+Allen(wangzelin0837) 11-07 13:54:18
+![图片](http://127.0.0.1:5030/image/7e79623131e067c9f805d056f025ed16)
+
+小明(wxid_at9px5nf07qm22) 11-07 13:56:24
+@Allen 用存储桶最方便，r2
+
+小明(wxid_at9px5nf07qm22) 11-07 13:57:35
+https://sistine-tech.feishu.cn/wiki/E2ppw6MTNiUIZZkyRIichaABnPb 存储桶章节的图文教程可以参考
+
+小明(wxid_at9px5nf07qm22) 11-07 13:57:51
+![图片](http://127.0.0.1:5030/image/205936098a64ad27d7f1d88cc8730579)
+
+Allen(wangzelin0837) 11-07 13:58:47
+收到，谢谢～[社会社会]
+
+小明(wxid_at9px5nf07qm22) 11-07 13:59:01
+![动画表情](http://wxapp.tc.qq.com/262/20304/stodownload?m=71637d671f3e76123e9b92694f3d3ae5&filekey=30350201010421301f0202010604025348041071637d671f3e76123e9b92694f3d3ae502030b1655040d00000004627466730000000132&hy=SH&storeid=2639206ee0004f10333b33f5b0000010600004f5053480750b8b0b6490f360&bizid=1023)
+
+Allen(wangzelin0837) 11-07 13:59:18
+没办法像Formdata那样传过去，还得多一层上传的动作
+
+小明(wxid_at9px5nf07qm22) 11-07 14:01:55
+实际上存储桶连接方式配置后，可以让Claude code根据env文件，把文件上传到存储桶中，不需要人为操作
+
+去网上下载图片-上传桶；把本地存储的图片-上传桶，都可以自动化
+
+小明(wxid_at9px5nf07qm22) 11-07 14:03:45
+在生产项目中，尤其是图片生成和视频生成，可以让服务端包一层存储桶逻辑，把api返回的结果下载，放在桶中，把桶中图片的url返回到客户端页面
+
+Allen(wangzelin0837) 11-07 14:05:51
+需要对接桶api的，手传还是不行，量太大而且不智能
+
+小明(wxid_at9px5nf07qm22) 11-07 14:06:32
+不会有人手传的
+
+cherry(cherries-yan) 11-07 15:23:17
+cursor 可以开多个窗口让它干活不？我记得大家讨论过、、
+
+宇宙(wxid_ocbx1coeqq9q21) 11-07 15:26:26
+我多开了一个反正不行。claude几个都可以
+
+燃烧青年(wxid_h932fgpqi3gt11) 11-07 15:29:30
+> cherry(cherries-yan) 11-07 15:23:17
+> cursor 可以开多个窗口让它干活不？我记得大家讨论过、、
+可以的
+
+cherry(cherries-yan) 11-07 15:58:20
+我遇到好多浏览器缓存的问题
+
+cherry(cherries-yan) 11-07 15:59:19
+比如改完了 因为缓存问题，无法显示当前的修改，又比如改完了，启动开发服务后，什么缓存丢失、 就接个gogole邮箱登陆，感觉问题很多
+
+Allen(wangzelin0837) 11-07 16:00:49
+本地调试一般不会有浏览器缓存的问题，无法显示当前的修改，大概率是没改对位置。
+
+cherry(cherries-yan) 11-07 16:06:46
+我这样是不是不对：
+1、我是vo.app做好了大的框架（离我的产品需求文档相差挺远的）；——我给了gpt我的需求文档，补了很多技术评审的内容，但生成vo.app 的yaml版本的时候，感觉写出来的很简单，很多功能都没体现；
+2、我同步到github，通过github桌面端打开，然后直接选择cursor打开进行继续的细化开发；
+——我记得有个环节是把代码下载到本地，我之前都是vo开发完，我代码下载到本地，然后用vscode 调试，最后vercel部署；
+我这次没有。 我这样会有什么问题吗？
+
+cherry(cherries-yan) 11-07 16:10:52
+也看不太懂，代码不拉到本地会产生什么后果吗？
+
+cherry(cherries-yan) 11-07 16:10:53
+![图片](http://127.0.0.1:5030/image/7468d0ac38393e4675807077ed4cd58c)
+
+Allen(wangzelin0837) 11-07 16:16:57
+本地的优势在于，你可以在本地起一个热更新的服务，当代码改变的时候，页面自动就生效了。如果你是远程的话，那相当于，你改完，需要进行编译然后发布到服务器上去，效率上，肯定是不如本地。而且，cursor修改的是你远程的代码，这个也有网络的耗时，毕竟不是你本地。
+
+cherry(cherries-yan) 11-07 16:18:45
+那我现在是要先同步到github ，然后代码下载到本地，cursor 打开代码是吗？ cursor 做了修改，再同步到github 是这样是吗
+
+Allen(wangzelin0837) 11-07 16:21:04
+你可以直接vo下载，也可以同步到github然后从github下载。cursor开发完小功能以后，用git做版本管理（不是github），等到完全没问题要发布的时候，再同步到github上，然后部署。
+
+Allen(wangzelin0837) 11-07 16:21:35
+你要看效果，本地就能看到效果，不需要非得部署才能看。
+
+cherry(cherries-yan) 11-07 16:25:28
+[破涕为笑]、、、开发小白好艰难
+
+Allen(wangzelin0837) 11-07 16:29:16
+慢就是快，把文档反复多看几遍，你要想就看那么几天，能够达到熟练的程度，怕是不现实。
+
+新页(zqx10104) 11-07 16:30:47
+有ai了就不难了，有问题问ai就好了
+
+cherry(cherries-yan) 11-07 16:31:28
+问了，主要还是对各种编程环境，开发工具，前后端，这些逻辑没理清
+
+cherry(cherries-yan) 11-07 16:31:49
+ai 能告诉你，也是建立在自己的认知，能问出合理的问题来、、
+
+新页(zqx10104) 11-07 16:33:06
+问到懂为止呀
+
+Allen(wangzelin0837) 11-07 16:36:23
+这是一个体系化的东西，慢慢来吧。我可以解答一些技术基础性的问题，如果有需要，可以加好友私聊。
+
+cherry(cherries-yan) 11-07 16:40:31
+感谢各位
+
+宇宙(wxid_ocbx1coeqq9q21) 11-07 16:55:51
+![图片](http://127.0.0.1:5030/image/3ea0994916bd49ae50889d64abc71e2d)
+
+宇宙(wxid_ocbx1coeqq9q21) 11-07 16:56:42
+搞了两天html,到css,速度加快了
+
+小枫哥(wxid_mqivyxf1zg4k22) 11-07 17:10:50
+#举手
+
+小枫哥(wxid_mqivyxf1zg4k22) 11-07 17:10:50
+![图片](http://127.0.0.1:5030/image/3669ea0679e84a4f8724c5780e6ed96f)
+
+小枫哥(wxid_mqivyxf1zg4k22) 11-07 17:11:38
+搞到这里报错了  问 ai 说 api 有问题，对了一下是正确的
+
+小枫哥(wxid_mqivyxf1zg4k22) 11-07 17:11:52
+还有什么方法么
+
+蔡(wxid_cg0yatr2hfio21) 11-07 17:13:33
+让 AI 加一下日志，查看详细的错误日志输出，就知道是什么问题了
+
+小枫哥(wxid_mqivyxf1zg4k22) 11-07 17:21:32
+日志  是看终端的记录是么
+
+蔡(wxid_cg0yatr2hfio21) 11-07 17:22:35
+是的
+
+我 11-07 21:18:47
+"宇宙" 撤回了一条消息
+
+宇宙(wxid_ocbx1coeqq9q21) 11-07 21:28:50
+看样子英语没有六级水平，手搓代码也很费劲
+
+tison(tison_csu) 11-07 21:57:46
+> 宇宙(wxid_ocbx1coeqq9q21) 11-07 21:28:50
+> 看样子英语没有六级水平，手搓代码也很费劲
+不用的，懂编程语言那几个关键字就行了，不多的
+
+高挺(wxid_tlxgf1ygecci12) 11-07 22:12:30
+Cursor现在国内办的 Visa 信用卡似乎不能用了
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-07 22:16:58
+用支付宝三
+
+我们(wxid_rp1mut9ljsli12) 11-07 22:24:17
+心累 你们内功都是咋学的，我学了2天还在html打转[晕]
+
+高挺(wxid_tlxgf1ygecci12) 11-07 22:27:04
+> Newbie_成都(wxid_p6ohfe1htnil22) 11-07 22:16:58
+> 用支付宝三
+搞定了，谢谢
+
+高挺(wxid_tlxgf1ygecci12) 11-07 22:27:20
+不买 Cursor 会员不能在 Cursor 里面用 Minimax
+
+彼得(wxid_6hxrobq97rho21) 11-07 22:30:03
+[链接|难以置信！Kimi K2 Thinking 编程力正面超车 GPT-5 和 Sonnet 4.5](https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247499461&idx=1&sn=a90d3636563b22fc8934dc40abc4bc45&chksm=e83fa0b4b3dd653dc1d44e9f42edadefe4baf27a457d1976102d02bd1b445dc8714cceaa3c68&mpshare=1&scene=1&srcid=1107MxjxaagEldON0EYO72o2&sharer_shareinfo=c9efdbdc2a0a53399dc32a499c25e34a&sharer_shareinfo_first=c9efdbdc2a0a53399dc32a499c25e34a#rd)
+
+彼得(wxid_6hxrobq97rho21) 11-07 22:30:22
+别折腾了，用国产[偷笑]
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-07 22:31:12
+> 海天—遂宁(wxid_rp1mut9ljsli12) 11-07 22:24:17
+> 心累 你们内功都是咋学的，我学了2天还在html打转[晕]
+带着项目学三，抄一个成品，练手
+
+彼得(wxid_6hxrobq97rho21) 11-07 22:31:29
+> 彼得(wxid_6hxrobq97rho21) 11-07 22:30:03
+> [链接|难以置信！Kimi K2 Thinking 编程力正面超车 GPT-5 和 Sonnet 4.5](https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247499461&idx=1&sn=a90d3636563b22fc8934dc40abc4bc45&chksm=e83fa0b4b3dd653dc1d44e9f42edadefe4baf27a457d1976102d02bd1b445dc8714cceaa3c68&mpshare=1&scene=1&srcid=1107MxjxaagEldON0EYO72o2&sharer_shareinfo=c9efdbdc2a0a53399dc32a499c25e34a&sharer_shareinfo_first=c9efdbdc2a0a53399dc32a499c25e34a#rd)
+几分钟前发的，新鲜出炉
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-07 22:33:06
+让AI只用HTML写一个框架，然后自己用HTML改这个框架，比如怎么把这个框架改得奇丑无比
+
+高挺(wxid_tlxgf1ygecci12) 11-07 22:33:27
+刚搞定了 Cursor 里面用 Minimax，Kimi 2 Thinking 又霸榜了。。。。
+
+我们(wxid_rp1mut9ljsli12) 11-07 22:33:48
+我是按着手册一步一步学的 ，越到后面感觉需要记的 单词和代码越多，就越学越费。 太折磨了，不知道是不是方法不对
+
+我 11-07 22:35:06
+"宇宙" 撤回了一条消息
+
+我 11-07 22:37:41
+"Newbie_成都" 撤回了一条消息
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-07 22:39:09
+> 海天—遂宁(wxid_rp1mut9ljsli12) 11-07 22:33:48
+> 我是按着手册一步一步学的 ，越到后面感觉需要记的 单词和代码越多，就越学越费。 太折磨了，不知道是不是方法不对
+带着项目学，就知道该学多少了，不然学一堆，结果学了用得到的就20%
+
+Afar(wxid_pl1vacz65tnb22) 11-07 22:39:41
+可以把新手营的作业代码当案例来学，自己熟悉，理解起来也快，还能边改进产品，很有意思
+
+我们(wxid_rp1mut9ljsli12) 11-07 22:42:01
+还是有点蒙，是把自己的作业  里面的代码文件夹，一个一个去看吗
+
+舒未读(wxid_1814638146314) 11-07 22:43:45
+> 海天—遂宁(wxid_rp1mut9ljsli12) 11-07 22:42:01
+> 还是有点蒙，是把自己的作业  里面的代码文件夹，一个一个去看吗
+不需要，需要你指挥AI帮你总结，哪个文件哪段代码是什么意思
+
+我们(wxid_rp1mut9ljsli12) 11-07 22:46:45
+好吧 我试试 [失望]
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-07 23:34:19
+大佬们，有开visa虚拟卡的渠道吗？之前的开卡平台不能用了
+
+X1(j-e-e-j-e-e) 11-07 23:42:11
+有条件开个实体的也可以，招行全币通或者双币卡挺好的
+
+宁王（加油！）(wxid_5182881829312) 11-07 23:42:32
+bg钱包，有个万事通可开，上个月我开过，
+我去问问之前kol，最近还有没有活动@Newbie_成都 
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-07 23:47:30
+> 志愿者-宁王(wxid_5182881829312) 11-07 23:42:32
+> bg钱包，有个万事通可开，上个月我开过，
+> 我去问问之前kol，最近还有没有活动@Newbie_成都 
+好滴，感谢
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-07 23:47:45
+> X1(j-e-e-j-e-e) 11-07 23:42:11
+> 有条件开个实体的也可以，招行全币通或者双币卡挺好的
+没招行的卡[破涕为笑]
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-07 23:47:59
+我看看工行有没有
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-07 23:48:54
+虚拟卡的开卡费也挺高的，一次8刀，有效期一个月都没有

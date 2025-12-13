@@ -1,0 +1,54 @@
+{
+  "header": {
+    "brand": {
+      "title": "Community Operations",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "Community Operations"
+      },
+      "url": "/community"
+    },
+    "show_trigger": false
+  },
+  "main_navs": [
+    {
+      "title": "Business",
+      "items": [
+        {
+          "title": "Dashboard",
+          "url": "/community",
+          "icon": "LayoutDashboard"
+        },
+        {
+          "title": "Import Data",
+          "url": "/community/import",
+          "icon": "Upload"
+        },
+        {
+          "title": "Report Details",
+          "url": "/community/reports",
+          "icon": "FileText"
+        }
+      ]
+    }
+  ],
+  "bottom_nav": {
+    "items": []
+  },
+  "user": {
+    "nav": {
+      "items": []
+    },
+    "show_email": false,
+    "show_signout": false,
+    "signout_callback": "/"
+  },
+  "footer": {
+    "nav": {
+      "items": []
+    },
+    "show_theme": true,
+    "show_locale": false
+  },
+  "variant": "sidebar"
+}

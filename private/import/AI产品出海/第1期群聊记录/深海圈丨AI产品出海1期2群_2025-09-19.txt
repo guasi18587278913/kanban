@@ -1,0 +1,148 @@
+殷小样(wxid_3290772907712) 09-19 06:52:28
+谢谢分享[强][强]
+
+alon(alon1020) 09-19 07:01:55
+谢谢分享[强][强]
+
+苹果（晚11点睡觉）(wxid_um5y0rv05etu22) 09-19 08:05:24
+感谢分享[强][强][强]
+
+Insight(lyo_jo) 09-19 09:42:24
+接入了 stripe，还能申请 creem 么？作为备用
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-19 09:53:35
+stripe是不是一定要外国公司呀
+
+SunDay(wxid_qxp8aiy2c4kk22) 09-19 09:56:03
+港卡开个人账户也行吧
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-19 10:58:23
+没有港卡[破涕为笑]
+
+极客信条(kongfulive) 09-19 11:01:06
+我注册的邮箱转发验证码平台号被封了
+
+极客信条(kongfulive) 09-19 11:01:09
+[叹气]
+
+SuperEric(janetchristmas) 09-19 11:43:24
+[链接|生财教师节提名活动：生财十大“老师”出炉！
+
+三人行，必有我师，何况三万人同行。
+
+自 9月10日 教师节发起活动以来，](https://wx.zsxq.com/mweb/views/topicdetail/topicdetail.html?topic_id=5124218445441854&group_id=1824528822&inviter_id=51128425858214&inviter_sid=91n9xmrl40)
+
+SuperEric(janetchristmas) 09-19 11:43:30
+小排老师~实至名归~我的引路人[庆祝]
+
+SuperEric(janetchristmas) 09-19 11:43:47
+![图片](http://127.0.0.1:5030/image/76622685919ecf02a414c4a2a732b2f8)
+
+李才双Shawn(ShawnLee000) 09-19 11:45:39
+> SuperEric(janetchristmas) 09-19 11:43:30
+> 小排老师~实至名归~我的引路人[庆祝]
+[666]
+
+刘小排(liuxiaopai) 09-19 12:13:08
+"${liuxiaopai}" 拍了拍 "${janetchristmas}" ，专注力+1，洞察力+1
+
+我 09-19 14:41:55
+"智昊｜回家吃饭" 撤回了一条消息
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-19 14:42:54
+#举手 mksaas怎么接creem有同学知道吗，我已经在creem sdk里面跑通了支付流程，但是不知道怎么接到mksaas里
+
+Eliot(jackglen) 09-19 14:45:19
+https://kan.bn/cz01cg9xfvnk/mksaas-video
+
+Eliot(jackglen) 09-19 14:45:37
+![图片](http://127.0.0.1:5030/image/6bae923b5be57d2d7f6fadb94b9d15a9)
+
+Eliot(jackglen) 09-19 14:45:52
+或者直接在 discord 里面问
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-19 14:46:44
+那个视频我卡呢，是stripe的
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-19 14:46:47
+新方案
+
+Eliot(jackglen) 09-19 14:47:24
+https://www.youtube.com/watch?v=zaM8ubnDGqY&list=PL_D9knTZObxz5DuHtRrRqHrPNjNat4DWB&index=6
+
+Eliot(jackglen) 09-19 14:51:03
+![图片](http://127.0.0.1:5030/image/10f8a236eeed82b2f8da7f1078c7b84f)
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-19 14:53:40
+![图片](http://127.0.0.1:5030/image/dad938eec215cf7a4a7342f95f4545a7)
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-19 14:53:49
+这个视频下面的评论我发的[破涕为笑]
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-19 14:54:54
+我的discord最近抽风，卡在robot验证进不去
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-19 14:54:55
+![图片](http://127.0.0.1:5030/image/7fe411daca1ed14b0d730ef88189c891)
+
+哩厘锂力(zizhazhu) 09-19 14:57:34
+试试用手机进
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-19 15:03:54
+我试试
+
+江坤(wxid_x8f52rye1agm21) 09-19 15:11:10
+> 智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-19 14:42:54
+> #举手 mksaas怎么接creem有同学知道吗，我已经在creem sdk里面跑通了支付流程，但是不知道怎么接到mksaas里
+精华帖里有个帖子讲怎么接creem的
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-19 15:14:13
+我找找
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-19 15:14:28
+我应该是写一个creem的webhook就行了
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-19 15:17:33
+找到了
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-19 16:31:02
+#举手 https://www.lemonsqueezy.com/这个支付有人结果吗，和creem比如何？我在discord上查mksaas的fox写的记录里找到的
+
+刘小排(liuxiaopai) 09-19 18:31:12
+好用
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-19 18:33:29
+大陆身份能接吗小排老师
+
+刘小排(liuxiaopai) 09-19 18:39:59
+要不你看看它官网文档呢..
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-19 18:57:41
+我错了，我去看看[捂脸]
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-19 18:57:50
+一个下午接creem接崩溃了有点
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-19 19:05:50
+有china哈哈[爱心]
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-19 19:05:56
+我再试试接这个
+
+刘小排(liuxiaopai) 09-19 19:06:29
+"${liuxiaopai}" 拍了拍 "${wxid_46c3dv2ynm0t21}" 的光头
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-19 19:06:30
+![图片](http://127.0.0.1:5030/image/0acff69f769a008f199ddf39b572a1d3)
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-19 19:06:35
+[裂开]
+
+刘小排(liuxiaopai) 09-19 19:07:03
+你搞个海外卡
+
+刘小排(liuxiaopai) 09-19 19:07:06
+香港卡也行。
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-19 19:08:19
+我去研究一下，是不是还得去境外或者在境外注册公司，那样和stripe就没什么区别了，我先找找资料

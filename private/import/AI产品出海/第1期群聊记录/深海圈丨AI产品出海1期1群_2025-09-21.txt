@@ -1,0 +1,45 @@
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 09-21 01:00:44
+claude 可能后续封号不退款了
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 09-21 01:00:44
+![图片](http://127.0.0.1:5030/image/b4fb694b26556021824131946792e8dd)
+
+码叔编程(wxid_awv5vp6602ju22) 09-21 22:31:27
+接到出海第一个大单，周末两天把30个高保真原型页面做完了。刚发设计师朋友，说质量很高。[调皮]
+
+Chen junhong(junhongch) 09-21 22:48:14
+[强]
+
+码叔编程(wxid_awv5vp6602ju22) 09-21 22:49:35
+还是bolt给力，今天用bolt消耗了近20M token
+
+码叔编程(wxid_awv5vp6602ju22) 09-21 22:49:40
+"${wxid_awv5vp6602ju22}" 拍了拍 "${junhongch}"
+
+Chen junhong(junhongch) 09-21 22:52:54
+向你学习，我今天用bolt 给一个老师开发，比v0 感觉好
+
+Chen junhong(junhongch) 09-21 22:54:10
+感觉全站还是bolt 好
+
+码叔编程(wxid_awv5vp6602ju22) 09-21 22:54:24
+太强了，产品经理，UI设计师，前端的活，都干完了。
+
+码叔编程(wxid_awv5vp6602ju22) 09-21 22:56:01
+我的后端产品之一，AI根据代码，自动生成API文档第一版也上线了，https://autoapidocs.com
+
+Chen junhong(junhongch) 09-21 22:57:40
+这个是不是没弄， 我看了一下不是演示文档
+
+Chen junhong(junhongch) 09-21 22:57:40
+![图片](http://127.0.0.1:5030/image/c6df619ed2978362fad935f705233fd5)
+
+码叔编程(wxid_awv5vp6602ju22) 09-21 22:59:44
+"${wxid_awv5vp6602ju22}" 拍了拍 "${junhongch}"
+
+码叔编程(wxid_awv5vp6602ju22) 09-21 22:59:48
+Chen junhong(junhongch) 09-21 23:00:33
+[OK]
+
+Chen junhong(junhongch) 09-21 23:00:51
+期待(✧∀✧)

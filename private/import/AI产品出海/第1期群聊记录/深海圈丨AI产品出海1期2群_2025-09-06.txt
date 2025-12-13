@@ -1,0 +1,100 @@
+SuperEric(janetchristmas) 09-06 00:07:08
+![图片](http://127.0.0.1:5030/image/f6a79112dc8278552f6bfa58b9aaca8f)
+
+SuperEric(janetchristmas) 09-06 00:07:44
+千问 3 新模型比 k2 强这么多吗
+
+人生提词器(zjhoscar) 09-06 00:15:52
+分数我再也不信了，只有用了才知道每个模型的特点，就跟以前厂商卖手机一样
+
+闻鉴(wxid_cdtcq1czmsgf22) 09-06 08:28:14
+#举手https://scys.com/mobile/post/xq_topic/8854551448414852
+之前有看到过claude code工作流的玩法，定产品经理写需求文件，程序员开发，类似上面这个文章。请问，还有类似的详细文章吗？之前看到过，但忘了哪里看到了。
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-06 08:46:42
+bmad,superclaude,claudecode PM
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-06 08:46:50
+我主要用过这三个
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-06 08:46:59
+不过基本上都大差不差
+
+hanyukui(hanyukui777) 09-06 14:07:14
+#举手 Raphael starter kit的源代码下面的supabase这个目录下面有script 和 migrations 两个目录，这个下面的sql文件挺多的，是需要把所有的sql都需要执行一遍吗？
+
+hanyukui(hanyukui777) 09-06 14:07:34
+![图片](http://127.0.0.1:5030/image/4cf29e01c4f81263b28b65f5f099fbf8)
+
+刘小排(liuxiaopai) 09-06 14:13:50
+使用supbase的migrate功能可以自动执行
+
+刘小排(liuxiaopai) 09-06 14:14:10
+你找AI要一下官方文档
+
+刘小排(liuxiaopai) 09-06 14:14:56
+另外，这个starter不够完善，只用做教学@李生 。建议正式产品使用更全面的商用starter哈
+
+hanyukui(hanyukui777) 09-06 14:16:29
+好的，谢谢老师
+
+Okada 欢欢(wxid_bdbgo44zkrrv22) 09-06 21:50:30
+[视频号|不是每个人都要成为AI大神，但是每个人都有用AI改变生活的权利#AI #AI创业 #大树学AI #AI编程](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibFeI6caGYwFG9wFBsXfkbPQaWic7O0fXCMTHdFX5QWQONopFDpvg1C8ylXicrvuRAxrFGOeic73VLZPYXYKFvOHhS95eMjW4yicAw7gekNV0F0acXvkycpELQLQ&hy=SH&idx=1&m=fe6e393d34562e3f7d8400053be2d77d&uzid=7a260)
+
+Okada 欢欢(wxid_bdbgo44zkrrv22) 09-06 21:51:38
+荣禄的采访视频新鲜出炉啦
+
+星城祝大家2025健康快乐(yowsss) 09-06 22:35:18
+有什么网站/渠道，可以看别人视频演示，怎么通过ai一步步做网站的吗？比如复刻一些网站
+
+李澹归(wxid_ixr3b2qghvtx22) 09-06 22:43:19
+抖音多关注些AI类的博主还有程序员，他们经常会分享自己在用的方法，比如小由和小迪，AI随风，程序员三千等等。另外油管关注些AI大神，比如卡帕西，直接让GPT推荐
+
+星城祝大家2025健康快乐(yowsss) 09-06 22:44:17
+ok，试试。抖音那些剪辑的，有些步骤都看不清楚
+
+刘小排(liuxiaopai) 09-06 22:50:42
+![图片](http://127.0.0.1:5030/image/6f7976a62dc83a197e49e7342623fad9)
+
+刘小排(liuxiaopai) 09-06 22:50:53
+@一君 
+
+星吟(wxid_ivo4n28g15qj21) 09-06 22:51:13
+[动画表情]
+
+星城祝大家2025健康快乐(yowsss) 09-06 22:51:33
+上优秀学员直播，话题交给她
+
+卫斯理🤍(wxid_cap2car89b7811) 09-06 22:52:54
+优秀呀，期待分享
+
+A米(heiyanquanbaomi) 09-06 22:53:19
+太牛啦
+
+白欣刚（金刚葫芦）(wxid_4o848f8nvdh222) 09-06 22:56:55
+[动画表情]
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-06 22:56:59
+牛逼牛逼
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-06 22:57:03
+强无敌
+
+橙(wxid_5p4o1lcta13121) 09-06 22:57:12
+牛逼
+
+苹果（晚11点睡觉）(wxid_um5y0rv05etu22) 09-06 22:58:32
+牛牛牛666
+
+一君(wxid_mofob1lht8hi22) 09-06 22:59:13
+感谢小排老师[呲牙]
+
+一夕(phil7028) 09-06 23:00:08
+[庆祝][庆祝][庆祝][烟花][烟花][烟花]
+
+Walker(YQFabc) 09-06 23:11:21
+牛！
+
+> 星城祝大家2025健康快乐(yowsss) 09-06 22:51:33
+> 上优秀学员直播，话题交给她
+哈哈已经邀请下周分享啦[嘿哈]

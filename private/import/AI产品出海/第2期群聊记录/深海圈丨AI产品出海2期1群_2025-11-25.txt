@@ -1,0 +1,252 @@
+宁王（加油！）(wxid_5182881829312) 11-25 02:20:02
+@马文-南宁 明天先把clash更新一下版本
+
+言合(wxid_8znpwfzqtbcs22) 11-25 06:15:28
+大家用 cursor 有遇到过在一个地方运行了很久 感觉像卡死了的情况吗
+
+言合(wxid_8znpwfzqtbcs22) 11-25 06:15:30
+![图片](http://127.0.0.1:5030/image/c83ea7858b92f3fb5deead20d0f4f03f)
+
+周尹(whynot) 11-25 07:10:09
+> 言合-北京苏州美国(wxid_8znpwfzqtbcs22) 11-25 06:15:28
+> 大家用 cursor 有遇到过在一个地方运行了很久 感觉像卡死了的情况吗
+经常出现吧
+
+cherry(cherries-yan) 11-25 09:44:48
+cursor 不能使用gpt-5.1 了？
+
+cherry(cherries-yan) 11-25 09:44:49
+![图片](http://127.0.0.1:5030/image/59ce03eb5efd5524ea9ce07dafb1a7c0)
+
+Shrek(linchen102013) 11-25 09:47:34
+你可以搜索打开 
+
+Shrek(linchen102013) 11-25 09:47:35
+![图片](http://127.0.0.1:5030/image/f1617d775eb6ced34432f4b05bcc2327)
+
+cherry(cherries-yan) 11-25 09:51:18
+我账号pro版本
+
+cherry(cherries-yan) 11-25 09:51:19
+![图片](http://127.0.0.1:5030/image/6c27ea322d0339051b569ff0608361b3)
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-25 09:55:05
+退出账号，重进一下
+
+cherry(cherries-yan) 11-25 10:17:12
+可能跟我换了梯子节点有关，我早晨连了一会香港
+
+cherry(cherries-yan) 11-25 10:17:22
+这会切到美区，恢复了
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-25 10:21:41
+哦哦，好吧
+
+cherry(cherries-yan) 11-25 10:24:12
+![图片](http://127.0.0.1:5030/image/9162f5fdb4c3c63acc6f01dafae1cae7)
+
+cherry(cherries-yan) 11-25 10:24:29
+也有可能是催我续费的
+
+cherry(cherries-yan) 11-25 10:55:47
+大家在使用strarter kit 开发自己的产品的时候，不需要的模块是给出自己的需求和设计稿，让ai 来精准删除吗？
+
+Shrek(linchen102013) 11-25 11:00:25
+看个人 已经掌握了next.js的情况下 不需要的模块直接手动在代码里面无效掉就好 
+
+cherry(cherries-yan) 11-25 11:06:06
+桑桑(wxid_q2c7fp10z2522) 11-25 11:32:01
+今日 11.25学习进度提醒
+
+目标：进阶篇（10/10）
+
+1. 了解用户登录（约 2 小时）
+2. 了解用户订阅支付（约 2 小时）
+3. 进一步加快开发过程（约 24 小时）
+4. 利用低代码平台开发（约 4 小时）
+5. 挖掘需求、获得源源不断的产品 idea（约 2 小时）
+6. 获取健康且持续的流量（约 2 小时）
+7. Idea to Business的完整流程（约 6 小时）
+8. 产品设计流程（约 4 小时）
+
+桑桑(wxid_q2c7fp10z2522) 11-25 11:32:02
+📊 11.21-24 日报总结已更新，点击链接查看
+
+日报网站：https://aichanpinribao.com
+
+yuanchaooo(wxid_9buibte1gbeh21) 11-25 11:35:00
+完了 我的进度还在nextjs[捂脸]
+
+桑桑(wxid_q2c7fp10z2522) 11-25 11:35:51
+![动画表情](http://wxapp.tc.qq.com/275/20304/stodownload?m=4a7616ff2da2dc41c1b7a80a2745531b&filekey=30350201010421301f020201130402534804104a7616ff2da2dc41c1b7a80a2745531b0203078461040d00000004627466730000000132&hy=SH&storeid=26479e714000d2542000000000000011300004f50534810c028e0b6a00c653&bizid=1023)
+
+宇宙(wxid_ocbx1coeqq9q21) 11-25 13:13:55
+我今天练习支付，前面学习用的supase项目用完先不要删除，到支付这里，直接用那个项目练习测试支付，登录，数据库，复习了，支付也学习了，时间也省了，一点心得。
+
+宇宙(wxid_ocbx1coeqq9q21) 11-25 13:15:00
+supabase项目
+
+小明(wxid_at9px5nf07qm22) 11-25 13:34:02
+厉害，这两个挺难衔接起来的 @宇宙
+
+小明(wxid_at9px5nf07qm22) 11-25 13:34:18
+到进阶篇3.5，用脚手架开发肯定没问题了
+
+宇宙(wxid_ocbx1coeqq9q21) 11-25 13:39:29
+@小明 前面supabase.学了好几天时间，感觉糊里糊涂的，尤其数据库。到支付这里学习一复习，有点清晰了。[捂脸]
+
+田小宝|金聚(t1023619290) 11-25 16:24:17
+@刘小排 
+
+田小宝|金聚(t1023619290) 11-25 16:24:40
+排哥， opus 4.5 评测什么时候发
+
+刘小排(liuxiaopai) 11-25 16:42:12
+不用评了 它就是世界第一
+
+Ruiqin袁锐钦(wetas6) 11-25 17:02:27
+![图片](http://127.0.0.1:5030/image/228748d216a37d45f2cc9a95b674609b)
+
+Ruiqin袁锐钦(wetas6) 11-25 17:02:37
+智普马上发来邮件
+
+Ruiqin袁锐钦(wetas6) 11-25 17:02:39
+哈哈哈
+
+大将军浅水🐱(sujuycliu4) 11-25 17:08:30
+![图片](http://127.0.0.1:5030/image/d410edab5c87985e432a4f13902487fc)
+
+大将军浅水🐱(sujuycliu4) 11-25 17:08:47
+飞书都开始搞vibe coding的活动了
+
+曹玉成(wxid_2mc7i3lqkdgc22) 11-25 17:20:04
+卷，狠狠卷，不卷咱们怎么用到又好又快还便宜的大模型
+
+曹玉成(wxid_2mc7i3lqkdgc22) 11-25 17:20:05
+[旺柴]
+
+cherry(cherries-yan) 11-25 18:52:22
+我今天在vscode 里设置 codex ，使用chatgpt team 账号登录，这样消耗的就是chatgpt 团队版的对话额度，岂不是超级省钱、、
+
+cherry(cherries-yan) 11-25 18:52:52
+![图片](http://127.0.0.1:5030/image/c70de7f0020366dd196527abefee47d9)
+
+小明(wxid_at9px5nf07qm22) 11-25 19:05:57
+team 版本，每个单独的账号对应的额度也比 PLUS 多
+
+cherry(cherries-yan) 11-25 19:07:31
+就感觉很无敌、、本来是要用apikey 的，发现自己的香港卡居然不支持visa、、、然后用chatgpt账号登录，因为是team版，登陆后就在确认额度，发现没啥额度限制、、反正没找到额度限制
+
+Jupiter-zeus(wxid_u9qhmvlqb9or21) 11-25 19:09:12
+> cherry(cherries-yan) 11-25 18:52:22
+> 我今天在vscode 里设置 codex ，使用chatgpt team 账号登录，这样消耗的就是chatgpt 团队版的对话额度，岂不是超级省钱、、
+是的
+
+cherry(cherries-yan) 11-25 19:09:31
+那很容易被薅羊毛
+
+cherry(cherries-yan) 11-25 21:44:42
+shipany价格按次/月/年来付费了，感觉价格涨了不是一丁点
+
+cherry(cherries-yan) 11-25 21:44:44
+![图片](http://127.0.0.1:5030/image/e540e983e8bbe036de8cd9871101be7c)
+
+Ruiqin袁锐钦(wetas6) 11-25 21:54:14
+啊，网站模版还能这么收费？
+
+cherry(cherries-yan) 11-25 21:56:02
+![图片](http://127.0.0.1:5030/image/84222c7394b48bb53a26e8ae9b0e5909)
+
+Ruiqin袁锐钦(wetas6) 11-25 21:56:51
+额
+
+Ruiqin袁锐钦(wetas6) 11-25 21:59:13
+用不起用不起[偷笑]
+
+cherry(cherries-yan) 11-25 22:00:18
+可能过段时间，价格改回来了呢
+
+cherry(cherries-yan) 11-25 22:00:34
+过几天再看看
+
+赵青(wxid_ea2wl3anoc1p21) 11-25 22:20:14
+请问下大家 为了在苹果手机上安装ChatGPT ，已经注册好了美区apple id ，现在在手机上登陆这个apple id ，必须要使用美国的银行卡吗？我绑定招行的visa 卡提示 无法验证付款信息，但是这个visa 卡可以买v0的会员，这么说卡是没问题的
+
+蚕(wxid_b7icucoyx1nb21) 11-25 22:25:26
+国内的卡都不行
+
+cherry(cherries-yan) 11-25 22:25:41
+你去闲鱼买个team版就好了
+
+jenny(wxid_09f0l0zqo9zd12) 11-25 22:25:42
+用手机的苹果ID买
+
+cherry(cherries-yan) 11-25 22:25:45
+直接登陆
+
+cherry(cherries-yan) 11-25 22:26:53
+我手机的梯子打开，都没法用ChatGPT
+
+lily(wxid_pqa4321nguy021) 11-25 22:27:06
+> cherry(cherries-yan) 11-25 22:25:41
+> 你去闲鱼买个team版就好了
+咸鱼有链接不？现在搜好像都下架了[破涕为笑]
+
+cherry(cherries-yan) 11-25 22:27:59
+我在日本玩的时候用gpt，当地网络还动不动提示不支持地区…要杀进程重新进。 很严格了
+
+cherry(cherries-yan) 11-25 22:28:51
+你搜AI团队拼车，或者business之类
+
+lily(wxid_pqa4321nguy021) 11-25 22:29:20
+![动画表情](http://wxapp.tc.qq.com/275/20304/stodownload?m=8cd31ed7a5b0edfdbff0584d7d2e9c12&filekey=30350201010421301f020201130402534804108cd31ed7a5b0edfdbff0584d7d2e9c12020301e45d040d00000004627466730000000132&hy=SH&storeid=26789f860000f2d19b41d4e690000011300004f5053482963e03156a924120&bizid=1023)
+
+赵青(wxid_ea2wl3anoc1p21) 11-25 22:35:31
+我现在还卡在如何在手机里安装ChatGPT[破涕为笑]
+
+燃烧青年(wxid_h932fgpqi3gt11) 11-25 22:40:37
+想用claude的max，有没有人组队的
+
+燃烧青年(wxid_h932fgpqi3gt11) 11-25 22:40:59
+max全量可以用claude for chrome啦
+
+燃烧青年(wxid_h932fgpqi3gt11) 11-25 22:42:01
+其他的千好万好，只有claude很少让我失望，处处惊艳[奸笑]
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-25 22:42:32
+我要用cursor，我还没达到cursor使用上限
+
+Ruiqin袁锐钦(wetas6) 11-25 22:44:36
+> 十月(wxid_ea2wl3anoc1p21) 11-25 22:20:14
+> 请问下大家 为了在苹果手机上安装ChatGPT ，已经注册好了美区apple id ，现在在手机上登陆这个apple id ，必须要使用美国的银行卡吗？我绑定招行的visa 卡提示 无法验证付款信息，但是这个visa 卡可以买v0的会员，这么说卡是没问题的
+还买啥v0会员
+
+Ruiqin袁锐钦(wetas6) 11-25 22:44:41
+用谷歌啊
+
+Ruiqin袁锐钦(wetas6) 11-25 22:44:52
+免费，而且比v0牛逼
+
+Ruiqin袁锐钦(wetas6) 11-25 22:45:04
+一样可以部署，还可以下载代码
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-25 22:45:32
+我登不了账号，难受
+
+> cherry(cherries-yan) 11-25 21:44:44
+> ![图片](http://127.0.0.1:5030/image/e540e983e8bbe036de8cd9871101be7c)
+这个你是在哪看的？  @cherry  我进去看还是1399元终身呀。
+
+> 燃烧青年(wxid_h932fgpqi3gt11) 11-25 22:42:01
+> 其他的千好万好，只有claude很少让我失望，处处惊艳[奸笑]
+你不觉得它有时候改bug改好久都改不好么
+
+> cherry(cherries-yan) 11-25 21:44:44
+> ![图片](http://127.0.0.1:5030/image/e540e983e8bbe036de8cd9871101be7c)
+小排老师讲脚手架那天，我买的，入口不同，显示的不同。
+
+从官网，就是按次/月/年；
+
+从手册的生财专属链接，就是1399终身。
+
+@cherry  你可以试试那个专属链接进，看还有活动不

@@ -1,0 +1,673 @@
+清仔（专注中）(wxid_4oz7hsqrg8y722) 10-22 08:19:24
+OpenAI 推出了 全新的浏览器——ChatGPT Atlas
+
+银河星游(wxid_6253072530112) 10-22 09:08:07
+> 清仔-广州(wxid_4oz7hsqrg8y722) 10-22 08:19:24
+> OpenAI 推出了 全新的浏览器——ChatGPT Atlas
+是不是dia可以退休了哈哈
+
+Ash焚芯(wxid_siqp6j111tho22) 10-22 09:09:09
+感觉还是dia好用
+
+Min(szm800717) 10-22 09:09:41
+现在豆包，谷歌，gpt都有浏览器
+
+Shrek(linchen102013) 10-22 09:12:54
+看官网视频 比dia多了个任务助理，能执行一些任务。
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 10-22 09:22:49
+下载了，感觉还不如 comet 的
+
+Shrek(linchen102013) 10-22 09:25:05
+不能像dia一样自定义skill 。
+
+老恩(wxid_jmoj44lznopq22) 10-22 09:33:03
+dia不能导入导出书签这条很不好，如果不是速度快，它就不如comet了。
+
+Ash焚芯(wxid_siqp6j111tho22) 10-22 09:34:19
+装个插件就好了
+
+Ash焚芯(wxid_siqp6j111tho22) 10-22 09:35:17
+垂直标签用着很舒服
+
+李毅(wxid_agcw0s1w986p21) 10-22 10:08:20
+dia 后面要收费的吧？
+
+离心之巅(wxid_zct5h7skjhaq22) 10-22 10:37:33
+今天试试这个看看效果
+
+离心之巅(wxid_zct5h7skjhaq22) 10-22 10:37:34
+![图片](http://127.0.0.1:5030/image/6b4a8df0655b18a2f245a3a1bbf837f2)
+
+乐天(txwxlt) 10-22 11:12:10
+> 老恩(wxid_jmoj44lznopq22) 10-22 09:33:03
+> dia不能导入导出书签这条很不好，如果不是速度快，它就不如comet了。
+可以导入，输入chrome://settings
+
+老恩(wxid_jmoj44lznopq22) 10-22 11:21:38
+@乐天 谢谢
+
+我 10-22 12:03:54
+"银河星游" 撤回了一条消息
+
+我 10-22 12:04:01
+"银河星游" 撤回了一条消息
+
+乐天(txwxlt) 10-22 12:16:11
+买openai 会员还是真值啊，gpt、codex、还有新出的这个浏览器一卡通用
+
+刘小排(liuxiaopai) 10-22 12:16:33
+OpenAI的AI浏览器Atlas还挺好用的
+
+刘小排(liuxiaopai) 10-22 12:16:40
+已设置为默认浏览器。
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 10-22 12:16:52
+[动画表情]
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 10-22 12:17:01
+出个文章写一下怎么用的
+
+果潇洒(guoguoxiaodian) 10-22 12:17:48
+> 刘小排(liuxiaopai) 10-22 12:16:33
+> OpenAI的AI浏览器Atlas还挺好用的
+这个是不是App Store 没有，得自己魔法出去找
+
+鱼总丨AIGC(kuikui546212419) 10-22 12:18:01
+只支持mac
+
+刘小排(liuxiaopai) 10-22 12:18:02
+可惜最近太忙了，哈哈哈哈
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 10-22 12:18:59
+[动画表情]
+
+果潇洒(guoguoxiaodian) 10-22 12:21:38
+> 鱼总丨AIGC(kuikui546212419) 10-22 12:18:01
+> 只支持mac
+我 mac 在 app store 也没找到。。。。
+
+果潇洒(guoguoxiaodian) 10-22 12:21:49
+想必又是陈年的intel 芯片闹得
+
+前行(gejinpeng123) 10-22 12:22:30
+有下载链接
+
+前行(gejinpeng123) 10-22 12:22:48
+https://chatgpt.com/zh-Hans-CN/atlas/
+
+果潇洒(guoguoxiaodian) 10-22 12:25:17
+intel看来是不行。。。
+
+果潇洒(guoguoxiaodian) 10-22 12:25:17
+![图片](http://127.0.0.1:5030/image/2346ba393c47db647d4ccad53bdb1e87)
+
+果潇洒(guoguoxiaodian) 10-22 12:25:21
+谢谢亲
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 12:26:21
+mac操作系统支持周期是6年，从现在开始最后一代intel的机型也过6年了。mac官方将不再支持，所以肯定不行了
+
+果潇洒(guoguoxiaodian) 10-22 12:28:29
+嗯
+
+果潇洒(guoguoxiaodian) 10-22 12:28:44
+用着还是很顺滑hhhh
+
+果潇洒(guoguoxiaodian) 10-22 12:28:52
+耐用
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 12:29:27
+那说明你对性能的要求很低…… 大概2年前我就因为实在太慢改用了M3版，然后今年开始改用了win11
+
+果潇洒(guoguoxiaodian) 10-22 12:34:01
+为什么改到win了
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 12:35:26
+因为mac慢啊，win快。我对性能要求比较高
+
+老恩(wxid_jmoj44lznopq22) 10-22 12:36:57
+win广告太多了，也不快
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 12:37:28
+那是你没用过好电脑，不要试图拿5000块的win和mac对比。但凡用过1万2以上的win，都说不出这种话
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 12:38:35
+最简单的浏览器能支持开的最大tab数，mac的性能就是根本无法和win媲美的。更别说启动调试到启动完成的时间，没有什么CPU 是比 AMD 锐龙9950x3D更快的。
+
+老恩(wxid_jmoj44lznopq22) 10-22 12:41:56
+我的win也是一万多的，但用了macbook pro就回不去了，没广告、不用关机就很舒服。
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 12:42:30
+win也没广告，只有不会用的人才会觉得win广告多。
+
+袁智翔(wxid_7483c6zwueat22) 10-22 12:42:58
+> 刘小排(liuxiaopai) 10-22 12:16:40
+> 已设置为默认浏览器。
++1
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 12:42:59
+什么win配置？intel 10代i7？
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 12:43:34
+MacBook有很多优点，包含不用关机、续航强等。但性能是真的不行。
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 12:48:32
+更何况win11内存要96G就96G，要192G就192G都不是问题。硬盘4TB、8TB也都不是问题。mac是什么吊东西，也能碰瓷win的性能
+
+Moore(xiaobei1984) 10-22 12:50:11
+[旺柴] 需求不一样吧，做网站全栈nextjs 等设计型项目很方便。如果要搞模型训练和玩游戏，对性能要求很高就需要win，不过现在模型自建都喜欢用GPU 云
+
+Moore(xiaobei1984) 10-22 12:52:11
+使用体验上，萝卜青菜各有所好
+
+夕远(wxid_0kb3l3xk63ag21) 10-22 12:52:50
+> Moore 助教(xiaobei1984) 10-22 12:52:11
+> 使用体验上，萝卜青菜各有所好
++1
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 12:53:57
+体验是体验性能是性能，别扯一堆去了
+
+我 10-22 12:53:58
+"超然同学" 撤回了一条消息
+
+乐天(txwxlt) 10-22 12:57:21
+[破涕为笑]
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 12:58:18
+其实体验上，Windows的 powershell和explorer，比mac上的terminal和finder实在是强太多了。win体验的主要短板是必须要鼠标、轻薄本性能弱这种问题。
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 12:59:13
+低功耗性能方面x86比arm烈士太大
+
+Moore(xiaobei1984) 10-22 13:20:21
+[旺柴] 其实大家讨论的是mac 的开箱即用体验和耐用上，设备使用群体不一样。你要说win性能最牛逼最无敌，只能说大家关注点不一样。都不在一个层的讨论。不如多聊聊上站搞钱更舒服
+
+Moore(xiaobei1984) 10-22 13:20:38
+都不在一个层面
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 13:22:05
+本来我说的是是性能不行，所以m3的mac我都不用了win11。结果他非要说win也不快？！
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 13:23:03
+还说win11广告多，除了搜过那个B一只弹广告，被我用注册表搞过老实了，我win11上就没任何弹广告的东西
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 13:23:08
+搜狗
+
+Moore(xiaobei1984) 10-22 13:25:33
+[旺柴] 这不就是毛胚和拎包入住的区别嘛
+
+Moore(xiaobei1984) 10-22 13:26:12
+一个喜欢自由，一个喜欢简洁
+
+乐天(txwxlt) 10-22 13:32:27
+atlas 浏览器怎么修改弹出聊天窗的快捷键啊
+
+乐天(txwxlt) 10-22 13:32:35
+用dia用习惯了，还是想改成cmd+e
+
+刘小排(liuxiaopai) 10-22 13:41:09
+我换回dia了
+
+土豆君(wxid_gzr7bvbdlvlv22) 10-22 13:42:31
+[破涕为笑]
+
+孙金鑫(sunjinxin2005) 10-22 13:42:54
+[破涕为笑]
+
+土豆君(wxid_gzr7bvbdlvlv22) 10-22 13:55:31
+所以果然还是不太行嘛
+
+青竹(wxid_1348793487711) 10-22 13:58:08
+[Chuckle]
+
+刘小排(liuxiaopai) 10-22 14:03:58
+有几个我常用的功能它没有
+
+刘小排(liuxiaopai) 10-22 14:04:25
+比如浏览器插件、devtool里的一些高级功能、快捷键、自定义快捷指令
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 14:07:56
+> Moore 助教(xiaobei1984) 10-22 13:25:33
+> [旺柴] 这不就是毛胚和拎包入住的区别嘛
+不是哟，是纯性能问题。我最早发现mac性能问题是用m3的时候，遇到个问题始终无法解决，就把老i7的mac装了个win11尝试在win上解决（就是那个因为实在太慢被我淘汰的MacBook Por）。问题解决的同时惊奇的发现，同样的硬件win11比mac快太多了！这玩意速度甚至接近了M3的MacBook
+
+然后我就把家里的游戏机(i7 12700)的机器拿来做了下开发，确认了mac的性能真的太拉了。总所周知next15的dev性能非常差，pnpm dev启动到能用项目稍微大一点M3的MacBook能到30秒以上，然后我发现12700的冷启动时间大约只有m3的一半儿！
+
+那我用鸡毛个mac啊，重新买了游戏机电脑，直接用12700的win11 替代了m3。后来随着用的cpu越来越多，发现无论老旧的amd 3960x，还是新款 9950x，他们的性能对比MacBook都是碾压级别的。“Mac系统流畅”只不过是雷总PPT里的一行小字“流程我们的目标”
+
+孙金鑫(sunjinxin2005) 10-22 14:13:36
+每个人认知不同，可能到了你那个境界，我也会喜欢win。但是我现在更喜欢mac一点。因为mac可以用dia等软件
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 14:16:28
+是的，喜欢用什么是个人的选择。但性能是客观的事实
+
+Moore(xiaobei1984) 10-22 14:25:06
+[旺柴]  买mac和 win都不是一类用户人群，就跟你和使用华为汽车的人讨论改装车性能车，双方关注焦点都不一样。 也许你到win 群体讨论能得到正反馈会更多
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 14:26:48
+我只是要讲明事实：mac性能弱。
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 14:27:18
+在什么群里里，mac性能都是弱
+
+孙金鑫(sunjinxin2005) 10-22 14:28:01
+对，Mac性能弱
+
+Moore(xiaobei1984) 10-22 14:28:15
+对，Mac性能弱
+
+小林日入万$(wxid_ezwxect889j422) 10-22 14:28:23
+对，Mac性能弱
+
+北(wxid_h2x4q8b8vmvj12) 10-22 14:28:31
+性能弱也不影响买，因为买不是因为性能（
+
+北(wxid_h2x4q8b8vmvj12) 10-22 14:28:44
+[动画表情]
+
+Shrek(linchen102013) 10-22 14:29:07
+差点出现幻觉了 看到聊win/mac性能谁好谁差 。。。以为在新人群
+
+北(wxid_h2x4q8b8vmvj12) 10-22 14:29:16
+same
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 14:29:52
+> 小北 上海(wxid_h2x4q8b8vmvj12) 10-22 14:28:44
+> [动画表情]
+那也不是，毕竟6万的mac也比不上6万的x86
+
+乐天(txwxlt) 10-22 14:32:24
+> 刘小排(liuxiaopai) 10-22 13:41:09
+> 我换回dia了
+[破涕为笑] 这个世界的变化太快了，前一秒小排老师还在用atlas
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 14:32:44
+![图片](http://127.0.0.1:5030/image/4f9c35ad57b9370c18f2a3579ca746ea)
+
+Moore(xiaobei1984) 10-22 14:33:12
+> 乐天(txwxlt) 10-22 14:32:24
+> > [引用]
+> [破涕为笑] 这个世界的变化太快了，前一秒小排老师还在用atlas
+[旺柴] 等 atlas 再迭代几个版本，dia 跑了快一年了吧
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 14:33:38
+而且我也不是不用mac，我最终保留了这台世界上最便携的MacBook至今没有之一。性能弱到上网都不太利索~ 但不影响这是我最喜欢的MacBook，需要出远门还会带
+
+小林日入万$(wxid_ezwxect889j422) 10-22 14:34:16
+> 乐天(txwxlt) 10-22 14:32:24
+> > [引用]
+> [破涕为笑] 这个世界的变化太快了，前一秒小排老师还在用atlas
+我还在熟悉comet ，又出来atlas
+
+乐天(txwxlt) 10-22 14:34:22
+哈哈
+
+GavinHawk(genius711) 10-22 14:34:43
+> 超然同学(wxid_lgfk7wufz9b651) 10-22 14:32:44
+> ![图片](http://127.0.0.1:5030/image/4f9c35ad57b9370c18f2a3579ca746ea)
+推荐去b站发个专业测评，顺便赚点流量，再把自己的AI出海产品软广嵌入进去，这波流量就有了[奸笑]
+
+舒未读(wxid_1814638146314) 10-22 14:36:15
+> GavinHawk-成都(genius711) 10-22 14:34:43
+> > [引用]
+> 推荐去b站发个专业测评，顺便赚点流量，再把自己的AI出海产品软广嵌入进去，这波流量就有了[奸笑]
+哎，你是个鬼才，这都想得到。
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 14:37:18
+这个mac在当年是顶配， 唯一一代MacBook没有后缀，既不是pro也不是air或者别的什么。处理器顶配，内存顶配，硬盘顶配。只有12寸 800g。可惜受众太窄了只出了一代
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 14:38:16
+能上网能用终端，能连回家里的win11，就是目前它全部的功能了
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 14:48:47
+> GavinHawk-成都(genius711) 10-22 14:34:43
+> > [引用]
+> 推荐去b站发个专业测评，顺便赚点流量，再把自己的AI出海产品软广嵌入进去，这波流量就有了[奸笑]
+各有各的用法，我的确掌握了很多硬件的性能密码，自己产品用这种信息差赚了很多钱。如果做评测，这些秘密告诉了别人那我产品还赚不赚呢
+
+北(wxid_h2x4q8b8vmvj12) 10-22 14:50:42
+太好了，看到你赚钱真为你开心
+
+我 10-22 14:55:26
+"章晗" 撤回了一条消息
+
+刘小排(liuxiaopai) 10-22 14:57:09
+官网
+
+刘小排(liuxiaopai) 10-22 14:57:47
+官网首页 https://www.diabrowser.com/ 每一屏都看完哈～～ 功能不多，就这些  @章晗
+
+章晗(wxid_ux74p8kp09do21) 10-22 15:02:53
+好的，收到
+
+章晗(wxid_ux74p8kp09do21) 10-22 15:03:33
+[动画表情]
+
+乐阳(wxid_ovyccw6ikkci11) 10-22 16:56:11
+atlas比comet好用点吗？
+
+浙大吴美律(wxid_wey7hbsz7pzq22) 10-22 17:00:12
+comet可以在Windows上用，我宣布comet完胜
+
+Ash焚芯(wxid_siqp6j111tho22) 10-22 17:39:46
+[视频号|10分钟纯干货：如何把X变成AI学习平台](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibusn4vVFEyiaoPE3gDm0q6STTqo19EPjA8iaLoLvrst215eeOfkoVZ6qdTbf3qRKODHNrU6AmNyericp9VGYJibBdxnWxPn6wCS6XUwUFfV3nMuFbLBKg5hsXoA&hy=SZ&idx=1&m=1783c1e9d65ebe060b0746d2ec8cde7b&uzid=7a148)
+
+YS(wxid_erhr16xan1j122) 10-22 18:21:48
+> Ash焚芯-临沂(wxid_siqp6j111tho22) 10-22 17:39:46
+> [视频号|10分钟纯干货：如何把X变成AI学习平台](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibusn4vVFEyiaoPE3gDm0q6STTqo19EPjA8iaLoLvrst215eeOfkoVZ6qdTbf3qRKODHNrU6AmNyericp9VGYJibBdxnWxPn6wCS6XUwUFfV3nMuFbLBKg5hsXoA&hy=SZ&idx=1&m=1783c1e9d65ebe060b0746d2ec8cde7b&uzid=7a148)
+说的很好啊，把X当成巨大的群聊，多关注builders，实践起来！
+
+桑桑(wxid_q2c7fp10z2522) 10-22 19:27:30
+@所有人 今晚兔老师会和二期学员分享：她是如何思考第一个产品的
+
+分享内容：
+1）从 0→1做AI产品的完整历程 
+2）踩了哪些坑，经验和方法论分享
+3）如果再做下一个产品，她会怎么做
+4）怎么更高效学小排老师的课
+
+感兴趣点击下方链接预约直播，今晚20：00不见不散！~
+
+桑桑(wxid_q2c7fp10z2522) 10-22 19:28:27
+[小程序|企业微信直播](https://mp.weixin.qq.com/mp/waerrpage?appid=wx7424030d69bde86e&type=upgrade&upgradetype=3#wechat_redirect)
+
+银河星游(wxid_6253072530112) 10-22 19:30:23
+太强了！atals能帮我们直接发推特！不需要claude插件了！Amazing
+
+银河星游(wxid_6253072530112) 10-22 19:30:23
+[分享]
+
+章晗(wxid_ux74p8kp09do21) 10-22 19:48:45
+codex是不是没有cc那么智能，好像没办法操控电脑？
+
+刘小排(liuxiaopai) 10-22 19:49:06
+一样
+
+刘小排(liuxiaopai) 10-22 19:49:17
+只要你权限给到位
+
+刘小排(liuxiaopai) 10-22 19:49:24
+terminal可以操作电脑的一切
+
+z老鬼(zh280326264) 10-22 19:50:14
+codex发推特 facebook等等会不会造成封号啊
+
+z老鬼(zh280326264) 10-22 19:50:42
+昨天问的gpt说会导致封号我就没敢用
+
+Min(szm800717) 10-22 19:54:42
+> z老鬼(zh280326264) 10-22 19:50:14
+> codex发推特 facebook等等会不会造成封号啊
+我之前用cc里的playwright发x给我整了个临时标签，就再也没弄过了
+
+章晗(wxid_ux74p8kp09do21) 10-22 19:54:46
+好的，研究下codex
+
+z老鬼(zh280326264) 10-22 19:56:42
+> 随波逐流(szm800717) 10-22 19:54:42
+> > [引用]
+> 我之前用cc里的playwright发x给我整了个临时标签，就再也没弄过了
+要是能发就好了，做外贸的肯定有需求
+
+Min(szm800717) 10-22 19:57:32
+> z老鬼(zh280326264) 10-22 19:56:42
+> > [引用]
+> 要是能发就好了，做外贸的肯定有需求
+能发，但要控制节奏
+
+Min(szm800717) 10-22 19:59:59
+否则会封号，让他做半自动化，就是做个外挂，cc每日限制后，外挂启动倒计时，然后自动启动terminal后启动cc并输入继续执行x发布计划，以此循环往复
+
+z老鬼(zh280326264) 10-22 20:01:59
+> 随波逐流(szm800717) 10-22 19:59:59
+> 否则会封号，让他做半自动化，就是做个外挂，cc每日限制后，外挂启动倒计时，然后自动启动terminal后启动cc并输入继续执行x发布计划，以此循环往复
+超有用[色]明天我就按这个思路试试
+
+浙大吴美律(wxid_wey7hbsz7pzq22) 10-22 20:02:51
+直播直接结束了
+
+Min(szm800717) 10-22 20:03:14
+> z老鬼(zh280326264) 10-22 20:01:59
+> > [引用]
+> 超有用[色]明天我就按这个思路试试
+你也可以试试gpt浏览器看看能不能做到
+
+武晓亮(wxid_kv9rjsiyjgp322) 10-22 20:03:15
+[小程序|企业微信直播](https://mp.weixin.qq.com/mp/waerrpage?appid=wx7424030d69bde86e&type=upgrade&upgradetype=3#wechat_redirect)
+
+浙大吴美律(wxid_wey7hbsz7pzq22) 10-22 20:03:25
+okk
+
+桑桑(wxid_q2c7fp10z2522) 10-22 20:03:54
+新的视频链接，从这里进哈
+
+桑桑(wxid_q2c7fp10z2522) 10-22 20:03:54
+[小程序|企业微信直播](https://mp.weixin.qq.com/mp/waerrpage?appid=wx7424030d69bde86e&type=upgrade&upgradetype=3#wechat_redirect)
+
+小明(wxid_at9px5nf07qm22) 10-22 20:15:36
+[小程序|企业微信直播](https://mp.weixin.qq.com/mp/waerrpage?appid=wx7424030d69bde86e&type=upgrade&upgradetype=3#wechat_redirect)
+
+z老鬼(zh280326264) 10-22 20:16:50
+> 随波逐流(szm800717) 10-22 20:03:14
+> > [引用]
+> 你也可以试试gpt浏览器看看能不能做到
+我是这么打算的，让gtp浏览器发视频和文案，视频准备好文案给点约束就可以
+
+z老鬼(zh280326264) 10-22 20:17:54
+主要针对脸书
+
+Min(szm800717) 10-22 20:19:29
+> z老鬼(zh280326264) 10-22 20:16:50
+> > [引用]
+> 我是这么打算的，让gtp浏览器发视频和文案，视频准备好文案给点约束就可以
+注意时间和节奏，这应该是是否封号的关键，比如制定一周的计划，里面时间随机等等
+
+土豆君(wxid_gzr7bvbdlvlv22) 10-22 22:35:31
+我靠，我居然出第一单了，在一周前[破涕为笑]今天才发现[捂脸]
+
+土豆君(wxid_gzr7bvbdlvlv22) 10-22 22:35:40
+![图片](http://127.0.0.1:5030/image/bf131ade1a77a01f651c6f7cbb5a8f53)
+
+彩笺(wxid_7bvhmd8m2q3y22) 10-22 22:35:49
+恭喜恭喜
+
+超然同学(wxid_lgfk7wufz9b651) 10-22 22:35:53
+[强]
+
+刘小排(liuxiaopai) 10-22 22:35:57
+人生第一次吗
+
+echo(wxid_4225792257912) 10-22 22:36:06
+恭喜恭喜
+
+土豆君(wxid_gzr7bvbdlvlv22) 10-22 22:36:13
+> 刘小排(liuxiaopai) 10-22 22:35:57
+> 人生第一次吗
+是的呢
+
+Mercury(wxid_21dn07xbnitk22) 10-22 22:36:16
+恭喜恭喜
+
+刘小排(liuxiaopai) 10-22 22:36:22
+恭喜
+
+井然(wxid_u165f6h4jeuq12) 10-22 22:36:56
+恭喜恭喜🎉
+
+舒未读(wxid_1814638146314) 10-22 22:36:57
+恭喜
+
+夕远(wxid_0kb3l3xk63ag21) 10-22 22:37:34
+恭喜阿
+
+巴黎城下的小铁匠(wxid_xurl7he5g8bj22) 10-22 22:37:49
+[庆祝][庆祝]
+
+章晗(wxid_ux74p8kp09do21) 10-22 22:38:01
+恭喜🎉
+
+青雨·涤生(wxid_tlpm1lj3qv2522) 10-22 22:38:14
+恭喜🎉
+
+yyyhx(wxid_9013080130212) 10-22 22:38:15
+恭喜恭喜🎉
+
+果潇洒(guoguoxiaodian) 10-22 22:38:17
+恭喜！
+
+在旅途的车(chegang222569) 10-22 22:38:18
+恭喜恭喜
+
+果潇洒(guoguoxiaodian) 10-22 22:38:20
+"${guoguoxiaodian}" 拍了拍 "${wxid_gzr7bvbdlvlv22}" 的西瓜，舀了一勺[烟花]
+
+林(wxid_sr4r2gpcogq211) 10-22 22:38:33
+恭喜恭喜🎉
+
+我 10-22 22:38:38
+"多米杨LR" 撤回了一条消息
+
+多米杨LR(kmlrac) 10-22 22:38:45
+恭喜🎉
+
+碗团(wxid_hdbd30w718b922) 10-22 22:38:59
+恭喜！
+
+金龙(wxid_4zaur79woix122) 10-22 22:39:03
+恭喜恭喜🎉
+
+不晚(wxid_uey4xxzk35lj22) 10-22 22:39:12
+恭喜
+
+Ash焚芯(wxid_siqp6j111tho22) 10-22 22:39:22
+恭喜
+
+Dave(wxid_eq3atztv38sr21) 10-22 22:39:23
+恭喜🎉
+
+Shrek(linchen102013) 10-22 22:39:23
+恭喜恭喜🎉
+
+土豆君(wxid_gzr7bvbdlvlv22) 10-22 22:40:10
+> 土豆君(wxid_gzr7bvbdlvlv22) 10-22 22:35:31
+> 我靠，我居然出第一单了，在一周前[破涕为笑]今天才发现[捂脸]
+[破涕为笑]都没注意这个站，我都放弃更新维护在做下个站，结果刚才看到用户今天给我反馈问题，瞬间有动力更新了[捂脸]
+
+土豆君(wxid_gzr7bvbdlvlv22) 10-22 22:40:25
+![图片](http://127.0.0.1:5030/image/faa3ea6d7a06f23f3e5737be3c97b050)
+
+Moore(xiaobei1984) 10-22 22:40:40
+8刀 8（发）财的第一单
+
+刘小排(liuxiaopai) 10-22 22:40:50
+还做了在线客服吗？[强]
+
+果潇洒(guoguoxiaodian) 10-22 22:40:51
+"${guoguoxiaodian}" 拍了拍 "${wxid_gzr7bvbdlvlv22}" 的西瓜，舀了一勺[烟花]
+
+stewart🤔(stewart) 10-22 22:41:42
+恭喜恭喜🎉
+
+土豆君(wxid_gzr7bvbdlvlv22) 10-22 22:42:03
+> 刘小排(liuxiaopai) 10-22 22:40:50
+> 还做了在线客服吗？[强]
+模板里面的crisp哈哈
+
+彩笺(wxid_7bvhmd8m2q3y22) 10-22 22:42:29
+mksaas么
+
+夕远(wxid_0kb3l3xk63ag21) 10-22 22:42:36
+> 土豆君(wxid_gzr7bvbdlvlv22) 10-22 22:42:03
+> > [引用]
+> 模板里面的crisp哈哈
+[强][强][强]
+
+刘小排(liuxiaopai) 10-22 22:42:42
+那应该是mksaas了
+
+土豆君(wxid_gzr7bvbdlvlv22) 10-22 22:42:44
+[动画表情]
+
+刘小排(liuxiaopai) 10-22 22:42:46
+厉害
+
+土豆君(wxid_gzr7bvbdlvlv22) 10-22 22:42:53
+> 彩笺(wxid_7bvhmd8m2q3y22) 10-22 22:42:29
+> mksaas么
+是的是的
+
+乐天(txwxlt) 10-22 22:44:18
+恭喜
+
+矿山(wxid_8fwtkj2uvvcl12) 10-22 22:44:27
+恭喜！
+
+码叔编程(wxid_awv5vp6602ju22) 10-22 22:44:32
+@土豆君 恭喜，牛逼，
+
+无常(wxid_e1yj7sv0ucpt51) 10-22 22:44:41
+恭喜[鼓掌][鼓掌][庆祝][庆祝]
+
+何慢慢(wxid_jktjwjue5t2i22) 10-22 22:45:41
+恭喜恭喜
+
+Martion(wxid_6amq500pa83821) 10-22 22:45:57
+恭喜恭喜！
+
+droidHZ(wxid_5396913969012) 10-22 22:46:29
+"${wxid_5396913969012}" 拍了拍 "${wxid_gzr7bvbdlvlv22}" 的西瓜，舀了一勺[烟花]
+
+droidHZ(wxid_5396913969012) 10-22 22:46:31
+恭喜恭喜
+
+浙大吴美律(wxid_wey7hbsz7pzq22) 10-22 22:46:36
+恭喜恭喜
+
+小林日入万$(wxid_ezwxect889j422) 10-22 22:46:42
+恭喜恭喜
+
+Nana(wxid_gd70eey0n48e21) 10-22 22:46:44
+恭喜恭喜！
+
+啊吹（不二）(wxid_ezuncd5lcu1c22) 10-22 22:47:09
+[庆祝][庆祝]
+
+国际范～(a4520a) 10-22 22:47:44
+恭喜恭喜！
+
+土豆君(wxid_gzr7bvbdlvlv22) 10-22 22:49:36
+一起加油[嘿哈]
+
+大橙子(qiaolei_1040) 10-22 22:50:52
+恭喜恭喜！
+
+X。(wxid_azip4xcyr87p22) 10-22 22:51:30
+恭喜恭喜🎉
+
+云一(wxid_t8r3nyrl7m2l22) 10-22 22:51:45
+恭喜恭喜，沾沾喜气(*・∀・*)🎉
+
+武晓亮(wxid_kv9rjsiyjgp322) 10-22 22:52:40
+恭喜恭喜
+
+GavinHawk(genius711) 10-22 22:52:54
+恭喜恭喜
+
+天二(hezwb1994) 10-22 22:57:12
+[动画表情]
+
+Min(szm800717) 10-22 23:00:19
+恭喜恭喜[烟花][庆祝][爆竹]
+
+前行(gejinpeng123) 10-22 23:17:54
+恭喜恭喜[烟花][庆祝][爆竹]
+
+夕远(wxid_0kb3l3xk63ag21) 10-22 23:20:06
+[视频号|怎样做好一位AI时代的产品经理？听刘小排亲述，在用户的“抱怨”里寻找机会，用进化论的思维开发产品。#AI创业 #产品经理 #超级个体 #搞钱 #认知
+](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQBn1KA9tBwB4KWC0U5LQiaYCsRRq2rK9CqX0YgCOJrGaeo8qgaYicicsnp9p7UCluWbavYmYpF13mmVMbPyGUFSb3Z&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a1ac)
+
+John(jtrump) 10-22 23:24:21
+恭喜恭喜[烟花][庆祝][爆竹]

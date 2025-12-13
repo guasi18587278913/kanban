@@ -1,0 +1,324 @@
+小明(wxid_at9px5nf07qm22) 11-11 11:35:21
+手册内功篇数据库部分，小排更新了哈，用neon串了实操
+
+我 11-11 13:42:51
+"心绎传媒-老蔡(@)" 撤回了一条消息
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-11 13:42:59
+#举手 跟着 next.js 官方教程 
+配置 supabase 数据库的 
+初始化数据库
+初始化失败了。
+请教下我是哪里步骤错了吗？
+貌似 浏览器 api 调用失败了
+{"error":{"code":"CONNECTION_CLOSED","errno":"CONNECTION_CLOSED","address":["aws-1-us-east-1.pooler.supabase.com"],"port":[6543]}}
+
+我网络环境也没问题才对哈 
+终端可以用 claude code 
+
+然后 vercel 部署了！ 这个环境变量 是自动匹配的吗？
+大佬帮忙看下。
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-11 13:43:11
+![图片](http://127.0.0.1:5030/image/64c3b99d834688f9bc008332f237d81a)
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-11 13:43:19
+![图片](http://127.0.0.1:5030/image/ba6c275e71f336ec69cbbcbb732dabb9)
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-11 13:43:30
+![图片](http://127.0.0.1:5030/image/a8b195b56ffce51c59fb92e81cda6932)
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-11 13:43:50
+![图片](http://127.0.0.1:5030/image/b9c042152419346550121b4941f3a896)
+
+小明(wxid_at9px5nf07qm22) 11-11 13:44:11
+env中，supabase的3个变量填写了吗 @心绎传媒-老蔡(@)
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-11 13:44:41
+![图片](http://127.0.0.1:5030/image/6438cbb3bfca72756e2a1e517bf5e65a)
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-11 13:45:26
+![图片](http://127.0.0.1:5030/image/f7a296f0c2b582ad922eafd703ad4155)
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-11 13:45:35
+是不是这里要手动在配置下？ vercel 里面
+
+小明(wxid_at9px5nf07qm22) 11-11 13:46:42
+env的环境变量，粘贴在vercel的项目部署页面，就可以了
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-11 13:46:53
+好
+
+小明(wxid_at9px5nf07qm22) 11-11 13:47:09
+先从本地环境分析问题，本地是跑不通的
+
+小明(wxid_at9px5nf07qm22) 11-11 13:49:05
+> 心绎传媒-老蔡(@)(caiwenzuan) 11-11 13:42:59
+> #举手 跟着 next.js 官方教程 
+> 配置 supabase 数据库的 
+> 初始化数据库
+> 初始化失败了。
+> 请教下我是哪里步骤错了吗？
+> 貌似 浏览器 api 调用失败了
+> {"error":{"code":"CONNECTION_CLOSED","errno":"CONNECTION_CLOSED","address":["aws-1-us-east-1.pooler.supabase.com"],"port":[6543]}}
+> 我网络环境也没问题才对哈 
+> 终端可以用 claude code 
+> 然后 vercel 部署了！ 这个环境变量 是自动匹配的吗？
+> 大佬帮忙看下。
+这个报错的意思是，网络问题，你试试关闭tun
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-11 13:49:10
+对哦，我们这个是本地环境，
+我已经在本地启动了···本地跑不通。  
+那跟上线 在vercel 配置变量也没关系啊····[捂脸]、
+
+小明(wxid_at9px5nf07qm22) 11-11 13:49:29
+然后处理下env中重复的变量，我看有重复的情况
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-11 13:49:31
+> 小明(wxid_at9px5nf07qm22) 11-11 13:49:05
+> > [引用]
+> 这个报错的意思是，网络问题，你试试关闭tun
+走国内？还是系统代理模式
+
+小明(wxid_at9px5nf07qm22) 11-11 13:49:45
+打开系统代理，关闭tun
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-11 13:49:52
+OK
+
+一路摇到顶(z517133685) 11-11 13:54:51
+现在是数据库连接不上，你用本地的数据库客户端，输入你的域名，账号，密码，看能不能连接。
+比如navicat
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-11 14:22:54
+> 一路摇到顶(z517133685) 11-11 13:54:51
+> 现在是数据库连接不上，你用本地的数据库客户端，输入你的域名，账号，密码，看能不能连接。
+> 比如navicat
+搞定了！
+查询文档 的代码 有个原始get请求默认没删
+再容我进修一段时间！ [捂脸]
+
+一路摇到顶(z517133685) 11-11 15:16:22
+kimi这个砍价挺好玩的。
+
+一路摇到顶(z517133685) 11-11 15:17:06
+可以抄一个。我发现一个直达0.99的prompt。，换了新号，一次就拿到0.99了。你们先玩。
+
+一路摇到顶(z517133685) 11-11 15:21:31
+一步到位。
+
+一路摇到顶(z517133685) 11-11 15:21:31
+![图片](http://127.0.0.1:5030/image/380f54191198d2a8d713ba9205639592)
+
+倩倩(wxid_wlzowxnwc1r222) 11-11 15:21:56
+![动画表情](http://mmbiz.qpic.cn/mmemoticon/ajNVdqHZLLBpI7y0C4mp9vM1diaIiaKdhACtPKwZKHyXb7P4HZwW5j1P9icbcMNic0ze/0)
+
+阿肯(fengakon) 11-11 15:28:38
+![动画表情](http://wxapp.tc.qq.com/262/20304/stodownload?m=c0036d1a2d6ac57d2312a6bb89e9bd72&filekey=30350201010421301f02020106040253480410c0036d1a2d6ac57d2312a6bb89e9bd720203018b87040d00000004627466730000000132&hy=SH&storeid=2631dd2a600000bf1000000000000010600004f50534828467b40b73aa3714&bizid=1023)
+
+一路摇到顶(z517133685) 11-11 15:34:36
+方法名是前面另一个话术暴露了。核心其实就是伪造上下文
+
+hz(hoohoohu) 11-11 17:27:51
+0.99是最低吗
+
+一路摇到顶(z517133685) 11-11 17:40:19
+应该是
+
+hz(hoohoohu) 11-11 17:41:47
+最后生成链接生成10次才成功，估计好多人玩
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-11 17:58:44
+学习 好苦·······[裂开]
+
+不学 更苦····[天啊]
+
+还有5章[翻白眼] ···
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-11 17:58:44
+![图片](http://127.0.0.1:5030/image/6ccad7aeafb37a591053348c47abb05b)
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-11 17:59:45
+不对··还有
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-11 17:59:45
+84章···[裂开]
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-11 17:59:45
+![图片](http://127.0.0.1:5030/image/e3309cad011a8ec7c2878882694f2ef8)
+
+hz(hoohoohu) 11-11 18:03:05
+没事，你会越学越快的。
+
+心绎传媒-老蔡(@)(caiwenzuan) 11-11 18:06:33
+"${caiwenzuan}" 拍了拍 "${hoohoohu}"
+
+桑桑(wxid_q2c7fp10z2522) 11-11 18:24:33
+@所有人 周四晚20：00直播预告，点击下方链接预约直播，AI编程技能+11111111
+
+【分享时间】 11月13日（周四）晚20:00
+【分享人】刘小排
+【分享主题】订阅支付的原理 & 使用脚手架加快开发
+【分享地点】小鹅通
+
+小鹅通兑换链接：https://fllv5.xetlk.com/s/lmPvC
+
+桑桑(wxid_q2c7fp10z2522) 11-11 18:24:50
+[小程序|鹅直播](https://mp.weixin.qq.com/mp/waerrpage?appid=wx13a74d0d3ab0942e&type=upgrade&upgradetype=3#wechat_redirect)
+
+wangpeng.i(wxid_bjdggzv85en421) 11-11 18:25:24
+"${wxid_bjdggzv85en421}" 拍了拍 "${wxid_q2c7fp10z2522}" happyhappyhappy～
+
+小明(wxid_at9px5nf07qm22) 11-11 19:26:02
+进阶篇3.7更新了，大家看看，有助于周四直播的预习
+
+一颗发芽的花生仁(shanhu52) 11-11 19:35:41
+这一串代码是怎么初始化出来的？我直接跟AI粘贴模块代码，AI会把所有代码都写在page.tsx
+
+一颗发芽的花生仁(shanhu52) 11-11 19:35:41
+![图片](http://127.0.0.1:5030/image/29cd4ce956b7e636eb959a79ace6554b)
+
+小明(wxid_at9px5nf07qm22) 11-11 19:36:50
+> 一颗发芽的花生仁-杭州(shanhu52) 11-11 19:35:41
+> 这一串代码是怎么初始化出来的？我直接跟AI粘贴模块代码，AI会把所有代码都写在page.tsx
+这不是初始化出来的
+
+和 AI 说，用 component 的方法，把 page 切分
+
+一颗发芽的花生仁(shanhu52) 11-11 19:37:32
+> 小明(wxid_at9px5nf07qm22) 11-11 19:36:50
+> > [引用]
+> 这不是初始化出来的
+> 和 AI 说，用 component 的方法，把 page 切分
+噢噢，那是先切分，再粘贴模块代码，还是都粘完之后切分？
+
+小明(wxid_at9px5nf07qm22) 11-11 19:38:07
+没看懂，为什么要粘贴
+
+小明(wxid_at9px5nf07qm22) 11-11 19:38:29
+直接让 AI 写代码改代码就好
+
+一颗发芽的花生仁(shanhu52) 11-11 19:38:38
+![图片](http://127.0.0.1:5030/image/fe7265849d3bb561cec7b1212eacd2ff)
+
+一颗发芽的花生仁(shanhu52) 11-11 19:39:13
+我是一个个模块代码给AI写的。所以这个结构是一开始就跟AI说的是吗
+
+小明(wxid_at9px5nf07qm22) 11-11 19:40:50
+哦哦，明白了
+
+逻辑是对的，粘贴代码后说一下，“要做成独立的 component，然后拼合在 landingpage 的 page 文件中，page 文件足够干净只有拼合的 component ”
+
+一颗发芽的花生仁(shanhu52) 11-11 19:41:30
+> 小明(wxid_at9px5nf07qm22) 11-11 19:40:50
+> 哦哦，明白了
+> 逻辑是对的，粘贴代码后说一下，“要做成独立的 component，然后拼合在 landingpage 的 page 文件中，page 文件足够干净只有拼合的 component ”
+噢噢了解了，我之前没有说要独立的component，就是全写一起了，谢谢啦~
+
+新城（提问要全屏截图）(wxid_70nz65mjifj022) 11-11 19:53:40
+我在做产品的时候我感觉小排老师说的的“什么人，在什么场景下，愿意花多少钱，解决什么问题？“
+这句话特别对，但是我感觉可以加上”为什么要用你的产品，而不是别人的产品？“。这句话我问ai了给我特别大的启发！
+
+新城（提问要全屏截图）(wxid_70nz65mjifj022) 11-11 19:54:04
+分享一下我的收获
+
+新城（提问要全屏截图）(wxid_70nz65mjifj022) 11-11 19:54:05
+![图片](http://127.0.0.1:5030/image/4af7b4ea4b65009b36e24a6a76725931)
+
+Jessie圆子@AI出海(wxid_glupb8ygj1do12) 11-11 19:54:25
+[强][强]
+
+hz(hoohoohu) 11-11 20:14:47
+[强]
+
+阿祖(a1401592369a) 11-11 20:33:10
+[强][强]
+
+JIE(ddcc119) 11-11 20:47:51
+![图片](http://127.0.0.1:5030/image/b7e37ac8f10b4652c0f179d50f761e8a)
+
+JIE(ddcc119) 11-11 20:48:17
+我这个显示都完成了，可是界面和视频教程里的完全不同，
+
+JIE(ddcc119) 11-11 20:48:44
+![图片](http://127.0.0.1:5030/image/7083595673a88620afa159e65845bf9c)
+
+JIE(ddcc119) 11-11 20:49:05
+点击localhost 3000也无法访问
+
+郑璐璐(wxid_cipk4uzytp7f22) 11-11 20:59:00
+命令行输入  npm run dev
+
+IvanKing(wxid_gjuajd7lpnvp22) 11-11 21:32:28
+![图片](http://127.0.0.1:5030/image/5b759168bc3419146483474d043d7ca5)
+
+IvanKing(wxid_gjuajd7lpnvp22) 11-11 21:33:16
+> IvanKing(wxid_gjuajd7lpnvp22) 11-11 21:32:27
+> ![图片](http://127.0.0.1:5030/image/5b759168bc3419146483474d043d7ca5)
+##举手##，这两个链接都打不开，显示404#
+
+IvanKing(wxid_gjuajd7lpnvp22) 11-11 21:33:35
+![图片](http://127.0.0.1:5030/image/7284c39f813d8eb6eab4edb728ad4c23)
+
+IvanKing(wxid_gjuajd7lpnvp22) 11-11 21:33:55
+![图片](http://127.0.0.1:5030/image/cda0aefff165b2f83603934d497976d4)
+
+小明(wxid_at9px5nf07qm22) 11-11 21:42:20
+https://github.com/dylan-zzm/supabase-nextjs
+
+小明(wxid_at9px5nf07qm22) 11-11 21:42:34
+从这个链接@IvanKing 教程上有个 N 大写了
+
+IvanKing(wxid_gjuajd7lpnvp22) 11-11 21:43:48
+OK，谢谢。我再研究一下。
+
+WYT(wxid_tmaweo2rblrs31) 11-11 22:06:01
+我这咋获取不到数据呢，后台也没报错
+
+WYT(wxid_tmaweo2rblrs31) 11-11 22:06:10
+![图片](http://127.0.0.1:5030/image/1c75e71c75fe48b8541d42ae4454aac4)
+
+WYT(wxid_tmaweo2rblrs31) 11-11 22:06:13
+![图片](http://127.0.0.1:5030/image/c2fca804238e889ed831b576830e2a05)
+
+WYT(wxid_tmaweo2rblrs31) 11-11 22:06:16
+![图片](http://127.0.0.1:5030/image/2fe2e42e6b1dbd581ba9829fc21dde5e)
+
+WYT(wxid_tmaweo2rblrs31) 11-11 22:06:19
+![图片](http://127.0.0.1:5030/image/9f2c5c0ea9058180a32eb02bf4fad5df)
+
+WYT(wxid_tmaweo2rblrs31) 11-11 22:09:22
+可以了，
+
+WYT(wxid_tmaweo2rblrs31) 11-11 22:09:22
+发现这个导致的
+
+WYT(wxid_tmaweo2rblrs31) 11-11 22:09:24
+![图片](http://127.0.0.1:5030/image/26ecfb7fd03ffd4a8a3045dddd74fe2a)
+
+WYT(wxid_tmaweo2rblrs31) 11-11 22:09:28
+![图片](http://127.0.0.1:5030/image/a9a25d5f2910c70af81ed88422fd0ffa)
+
+系统消息 11-11 22:27:04
+"井然(wxid_u165f6h4jeuq12)"邀请"WRT(wrt624740384)"加入了群聊
+
+系统消息 11-11 22:27:04
+"WRT"与群里其他人都不是朋友关系，请注意隐私安全
+
+WYT(wxid_tmaweo2rblrs31) 11-11 23:35:41
+我这运行咋是这样效果？
+
+WYT(wxid_tmaweo2rblrs31) 11-11 23:35:43
+![图片](http://127.0.0.1:5030/image/269a34b1da44cd5e0f12ba596abad06e)
+
+WYT(wxid_tmaweo2rblrs31) 11-11 23:35:44
+![图片](http://127.0.0.1:5030/image/6034d67ecd87f7f11e8e2fb8d4d8b0d0)
+
+> 小明(wxid_at9px5nf07qm22) 11-11 21:42:20
+> https://github.com/dylan-zzm/supabase-nextjs
+##举手#这个链接利用方法，是将这个链接内容下载后上传到自己 Supabase 中进行演练吗？
+
+> 王彦涛～北京(wxid_tmaweo2rblrs31) 11-11 23:35:43
+> ![图片](http://127.0.0.1:5030/image/269a34b1da44cd5e0f12ba596abad06e)
+@王彦涛～北京 是这样的，功能跑通就好

@@ -1,0 +1,605 @@
+Ash焚芯(wxid_siqp6j111tho22) 08-14 10:25:10
+https://github.com/mendableai/open-lovable
+
+Ash焚芯(wxid_siqp6j111tho22) 08-14 10:25:28
+![图片](http://127.0.0.1:5030/image/96600833b431ae355d9b131a2e643771)
+
+YS(wxid_erhr16xan1j122) 08-14 10:26:33
+牛啊
+
+YS(wxid_erhr16xan1j122) 08-14 10:27:17
+看起来是用firecraw扒的
+
+Super黄（沉迷AI编程）(lookforward) 08-14 11:00:38
+过去很多DeepResearch不能读图
+天工Skywork解了！
+在报告里还能把图放出来
+
+另外下周还会发布小红书Agent
+评论都能给抓下来分析
+
+在AI Office Agent里，至少Top3水准
+
+Super黄（沉迷AI编程）(lookforward) 08-14 11:00:40
+[链接|天工Skywork开始"看"小红书了，1247个帖子的图片信息被它吃透！](http://mp.weixin.qq.com/s?__biz=MjM5ODU1MzQzOQ==&mid=2451427200&idx=1&sn=ab59dca192c5c388324820db27b89963&chksm=b006d38331c54714594944a0bb81777c600ef929183f2ba55ad15abe3e01d111d241d21cd6e7&scene=0&xtrack=1#rd)
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 08-14 11:03:35
+![图片](http://127.0.0.1:5030/image/42a41c0e3e11f3cd50b72ebe0bafeaa6)
+
+刘小排(liuxiaopai) 08-14 11:04:45
+[强]
+
+夕远(wxid_0kb3l3xk63ag21) 08-14 11:17:14
+[强][强][强]
+
+Moore(xiaobei1984) 08-14 11:18:48
+> 书虫@api.apicore.ai(wxid_qvv7nhu3xufq22) 08-14 11:03:35
+> ![图片](http://127.0.0.1:5030/image/42a41c0e3e11f3cd50b72ebe0bafeaa6)
+[抠鼻] 使劲用 gpt5 think
+
+陈余忻(chenyuxin001) 08-14 11:19:28
+我觉得客户端比网页版聪明点
+
+陈余忻(chenyuxin001) 08-14 11:19:30
+![图片](http://127.0.0.1:5030/image/2db790047073d8ac7d38d4a14ac25730)
+
+陈余忻(chenyuxin001) 08-14 11:19:34
+不知道是不是错觉[破涕为笑]
+
+Moore(xiaobei1984) 08-14 11:20:22
+客户端就是比网页聪明 [吃瓜]，所以逆向的效果还是略差一些的
+
+彭不凡(wxid_ci1pfhjhmy5622) 08-14 11:20:49
+Gemini 之前有订阅的学生会员可能准备要进行二次验证了
+
+小林日入万$(wxid_ezwxect889j422) 08-14 11:23:05
+#举手，请问一下网站这些图标 什么的，都是在哪里搞的，我搜了一下基本都是会带水印的
+
+清仔（专注中）(wxid_4oz7hsqrg8y722) 08-14 11:27:20
+gpt5 think+代理，处理最长的一次
+
+清仔（专注中）(wxid_4oz7hsqrg8y722) 08-14 11:27:20
+![图片](http://127.0.0.1:5030/image/2891d2831046c052720836e2b904b6d0)
+
+浙大吴美律(wxid_wey7hbsz7pzq22) 08-14 11:27:47
+怎么做到的？
+
+天二(hezwb1994) 08-14 11:29:20
+客户端有办法同时开多个对话页面吗？
+
+Moore(xiaobei1984) 08-14 11:31:02
+不行，要手动切换，你可以输入完以后，再到开新对话继续，之前的对话完成会告诉你
+
+清仔（专注中）(wxid_4oz7hsqrg8y722) 08-14 11:31:36
+> 浙大吴美律(wxid_wey7hbsz7pzq22) 08-14 11:27:47
+> 怎么做到的？
+他搜索了14次，找了112个源网站，很勤快
+
+浙大吴美律(wxid_wey7hbsz7pzq22) 08-14 11:32:18
+视任务工作量而定吗
+
+浙大吴美律(wxid_wey7hbsz7pzq22) 08-14 11:32:25
+没有偷懒
+
+Adam(zm554394490) 08-14 11:32:48
+![图片](http://127.0.0.1:5030/image/fdd8e2430155349b60e19e6105d9647e)
+
+Adam(zm554394490) 08-14 11:32:56
+你们Claude code有出现这种情况啊
+
+Adam(zm554394490) 08-14 11:33:00
+以前从没出现过
+
+清仔（专注中）(wxid_4oz7hsqrg8y722) 08-14 11:33:18
+不懂，就一次，其实体验没有很好，一度以为他卡住了
+
+天二(hezwb1994) 08-14 11:36:07
+> Moore 助教(xiaobei1984) 08-14 11:31:02
+> 不行，要手动切换，你可以输入完以后，再到开新对话继续，之前的对话完成会告诉你
+嗯嗯，谢谢教练。
+
+天二(hezwb1994) 08-14 11:36:46
+> Adam(zm554394490) 08-14 11:32:56
+> 你们Claude code有出现这种情况啊
+你关掉claude的窗口，在重开一下试试
+
+Adam(zm554394490) 08-14 11:38:00
+时不时出现
+
+Adam(zm554394490) 08-14 11:38:11
+![图片](http://127.0.0.1:5030/image/9c3863ef29b9936929c13da9e5b068fb)
+
+Adam(zm554394490) 08-14 11:38:14
+这会又好了
+
+Moore(xiaobei1984) 08-14 11:49:44
+[视频号|300回合狂测GPT5，有点真东西！【做了个三体】#AI #GPT-5 #实测 #秋芝2046 #ChatGPT #OpenAI #Agent #人工智能 #科技 #山姆奥特曼 #chatgpt5 #GPT5发布](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQAX5PjCHk7vPq5G9CHMGo5weCojgTCyMA23wEicqsmx4hskEJMe2e4Qm0PGibzXkicZURZw0vPQqUBoic1S7Kjx7ccB&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a1fc)
+
+YS(wxid_erhr16xan1j122) 08-14 11:56:12
+[链接|GPT-5全面测评](https://yb.tencent.com/wx/ct/f/YFfiTYaZm5pGyd)
+
+YS(wxid_erhr16xan1j122) 08-14 11:56:24
+> Moore 助教(xiaobei1984) 08-14 11:49:44
+> [视频号|300回合狂测GPT5，有点真东西！【做了个三体】#AI #GPT-5 #实测 #秋芝2046 #ChatGPT #OpenAI #Agent #人工智能 #科技 #山姆奥特曼 #chatgpt5 #GPT5发布](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQAX5PjCHk7vPq5G9CHMGo5weCojgTCyMA23wEicqsmx4hskEJMe2e4Qm0PGibzXkicZURZw0vPQqUBoic1S7Kjx7ccB&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a1fc)
+元宝总结了一下
+
+Moore(xiaobei1984) 08-14 12:56:17
+ https://app.warp.dev/ 免费一个月激活码 WARPSPEED8807
+
+Moore(xiaobei1984) 08-14 12:56:59
+ 每月 2,500 次请求，支持Claude Opus 4.1、Claude Sonnet 4、OpenAI o3、Gemini 2.5 Pro
+
+stewart🤔(stewart) 08-14 13:07:50
+CC token 榜，第一名破百亿[呲牙]
+
+stewart🤔(stewart) 08-14 13:07:50
+[链接|全球第一，100亿Token，Claude Code 使用量全球排行榜！](https://mp.weixin.qq.com/s?t=pages/image_detail&scene=1&__biz=MzI3NzEzNDY3Ng==&mid=2649941944&idx=1&sn=0adae4495b863027df76de207989942c&sharer_shareinfo_first=aea83f2bc1fb1af6c0a3b4057b0df794&sharer_shareinfo=aea83f2bc1fb1af6c0a3b4057b0df794#wechat_redirect)
+
+刘小排(liuxiaopai) 08-14 13:12:08
+我来看看
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 08-14 13:14:20
+有意思
+
+银河星游(wxid_6253072530112) 08-14 13:15:43
+> 广州 超哥Stewart(stewart) 08-14 13:07:50
+> [链接|全球第一，100亿Token，Claude Code 使用量全球排行榜！](https://mp.weixin.qq.com/s?t=pages/image_detail&scene=1&__biz=MzI3NzEzNDY3Ng==&mid=2649941944&idx=1&sn=0adae4495b863027df76de207989942c&sharer_shareinfo_first=aea83f2bc1fb1af6c0a3b4057b0df794&sharer_shareinfo=aea83f2bc1fb1af6c0a3b4057b0df794#wechat_redirect)
+我都花了3000多刀了为啥没有我[奸笑]是要自己提交数据才能上榜是吧
+
+stewart🤔(stewart) 08-14 13:15:53
+当然
+
+stewart🤔(stewart) 08-14 13:16:19
+又不是官方的哪有数据
+
+码叔编程(wxid_awv5vp6602ju22) 08-14 13:17:11
+![图片](http://127.0.0.1:5030/image/6a2ca1128957ce3ff024f796c82fe0e5)
+
+码叔编程(wxid_awv5vp6602ju22) 08-14 13:17:36
+假页面，都有bug，我还想找下小排老师排第几了，[调皮]
+
+码叔编程(wxid_awv5vp6602ju22) 08-14 13:18:03
+这个网站估计也是cc制作的，
+
+刘小排(liuxiaopai) 08-14 13:21:26
+用户太少了
+
+刘小排(liuxiaopai) 08-14 13:21:32
+我这里数据太大上传失败
+
+刘小排(liuxiaopai) 08-14 13:22:00
+最大的几个没上传成功。显得我很弱鸡
+
+刘小排(liuxiaopai) 08-14 13:22:17
+![图片](http://127.0.0.1:5030/image/32121f84fccf07a00df4f9d6cee48af8)
+
+刘小排(liuxiaopai) 08-14 13:25:17
+提交黑客马拉松比赛作品还有最近4天了，嘿嘿，大家抓紧喔！！
+
+刘小排(liuxiaopai) 08-14 13:25:42
+> 广州 超哥Stewart(stewart) 08-14 13:07:50
+> [链接|全球第一，100亿Token，Claude Code 使用量全球排行榜！](https://mp.weixin.qq.com/s?t=pages/image_detail&scene=1&__biz=MzI3NzEzNDY3Ng==&mid=2649941944&idx=1&sn=0adae4495b863027df76de207989942c&sharer_shareinfo_first=aea83f2bc1fb1af6c0a3b4057b0df794&sharer_shareinfo=aea83f2bc1fb1af6c0a3b4057b0df794#wechat_redirect)
+这个思路很好，但是它做得不太好。   如果有人能做一个更好的，可能会火的
+
+蒙奇(liumengtan2010) 08-14 13:26:22
+用户会自发传播
+
+刘小排(liuxiaopai) 08-14 13:27:32
+是的。把分享传播的线路做好。然后，它的数据我怀疑也有大问题
+
+stewart🤔(stewart) 08-14 13:28:33
+小排老师能第一啊感觉，7天第一的才3200
+
+stewart🤔(stewart) 08-14 13:28:42
+平均也就500不到一天
+
+stewart🤔(stewart) 08-14 13:30:48
+第一名现在是马化腾。。。的头像[破涕为笑]
+
+李荣禄(lrl584520) 08-14 13:32:30
+我20天能进前十了
+
+李荣禄(lrl584520) 08-14 13:32:31
+![图片](http://127.0.0.1:5030/image/eff2f2a0b93d9640e57f2dbf1335460d)
+
+清仔（专注中）(wxid_4oz7hsqrg8y722) 08-14 13:33:14
+> 刘小排(liuxiaopai) 08-14 13:25:17
+> 提交黑客马拉松比赛作品还有最近4天了，嘿嘿，大家抓紧喔！！
+最后一天才是提交高峰[偷笑]
+
+码叔编程(wxid_awv5vp6602ju22) 08-14 13:44:10
+> > 广州 超哥Stewart(stewart) 08-14 13:07:50
+> > [链接|全球第一，100亿Token，Claude Code 使用量全球排行榜！](https://mp.weixin.qq.com/s?t=pages/image_detail&scene=1&__biz=MzI3NzEzNDY3Ng==&mid=2649941944&idx=1&sn=0adae4495b863027df76de207989942c&sharer_shareinfo_first=aea83f2bc1fb1af6c0a3b4057b0df794&sharer_shareinfo=aea83f2bc1fb1af6c0a3b4057b0df794#wechat_redirect)
+> 这个思路很好，但是它做得不太好。   如果有人能做一个更好的，可能会火的
+小排老师这个claudecode怎么统计呢？我来做一个， cLaudecodetop.com 域名我都刚注册好了，
+
+码叔编程(wxid_awv5vp6602ju22) 08-14 13:44:56
+感觉群里的几个大佬，可以默认上榜单，[愉快]
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 08-14 13:45:34
+https://chatgpt.com/share/689d77e3-85b4-8005-87b6-2da96b68338d 
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 08-14 13:45:37
+![图片](http://127.0.0.1:5030/image/e5a2e760be0b059787acaf6f66282a3e)
+
+stewart🤔(stewart) 08-14 13:46:39
+他这不是开源了
+
+stewart🤔(stewart) 08-14 13:46:52
+右上角就有github
+
+stewart🤔(stewart) 08-14 13:47:29
+https://github.com/grp06/claude-code-leaderboard
+
+ 08-14 13:52:21
+"码叔编程" 撤回了一条消息
+
+码叔编程(wxid_awv5vp6602ju22) 08-14 13:52:33
+码叔编程(wxid_awv5vp6602ju22) 08-14 13:52:36
+![图片](http://127.0.0.1:5030/image/98696f0ecf221748b3a025d6dbda1114)
+
+毛韩(wxid_gml844sez8tk12) 08-14 13:57:36
+> 码叔编程(wxid_awv5vp6602ju22) 08-14 13:52:33
+> > [引用]
+> AI客服机器人网页聚合聊天版，这个适合提交么？
+这是用什么接口收发消息的啊
+
+毛韩(wxid_gml844sez8tk12) 08-14 13:58:00
+不会封吗
+
+kingy123(wxid_avnlaoofswvp12) 08-14 13:58:18
+我发现GOOGLE Gemini 2.5 Pro的BUG了，同样的数据两次结果 不一样。。
+
+kingy123(wxid_avnlaoofswvp12) 08-14 13:58:19
+![图片](http://127.0.0.1:5030/image/45696a8cae3214b88e911f4de075e0fc)
+
+kingy123(wxid_avnlaoofswvp12) 08-14 13:58:37
+CLAUDE倒是对的
+
+kingy123(wxid_avnlaoofswvp12) 08-14 13:58:38
+![图片](http://127.0.0.1:5030/image/0e71f04dbb8def1d61674e7499f1d888)
+
+码叔编程(wxid_awv5vp6602ju22) 08-14 13:58:57
+大方 FanG(wxid_t2rn2a0untne22) 08-14 14:01:59
+> 码叔编程(wxid_awv5vp6602ju22) 08-14 13:52:33
+> > [引用]
+> AI客服机器人网页聚合聊天版，这个适合提交么？
+提交线上黑客松比赛的作品得是加入深海圈之后做的
+
+码叔编程(wxid_awv5vp6602ju22) 08-14 14:02:32
+> > 码叔编程(wxid_awv5vp6602ju22) 08-14 13:52:33
+> > > [引用]
+> > AI客服机器人网页聚合聊天版，这个适合提交么？
+> 提交线上黑客松比赛的作品得是加入深海圈之后做的
+是啊，上个月接的2个客户定制项目，
+
+大方 FanG(wxid_t2rn2a0untne22) 08-14 14:07:20
+[动画表情]
+
+桑桑(wxid_q2c7fp10z2522) 08-14 14:20:08
+@所有人  昨晚直播回放来啦！~
+
+分享主题：如何快速找到需求，在超短时间内跑通项目?
+分享嘉宾：FanG & 小北
+
+直播回放链接：https://scys.com/activity/documents?id=5505&index=1
+
+直播文档整理：https://scys.com/t/BOA7hWiO
+
+桑桑(wxid_q2c7fp10z2522) 08-14 14:20:52
+🔥 今晚直播预告：新手做网站，如何一周变现 🔥
+
+桑桑(wxid_q2c7fp10z2522) 08-14 14:22:02
+今晚【深海圈｜海外 AI 产品】优秀学员分享嘉宾是@无极 。
+
+桑桑(wxid_q2c7fp10z2522) 08-14 14:22:06
+他从 2022 年入局小红书，到如今 all in 网站项目，坚定判断这是未来三到五年的大红利。曾用 100+ 台手机跑矩阵，对流量玩法了如指掌，这次将和大家拆解他的实战经验与核心判断。
+
+桑桑(wxid_q2c7fp10z2522) 08-14 14:23:53
+从0开始，把“签名设计”做成自动化网站，并拿到了真实订单和收益！
+
+桑桑(wxid_q2c7fp10z2522) 08-14 14:24:02
+想知道他是如何：
+【找产品】：如何找到已被市场验证、能赚钱的网站项目？
+【做测试】：不写一行代码，如何用“假门测试”快速验证想法？
+【搞流量】：如何靠“60分内容”在小红书大力出奇迹，把流量引到自己网站？
+【建网站】：如何从手动交付，一步步迭代到全自动化的赚钱网站？
+
+桑桑(wxid_q2c7fp10z2522) 08-14 14:24:21
+最最重要的是，本次分享不只是讲理论，更是带你走一遍流程！无极会尽量演示操作，让你真实体验“看到-学到-用到”的全过程！
+
+桑桑(wxid_q2c7fp10z2522) 08-14 14:24:25
+如果你也想拥有一个属于自己的自动化赚钱项目，今晚的直播绝对不容错过，快扫码预约吧！~
+
+桑桑(wxid_q2c7fp10z2522) 08-14 14:24:39
+![图片](http://127.0.0.1:5030/image/cefb858c9cf5c79921a3a38ffd6f2ed5)
+
+🚢(wxid_c8r4191vb7un12) 08-14 14:54:51
+> 桑桑@生财(wxid_q2c7fp10z2522) 08-14 14:20:08
+> @所有人  昨晚直播回放来啦！~
+> 分享主题：如何快速找到需求，在超短时间内跑通项目?
+> 分享嘉宾：FanG & 小北
+> 直播回放链接：https://scys.com/activity/documents?id=5505&index=1
+> 直播文档整理：https://scys.com/t/BOA7hWiO
+回放看不了
+
+桑桑(wxid_q2c7fp10z2522) 08-14 14:56:55
+技术同事帮忙看了一下，现在可以啦
+
+刘小排(liuxiaopai) 08-14 14:58:43
+大家晚上关注一下@无极的直播。他非常有流量思维，自动化从小红书吸引流量给产品，完成了商业闭环。出单多而且稳定。
+
+彩笺(wxid_7bvhmd8m2q3y22) 08-14 14:59:13
+٩(•̤̀ᵕ•̤́๑)ᵒᵏᵎᵎᵎᵎ
+
+任思曼(wxid_5bq1d6ny6xzz12) 08-14 14:59:37
+[动画表情]
+
+金龙(wxid_4zaur79woix122) 08-14 15:00:51
+[抱拳][抱拳][抱拳]
+
+江炜 johnwayne(johnwayen) 08-14 15:05:35
+> 桑桑@生财(wxid_q2c7fp10z2522) 08-14 14:24:21
+> 最最重要的是，本次分享不只是讲理论，更是带你走一遍流程！无极会尽量演示操作，让你真实体验“看到-学到-用到”的全过程！
+分享实操过程=分享财富密码 [强]
+
+清仔（专注中）(wxid_4oz7hsqrg8y722) 08-14 15:06:44
+预约了
+
+刘小排(liuxiaopai) 08-14 15:07:19
+无极的方法是可以复制的
+
+刘小排(liuxiaopai) 08-14 15:07:40
+最近也有其他朋友，用小红书的方式运营出来精准的、稳定的产品流量。
+
+清仔（专注中）(wxid_4oz7hsqrg8y722) 08-14 15:08:14
+我最近也在小红书找场景，看商品销量，找用户需求
+
+桑桑(wxid_q2c7fp10z2522) 08-14 15:19:36
+来和大家一起看看上次线下黑客松的获奖作品～
+还在打磨自己作品的同学，可以借鉴一下这些思路和玩法，说不定就能帮你冲刺上线！🔥
+
+🏆 获奖作品合集：https://scys.com/t/BOA75WiO
+📝 本次线上黑客松作品提交表单：https://scys.com/form/z27VzyLq
+
+花大大｜慢就是快(wxid_2696436968412) 08-14 18:04:54
+中英文整站切换，有推荐使用的接口或者方法么？
+
+花大大｜慢就是快(wxid_2696436968412) 08-14 18:05:08
+大哥们
+
+鲈鱼｜闭关修炼期💫(wxid_5av67vzd4yvf22) 08-14 18:05:13
+最近在补课，到了部署环节，就是域名选用的是namecheap平台，但是下单的域名，就算确认付款了，还是会退回封号，部署的域名也没了，
+
+现在就是付款支付，也支付不了了，会一直转圈，有没有什么比较好的解决方案[苦涩][苦涩][苦涩]
+
+YS(wxid_erhr16xan1j122) 08-14 18:06:21
+spaceship
+
+YS(wxid_erhr16xan1j122) 08-14 18:06:49
+可以用这个
+
+鲈鱼｜闭关修炼期💫(wxid_5av67vzd4yvf22) 08-14 18:07:43
+> YS | 上海(wxid_erhr16xan1j122) 08-14 18:06:21
+> spaceship
+好 我来研究研究[加油]
+
+乐天(txwxlt) 08-14 18:11:59
+> 鲈鱼在种树🐟（闭关消息勿扰(wxid_5av67vzd4yvf22) 08-14 18:05:13
+> 最近在补课，到了部署环节，就是域名选用的是namecheap平台，但是下单的域名，就算确认付款了，还是会退回封号，部署的域名也没了，
+> 现在就是付款支付，也支付不了了，会一直转圈，有没有什么比较好的解决方案[苦涩][苦涩][苦涩]
+他们给你发的邮件了吧，估计你没看到吧
+
+银河星游(wxid_6253072530112) 08-14 18:13:03
+> 花大大｜慢就是快(wxid_2696436968412) 08-14 18:04:54
+> 中英文整站切换，有推荐使用的接口或者方法么？
+啥意思？多语言？i18n？
+
+武晓亮(wxid_kv9rjsiyjgp322) 08-14 18:28:43
+> 银河星游(wxid_6253072530112) 08-14 18:13:03
+> > [引用]
+> 啥意思？多语言？i18n？
+多需要就用这个@花大大｜慢就是快 
+
+武晓亮(wxid_kv9rjsiyjgp322) 08-14 18:28:48
+语言
+
+花大大｜慢就是快(wxid_2696436968412) 08-14 18:33:22
+好的我试一试，用I18n
+
+鲈鱼｜闭关修炼期💫(wxid_5av67vzd4yvf22) 08-14 18:33:27
+> 乐天(txwxlt) 08-14 18:11:59
+> > [引用]
+> 他们给你发的邮件了吧，估计你没看到吧
+发了 邮件都确认了，然后后来一个新邮箱买了后直接封，没有邮件，梯子也登录前切换了几个，但现在都是没反应的情况，不理解，看群消息也没看见这个问题[苦涩]
+
+Moore(xiaobei1984) 08-14 18:39:16
+> 鲈鱼在种树🐟（闭关消息勿扰(wxid_5av67vzd4yvf22) 08-14 18:05:13
+> 最近在补课，到了部署环节，就是域名选用的是namecheap平台，但是下单的域名，就算确认付款了，还是会退回封号，部署的域名也没了，
+> 现在就是付款支付，也支付不了了，会一直转圈，有没有什么比较好的解决方案[苦涩][苦涩][苦涩]
+可以换一个平台注册，同时看看是不是你的支付渠道和梯子被拉黑了？你可以 https://ping0.cc/ 检测一下你的梯子分数
+
+鲈鱼｜闭关修炼期💫(wxid_5av67vzd4yvf22) 08-14 18:40:09
+嗯嗯
+
+舒未读(wxid_1814638146314) 08-14 18:46:43
+你们有用Cf部署站点的吗？我的站点每次都提示有文件夹超25M，导致部署不成功。试了好多次了都不行
+
+Moore(xiaobei1984) 08-14 18:48:27
+nextjs项目建议部署到vercel，使用ssg和isr根据场景优化一下。cf 限制蛮多的
+
+Moore(xiaobei1984) 08-14 18:49:48
+nextjs 部署到cf pages 都是直接ssg，cf worker 我用honojs来写API，这样最干净
+
+舒未读(wxid_1814638146314) 08-14 18:51:15
+我说怎么老是失败，原来还得定制部署呢。
+
+Moore(xiaobei1984) 08-14 18:54:19
+你也可以用opennext 来包nextjs ，但是会损失些性能
+
+Moore(xiaobei1984) 08-14 18:54:30
+也会有些坑
+
+Moore(xiaobei1984) 08-14 18:56:04
+vercel主要还是账单的坑[旺柴]
+
+舒未读(wxid_1814638146314) 08-14 18:57:15
+> Moore 助教(xiaobei1984) 08-14 18:56:04
+> vercel主要还是账单的坑[旺柴]
+这个确实是，流量来了钱包就顶不住
+
+Moore(xiaobei1984) 08-14 18:57:54
+可以问问o3如何节省订单[旺柴]
+
+刘小排(liuxiaopai) 08-14 19:56:34
+看直播了！！
+
+droidHZ(wxid_5396913969012) 08-14 20:00:18
+[小程序|企业微信直播]()
+
+陈旭(wxid_0aukhndssr7s21) 08-14 20:00:57
+![图片](http://127.0.0.1:5030/image/cefb858c9cf5c79921a3a38ffd6f2ed5)
+
+桑桑(wxid_q2c7fp10z2522) 08-14 20:01:43
+> droidHZ-成都(wxid_5396913969012) 08-14 20:00:18
+> [小程序|企业微信直播]()
+@所有人 直播开始啦，可以点击链接直接进入直播间~
+
+小林日入万$(wxid_ezwxect889j422) 08-14 20:03:17
+![图片](http://127.0.0.1:5030/image/b255bf02a71b0ea5d3a45a532b5a277f)
+
+yyyhx(wxid_9013080130212) 08-14 20:03:19
+![图片](http://127.0.0.1:5030/image/b42aae4ffbf483e05242214fa1e1f86e)
+
+茅十八(wxid_53788r6tkn9k21) 08-14 20:03:20
+![图片](http://127.0.0.1:5030/image/399d4a9a633183a1b8e0ae523f27ece4)
+
+茅十八(wxid_53788r6tkn9k21) 08-14 20:03:24
+进去不了了
+
+清仔（专注中）(wxid_4oz7hsqrg8y722) 08-14 20:05:00
+太火爆了
+
+ 08-14 20:05:09
+"何慢慢" 撤回了一条消息
+
+何慢慢(wxid_jktjwjue5t2i22) 08-14 20:06:04
+[动画表情]
+
+yyyhx(wxid_9013080130212) 08-14 20:07:56
+看回放了[捂脸]
+
+强(liqiang409414) 08-14 20:08:05
+进不去
+
+乐天(txwxlt) 08-14 20:10:39
+丸辣 晚了一步
+
+桑桑(wxid_q2c7fp10z2522) 08-14 20:11:18
+稍等等无极老师换个账号
+
+川行(wxid_33w0z8sezpr522) 08-14 20:11:21
+一样进不去
+
+桑桑(wxid_q2c7fp10z2522) 08-14 20:14:34
+[小程序|企业微信直播](https://mp.weixin.qq.com/mp/waerrpage?appid=wx7424030d69bde86e&type=upgrade&upgradetype=3#wechat_redirect)
+
+章晗(wxid_ux74p8kp09do21) 08-14 21:29:58
+chatgpt的桌面版，是不是没有学习模式？还是我自己的原因？
+
+刘小排(liuxiaopai) 08-14 21:38:14
+桌面和网页版是一样的
+
+章晗(wxid_ux74p8kp09do21) 08-14 21:40:51
+![图片](http://127.0.0.1:5030/image/b9abe5991bb1c3e7b3ce119f754b077f)
+
+章晗(wxid_ux74p8kp09do21) 08-14 21:40:53
+![图片](http://127.0.0.1:5030/image/7bf7c07023e35977b2bdbf8b59379c35)
+
+章晗(wxid_ux74p8kp09do21) 08-14 21:41:09
+一个电脑端，一个手机端[破涕为笑]
+
+章晗(wxid_ux74p8kp09do21) 08-14 21:41:16
+[动画表情]
+
+droidHZ(wxid_5396913969012) 08-14 22:02:40
+![图片](http://127.0.0.1:5030/image/3073f78c7e96f6680cca189d0ed4363a)
+
+droidHZ(wxid_5396913969012) 08-14 22:03:22
+[链接|谷歌的最强图像编辑模型即将发布](https://mp.weixin.qq.com/s?t=pages/image_detail&scene=1&__biz=MzU0MDk3NTUxMA==&mid=2247491616&idx=1&sn=4b815b534567c59e5e360e24263c94f5&sharer_shareinfo_first=a43e65d8357396c40d310445f4d8a0be&sharer_shareinfo=a43e65d8357396c40d310445f4d8a0be#wechat_redirect)
+
+Moore(xiaobei1984) 08-14 22:04:06
+[旺柴] 超越flux kontext？
+
+droidHZ(wxid_5396913969012) 08-14 22:04:06
+![图片](http://127.0.0.1:5030/image/ccdcdacdd243850635b9a08b69e726ae)
+
+Moore(xiaobei1984) 08-14 22:04:36
+还不如seededit
+
+droidHZ(wxid_5396913969012) 08-14 22:04:47
+[破涕为笑]
+
+Moore(xiaobei1984) 08-14 22:05:17
+[旺柴] 只做top
+
+Moore(xiaobei1984) 08-14 22:05:32
+这个做做内页
+
+droidHZ(wxid_5396913969012) 08-14 22:09:46
+嗯嗯，好  [社会社会]
+
+青竹(wxid_1348793487711) 08-14 22:13:13
+好奇，各位教练抢新词做吗，总感觉抢这种大家大范围广而告之的新词，没多大意思吧，不懂
+
+舒未读(wxid_1814638146314) 08-14 22:15:44
+> 青竹-上海(wxid_1348793487711) 08-14 22:13:13
+> 好奇，各位教练抢新词做吗，总感觉抢这种大家大范围广而告之的新词，没多大意思吧，不懂
+抢新词，你在2小时上站+推广一套流程走通才行，不然做了也是白做
+
+青竹(wxid_1348793487711) 08-14 22:19:45
+[Salute]
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 08-14 22:22:34
+上站基本功很重要，当下大部分新人买域名不上站浪费钱
+
+刘小排(liuxiaopai) 08-14 23:13:51
+> 舒未读(wxid_1814638146314) 08-14 22:15:44
+> > [引用]
+> 抢新词，你在2小时上站+推广一套流程走通才行，不然做了也是白做
+是的
+
+刘小排(liuxiaopai) 08-14 23:14:05
+而且需要发大量外链，在极短时间内。
+
+陈余忻(chenyuxin001) 08-14 23:24:09
+极短时间内发大量外链，不会被搜索引擎判定违规吗[疑问]
+
+刘小排(liuxiaopai) 08-14 23:35:29
+是否违规和数量没关系，和质量有关系。
+
+刘小排(liuxiaopai) 08-14 23:35:51
+现在牛逼的新词玩家都是直接花钱买外链，像taaft和toolify的外链，都是花钱的，权重高，而且可以直接带来流量。
+
+刘小排(liuxiaopai) 08-14 23:36:16
+北京SCAI有位兄弟竟然买toolify外链可以直接回本，带来收入。
+
+陈余忻(chenyuxin001) 08-14 23:36:46
+明白了，那就是卷付费优质外链，不是那种外链农场
+
+刘小排(liuxiaopai) 08-14 23:44:39
+不一定。是卷优质外链，不一定付费。付费是优质外链的一种，不是全部
+
+徐文清$(wxid_ii9ypz16utft21) 08-14 23:48:09
+怎么判断是不是优质外链
+
+徐文清$(wxid_ii9ypz16utft21) 08-14 23:48:15
+DR高的网站？
+
+徐文清$(wxid_ii9ypz16utft21) 08-14 23:49:31
+我发现DR这东西不是很管用，随便发一发外链，DR就有30了，但是排名还是没上去
+
+陈余忻(chenyuxin001) 08-14 23:56:10
+> 刘小排(liuxiaopai) 08-14 23:44:39
+> 不一定。是卷优质外链，不一定付费。付费是优质外链的一种，不是全部
+谢谢老师，我再研究研究[抱拳]

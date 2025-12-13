@@ -1,0 +1,191 @@
+机器树(wxid_jy5ld7f3tnz312) 08-03 09:14:05
+#举手 creem 配置好正式环境一系列的 api ，怎么让我的网站被creem审核
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 08-03 11:12:35
+我记得是绑定你的收款就触发审核了
+
+机器树(wxid_jy5ld7f3tnz312) 08-03 17:25:19
+#举手 
+开发环境中的 CREEM_API_URL  是这样 https://test-api.creem.io/v1
+正式环境中是否去掉 url 中的 test，最终这样：https://api.creem.io/v1 ？
+
+卫斯理🤍(wxid_cap2car89b7811) 08-03 17:32:09
+> 机器树(wxid_jy5ld7f3tnz312) 08-03 17:25:19
+> #举手 
+> 开发环境中的 CREEM_API_URL  是这样 https://test-api.creem.io/v1
+> 正式环境中是否去掉 url 中的 test，最终这样：https://api.creem.io/v1 ？
+对的，就是 https://api.creem.io/v1
+
+卫斯理🤍(wxid_cap2car89b7811) 08-03 17:32:40
+CREEM_SECRET_KEY也需要换成正式的
+
+机器树(wxid_jy5ld7f3tnz312) 08-03 17:33:54
+![图片](http://127.0.0.1:5030/image/1ab53b1c07d0a9975a5ec12a3e9e26b0)
+
+刘小排(liuxiaopai) 08-03 18:23:59
+不熟悉命令行的新手同学如果想用Claude code，不妨从这个工具开始。终于被我找到了。
+
+刘小排(liuxiaopai) 08-03 18:23:59
+[链接|一键让 Claude Code 秒变小白友好](https://mp.weixin.qq.com/s/mctEZSBF6eUSMXV1_Bhr1w)
+
+张耘瀚(wxid_0319273194712) 08-03 18:24:16
+[强]
+
+星吟(wxid_ivo4n28g15qj21) 08-03 18:26:31
+谢谢小排老师！
+
+星吟(wxid_ivo4n28g15qj21) 08-03 18:26:37
+[动画表情]
+
+辛亥(wxid_0ytooiqh4iio22) 08-03 18:27:21
+学习了，哈哈哈
+
+小陈老师(wxid_1f5f4iwhhiqc22) 08-03 18:29:47
+#举手  windows 然后用镜像的 能用这个cc chat吗 小排老师
+
+刘小排(liuxiaopai) 08-03 18:32:51
+虽然我没测试过，但是理论上是可以的。
+
+刘小排(liuxiaopai) 08-03 18:32:59
+windows不是问题，镜像也不是问题
+
+卫斯理🤍(wxid_cap2car89b7811) 08-03 19:22:26
+> 刘小排(liuxiaopai) 08-03 18:23:59
+> [链接|一键让 Claude Code 秒变小白友好](https://mp.weixin.qq.com/s/mctEZSBF6eUSMXV1_Bhr1w)
+太赞了，老师多出点更高效灵活使用ai的文章，上次那个开发者模式复制数据让ai分析排行榜的就很好用[强]
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-03 19:30:38
+> 刘小排(liuxiaopai) 08-03 18:23:59
+> [链接|一键让 Claude Code 秒变小白友好](https://mp.weixin.qq.com/s/mctEZSBF6eUSMXV1_Bhr1w)
+[强]
+
+Raymond(mordecai) 08-03 19:47:48
+![图片](http://127.0.0.1:5030/image/b37afb331b8d0ea28e6390b8933a6764)
+
+Raymond(mordecai) 08-03 19:47:56
+![图片](http://127.0.0.1:5030/image/a342b4f43d9ed606113bc1151f5d121a)
+
+Raymond(mordecai) 08-03 19:48:15
+安卓价格这么贵的吗？比苹果还贵。。。
+
+213(wxid_k53k9plaaz0d12) 08-03 19:48:52
+涨价了吗？[惊讶]
+
+Raymond(mordecai) 08-03 19:49:05
+太夸张了
+
+Raymond(mordecai) 08-03 19:49:20
+搞定了google pay，结果这价格....
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-03 19:49:55
+![图片](http://127.0.0.1:5030/image/83f742a05e29cf9d6bb13bdf7691428e)
+
+Raymond(mordecai) 08-03 19:50:14
+对啊
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-03 19:50:14
+> 小李哥(wxid_cejgi1lomjcl21) 08-03 19:49:56
+> ![图片](http://127.0.0.1:5030/image/83f742a05e29cf9d6bb13bdf7691428e)
+苹果 新加坡区
+
+Raymond(mordecai) 08-03 19:50:29
+好奇怪，肯定哪里不对
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-03 19:51:01
+地区选了么？有的地方会加税
+
+刘小排(liuxiaopai) 08-03 19:52:27
+正常的。我也是250买的
+
+刘小排(liuxiaopai) 08-03 19:52:57
+> Raymond(mordecai) 08-03 19:47:56
+> ![图片](http://127.0.0.1:5030/image/a342b4f43d9ed606113bc1151f5d121a)
+你这个价格 单位不是美元？
+
+Raymond(mordecai) 08-03 19:53:54
+是美元，美国IP
+
+Raymond(mordecai) 08-03 19:53:57
+好奇怪
+
+哩厘锂力(zizhazhu) 08-03 19:56:15
+是不是地址问题
+
+哩厘锂力(zizhazhu) 08-03 19:56:18
+有税
+
+Insight(lyo_jo) 08-03 19:58:32
+Google play 正常是多少美元？
+
+Raymond(mordecai) 08-03 19:59:08
+完了，切了下IP，账号封了
+
+Raymond(mordecai) 08-03 19:59:14
+白搞了
+
+Moore(xiaobei1984) 08-03 19:59:16
+[旺柴]
+
+哩厘锂力(zizhazhu) 08-03 20:01:09
+![图片](http://127.0.0.1:5030/image/e80cf9c7890711494158cc6d7173c317)
+
+哩厘锂力(zizhazhu) 08-03 20:01:23
+我这边是这个价格，但是还是比网页版贵，不知道是什么原因
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 08-03 20:02:09
+应用商店也要 收过路费的吧
+
+Raymond(mordecai) 08-03 20:03:16
+估计刚刚被风控了
+
+Raymond(mordecai) 08-03 20:03:22
+TZ要干净
+
+🥷🏿 发呆.(wxid_767zp9hgv7b922) 08-03 20:42:42
+@Raymond 没给你退费嘛 
+
+Raymond(mordecai) 08-03 20:43:28
+那个价格明显不对，还没订，切了两次IP，想刷新一下价格，结果发现号被封了
+
+🥷🏿 发呆.(wxid_767zp9hgv7b922) 08-03 20:49:19
+哦哦 这样～ 确实是要纯净一点的🧙‍♂️
+
+Moore(xiaobei1984) 08-03 21:13:02
+IP 不要乱切，一般切 IP 超过2次就会被封号
+
+Moore(xiaobei1984) 08-03 21:13:45
+就算纯净IP 只要切了就会被封号
+
+小陈老师(wxid_1f5f4iwhhiqc22) 08-03 22:04:39
+#举手 @刘小排  小排老师，这样子显示是打开成功了吗，我是wsl打开的  它一直显示working 没有给出回答
+
+小陈老师(wxid_1f5f4iwhhiqc22) 08-03 22:04:39
+![图片](http://127.0.0.1:5030/image/e601603beea7c3d9cff1b37debfe9215)
+
+刘小排(liuxiaopai) 08-03 22:05:16
+不知道呢，我是mac，没用wsl[发呆]
+
+小陈老师(wxid_1f5f4iwhhiqc22) 08-03 22:06:26
+过了一会后就显示这个了[捂脸][捂脸]
+
+小陈老师(wxid_1f5f4iwhhiqc22) 08-03 22:06:26
+![图片](http://127.0.0.1:5030/image/62b867628d37d9b0420cb4994d174588)
+
+Moore(xiaobei1984) 08-03 22:12:15
+这种看起来都是老问题了，🪜问题
+
+Moore(xiaobei1984) 08-03 22:12:54
+要么就是没有连接到正确claudecode
+
+派大星(wxid_j7cdt1sb363b22) 08-03 22:24:06
+#举手，同一个Claude pro账号，在不同的Mac电脑上登陆，有封号风险嘛
+
+Moore(xiaobei1984) 08-03 22:26:14
+有
+
+Moore(xiaobei1984) 08-03 22:26:39
+IP可能不一样
+
+> 刘小排(liuxiaopai) 08-03 18:23:59
+> [链接|一键让 Claude Code 秒变小白友好](https://mp.weixin.qq.com/s/mctEZSBF6eUSMXV1_Bhr1w)
+有人试过用中间站吗[旺柴]

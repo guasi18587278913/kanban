@@ -1,0 +1,499 @@
+清仔(wxid_4oz7hsqrg8y722) 07-05 00:15:57
+清仔(wxid_4oz7hsqrg8y722) 07-05 00:16:15
+少量的没问题，比较远的就容易出问题
+
+Moore(xiaobei1984) 07-05 00:44:28
+git gui 我不太喜欢用ide的感觉不太好用也不习惯，我喜欢sourcetree[旺柴]
+
+Moore(xiaobei1984) 07-05 00:44:47
+开发专用
+
+大铭🌱(wxid_c7zf4hpjug5322) 07-05 00:47:46
+强烈推荐 vscode 的一个插件 git graph
+
+清仔(wxid_4oz7hsqrg8y722) 07-05 00:55:39
+[链接|如何把Cursor调回500次高速请求](https://www.xiaohongshu.com/discovery/item/6852bed3000000001c0353b1?app_platform=android&ignoreEngage=true&app_version=8.72.0&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBipQ9QQD3LJMoz5zfoIZBjIbe-5bb3T4Sr-XqHx0hmbM%3D&author_share=1&xhsshare=WeixinSession&shareRedId=N0xHMDc3O0I2NzUyOTgwNjY0OTdGRztC&apptime=1751648133&share_id=6c27335aef0441ac8dea1d1498c68882&share_channel=wechat)
+
+清仔(wxid_4oz7hsqrg8y722) 07-05 00:56:55
+cursor被限制的朋友们可以试试这个方法，亲测有效，但有效多久就不知道了（刚发了一条消息消耗了3次）
+
+清仔(wxid_4oz7hsqrg8y722) 07-05 00:56:56
+![图片](http://127.0.0.1:5030/image/b0f8e5b89571a615a8bafa82db76c665)
+
+Moore(xiaobei1984) 07-05 01:01:31
+我一直都是关的没遇到过你们的问题，正常使用
+
+土豆君(wxid_gzr7bvbdlvlv22) 07-05 01:04:00
+> 大铭🌱(wxid_c7zf4hpjug5322) 07-05 00:47:46
+> 强烈推荐 vscode 的一个插件 git graph
+现在是 git graph v3
+
+大铭🌱(wxid_c7zf4hpjug5322) 07-05 01:05:46
+![图片](http://127.0.0.1:5030/image/f51b17f32be6cb0e83e542d0ea598dfe)
+
+大铭🌱(wxid_c7zf4hpjug5322) 07-05 01:05:52
+这个炒鸡好用
+
+在旅途的车(chegang222569) 07-05 01:17:29
+> 大铭🌱(wxid_c7zf4hpjug5322) 07-05 01:05:52
+> 这个炒鸡好用
+刚刚查了一下 cursor也可以用
+
+大铭🌱(wxid_c7zf4hpjug5322) 07-05 01:27:49
+vscode 的插件，cursor 几乎都可以直接拿来用
+
+姚盛旺(wxid_r7rswx8l8o5g22) 07-05 01:30:27
+我怎么找不道呢[愉快]
+
+Moore(xiaobei1984) 07-05 01:30:58
+Git Graph需要 gitlens互补，不支持Stash，比较适合新手
+
+在旅途的车(chegang222569) 07-05 01:35:10
+@大铭🌱 @Moore 助教 [抱拳][抱拳]
+
+彭不凡(wxid_ci1pfhjhmy5622) 07-05 13:02:44
+https://cursor.com/cn/blog/june-2025-pricing
+
+彭不凡(wxid_ci1pfhjhmy5622) 07-05 13:03:23
+[小程序|墨问](https://mp.weixin.qq.com/mp/waerrpage?appid=wx4353cae9eb5e3586&type=upgrade&upgradetype=3#wechat_redirect)
+
+彭不凡(wxid_ci1pfhjhmy5622) 07-05 13:04:26
+![图片](http://127.0.0.1:5030/image/63ac916f4fa7f55806ae151675502486)
+
+彭不凡(wxid_ci1pfhjhmy5622) 07-05 13:06:14
+昨天吐槽完的cursor，最新的pro计划大致可调用的次数，供大家参考下，后续应该也是要付费了
+
+王马扎(wxid_3zuzcesouarv22) 07-05 13:13:48
+"${wxid_3zuzcesouarv22}" 拍了拍 "${wxid_ci1pfhjhmy5622}" 的门说今年赚个100万
+
+元方(fy13579) 07-05 13:33:15
+> 浩奇心-广州(wxid_ci1pfhjhmy5622) 07-05 13:04:26
+> ![图片](http://127.0.0.1:5030/image/63ac916f4fa7f55806ae151675502486)
+哎 ？之前不是说无限了么？看这使用次数好像比之前少了
+
+张柯Ker｜尽量24 小时内回复信息(wxid_49k3qpg6i6k321) 07-05 13:36:13
+auto模式都得手动操作[捂脸]不好用
+
+請給我一支蘭州(wxid_xoqakkp55sh821) 07-05 13:50:18
+auto模式效果不行奥
+
+元方(fy13579) 07-05 13:56:17
+> 浩奇心-广州(wxid_ci1pfhjhmy5622) 07-05 13:06:14
+> 昨天吐槽完的cursor，最新的pro计划大致可调用的次数，供大家参考下，后续应该也是要付费了
+今天正好要到期了，得准备续费
+
+Moore(xiaobei1984) 07-05 14:03:29
+我其实还好，除了 UI 可能需要 claude，多数情况，我都是 Gemini Flash Ask。
+
+Moore(xiaobei1984) 07-05 14:04:35
+gpt 4.1 刚出来免费了一段时间，我就一直用它来写了一周代码，感觉虽然ui比不上claude，但是基本上设计了主题色+组件，基本上要调细节的时候才需要用 claude
+
+Moore(xiaobei1984) 07-05 14:05:33
+懂代码的话，基本上不会一个细节反复调n次，手动就搞定了。所以我比较省次数，以及很少会使用 claude
+
+Moore(xiaobei1984) 07-05 14:06:42
+甚至经常调 UI的时候，我会问 Gemini Flash Ask 方法，然后微调方法，手动改，速度也快
+
+刘小排(liuxiaopai) 07-05 14:08:08
+> Moore 助教(xiaobei1984) 07-05 14:05:33
+> 懂代码的话，基本上不会一个细节反复调n次，手动就搞定了。所以我比较省次数，以及很少会使用 claude
+是的，界面细节有时候手改更快？尤其是现在tailwindcss是语义的
+
+Moore(xiaobei1984) 07-05 14:09:48
+[坏笑] 是的，有些按钮效果，claude 肯定是需要说得比较详细还经常达不到效果，可能就 tailwindcss 写个 2~3行就完事了。
+
+政(wxid_unp611hu9f0052) 07-05 14:12:42
+> Moore 助教(xiaobei1984) 07-05 14:05:33
+> 懂代码的话，基本上不会一个细节反复调n次，手动就搞定了。所以我比较省次数，以及很少会使用 claude
+老师，代码学习有没有推荐的比较高效的刻意练习方法
+
+Moore(xiaobei1984) 07-05 14:16:53
+> TIM(wxid_unp611hu9f0052) 07-05 14:12:42
+> > [引用]
+> 老师，代码学习有没有推荐的比较高效的刻意练习方法
+一般都是干中学，先多找优秀的 UI 案例，根据优秀的 UI 案例，可能就要写漂亮的组件了，比如卡片、按钮等等常见的。然后就去 小红书 搜一下好看的 UI 怎么做，比如背景、按钮、卡片等等，剩下的就是配色选择，最简单就是抄啊。提取色值
+
+其次：花时间把 tailwind docs 过一遍，知道它有哪些能力，可以解决哪些组件的问题，比如 卡片、按钮等。
+
+最后，你通过不断地收集优秀的UI案例、找到优秀的UI组件如何使用 tailwindcss 或者 css 进行设计，最后遇到 UI 层面的问题，手动改，或者提供示例代码给 AI 改等方式提升你的能力。
+
+Moore(xiaobei1984) 07-05 14:17:51
+比如说像这种：https://www.xiaohongshu.com/explore?app_platform=ios&app_version=8.84&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBL71Wy587m-Rz54OVLSHT4F1ZHOM4imUU7PAJjZ8vG9g%3D&author_share=1&xhsshare=WeixinSession&shareRedId=N0tDRDc9Rkw2NzUyOTgwNjY0OTc2PDlO&apptime=1748563369&share_id=9e396dd7047c4ff796a15b7f5a1e3a7d&wechatWid=b9c429b32ace874b18b27605975110ea&wechatOrigin=menu&target_note_id=67de4fce000000000302a31b¬e_flow_source=wechat
+
+Moore(xiaobei1984) 07-05 14:18:01
+有教程，然后学会以后，你就可以举一反三
+
+Moore(xiaobei1984) 07-05 14:20:18
+> Moore 助教(xiaobei1984) 07-05 14:17:51
+> 比如说像这种：https://www.xiaohongshu.com/explore?app_platform=ios&app_version=8.84&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBL71Wy587m-Rz54OVLSHT4F1ZHOM4imUU7PAJjZ8vG9g%3D&author_share=1&xhsshare=WeixinSession&shareRedId=N0tDRDc9Rkw2NzUyOTgwNjY0OTc2PDlO&apptime=1748563369&share_id=9e396dd7047c4ff796a15b7f5a1e3a7d&wechatWid=b9c429b32ace874b18b27605975110ea&wechatOrigin=menu&target_note_id=67de4fce000000000302a31b¬e_flow_source=wechat
+这个链接失效了，可以看看 frame 的思路，然后让 AI 转成 tailwindcss 思路：https://www.xiaohongshu.com/explore/67079e69000000001a02132b?note_flow_source=wechat&xsec_token=CBZRu12I4l1OPvbv2Y5WUP_ovuwfgyLtTuA6T61hJvFcc=
+
+政(wxid_unp611hu9f0052) 07-05 14:28:22
+[抱拳]
+
+小妖(wxid_325oqn742ywv22) 07-05 14:28:34
+[玫瑰]
+
+Moore(xiaobei1984) 07-05 14:29:50
+当然最快的方式，就是直接使用精美的 UI 组件
+
+Moore(xiaobei1984) 07-05 14:30:41
+但是如果懂代码的话，手动改的情况还是比较少的，因为你输入提示词会更精准
+
+矿山(wxid_8fwtkj2uvvcl12) 07-05 15:06:39
+#举手
+尝试接入openai官网的image-1模型，要求做组织认证。
+
+我点链接提供身份证和面部识别后，一直没有更新认证状态，搜了下一般30min都能出来的。
+
+有啥办法吗
+
+Moore(xiaobei1984) 07-05 15:09:09
+要注册海外公司，可以考虑接别人比如@书虫——麻雀API找我 ，选择直连官方
+
+矿山(wxid_8fwtkj2uvvcl12) 07-05 15:14:56
+好的 谢谢助教
+
+梅丽玲(wxid_1232452323212) 07-05 16:33:28
+#举手，在chatGPT  mac OS端想“使用cursor选项卡“来让chatGPT来读取到cursor中的代码，设置过程中chatGPT提醒要安装扩张程序才能使用cursor选项卡。
+我去chat GPT的官方文档查看，提示：Enabling ChatGPT to work with VS Code requires installing a VS Code extension to query content. You can install the extension in VSCode itself (extension name is ChatGPT – Work with Code on macOS).
+但是cursor中找不到这个插件。
+想请教大家是用的哪个插件，还是有不需要插件的方法？
+
+梅丽玲(wxid_1232452323212) 07-05 16:33:28
+![图片](http://127.0.0.1:5030/image/5680fb0d810122ae2b77c72ce3b45da0)
+
+刘小排(liuxiaopai) 07-05 16:35:14
+> 梅丽玲(wxid_1232452323212) 07-05 16:33:28
+> ![图片](http://127.0.0.1:5030/image/5680fb0d810122ae2b77c72ce3b45da0)
+点“安装扩展程序”？
+
+梅丽玲(wxid_1232452323212) 07-05 16:35:24
+chat GPT的官方文档里没有介绍cursor的配置方法，大概意思是参考 VS Code 的设置方法。问chat GPT配置方法，也说需要扩张程序，但是没有公开下载的链接[捂脸]
+
+梅丽玲(wxid_1232452323212) 07-05 16:36:55
+点了之后哪个弹窗就消失了，跳到cursor界面，鼠标定位是在chat对话框
+
+刘小排(liuxiaopai) 07-05 16:37:48
+https://x.com/plivo/status/1868712670637011029?lang=en
+
+孙金鑫(sunjinxin2005) 07-05 16:37:55
+@梅丽玲 你问o3
+
+孙金鑫(sunjinxin2005) 07-05 16:38:32
+它会给你一个ChatGPT的官方链接
+
+孙金鑫(sunjinxin2005) 07-05 16:39:18
+链接上有个自己安装的其它扩展下载
+
+梅丽玲(wxid_1232452323212) 07-05 16:40:05
+好的，谢谢@刘小排 老师@孙金鑫 ，我现在试试
+
+矿山(wxid_8fwtkj2uvvcl12) 07-05 16:48:21
+![视频](http://127.0.0.1:5030/video/)
+
+矿山(wxid_8fwtkj2uvvcl12) 07-05 16:48:50
+我在用 postman 调试 gpt 接口，body 里面想要上传 image 本地文件，一直点了没有反应，这是啥原因啊，问了 dia 没定位到问题
+
+矿山(wxid_8fwtkj2uvvcl12) 07-05 16:49:07
+之前 postman 让我安装了本地的 postman agent，不知道跟这个有关系不
+
+刘小排(liuxiaopai) 07-05 16:56:36
+视频太糊了，看不清楚。你安装一个本地版本postman， 然后试试。告诉我你调试的是哪一个API
+
+矿山(wxid_8fwtkj2uvvcl12) 07-05 16:56:56
+![视频](http://127.0.0.1:5030/video/42bd696a1b2da4a6d78b636373b93eb6)
+
+矿山(wxid_8fwtkj2uvvcl12) 07-05 16:57:40
+谢谢小排老师，重新发了录屏原画质，我是在 postman 网页端执行的，链接是：
+
+https://api.apicore.ai/v1/images/edits
+
+梅丽玲(wxid_1232452323212) 07-05 17:02:02
+> 刘小排(liuxiaopai) 07-05 16:37:48
+> https://x.com/plivo/status/1868712670637011029?lang=en
+配置成功了[胜利]，谢谢小排老师[玫瑰]
+
+良辰美 | 1 M(wxid_8riqfa4drs6222) 07-05 17:05:40
+https://i0ejcw7gsm.feishu.cn/docx/AXcEdVjYforXvwxg3Jbc2QTjnle，0705 周六 Idea to Business from PRD
+
+今天下去组的产品原型局，大家的idea都惊艳到我了
+
+刘小排(liuxiaopai) 07-05 17:09:31
+"${liuxiaopai}" 拍了拍 "${wxid_8riqfa4drs6222}" 就学会了Next.JS[烟花][爆竹]
+
+清仔(wxid_4oz7hsqrg8y722) 07-05 17:15:04
+感觉鱿鱼游戏里的几个游戏（例如过桥），做成H5小游戏，都有当年羊了个羊的潜力
+
+矿山(wxid_8fwtkj2uvvcl12) 07-05 17:23:14
+> 刘小排(liuxiaopai) 07-05 16:56:36
+> 视频太糊了，看不清楚。你安装一个本地版本postman， 然后试试。告诉我你调试的是哪一个API
+用本地的 postman 之后上传文件成功了，可能是 web 端读取本地文件权限有问题，谢谢小排老师，问题解决了
+
+王珣(wangxiaojian162088) 07-05 17:33:33
+"${wangxiaojian162088}" 拍了拍 "${wxid_8riqfa4drs6222}" 就学会了Next.JS[烟花][爆竹]
+
+Adam(zm554394490) 07-05 17:36:40
+#举手
+
+Adam(zm554394490) 07-05 17:36:40
+请问下这个claudia的字体能不能调大一些，这个太费眼睛了，得贴近看
+
+Adam(zm554394490) 07-05 17:36:40
+![图片](http://127.0.0.1:5030/image/19827de35c50a262309256943758340f)
+
+刘小排(liuxiaopai) 07-05 17:54:49
+哈哈，不能。。
+
+刘小排(liuxiaopai) 07-05 17:54:58
+你主要是想用他的什么功能？
+
+Adam(zm554394490) 07-05 17:55:52
+这个得像他们反映一下，太费眼睛了
+
+Adam(zm554394490) 07-05 17:55:58
+主要来写代码的
+
+Adam(zm554394490) 07-05 17:56:18
+有时候会给一些方案以及步骤之类的，字太小了
+
+刘小排(liuxiaopai) 07-05 17:56:26
+那你不需要用它。在VS Code里安装一个Roo插件，在里面选择provider设置成为claude code
+
+刘小排(liuxiaopai) 07-05 17:56:30
+这个更适合你
+
+刘小排(liuxiaopai) 07-05 17:57:03
+![图片](http://127.0.0.1:5030/image/58316467344da2d019566ba9d4d60e79)
+
+Moore(xiaobei1984) 07-05 17:57:11
+> Adam(zm554394490) 07-05 17:36:40
+> ![图片](http://127.0.0.1:5030/image/19827de35c50a262309256943758340f)
+你这个是屏幕分辨率太大了吧
+
+Adam(zm554394490) 07-05 17:57:51
+我来试试看
+
+Moore(xiaobei1984) 07-05 17:58:08
+![图片](http://127.0.0.1:5030/image/c31d1e3f63d04f794d5938afa891cc9d)
+
+Moore(xiaobei1984) 07-05 17:58:13
+这里也可以调整字体大小
+
+Adam(zm554394490) 07-05 18:00:38
+![图片](http://127.0.0.1:5030/image/0b50c601d7b0efe554fe3ab50c54eb24)
+
+Adam(zm554394490) 07-05 18:00:42
+有点点不一样
+
+Adam(zm554394490) 07-05 18:00:56
+我这个系统字体默认都调了挺大的
+
+Adam(zm554394490) 07-05 18:01:10
+但是这个应用的字体还不好调
+
+Adam(zm554394490) 07-05 18:01:18
+terminal倒是可以
+
+Moore(xiaobei1984) 07-05 18:01:18
+分辨率这么大，我都是 1920
+
+Adam(zm554394490) 07-05 18:01:37
+长时间看代码，一直这么小的字
+
+Adam(zm554394490) 07-05 18:01:38
+哈哈哈
+
+Moore(xiaobei1984) 07-05 18:01:40
+terminal 是可以调整字体
+
+Adam(zm554394490) 07-05 18:01:47
+确实有点搞人
+
+Moore(xiaobei1984) 07-05 18:01:51
+那就是你的分辨率问题了，你调小一些
+
+Adam(zm554394490) 07-05 18:03:38
+好像是可以这个操作
+
+Adam(zm554394490) 07-05 18:03:54
+不过损失了分辨率，屏幕也变小了好多[捂脸]
+
+Moore(xiaobei1984) 07-05 18:04:24
+看你自己选择
+
+Adam(zm554394490) 07-05 18:15:38
+请问下如果在 cursor使用Claude code的话，这个cursor还需要付费吗
+
+乐天(txwxlt) 07-05 18:17:36
+那其实就跟你在 vscode 用一样，不需要额外付费
+
+Moore(xiaobei1984) 07-05 18:18:05
+[动画表情]
+
+Adam(zm554394490) 07-05 18:18:40
+[抱拳]
+
+故事、自己写(jiang_shaobo) 07-05 19:24:39
+Moore(xiaobei1984) 07-05 19:26:24
+> 故事、自己写(jiang_shaobo) 07-05 19:24:39
+> > [引用]
+> 做了个SKG练练手，可以提提建议，要不要继续迭代迭代：https://www.stopkillinggames.cc
+[吃瓜] 感觉你这个功能不太完善
+
+故事、自己写(jiang_shaobo) 07-05 19:29:25
+[OK]好的，这边再完善一下
+
+Moore(xiaobei1984) 07-05 19:32:24
+因为我点不少地方都是打不开的
+
+故事、自己写(jiang_shaobo) 07-05 19:36:28
+目前是登录的状态测的，忘记测未登录的情况，这边再完善下
+
+Moore(xiaobei1984) 07-05 19:44:27
+"${xiaobei1984}" 拍了拍 "${jiang_shaobo}"
+
+Moore(xiaobei1984) 07-05 19:45:54
+![图片](http://127.0.0.1:5030/image/24b973c6f1b60d04f7673774ac130851)
+
+Moore(xiaobei1984) 07-05 19:46:08
+![图片](http://127.0.0.1:5030/image/8764460b3db2ed92aaa4d1c787ab4da1)
+
+故事、自己写(jiang_shaobo) 07-05 19:53:20
+感谢助教，这边检查一下，上次参加线下马拉松也是登录的情况下，各位也可以注意一下，最好不用登录也能体验体验。
+
+YS(wxid_erhr16xan1j122) 07-05 20:01:26
+> Moore 助教(xiaobei1984) 07-05 19:45:54
+> ![图片](http://127.0.0.1:5030/image/24b973c6f1b60d04f7673774ac130851)
+学到了
+
+清仔(wxid_4oz7hsqrg8y722) 07-05 20:05:57
+> Moore 助教(xiaobei1984) 07-05 19:45:54
+> ![图片](http://127.0.0.1:5030/image/24b973c6f1b60d04f7673774ac130851)
+这个是直接丢给o3，让o3给反馈嘛？
+
+清仔(wxid_4oz7hsqrg8y722) 07-05 20:06:05
+"${wxid_4oz7hsqrg8y722}" 拍了拍 "${xiaobei1984}"
+
+Moore(xiaobei1984) 07-05 20:37:09
+都可以，o3 调研会帮你找搜索量、DR、CPC等。gemini 不行，但是分析 SEO 效果更好。记得开启  URL Context 和 Google搜索。毕竟 Gemini 是Google 家的，SEO 也是主要以 Google 为主
+
+Moore(xiaobei1984) 07-05 20:38:01
+AI 适合初步分析，要深度分析，还得自己来
+
+清仔(wxid_4oz7hsqrg8y722) 07-05 20:41:57
+get～
+
+Moore(xiaobei1984) 07-05 20:43:22
+[旺柴] o3 数据不一定准，Gemini 分析有时候喜欢捧人，必须要求他们给出优缺点，不准捏造事实
+
+droidHZ(wxid_5396913969012) 07-05 21:58:18
+> 故事、自己写(jiang_shaobo) 07-05 19:24:39
+> > [引用]
+> 做了个SKG练练手，可以提提建议，要不要继续迭代迭代：https://www.stopkillinggames.cc
+https://www.stop-killing-games.com. 我也做了一个练手，不过好像签名够了，热度下去了[捂脸]
+
+王珣(wangxiaojian162088) 07-05 22:11:04
+> droidHZ-成都(wxid_5396913969012) 07-05 21:58:18
+> > [引用]
+> https://www.stop-killing-games.com. 我也做了一个练手，不过好像签名够了，热度下去了[捂脸]
+字体效果很赛博[强]，我还以为是游戏站[破涕为笑]
+
+droidHZ(wxid_5396913969012) 07-05 22:14:47
+> 王珣(wangxiaojian162088) 07-05 22:11:04
+> > [引用]
+> 字体效果很赛博[强]，我还以为是游戏站[破涕为笑]
+GPT推荐网站风格赛博怀旧风[破涕为笑]，打算是生成复活游戏卡片裂变的，量如果起来就做怀旧小游戏，不过直接发reddit推广被删帖了[捂脸]
+
+Moore(xiaobei1984) 07-05 22:19:50
+这类适合练手，可以买 cc,online这种便宜的后缀来做
+
+Moore(xiaobei1984) 07-05 22:19:59
+.com 成本太高
+
+故事、自己写(jiang_shaobo) 07-05 22:24:36
+> droidHZ-成都(wxid_5396913969012) 07-05 21:58:18
+> > [引用]
+> https://www.stop-killing-games.com. 我也做了一个练手，不过好像签名够了，热度下去了[捂脸]
+[强]风格不错，也收录了，后面继续的话，要更新内容，做外链之类，这边还是不太懂这个群体，也不知道要不要继续投入迭代和推广，就体验下过程
+
+droidHZ(wxid_5396913969012) 07-05 22:29:25
+> Moore 助教(xiaobei1984) 07-05 22:19:50
+> 这类适合练手，可以买 cc,online这种便宜的后缀来做
+好勒，get[玫瑰]
+
+我 07-05 22:29:26
+"王珣" 撤回了一条消息
+
+droidHZ(wxid_5396913969012) 07-05 22:30:06
+> 故事、自己写(jiang_shaobo) 07-05 22:24:36
+> > [引用]
+> [强]风格不错，也收录了，后面继续的话，要更新内容，做外链之类，这边还是不太懂这个群体，也不知道要不要继续投入迭代和推广，就体验下过程
+感谢建议，我后续观测下趋势，看看他们的帖子
+
+王珣(wangxiaojian162088) 07-05 22:30:38
+这种是不是就是纯靠关键词拉流量？感觉很难进化成实际的可付费的产品，主要是挂ads？
+
+Moore(xiaobei1984) 07-05 22:31:35
+先加外链后，流量上来了，再挂ads，
+
+王珣(wangxiaojian162088) 07-05 22:33:40
+明白了，是属于另一套打法了
+
+Moore(xiaobei1984) 07-05 22:38:38
+"${xiaobei1984}" 拍了拍 "${wangxiaojian162088}" 一起月入万刀[烟花]
+
+Moore(xiaobei1984) 07-05 22:39:00
+后面也是围绕这个词继续挖掘发长尾词加内页
+
+Moore(xiaobei1984) 07-05 22:41:58
+Google trend 最好是看30天内的词，这样就不会一波流，还有就是熟悉赛道的top内容，比如抖音的某个开源视频模型
+
+Moore(xiaobei1984) 07-05 22:43:27
+Google veo3，这些可以看7天内的，但是关注AI赛道kol以后，也没必要这么看。陌生赛道要看是不是行业大佬的top
+
+Moore(xiaobei1984) 07-05 22:43:44
+否则没有持续性
+
+故事、自己写(jiang_shaobo) 07-05 22:48:13
+get，感谢Moore
+
+Neo(wxid_tjyzfvnvdu0w21) 07-05 22:52:32
+#举手
+教练有没有遇到过这种问题呀。
+mksaas，配置登陆的时候。
+点击sign in with google 报错这个
+
+Neo(wxid_tjyzfvnvdu0w21) 07-05 22:52:33
+![图片](http://127.0.0.1:5030/image/cdc33ecd1445ec1896b314d69c1193a2)
+
+Neo(wxid_tjyzfvnvdu0w21) 07-05 22:53:49
+这是个2023年的bug？
+
+Neo(wxid_tjyzfvnvdu0w21) 07-05 22:53:49
+![图片](http://127.0.0.1:5030/image/0e9c9c933dcec588ffd4a5d728a9e4fd)
+
+王马扎(wxid_3zuzcesouarv22) 07-05 22:59:02
+> Neo(wxid_tjyzfvnvdu0w21) 07-05 22:52:32
+> #举手
+> 教练有没有遇到过这种问题呀。
+> mksaas，配置登陆的时候。
+> 点击sign in with google 报错这个
+https://discord.com/channels/1300839113142046730/1300839113594769431  去这里跟作者沟通呀，作者在discord有问必答
+
+Neo(wxid_tjyzfvnvdu0w21) 07-05 23:00:21
+哦哦哦。好！
+
+Neo(wxid_tjyzfvnvdu0w21) 07-05 23:00:46
+我在想不会吧，这种错误这么离谱
+
+Neo(wxid_tjyzfvnvdu0w21) 07-05 23:00:54
+不应该出现吧
+
+Neo(wxid_tjyzfvnvdu0w21) 07-05 23:05:44
+好像把这个postgres换掉就行了，我试试呢
+
+Neo(wxid_tjyzfvnvdu0w21) 07-05 23:17:04
+> Neo(wxid_tjyzfvnvdu0w21) 07-05 23:05:44
+> 好像把这个postgres换掉就行了，我试试呢
+是的 就是这样解决 已经修好了

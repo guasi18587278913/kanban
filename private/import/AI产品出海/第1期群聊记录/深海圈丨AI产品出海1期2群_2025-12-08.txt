@@ -1,0 +1,53 @@
+桑桑(wxid_q2c7fp10z2522) 12-08 11:39:58
+12.5-12.7 日报精华来啦！～
+
+12.5：奔逃 Cursor，拥抱 Antigravity：Cursor 太烧钱，大家集体研究如何迁到 Google Antigravity
+
+12.6：一边亏钱一边省钱
+一边是血泪教训：并发没处理好被薅积分、云服务后台悄悄扣费；一边是省钱攻略：低成本拿 Gemini 高级会员和 Cursor 新模型试用
+
+12.7：Antigravity 排查指南 + 代码规范警钟
+
+感兴趣点击链接查看：https://aichanpinribao.com
+
+桑桑(wxid_q2c7fp10z2522) 12-08 11:39:59
+![图片](http://127.0.0.1:5030/image/8c020d7d903fd9478313827e50439073)
+
+Paradise Quest(wxid_g27abmn3c4ws21) 12-08 11:45:49
+大家Antigravity账号都是怎么整的
+
+🧸 Chubby㋡(wxid_890d52jdmg8o22) 12-08 11:47:07
+我的号可以直接登，开了全局+tun+🇺🇸。但就跑着总是error[叹气]换了很多网络都这样
+
+Paradise Quest(wxid_g27abmn3c4ws21) 12-08 11:49:29
+[破涕为笑]我几个都登不上去
+
+邓志彬(dengzhibin77) 12-08 15:12:54
+最先解决🪜，这是大部分人的首因。
+
+其次可能需要各种谷歌的身份验证，例如Antigravity前几天更新增加了年龄验证，不满18的突然没法用了，会一直弹error
+
+error后面有个带圈的叹号icon，点一下，把内容发给Gemini，询问解决办法
+
+小明(wxid_at9px5nf07qm22) 12-08 15:13:48
+@Paradise Quest 搞一个美区地区新号，自己注册或者咸鱼，一定要新号
+
+Paradise Quest(wxid_g27abmn3c4ws21) 12-08 15:14:49
+好，谢谢
+
+🧸 Chubby㋡(wxid_890d52jdmg8o22) 12-08 15:16:49
+[动画表情]
+
+Chouchou(wxid_ky2g0thk42zd22) 12-08 15:28:04
+@桑桑@生财 没注意到开小鹅通的消息，现在还能开吗？
+
+桑桑(wxid_q2c7fp10z2522) 12-08 15:38:20
+可以的，我联系你处理
+
+Chouchou(wxid_ky2g0thk42zd22) 12-08 15:38:39
+谢谢
+
+Paradise Quest(wxid_g27abmn3c4ws21) 12-08 16:35:57
+> 小明-助教(wxid_at9px5nf07qm22) 12-08 15:13:48
+> @Paradise Quest 搞一个美区地区新号，自己注册或者咸鱼，一定要新号
+我发现不用美区新号也行，我把谷歌账号关联了美区就行了

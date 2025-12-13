@@ -1,0 +1,332 @@
+李江(apexlj) 09-30 08:18:49
+[链接|Claude Sonnet 4.5 发布：重点一页看懂](https://mp.weixin.qq.com/s?__biz=Mzk4ODE3NTIxOA==&mid=2247484254&idx=1&sn=c2df3e389d0762492e72796468be3f3e&chksm=c4a08b4bb33ecef6850bef2acd8d8c52a4baf80ba7f6e36a00e6a7d88cd7f5672d0774c8086c&mpshare=1&scene=1&srcid=0930Yzqo2stAsbxcNDTcPCGl&sharer_shareinfo=baae0d966301fa94dcae4e6351c5f929&sharer_shareinfo_first=baae0d966301fa94dcae4e6351c5f929#rd)
+
+闻鉴(wxid_cdtcq1czmsgf22) 09-30 08:28:02
+![图片](http://127.0.0.1:5030/image/780dc1ff2dcb7efff46b98dde7e48df9)
+
+大福(wxid_g9uim6ey70a022) 09-30 08:57:16
+#举手 请教 图生提示词有没有好的模型推荐？我让gpt5给我推荐，试了两个组合效果都不好，寥寥几个词。
+
+刘小排(liuxiaopai) 09-30 08:57:51
+这个真没有特别好的，都差不多
+
+我 09-30 08:58:57
+"陈大发" 撤回了一条消息
+
+字符(wxid_72ph0v5as5yu11) 09-30 09:03:24
+网页已经有了4.5，但是Claude code还没这个模型
+
+字符(wxid_72ph0v5as5yu11) 09-30 09:03:31
+![图片](http://127.0.0.1:5030/image/1e0aac794ab639a1ef04f6662911e750)
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-30 09:05:33
+更新一下
+
+字符(wxid_72ph0v5as5yu11) 09-30 09:05:33
+> 闻鉴-广州(wxid_cdtcq1czmsgf22) 09-30 08:28:02
+> ![图片](http://127.0.0.1:5030/image/780dc1ff2dcb7efff46b98dde7e48df9)
+是只能用API的方式才能使用新模型么？
+
+刘小排(liuxiaopai) 09-30 09:13:07
+Claude code升级新版本，就有了
+
+闻鉴(wxid_cdtcq1czmsgf22) 09-30 09:15:47
+> 字符(wxid_72ph0v5as5yu11) 09-30 09:05:33
+> > [引用]
+> 是只能用API的方式才能使用新模型么？
+今天在vscode中打开claude code插件，它就自动显示为4.5版本了。
+
+字符(wxid_72ph0v5as5yu11) 09-30 09:16:39
+嗯嗯，刚更新了，可以了，谢谢谢谢～
+
+JACKIE(qq573729221) 09-30 10:00:56
+> 大福(wxid_g9uim6ey70a022) 09-30 08:57:16
+> #举手 请教 图生提示词有没有好的模型推荐？我让gpt5给我推荐，试了两个组合效果都不好，寥寥几个词。
+nano banana 不错，前提是给的需求要详细，随便说一下返回 2 行提示词，需求高一些能返回七八行提示词
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-30 10:10:07
+2.0可以可以
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-30 10:10:09
+不错不错
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-30 10:10:15
+感觉比opus还牛逼
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-30 10:10:26
+下个月可以继续续费100刀的max了
+
+大福(wxid_g9uim6ey70a022) 09-30 10:44:05
+@JACKIE 谢谢，我去试试
+
+刘小排(liuxiaopai) 09-30 10:44:26
+Claude code新版本是有VA code插件的
+
+刘小排(liuxiaopai) 09-30 10:44:30
+vs code 
+
+王玮(wxid_94jbos68gn3b22) 09-30 10:56:02
+Claude code chat插件与Claude Code for VS Code这两个插件哪个好用啊？
+用习惯了chat，貌似这个更好用啊？
+
+小陈老师(wxid_1f5f4iwhhiqc22) 09-30 11:02:50
+这样显示应该就是在用 4.5 了吧
+
+小陈老师(wxid_1f5f4iwhhiqc22) 09-30 11:02:50
+![图片](http://127.0.0.1:5030/image/ba9e528426590540c621c34402b24e1b)
+
+小李F刀(wxid_cgr2mr7ea63l22) 09-30 11:04:47
+是的
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 09-30 12:02:42
+插件更新后，页面舒服多了。
+
+小李哥（大闸蟹版）(wxid_cejgi1lomjcl21) 09-30 12:02:48
+![图片](http://127.0.0.1:5030/image/07fe7a7e6b57a42156f8705bbea01f65)
+
+Eliot(jackglen) 09-30 12:05:43
+可以鼠标操作各种命令了
+
+李江(apexlj) 09-30 13:09:18
+[链接|外链的底层逻辑：拿到“专家背书”，而不是“多发几条链接”](https://mp.weixin.qq.com/s?__biz=Mzk4ODE3NTIxOA==&mid=2247484260&idx=1&sn=7d8b5f546feea3ec50364396e149d6cd&chksm=c4d714d7f8dd3bd60cbcc77671276c110cf49bb930854a9de678904d166a49d6e716316d8734&mpshare=1&scene=1&srcid=0930oybC2rLhq2zgK6wKdAMD&sharer_shareinfo=93e724ceca8d4f85b2db3df81d2e99f2&sharer_shareinfo_first=3e900a9fc3b39afb7e2fce49ffe507a5#rd)
+
+闻鉴(wxid_cdtcq1czmsgf22) 09-30 14:09:39
+应该是我的电脑用问题，为何用插件claude code或者claude code chat都会出现这个问题，而用cli就没有问题：【API Error: 400 {"type":"error","error":{"type":"invalid_request_error","message":"A maximum of 4 blocks with cache_control may be provided. Found 5."},"request_id":"req_011CTe542JoK8NQB7qEpAE11"}】。大家有碰到这个情况吗
+
+Eliot(jackglen) 09-30 14:22:12
+检查你的环境变量，很可能你设置的环境变量是项目级，把它设置成用户级
+
+Eliot(jackglen) 09-30 14:22:35
+Windows 下面做系统环境变量设置
+
+闻鉴(wxid_cdtcq1czmsgf22) 09-30 14:28:03
+> Eliot(jackglen) 09-30 14:22:35
+> Windows 下面做系统环境变量设置
+非常感谢。总算有了思路。chat gpt给不出来[抱拳]
+
+Eliot(jackglen) 09-30 14:40:53
+我之前碰到很多次，现在彻底解决了，就是环境变量设置的作用域问题
+
+Eliot(jackglen) 09-30 14:41:20
+我也是问 chatgpt 解决的
+
+Eliot(jackglen) 09-30 14:43:10
+> 闻鉴-广州(wxid_cdtcq1czmsgf22) 09-30 14:09:39
+> 应该是我的电脑用问题，为何用插件claude code或者claude code chat都会出现这个问题，而用cli就没有问题：【API Error: 400 {"type":"error","error":{"type":"invalid_request_error","message":"A maximum of 4 blocks with cache_control may be provided. Found 5."},"request_id":"req_011CTe542JoK8NQB7qEpAE11"}】。大家有碰到这个情况吗
+仔细看了一下你这个问题，可能是上下文超过长度了，重开聊天窗口看看
+
+闻鉴(wxid_cdtcq1czmsgf22) 09-30 14:45:05
+> Eliot(jackglen) 09-30 14:43:10
+> > [引用]
+> 仔细看了一下你这个问题，可能是上下文超过长度了，重开聊天窗口看看
+这个没有用。我新建窗口，聊两句就这样了。但用终端启动claude code就没问题。
+
+智昊｜回家吃饭(wxid_46c3dv2ynm0t21) 09-30 15:52:15
+有人用了新的cc插件吗，感觉难用得要死
+
+小明(wxid_at9px5nf07qm22) 09-30 16:10:38
+小排新版脚手架：Sistine starterkit ，内测来啦
+
+该版starter，能够作为生产开发的框架，功能如下⬇️
+    
+    【可登录、支付（creem）、管理后台、积分系统、定时任务、数据分析、多语种、邮件等】
+
+    【AI对话/AI生图/AI视频 3种 damo 功能】
+
+    【年费积分，按月定时发放/管理后台可手动控制用户状态/完整的法律框架/一定的性能提升】
+    
+
+  ➡️代码仓库自动申请
+  https://applysistine.vercel.app/
+
+  ➡️脚手架在线体验 （AI功能限制）
+  https://sistinestarter.vercel.app/
+
+  ➡️环境变量配置文档
+  https://sistine-tech.feishu.cn/wiki/E2ppw6MTNiUIZZkyRIichaABnPb
+
+  ➡️脚手架使用文档
+  https://sistine-tech.feishu.cn/wiki/VfwywNoPpisFEnkQqF8ckanKnab
+
+  ➡️bug/优化提报
+  https://sistine-tech.feishu.cn/share/base/form/shrcnr0rUXwsVtE4hv9tcnHAOzg
+
+
+祝大家节日愉快～
+
+星吟(wxid_ivo4n28g15qj21) 09-30 16:11:08
+[动画表情]
+
+桑桑(wxid_q2c7fp10z2522) 09-30 16:11:28
+@所有人 
+
+🧸 Chubby㋡(wxid_890d52jdmg8o22) 09-30 16:11:39
+[动画表情]
+
+Y(kobeyuan000) 09-30 16:11:46
+[强][强][强]
+
+NewBoy(wxid_64zlj8qxd93l22) 09-30 16:11:57
+[动画表情]
+
+Walker(YQFabc) 09-30 16:12:05
+国庆all in！
+
+养生谷(wxid_p9q0srx8tdbc22) 09-30 16:12:13
+[动画表情]
+
+金子。(wxid_lfipf3htcv6m22) 09-30 16:12:20
+[动画表情]
+
+小明(wxid_at9px5nf07qm22) 09-30 16:12:36
+有问题反馈哈[嘿哈]
+
+R(qr277763897) 09-30 16:12:49
+[强][强]
+
+Planetpics(zhangjialun_2011) 09-30 16:13:24
+[强][强][强]
+
+老K(wxid_3xetejurctrv12) 09-30 16:14:18
+[动画表情]
+
+SuperEric(janetchristmas) 09-30 16:14:38
+[强][强][强]
+
+Yolanda.W(wangying6002) 09-30 16:15:20
+[强][强]立刻使用了一下，反馈个小问题，移动端菜单栏的排版兼容性有点小bug
+
+小明(wxid_at9px5nf07qm22) 09-30 16:15:53
+> Yolanda.W(wangying6002) 09-30 16:15:20
+> [强][强]立刻使用了一下，反馈个小问题，移动端菜单栏的排版兼容性有点小bug
+好的，收到[好的]
+
+李江(apexlj) 09-30 16:17:28
+[强][强][强]
+
+h(wxid_dql9oy4hurtq22) 09-30 16:18:32
+[强][强][强]
+
+橙(wxid_5p4o1lcta13121) 09-30 16:18:51
+[强][强][强]
+
+殷小样(wxid_3290772907712) 09-30 16:20:25
+[强][强][强]
+
+汉超.(han19950806) 09-30 16:20:39
+[强][强][强]
+
+李才双Shawn(ShawnLee000) 09-30 16:21:10
+太棒了[强][强][强]
+
+路飞(wxid_ew99ir7f4ku321) 09-30 16:21:24
+[动画表情]
+
+轩辕(wxid_4m8bzf34d67v22) 09-30 16:21:25
+![图片](http://127.0.0.1:5030/image/34e57a4e4e3173b0bba64e195c22a400)
+
+轩辕(wxid_4m8bzf34d67v22) 09-30 16:21:47
+13寸 macbook pro
+
+小明(wxid_at9px5nf07qm22) 09-30 16:22:24
+> 轩辕(wxid_4m8bzf34d67v22) 09-30 16:21:25
+> ![图片](http://127.0.0.1:5030/image/34e57a4e4e3173b0bba64e195c22a400)
+好的，收到
+
+匪气书生(wxid_o8wq7kbo845321) 09-30 16:23:41
+导航栏样式是不是也有点不对呢
+
+匪气书生(wxid_o8wq7kbo845321) 09-30 16:23:41
+![图片](http://127.0.0.1:5030/image/756918ed9c0e2a986b826046dbe03053)
+
+小明(wxid_at9px5nf07qm22) 09-30 16:24:28
+下滑的时候，导航栏会只显示核心功能，隐藏其他非重点项
+
+一夕(phil7028) 09-30 16:25:21
+@小明-助教  助教，好像fork不了？
+
+一夕(phil7028) 09-30 16:25:22
+![图片](http://127.0.0.1:5030/image/6670f7c26f955f9b629fc552562c41d7)
+
+一夕(phil7028) 09-30 16:25:54
+![图片](http://127.0.0.1:5030/image/a8707217a9727a42824712700a321b6b)
+
+小明(wxid_at9px5nf07qm22) 09-30 16:26:19
+我看下哈
+
+一夕(phil7028) 09-30 16:26:34
+[抱拳]
+
+小明(wxid_at9px5nf07qm22) 09-30 16:28:42
+我用我的测试账号，是可以的 @一夕
+
+小明(wxid_at9px5nf07qm22) 09-30 16:28:54
+你刷新下，看看是不是网络问题
+
+一夕(phil7028) 09-30 16:29:06
+没道理啊，我下载是可以的
+
+一夕(phil7028) 09-30 16:29:35
+其他同学可以fork吗？
+
+Yolanda.W(wangying6002) 09-30 16:30:10
+我也不能fork
+
+小明(wxid_at9px5nf07qm22) 09-30 16:30:57
+我用错号了，不好意思稍等下[捂脸]
+
+李才双Shawn(ShawnLee000) 09-30 16:31:12
+> 一夕(phil7028) 09-30 16:29:35
+> 其他同学可以fork吗？
+不能
+
+一夕(phil7028) 09-30 16:31:37
+> 小明-助教(wxid_at9px5nf07qm22) 09-30 16:30:57
+> 我用错号了，不好意思稍等下[捂脸]
+[偷笑]
+
+一夕(phil7028) 09-30 16:31:46
+[抱拳]
+
+小明(wxid_at9px5nf07qm22) 09-30 16:34:42
+我确认了下，权限是对的，问题是github组织权限，需要付费[捂脸]
+
+等节后内测结束，我们处理下哈 @一夕
+
+一夕(phil7028) 09-30 16:35:03
+[抱拳]
+
+一夕(phil7028) 09-30 16:35:16
+好的，辛苦助教～
+
+小明(wxid_at9px5nf07qm22) 09-30 16:35:32
+应该的啦
+
+一夕(phil7028) 09-30 16:35:48
+[玫瑰][玫瑰][玫瑰]
+
+Orla(wxid_5910059100012) 09-30 17:35:38
+[动画表情]
+
+Wy。L(Nicola_2011) 09-30 19:54:39
+图片存储大家有推荐的吗。  用cloudflare？
+
+小明(wxid_at9px5nf07qm22) 09-30 19:56:11
+> Wy。L(Nicola_2011) 09-30 19:54:39
+> 图片存储大家有推荐的吗。  用cloudflare？
+对 R2 存储桶
+
+小明(wxid_at9px5nf07qm22) 09-30 19:56:41
+图片业务，设置一个 7 天自动清除规则，1TB 应该够用
+
+Wy。L(Nicola_2011) 09-30 19:56:41
+嗯嗯 刚翻了一下聊天 就看到这个提到的最多[呲牙]
+
+Rocky(wxid_8dc4suthepq222) 09-30 19:57:58
+AS3也可以
+
+Wy。L(Nicola_2011) 09-30 19:58:42
+https://www.as3.dk/  是这个嘛
+
+213(wxid_k53k9plaaz0d12) 09-30 22:32:05
+上个月申请 Claude for Chrome 的 MAX友友可以关注一下邮箱，应该有邀请邮件了[跳跳]

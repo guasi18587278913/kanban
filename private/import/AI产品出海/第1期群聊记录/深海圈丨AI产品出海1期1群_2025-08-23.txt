@@ -1,0 +1,418 @@
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 13:45:04
+![图片](http://127.0.0.1:5030/image/55c597a99891292e03d81e92f5ac8825)
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 13:45:05
+![图片](http://127.0.0.1:5030/image/1b03e9de882fff6c7eb4b1d56bd32089)
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 13:45:45
+鸿蒙上架app奖励1w
+
+码叔编程(wxid_awv5vp6602ju22) 08-23 13:52:45
+码叔编程(wxid_awv5vp6602ju22) 08-23 13:53:02
+https://developer.huawei.com/consumer/cn/activity/harmonyos-incentive/2025/
+
+J.Wang(wxid_bxuwo4dto9t122) 08-23 14:13:32
+乐天(txwxlt) 08-23 14:31:01
+[捂脸]
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 14:31:39
+[捂脸]
+
+码叔编程(wxid_awv5vp6602ju22) 08-23 14:36:46
+[捂脸]
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 15:25:46
+[链接|怎样做公众号？
+
+哈喽，大家好，我是刘小排。
+
+在今年的「超级标」当中，垂直品类公众号是最蓝海的一个，亦仁亲自下场推荐：如果只选一个，就选它。
+不仅如此，亦仁自己已经开始写公众号了，足以看到这条超级标的潜力。
+
+既然如此，本月我的在生财有术的作业，没有太多选择，只能讲它了 😊
+
+这一篇内容，不会发布我的公众号，只在生财有术内分享。 ...](https://t.zsxq.com/U8Hsx)
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 15:26:16
+太牛啦。。我要跟着小排老师做公众号[奸笑]
+
+刘小排(liuxiaopai) 08-23 15:27:03
+[破涕为笑][破涕为笑] 还是做产品更好玩 哈哈，公众号是顺便做一做
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 15:27:08
+![图片](http://127.0.0.1:5030/image/5833917623e04213056cc84d5c0cbf56)
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 15:27:25
+想学会怎么折叠hhh
+
+朱一博(wxid_gntrnzcvtps412) 08-23 15:33:48
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 15:56:31
+> 土豆君(wxid_gzr7bvbdlvlv22) 08-23 15:25:43
+> [链接|怎样做公众号？
+> 哈喽，大家好，我是刘小排。
+> 在今年的「超级标」当中，垂直品类公众号是最蓝海的一个，亦仁亲自下场推荐：如果只选一个，就选它。
+> 不仅如此，亦仁自己已经开始写公众号了，足以看到这条超级标的潜力。
+> 既然如此，本月我的在生财有术的作业，没有太多选择，只能讲它了 😊
+> 这一篇内容，不会发布我的公众号，只在生财有术内分享。 ...](https://t.zsxq.com/U8Hsx)
+立个flag: 我要把小排老师所有方法都学会应用起来[奸笑]
+
+AIQ(wachyd2010) 08-23 15:56:54
+不上班吗？
+
+刘小排(liuxiaopai) 08-23 15:57:36
+先做出养活自己的产品
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 15:57:43
+> AIQ_广州(wachyd2010) 08-23 15:56:54
+> 不上班吗？
+自从我勇敢的出来之后，想回去也回不去了[捂脸]
+
+刘小排(liuxiaopai) 08-23 15:57:58
+有了能养活自己的产品，心态就会很从容，想干啥干啥，啥好玩玩啥
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 15:58:51
+> 刘小排(liuxiaopai) 08-23 15:57:58
+> 有了能养活自己的产品，心态就会很从容，想干啥干啥，啥好玩玩啥
+是的很认同，小排老师心态特别棒[嘿哈]
+
+阿泽kk(wxid_cnhj0ziqf8t421) 08-23 16:01:10
+请教一下，小排老师；stripe的product catalog是不是可以不加产品 也能正常扣费？
+
+
+阿泽kk(wxid_cnhj0ziqf8t421) 08-23 16:01:10
+![图片](http://127.0.0.1:5030/image/a71aa964fadadec8a3f71c5ecec9fc9b)
+
+阿泽kk(wxid_cnhj0ziqf8t421) 08-23 16:01:38
+我的网站 收费测试都正常的，但是我这边看到我的stripe账户是没有设置产品的
+
+刘小排(liuxiaopai) 08-23 16:02:44
+啊？？没试过。 我是加了的
+
+刘小排(liuxiaopai) 08-23 16:03:41
+要不还是加一下吧。stripe挺容易封号的，尽量按照规范的方式来
+
+阿泽kk(wxid_cnhj0ziqf8t421) 08-23 16:03:45
+那如果 改价格，是不是要改两个地方？
+1.一个是stripe的 product catalog；
+2.一个是自己前端的文案
+
+云一(wxid_t8r3nyrl7m2l22) 08-23 16:03:52
+小排老师，在Cursor中安装了插件Claude Code chat插件，但是发消息，它一直提醒安装Claude Code咋解决吗？因为我在Cursor终端是能用Claude Code的。@刘小排
+
+云一(wxid_t8r3nyrl7m2l22) 08-23 16:03:56
+![图片](http://127.0.0.1:5030/image/da52486a3b0ed64163946597e9a3bae0)
+
+刘小排(liuxiaopai) 08-23 16:04:10
+1肯定会改 2你可以考虑通过api读取stripe上的信息，也可以考虑本地文案写死，均可
+
+阿泽kk(wxid_cnhj0ziqf8t421) 08-23 16:04:22
+> 刘小排(liuxiaopai) 08-23 16:04:10
+> 1肯定会改 2你可以考虑通过api读取stripe上的信息，也可以考虑本地文案写死，均可
+感谢，明白了
+
+刘小排(liuxiaopai) 08-23 16:05:03
+@云一 你是不是macbook? macbook有两个终端，一个是ZSH一个是bash。
+不存在一个东西叫"cursor的终端"，你看看你说的"cursor"的终端到底是zash还是bash哈。
+
+云一(wxid_t8r3nyrl7m2l22) 08-23 16:05:34
+是的，Mac，用的zsh
+
+刘小排(liuxiaopai) 08-23 16:05:45
+可能的原因：  你的claude code安装到其中一个终端zsh，而claude code chat没有使用zsh
+
+刘小排(liuxiaopai) 08-23 16:05:48
+![图片](http://127.0.0.1:5030/image/2299c6fc77cffa6dd3fe9d363fd67c92)
+
+刘小排(liuxiaopai) 08-23 16:06:25
+你问一下claude code怎么让你的系统默认是zsh，怎么让claude code chat使用zsh的claude code
+
+刘小排(liuxiaopai) 08-23 16:06:39
+两者的系统变量是不互通的
+
+云一(wxid_t8r3nyrl7m2l22) 08-23 16:07:16
+好的，我问问看
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 16:11:59
+#提问 小排老师，怎么让cc记住一直使用pnpm？cc 默认喜欢用npm，不提醒就会用，我习惯用pnpm环境，交叉用感觉环境容易出问题
+
+刘小排(liuxiaopai) 08-23 16:13:07
+我也喜欢用pnpm。方法是在项目级claude.md里写。
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 16:14:11
+好的，我之前写了cc也记不住，可能不够强调
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 08-23 16:14:25
+URL：https://api.apicore.ai/v1/chat/completions
+API Key：sk-PwthJGqGhnXfhweQ2s1l6yVrpKlLFqRSiZ3QB172Lnj2Nxco
+
+gemini模型官网的，每天有150美金剩余额度，算公益福利，有需要的自己拿啦
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 08-23 16:14:36
+[动画表情]
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 08-23 16:14:40
+![图片](http://127.0.0.1:5030/image/4dd0a151dd95ec2afa11119114df4596)
+
+六六(wxid_9g1ly04kesnr11) 08-23 16:15:00
+每天？
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 08-23 16:15:00
+![图片](http://127.0.0.1:5030/image/f8ee407b6ba438a872db4bc80f9f7b48)
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 08-23 16:15:06
+额度用不完[捂脸]
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 08-23 16:15:07
+对的
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 08-23 16:15:18
+@六六 可以测测，看看还有之前问题没，有问题我立马叫技术改
+
+六六(wxid_9g1ly04kesnr11) 08-23 16:15:27
+好的
+
+六六(wxid_9g1ly04kesnr11) 08-23 16:15:32
+[动画表情]
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 08-23 16:15:33
+[动画表情]
+
+stewart🤔(stewart) 08-23 16:15:55
+哦呵可以，我也用
+
+stewart🤔(stewart) 08-23 16:16:17
+gemini全线模型都可以吗
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 08-23 16:16:29
+对的
+
+stewart🤔(stewart) 08-23 16:17:09
+好的谢谢老板
+
+我 08-23 16:29:14
+@书虫@api.apicore.ai 好奇问下，尼日利亚是不是冲不了gpt pro。。（200刀那个。
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 08-23 16:29:29
+ky
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 08-23 16:29:34
+可以，但是没啥价格优惠
+
+我 08-23 16:29:42
+[脸红] 噢噢噢 所噶 好的。
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 08-23 16:29:48
+上一次看见换成rmb也要1300多
+
+书虫@APIMart.ai(wxid_qvv7nhu3xufq22) 08-23 16:29:49
+现在不知道了
+
+云一(wxid_t8r3nyrl7m2l22) 08-23 16:36:59
+> 云一(wxid_t8r3nyrl7m2l22) 08-23 16:03:56
+> ![图片](http://127.0.0.1:5030/image/da52486a3b0ed64163946597e9a3bae0)
+总算解决了，刚刚让 Claude Code 处理，然后重启Cursor发现在Claude Code chat插件还是找不到cc，刚刚发现是我前面开启了WSL Configuration设置，刚刚把这个关了后，就行了
+
+刘小排(liuxiaopai) 08-23 16:45:19
+赞
+
+哥飞(qiayue) 08-23 18:13:05
+![图片](http://127.0.0.1:5030/image/a18a9dba55e0cb95775868d579e3ad32)
+
+哥飞(qiayue) 08-23 18:13:12
+差一个字母
+
+北(wxid_h2x4q8b8vmvj12) 08-23 18:14:17
+哇哦
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 18:14:48
+哇
+
+大方 FanG(wxid_t2rn2a0untne22) 08-23 18:16:41
+> 哥飞(qiayue) 08-23 18:13:05
+> ![图片](http://127.0.0.1:5030/image/a18a9dba55e0cb95775868d579e3ad32)
+泰裤辣 飞哥 这是哪里
+
+＃七哥(wxid_kk5v4tfwaysr22) 08-23 18:17:28
+![图片](http://127.0.0.1:5030/image/de167155204f1f7b4d6c8624df40414d)
+
+大方 FanG(wxid_t2rn2a0untne22) 08-23 18:18:59
+[动画表情]
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 19:54:05
+我看到回放有了
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 19:54:05
+[视频号|生财深海圈｜线上黑客松决赛路演](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQDT64dYJ9JU6FG2MhbDoPA5mJlxTWpyz7KibMqTNwjssUSNrJ1micPN4ZiatPHRYG9r34icsl7pMzXd0ibyT9bWkeWS0&bizid=1023&dotrans=0&hy=SH&idx=1&m=&token=cztXnd9GyrFC3AmWsQp4JUicGlGIhrjFiazSH1c2BzNnxEV1icia88Jkic6eGSnYqYhibwQLqNF8bSicPmPxevJJM9y4dAicvf0UtzIac1q2W2KPicyhvzdNVpw8Jiarmhxw2z1SCTz01L1PmCT2XgHGxj5cyUJJSJiadfEwPl9xumaGs26axg&basedata=CAASABoDeFYwIgAqBwizHRAAGAI&sign=HfYJTy3xoMh2Y9j36yB0Eq6nYmDwyLESrqtY45CEcaslwscVYK4cF17v_B32HGVBJjd_YNA1MZZxNMaDdK_vvA&ctsc=203&extg=4ebe00&svrbypass=AAuL%2FQsFAAABAAAAAACNEETxz0VIw0B%2BRJKpaBAAAADnaHZTnGbFfAj9RgZXfw6Vb4Eht0FHz4Cq29VjewLsfAisq%2BjUttjrIGJI0DDwumi5qFPcySA07Bs%3D&svrnonce=1755943492)
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 19:54:56
+我们在第15位最后一个，不用多说了吧[奸笑]
+投票🔗:
+https://scys.com/form/z27Vzfel
+
+国际范～(a4520a) 08-23 20:17:49
+投票通道不是关闭了吗？
+
+国际范～(a4520a) 08-23 20:18:12
+话说冠军出来了吗？[旺柴]
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 20:29:11
+没有，老大延迟到明晚了[奸笑]
+
+浙大吴美律(wxid_wey7hbsz7pzq22) 08-23 20:35:06
+在看回放了
+
+金龙(wxid_4zaur79woix122) 08-23 20:40:29
+[链接|Claude Code极简入门：3条铁律让你告别代码屎山](https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247498637&idx=1&sn=dff471a4f5c9c3ea3cd892e4279cdca5&chksm=e80005735354851df14fa6fa9eeced4bbef808e496e6164e2dfafba5cdfe37cf58c3f683c35b&mpshare=1&scene=1&srcid=08230yOk7jEpzzeQrs8GgxeN&sharer_shareinfo=424912bea74b8f45d82f68315cf871d1&sharer_shareinfo_first=424912bea74b8f45d82f68315cf871d1#rd)
+
+金龙(wxid_4zaur79woix122) 08-23 20:40:54
+都是自己的原因[呲牙]
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 21:48:47
+做了个简短复盘[旺柴]
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 21:48:47
+[链接|从毫无目标到AI产品杀入黑客松决赛，我找到了自己的驱动力
+大家好，我是土豆君。这次参加深海圈黑客松经过几天时间和圈友合作的一个产品没想到杀进了决赛。几天时间，准确说是从15-17号并且17号提交后还在通宵解决问题，以及到路演当天依然在迭代更新代码，包括现在也是。 
+
+其实我本来是没想过合作的，自己上过几个站，但是上线之后我就没有动力继续优化了，自己的激情一过就开始怀疑产品到底行不行。
+
+我对自己缺乏自信，又总想寻找一点结果上的确定性。
+
+这个状态持续了差不多2个月，每天基本都在内耗，一直在换想做的方向，直到](https://t.zsxq.com/5s5rx)
+
+大方 FanG(wxid_t2rn2a0untne22) 08-23 21:50:24
+[动画表情]
+
+大方 FanG(wxid_t2rn2a0untne22) 08-23 21:50:33
+cool 土豆老哥
+
+码叔编程(wxid_awv5vp6602ju22) 08-23 21:52:20
+牛啊 土豆老哥
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 21:53:58
+向码叔学习[奸笑]
+
+诗意听涛(wxid_ryelnkp9qiu922) 08-23 21:54:18
+![图片](http://127.0.0.1:5030/image/af3c3144ddcb28e3f673ca29f5fc8be0)
+
+诗意听涛(wxid_ryelnkp9qiu922) 08-23 21:54:25
+写的很真实
+
+诗意听涛(wxid_ryelnkp9qiu922) 08-23 21:54:38
+每个独立开发者可能都会面对这个问题
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 21:55:42
+> 土豆君(wxid_gzr7bvbdlvlv22) 08-23 21:48:47
+> [链接|从毫无目标到AI产品杀入黑客松决赛，我找到了自己的驱动力
+> 大家好，我是土豆君。这次参加深海圈黑客松经过几天时间和圈友合作的一个产品没想到杀进了决赛。几天时间，准确说是从15-17号并且17号提交后还在通宵解决问题，以及到路演当天依然在迭代更新代码，包括现在也是。 
+> 其实我本来是没想过合作的，自己上过几个站，但是上线之后我就没有动力继续优化了，自己的激情一过就开始怀疑产品到底行不行。
+> 我对自己缺乏自信，又总想寻找一点结果上的确定性。
+> 这个状态持续了差不多2个月，每天基本都在内耗，一直在换想做的方向，直到](https://t.zsxq.com/5s5rx)
+我们在第15位最后一个，如果觉得我复盘的还不错，要不投个票？[奸笑]
+投票🔗:
+https://scys.com/form/z27Vzfel
+
+大方 FanG(wxid_t2rn2a0untne22) 08-23 21:57:23
+> 诗意听涛(wxid_ryelnkp9qiu922) 08-23 21:54:38
+> 每个独立开发者可能都会面对这个问题
+上次跟小北一起直播的时候，建议大家组队作战的[旺柴]
+
+码叔编程(wxid_awv5vp6602ju22) 08-23 21:59:12
+> 土豆君(wxid_gzr7bvbdlvlv22) 08-23 21:55:42
+> > [引用]
+> 我们在第15位最后一个，如果觉得我复盘的还不错，要不投个票？[奸笑]
+> 投票🔗:
+> https://scys.com/form/z27Vzfel
+已投，今天发的华为信息差不错[强]
+
+诗意听涛(wxid_ryelnkp9qiu922) 08-23 21:59:25
+> FanG|欢迎体验和投票15号(wxid_t2rn2a0untne22) 08-23 21:57:23
+> > [引用]
+> 上次跟小北一起直播的时候，建议大家组队作战的[旺柴]
+嗯嗯，要想办法让自己作品被别人看到，获得反馈，才能继续推着自己往前走。
+
+大方 FanG(wxid_t2rn2a0untne22) 08-23 21:59:38
+> 码叔编程(wxid_awv5vp6602ju22) 08-23 21:59:12
+> > [引用]
+> 已投，今天发的华为信息差不错[强]
+感谢码叔[玫瑰]
+
+droidHZ(wxid_5396913969012) 08-23 21:59:51
+[链接|大家好，我是刘小排老师第一期的海外AI产品的学员，很幸运在此次深海圈的黑客马拉松中，2个作品入围了决赛！分别是AI Meme Maker – Online Meme Generator | MakeMeme 和 Wan Video AI - AI Video](https://t.zsxq.com/90RaW)
+
+droidHZ(wxid_5396913969012) 08-23 22:00:02
+哈哈哈，我也做了一个简单的复盘。
+
+诗意听涛(wxid_ryelnkp9qiu922) 08-23 22:00:34
+> 土豆君(wxid_gzr7bvbdlvlv22) 08-23 21:55:42
+> > [引用]
+> 我们在第15位最后一个，如果觉得我复盘的还不错，要不投个票？[奸笑]
+> 投票🔗:
+> https://scys.com/form/z27Vzfel
+我直播那晚就投过了，算是行业+AI的落地范例
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 22:01:59
+> 码叔编程(wxid_awv5vp6602ju22) 08-23 21:59:12
+> > [引用]
+> 已投，今天发的华为信息差不错[强]
+好耶[嘿哈]
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 22:02:41
+> 诗意听涛(wxid_ryelnkp9qiu922) 08-23 22:00:34
+> > [引用]
+> 我直播那晚就投过了，算是行业+AI的落地范例
+是的是的，细分领域[嘿哈]
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 22:03:24
+> droidHZ-成都(wxid_5396913969012) 08-23 22:00:02
+> 哈哈哈，我也做了一个简单的复盘。
+太牛了。。我看到小排老师投票了[666]
+
+码叔编程(wxid_awv5vp6602ju22) 08-23 22:04:12
+前天去上海某国企出版社签一个开发合同，额外获得一个垂直领域的工具开发需求，下个月上线一个作品，大概率上线就有人买单，[吃瓜]
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 22:05:11
+太🐮啦
+
+土豆君(wxid_gzr7bvbdlvlv22) 08-23 22:05:31
+不愧是码叔
+
+droidHZ(wxid_5396913969012) 08-23 22:11:52
+[动画表情]
+
+车(wxid_2x6x5y4p0sc522) 08-23 22:17:59
+[动画表情]
+
+yyyhx(wxid_9013080130212) 08-23 22:44:05
+牛而逼之
+
+YS(wxid_erhr16xan1j122) 08-23 22:55:10
+#提问 想请教下google ads是不是没法用国内的visa/银联卡支付呀，一直报错
+
+YS(wxid_erhr16xan1j122) 08-23 22:55:11
+![图片](http://127.0.0.1:5030/image/89c48e666ff117cf2acca72fa9144fca)
+
+哥飞(qiayue) 08-23 23:01:38
+我测试个人账号用支付宝付款最稳
+
+YS(wxid_erhr16xan1j122) 08-23 23:04:59
+> 哥飞(qiayue) 08-23 23:01:38
+> 我测试个人账号用支付宝付款最稳
+谢谢飞哥，我去试试！
+
+小宇Mick(muckie) 08-23 23:14:36
+我就是国内visa卡，能用的
+
+YS(wxid_erhr16xan1j122) 08-23 23:17:17
+> 小宇Mick-上海(muckie) 08-23 23:14:36
+> 我就是国内visa卡，能用的
+我试了建行和招行卡，会报错，刚找了个用支付宝支付的教程 我再试试[破涕为笑]
+
+小宇Mick(muckie) 08-23 23:26:43
+我建行和招行卡都绑了
+
+小宇Mick(muckie) 08-23 23:27:17
+不过能用支付宝人民币结算的话更好，不会占用购汇额度[破涕为笑]
+
+七天假(wxid_btc5cjhytnw822) 08-23 23:32:29
+[发呆]我农行能直接充值

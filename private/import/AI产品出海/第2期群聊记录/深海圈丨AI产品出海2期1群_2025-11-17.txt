@@ -1,0 +1,243 @@
+言合(wxid_8znpwfzqtbcs22) 11-17 11:02:55
+#举手 请问下现在的ai应用是不是基本只有编排多api的workflow和做rag 两个选项
+
+刘小排(liuxiaopai) 11-17 11:05:19
+当然不是。
+
+刘小排(liuxiaopai) 11-17 11:05:27
+八仙过海，方法很多。
+
+新侠(wxid_kysk4x0anmy712) 11-17 11:05:29
+虽然看不懂但显然不是
+
+宋恺(song_kai_microblog) 11-17 11:08:00
+> 言合-北京苏州美国(wxid_8znpwfzqtbcs22) 11-17 11:02:55
+> #举手 请问下现在的ai应用是不是基本只有编排多api的workflow和做rag 两个选项
+感觉能代表很多产品的技术方向[破涕为笑]
+
+新侠(wxid_kysk4x0anmy712) 11-17 11:10:00
+起码就还有多模态，差异化 ai，不然你看小排老师的 fast 3d 和 anyvoice 属于这两个里面哪个
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-17 11:19:35
+我觉得从需求、成本出发，选技术好点，感觉真的太考验综合能力了
+
+刘小排(liuxiaopai) 11-17 11:21:53
+是的。技术选型是为了需求。脱离需求来谈技术是没有意义的
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-17 11:23:46
+每天都得逛github、看新闻、逛社区、关注关键词趋势，有没有一个工具能帮我归集、提炼信息啊，最好再提供一个链接，我感兴趣就点过去看。我现在想从这个角度，看看能不能做一个应用
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-17 11:24:17
+不然闭门造车，感觉太危险了
+
+Afar(wxid_pl1vacz65tnb22) 11-17 11:35:34
+小排老师之前分享过Claude code看toolify榜单的教程，说不定可以参考下
+
+Afar(wxid_pl1vacz65tnb22) 11-17 11:38:38
+[链接|用Claude Code把自己变懒：口喷，分析榜单](https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247498624&idx=1&sn=cfc02e764655d51bc6434f6dd35662bb&chksm=e80b14ae158a9f39f48e4effba12a076a1c410a6de7050531fa4c1b25a5acac976a959ab0f84&mpshare=1&scene=1&srcid=1117StdSahtYRrIKkWn3Niwl&sharer_shareinfo=0e8454f952ba462b5759dade86c133a0&sharer_shareinfo_first=0e8454f952ba462b5759dade86c133a0#rd)
+
+Afar(wxid_pl1vacz65tnb22) 11-17 11:39:05
+现在有skill，封装套壳可能更简单了
+
+言合(wxid_8znpwfzqtbcs22) 11-17 11:39:10
+> 新侠(wxid_kysk4x0anmy712) 11-17 11:10:00
+> 起码就还有多模态，差异化 ai，不然你看小排老师的 fast 3d 和 anyvoice 属于这两个里面哪个
+小排老师这两个是自己训了模型吧
+
+田超(abraham1) 11-17 11:42:31
+> Newbie_成都(wxid_p6ohfe1htnil22) 11-17 11:23:46
+> 每天都得逛github、看新闻、逛社区、关注关键词趋势，有没有一个工具能帮我归集、提炼信息啊，最好再提供一个链接，我感兴趣就点过去看。我现在想从这个角度，看看能不能做一个应用
+有必要每天看吗？ 我觉得一段时间内，去寻找 然后确定自己想做的iDea  然后去做就行了。 没有必要一直去找热点吧 [破涕为笑]
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-17 11:46:06
+> Afar 深圳(wxid_pl1vacz65tnb22) 11-17 11:39:05
+> 现在有skill，封装套壳可能更简单了
+感谢分享
+
+Afar(wxid_pl1vacz65tnb22) 11-17 11:50:47
+"${wxid_pl1vacz65tnb22}" 拍了拍 "${wxid_p6ohfe1htnil22}" 砰砰砰，发射
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-17 11:51:33
+> 田超(abraham1) 11-17 11:42:31
+> > [引用]
+> 有必要每天看吗？ 我觉得一段时间内，去寻找 然后确定自己想做的iDea  然后去做就行了。 没有必要一直去找热点吧 [破涕为笑]
+我觉得非常有必要，而且必须看。基本功，我觉得非常能慢慢培养自己的直觉，看一眼就大概知道项目能不能赚钱的能力，项目可以怎么落地。但精力有限，这么多资料一天看不过来，所以想搞一个汇总整理资料的应用
+
+彩笺(wxid_7bvhmd8m2q3y22) 11-17 11:54:11
+> Afar 深圳(wxid_pl1vacz65tnb22) 11-17 11:38:38
+> [链接|用Claude Code把自己变懒：口喷，分析榜单](https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247498624&idx=1&sn=cfc02e764655d51bc6434f6dd35662bb&chksm=e80b14ae158a9f39f48e4effba12a076a1c410a6de7050531fa4c1b25a5acac976a959ab0f84&mpshare=1&scene=1&srcid=1117StdSahtYRrIKkWn3Niwl&sharer_shareinfo=0e8454f952ba462b5759dade86c133a0&sharer_shareinfo_first=0e8454f952ba462b5759dade86c133a0#rd)
+现在toolify已经不在暴露文章中提到的接口了
+
+田超(abraham1) 11-17 11:54:19
+我的意思是，确定一个自己要做的idea 应该去重点开发这个idea的项目。 就耗费大量时间了。
+
+Afar(wxid_pl1vacz65tnb22) 11-17 11:55:36
+> 彩笺(wxid_7bvhmd8m2q3y22) 11-17 11:54:11
+> > [引用]
+> 现在toolify已经不在暴露文章中提到的接口了
+可惜了，感谢分享
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-17 12:00:45
+> 田超(abraham1) 11-17 11:54:19
+> 我的意思是，确定一个自己要做的idea 应该去重点开发这个idea的项目。 就耗费大量时间了。
+嗯嗯，但我觉得还是得有信息的输入，之前看过一点热力学，里面说的耗散结构，我觉得挺有道理的
+
+陳小斑馬🌝(zhenxiaoZebra) 11-17 12:01:35
+> 彩笺(wxid_7bvhmd8m2q3y22) 11-17 11:54:11
+> > [引用]
+> 现在toolify已经不在暴露文章中提到的接口了
+有别的方法去抓么？如果不用接口
+
+新侠(wxid_kysk4x0anmy712) 11-17 12:01:50
+电脑口喷有什么推荐的软件么
+
+Shrek(linchen102013) 11-17 12:02:12
+直接问dia就可以了啊 打开月度排行榜，直接让dia chat 帮你抓取你设定的条件就行了 没那么复杂。
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-17 12:09:34
+> 陳小斑馬-深圳(zhenxiaoZebra) 11-17 12:01:35
+> > [引用]
+> 有别的方法去抓么？如果不用接口
+我提前看了获取流量的那章，爬虫或者API，最好API，合法。或者，找有让你用他网站资源的协议的网站
+
+陳小斑馬🌝(zhenxiaoZebra) 11-17 12:11:19
+[加油][加油] @Newbie_成都 感谢
+
+前行(gejinpeng123) 11-17 12:24:49
+其实挺多方法的，用ai浏览器，或者用CC调用Chrome-devtools MCP去浏览网页然后总结
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-17 13:05:27
+涨知识了，朝鲜是朱元璋取的名
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-17 13:05:42
+![图片](http://127.0.0.1:5030/image/ad11345048f1783b44b43132851690d8)
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-17 13:05:43
+![图片](http://127.0.0.1:5030/image/3e0d264acf5cc987f39efe73d4dcae33)
+
+周志鑫(zhouzhixin853) 11-17 13:27:04
+> 志愿者-糖饼(linchen102013) 11-17 12:02:12
+> 直接问dia就可以了啊 打开月度排行榜，直接让dia chat 帮你抓取你设定的条件就行了 没那么复杂。
+试了下dia确实可以，感谢分享[强]
+
+文身艺术家_补丁(wxid_8983149830812) 11-17 14:24:09
+小排老师，您说SupaStarter比MkSaas难上手，原因就是它用了个不同的代码框架吗？如果去学习一下它的代码框架，会不会就没有这个难上手的问题了？（我感觉反正内功篇里提到的所有语言都要重新学，那多学一个也一样），还是说有其他原因导致它难上手呢
+
+彩笺(wxid_7bvhmd8m2q3y22) 11-17 14:25:57
+> 新侠(wxid_kysk4x0anmy712) 11-17 12:01:50
+> 电脑口喷有什么推荐的软件么
+mac 推荐lazytyper, 圈友开发
+
+小明(wxid_at9px5nf07qm22) 11-17 14:37:26
+> 补丁(wxid_8983149830812) 11-17 14:24:09
+> 小排老师，您说SupaStarter比MkSaas难上手，原因就是它用了个不同的代码框架吗？如果去学习一下它的代码框架，会不会就没有这个难上手的问题了？（我感觉反正内功篇里提到的所有语言都要重新学，那多学一个也一样），还是说有其他原因导致它难上手呢
+可以直接去读读supastarter的官方文档，感受下
+
+小明(wxid_at9px5nf07qm22) 11-17 14:38:26
+https://supastarter.dev/docs/nextjs @补丁
+
+刘小排(liuxiaopai) 11-17 14:42:48
+> 补丁(wxid_8983149830812) 11-17 14:24:09
+> 小排老师，您说SupaStarter比MkSaas难上手，原因就是它用了个不同的代码框架吗？如果去学习一下它的代码框架，会不会就没有这个难上手的问题了？（我感觉反正内功篇里提到的所有语言都要重新学，那多学一个也一样），还是说有其他原因导致它难上手呢
+学习成本太高
+
+找分享(wxid_zqt96drohf2s22) 11-17 14:46:14
+> 新侠(wxid_kysk4x0anmy712) 11-17 12:01:50
+> 电脑口喷有什么推荐的软件么
+推荐闪电说，之前叫代体，这几天刚改名的，圈内很多人在用，反馈不错。支持Mac和Windows，免费，支持AI文本纠正和文本正则化，语音记录都保存在本地(保护隐私)
+
+新侠(wxid_kysk4x0anmy712) 11-17 14:46:33
+好滴谢谢
+
+找分享(wxid_zqt96drohf2s22) 11-17 14:47:31
+客气了[抱拳][抱拳][呲牙]
+
+文身艺术家_补丁(wxid_8983149830812) 11-17 14:56:12
+"${wxid_8983149830812}" 拍了拍 "${wxid_at9px5nf07qm22}"
+
+文身艺术家_补丁(wxid_8983149830812) 11-17 14:56:29
+> 刘小排(liuxiaopai) 11-17 14:42:48
+> > [引用]
+> 学习成本太高
+嗯嗯🤔️
+
+文身艺术家_补丁(wxid_8983149830812) 11-17 14:56:40
+> 小明(wxid_at9px5nf07qm22) 11-17 14:38:26
+> https://supastarter.dev/docs/nextjs @补丁
+谢谢🙏
+
+刘永-Jason(wxid_rq4ed6fvjzbc21) 11-17 16:30:42
+MkSaaS无法使用文档里的优惠码了吗？
+
+刘小排(liuxiaopai) 11-17 17:19:14
+SCAI2025试试，应该可以优惠20刀
+
+刘小排(liuxiaopai) 11-17 17:19:54
+哦，现在好像不行，现在庆祝黑五，价格直接是优惠30刀的，比平时便宜
+
+刘小排(liuxiaopai) 11-17 17:20:01
+"${liuxiaopai}" 拍了拍 "${wxid_rq4ed6fvjzbc21}"
+
+刘永-Jason(wxid_rq4ed6fvjzbc21) 11-17 17:40:55
+好的👌🏻
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-17 22:34:37
+学这获取数据是真有意思啊
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-17 22:34:37
+![图片](http://127.0.0.1:5030/image/6bf1c71e292a387e221ae9b58d369cd5)
+
+Ruiqin袁锐钦(wetas6) 11-17 22:38:37
+"${wetas6}" 拍了拍 "${wxid_p6ohfe1htnil22}" 砰砰砰，发射
+
+大将军浅水🐱(sujuycliu4) 11-17 22:38:58
+已经学蒙了，我在第十章
+
+大将军浅水🐱(sujuycliu4) 11-17 22:39:10
+![图片](http://127.0.0.1:5030/image/f0259d670cb0d1cdbfa7e393c8ccdce7)
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-17 22:43:14
+"${wxid_p6ohfe1htnil22}" 拍了拍 "${sujuycliu4}" ，亲密度+1
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-17 22:43:14
+加油，干就完了。皇天不负有心人
+
+大将军浅水🐱(sujuycliu4) 11-17 22:44:07
+![动画表情](http://vweixinf.tc.qq.com/110/20401/stodownload?m=6810e81be54837975fe123621f99055f&filekey=30440201010430302e02016e0402535a0420363831306538316265353438333739373566653132333632316639393035356602030a3833040d00000004627466730000000132&hy=SZ&storeid=263c7d4e800055cda3c0c2abc0000006e01004fb1535a1b6aa970b66659a20&ef=1&bizid=1022)
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-17 22:45:08
+我看好多公司在招AI产品经理啊
+
+Newbie_Geek(wxid_p6ohfe1htnil22) 11-17 22:45:46
+感觉创业不成，学了技术，看看转个行，也是不错的
+
+袁亮(yuanliang0116) 11-17 23:24:36
+> 大将军浅水🐱(sujuycliu4) 11-17 22:39:10
+> ![图片](http://127.0.0.1:5030/image/f0259d670cb0d1cdbfa7e393c8ccdce7)
+我懵在了搜索那块[旺柴]
+
+袁亮(yuanliang0116) 11-17 23:25:03
+鼓起勇气再来一遍
+
+Ruiqin袁锐钦(wetas6) 11-17 23:33:09
+我把文档扔给gpt，然后让他一步一步指导我
+
+刘小排(liuxiaopai) 11-17 23:36:36
+[强]
+
+大将军浅水🐱(sujuycliu4) 11-17 23:37:22
+> 袁亮(yuanliang0116) 11-17 23:24:36
+> > [引用]
+> 我懵在了搜索那块[旺柴]
+我也是，有点卡住了，缓缓明天再继续
+
+大将军浅水🐱(sujuycliu4) 11-17 23:37:34
+> 袁锐钦(wetas6) 11-17 23:33:09
+> 我把文档扔给gpt，然后让他一步一步指导我
+我也是，还让GPT给我出题
+
+蔡(wxid_cg0yatr2hfio21) 11-17 23:39:40
+哈哈，我是叫 Claude code 把知识点拆碎了，然后配套选择题和出实战题，这个啃起来容易点
+
+刘小排(liuxiaopai) 11-17 23:43:09
+[强]

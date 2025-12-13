@@ -1,0 +1,178 @@
+时升Zephyr(weixin947222915) 10-22 01:47:24
+#举手 咱们的 SISTINE AI 模板主页，它的 h1 h2 看起来好像有点混乱，请问这是正常的吗
+
+时升Zephyr(weixin947222915) 10-22 01:47:24
+![图片](http://127.0.0.1:5030/image/27639df48c0a59f8d0aa9e803ca08c59)
+
+Yolanda.W(wangying6002) 10-22 02:22:40
+发现时heading.tsx 里 这个balancer 引起的问题，你把这个去掉应该可以
+
+Yolanda.W(wangying6002) 10-22 02:22:41
+![图片](http://127.0.0.1:5030/image/f36ac1062476b3c9be0c19c502e631d0)
+
+时升Zephyr(weixin947222915) 10-22 09:37:34
+"${weixin947222915}" 拍了拍 "${wangying6002}"
+
+刘小排(liuxiaopai) 10-22 12:16:46
+OpenAI的AI浏览器Atlas还挺好用的
+
+刘小排(liuxiaopai) 10-22 12:16:57
+已设置为默认浏览器。
+
+百威(wxid_aaxezeq72q0321) 10-22 12:19:50
+刚下了！
+
+百威(wxid_aaxezeq72q0321) 10-22 12:19:51
+![图片](http://127.0.0.1:5030/image/7f77cbaf340f775d6170394eb55bdd35)
+
+李子翰(wxid_ncsuogznfid422) 10-22 12:19:54
+"${wxid_ncsuogznfid422}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+Cristal Wu(vbonyage) 10-22 12:20:29
+下载研究中[呲牙]感谢小排老师分享
+
+刘小排(liuxiaopai) 10-22 12:26:18
+> 时升Zephyr(weixin947222915) 10-22 01:47:24
+> #举手 咱们的 SISTINE AI 模板主页，它的 h1 h2 看起来好像有点混乱，请问这是正常的吗
+这个是个bug的，谢谢建议  @小明-助教 小明看看，我们官方版本也是这样的
+
+星城祝大家2025健康快乐(yowsss) 10-22 12:27:11
+比dia还好用么
+
+时升Zephyr(weixin947222915) 10-22 12:43:54
+"${weixin947222915}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+刘小排(liuxiaopai) 10-22 13:01:31
+> 星城祝大家2025健康快乐(yowsss) 10-22 12:27:11
+> 比dia还好用么
+这不是一个好问题[呲牙]
+
+刘小排(liuxiaopai) 10-22 13:02:24
+浏览器至少有10个功能，A浏览器有6个功能比B好用，有4个不如B好用。
+没办法简单回答A和B哪个更好用。
+
+星城祝大家2025健康快乐(yowsss) 10-22 13:03:04
+[动画表情]
+
+w1(z938839) 10-22 13:18:35
+"${z938839}" 拍了拍 "${liuxiaopai}" ，他爆炸了 [炸弹]
+
+213(wxid_k53k9plaaz0d12) 10-22 13:20:35
+[动画表情]
+
+213(wxid_k53k9plaaz0d12) 10-22 13:20:41
+但这玩意儿似乎不能使浏览器插件
+
+R(qr277763897) 10-22 13:22:46
+是的，因为不能用浏览器插件，我又切回了chrome 
+
+213(wxid_k53k9plaaz0d12) 10-22 13:24:33
+comet 我觉得还挺好用的
+
+李明进(mikipku) 10-22 13:25:55
+请教下大家现在如果买cursor付费账号在哪里买
+
+SuperEric(janetchristmas) 10-22 13:27:48
+闲鱼呀
+
+小明(wxid_at9px5nf07qm22) 10-22 13:32:40
+> 时升Zephyr(weixin947222915) 10-22 01:47:24
+> #举手 咱们的 SISTINE AI 模板主页，它的 h1 h2 看起来好像有点混乱，请问这是正常的吗
+@时升Zephyr done，已处理～
+
+李江(apexlj) 10-22 13:33:20
+![图片](http://127.0.0.1:5030/image/04fafb182552f36ad1c6145a0dcd8215)
+
+李江(apexlj) 10-22 13:33:21
+可以啊
+
+时升Zephyr(weixin947222915) 10-22 13:58:17
+"${weixin947222915}" 拍了拍 "${wxid_at9px5nf07qm22}"
+
+刘小排(liuxiaopai) 10-22 14:04:36
+我换回dia了
+
+刘小排(liuxiaopai) 10-22 14:04:37
+有几个我常用的功能它没有
+
+刘小排(liuxiaopai) 10-22 14:04:37
+比如浏览器插件、devtool里的一些高级功能、快捷键、自定义快捷指令
+
+星吟(wxid_ivo4n28g15qj21) 10-22 14:34:42
+![图片](http://127.0.0.1:5030/image/638e90e11dd60ba3c46cd521bd0547d7)
+
+星吟(wxid_ivo4n28g15qj21) 10-22 14:35:05
+感谢小排老师！移动端性能分99了🥹
+
+刘小排(liuxiaopai) 10-22 14:38:20
+太棒了，牛逼
+
+星吟(wxid_ivo4n28g15qj21) 10-22 14:38:49
+老师牛逼！一句话解决了困扰我两天的问题
+
+刘小排(liuxiaopai) 10-22 14:39:03
+我挺开心的。。想到5月刚认识你的时候，你还什么都不会。现在竟然会用devtools来调性能了
+
+刘小排(liuxiaopai) 10-22 14:39:07
+[强][强][强]
+
+喵喵明(wxid_3b6gzif0m7eh52) 10-22 14:40:01
+[强][强]
+
+星吟(wxid_ivo4n28g15qj21) 10-22 14:40:13
+感谢老师，感谢gemini，哈哈。一步步按照gemini的指示调的
+
+时升Zephyr(weixin947222915) 10-22 14:46:10
+[强][强][强]
+
+哩厘锂力(zizhazhu) 10-22 15:16:35
+[强][强][强]
+
+JsonChao（晚10点睡觉）(wxid_txyrbyqpqhcc22) 10-22 15:45:37
+[强][强][强]
+
+光脚踢球(guangjiaotiqiu001) 10-22 16:02:01
+[强][强][强]
+
+桑桑(wxid_q2c7fp10z2522) 10-22 19:27:41
+@所有人 @所有人 今晚兔老师会和二期学员分享：她是如何思考第一个产品的
+
+分享内容：
+1）从 0→1做AI产品的完整历程 
+2）踩了哪些坑，经验和方法论分享
+3）如果再做下一个产品，她会怎么做
+4）怎么更高效学小排老师的课
+
+感兴趣点击下方链接预约直播，今晚20：00不见不散！~
+
+桑桑(wxid_q2c7fp10z2522) 10-22 19:28:21
+[小程序|企业微信直播](https://mp.weixin.qq.com/mp/waerrpage?appid=wx7424030d69bde86e&type=upgrade&upgradetype=3#wechat_redirect)
+
+Stephen(wxid_7nqj4m4cn9od22) 10-22 19:29:00
+"${wxid_7nqj4m4cn9od22}" 拍了拍 "${wxid_q2c7fp10z2522}" happyhappyhappy～
+
+CHK(wxid_t9mefurnptvz21) 10-22 20:03:01
+？？不是今天吗？
+
+桑桑(wxid_q2c7fp10z2522) 10-22 20:04:01
+新的视频链接，从这里进哈
+
+桑桑(wxid_q2c7fp10z2522) 10-22 20:04:02
+[小程序|企业微信直播](https://mp.weixin.qq.com/mp/waerrpage?appid=wx7424030d69bde86e&type=upgrade&upgradetype=3#wechat_redirect)
+
+王玮(wxid_94jbos68gn3b22) 10-22 20:14:57
+直播断了，还有新的直播链接吗？
+
+小明(wxid_at9px5nf07qm22) 10-22 20:15:31
+[小程序|企业微信直播](https://mp.weixin.qq.com/mp/waerrpage?appid=wx7424030d69bde86e&type=upgrade&upgradetype=3#wechat_redirect)
+
+光脚踢球(guangjiaotiqiu001) 10-22 21:44:00
+#举手 ，这四个点开都是404，应该是目标地址配置错了
+
+光脚踢球(guangjiaotiqiu001) 10-22 21:44:01
+![图片](http://127.0.0.1:5030/image/f7f7a8002876df647bc5e6d4e7cecbaf)
+
+小明(wxid_at9px5nf07qm22) 10-22 21:49:03
+> 肥鱼(guangjiaotiqiu001) 10-22 21:44:00
+> #举手 ，这四个点开都是404，应该是目标地址配置错了
+收到
