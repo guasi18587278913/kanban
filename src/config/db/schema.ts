@@ -580,14 +580,20 @@ export const communityDailyReport = pgTable(
     questionCount: integer('question_count').notNull(), // 提问数量
     avgResponseTime: integer('avg_response_time'), // 平均响应时间（分钟）
     resolutionRate: integer('resolution_rate'), // 问题解决率（百分比 0-100）
-    goodNewsCount: integer('good_news_count').notNull().default(0), // 好事数量
+    goodNewsCount: integer('good_news_count').notNull().default(0), // 好事数量（LLM提取）
 
     // 完整的分析文本
     fullReport: text('full_report').notNull(), // 完整的markdown分析报告
 
-    // 其他元数据
-    activityFeature: text('activity_feature'), // 活跃特征描述
+    // LLM提取的原始数据（可被覆盖）
+    activityFeature: text('activity_feature'), // 活跃特征描述（LLM提取的好事JSON）
     actionList: text('action_list'), // 运营清单（JSON）
+
+    // 人工审核后的数据（受保护，不被LLM覆盖）
+    activityFeatureVerified: text('activity_feature_verified'), // 审核后的好事数据（JSON）
+    goodNewsCountVerified: integer('good_news_count_verified'), // 审核后的好事数量
+    actionListVerified: text('action_list_verified'), // 审核后的问答/待办（JSON）
+    isVerified: boolean('is_verified').default(false), // 是否已人工审核
 
     createdAt: timestamp('created_at').defaultNow().notNull(),
     updatedAt: timestamp('updated_at')

@@ -14,7 +14,7 @@ export function KnowledgeWall({ data }: KnowledgeWallProps) {
   const { starStudents, kocs, goodNewsList } = useMemo(() => {
     const starMap = new Map<string, { count: number; reasons: Set<string>; originalName: string }>();
     const kocMap = new Map<string, { count: number; reasons: Set<string>; originalName: string; groups: Set<string> }>();
-    const news: { content: string; date: string; group: string }[] = [];
+    const news: { content: string; date: string; group: string; author?: string }[] = [];
 
     // Helper to normalize names (strip location/title suffixes)
     // "陈江河-广州" -> "陈江河"

@@ -11,7 +11,7 @@ export type UpdateConfig = Partial<Omit<NewConfig, 'name'>>;
 export type Configs = Record<string, string>;
 
 export async function saveConfigs(configs: Record<string, string>) {
-  const result = await db().transaction(async (tx) => {
+  const result = await db().transaction(async (tx: any) => {
     const configEntries = Object.entries(configs);
     const results = [];
 

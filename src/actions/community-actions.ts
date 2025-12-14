@@ -108,29 +108,57 @@ async function upsertReport(parsed: ParsedReport) {
   let reportId = '';
   if (existingReports.length > 0) {
     reportId = existingReports[0].id;
+    const existingReport = existingReports[0];
+
+    // 基础更新数据（统计信息总是可以更新）
+    const updateData: any = {
+      messageCount: parsed.messageCount,
+      questionCount: parsed.questionCount,
+      avgResponseTime: parsed.avgResponseTime ? Math.round(parsed.avgResponseTime) : null,
+      resolutionRate: parsed.resolutionRate ? Math.round(parsed.resolutionRate) : null,
+      fullReport: parsed.fullText,
+      updatedAt: new Date(),
+    };
+
+    // 检查是否已审核：如果已审核，保护 activityFeature 和 goodNewsCount
+    // @ts-ignore - isVerified 是新字段
+    if (!existingReport.isVerified) {
+      // 未审核，可以更新 LLM 提取的好事数据
+      updateData.goodNewsCount = parsed.goodNewsCount;
+      updateData.activityFeature = parsed.goodNews && parsed.goodNews.length > 0 ? JSON.stringify(parsed.goodNews) : null;
+      updateData.actionList =
+        (parsed.actionItems && parsed.actionItems.length > 0) || (parsed.questions && parsed.questions.length > 0)
+          ? JSON.stringify({
+              actionItems: parsed.actionItems || [],
+              questions: parsed.questions || [],
+            })
+          : null;
+    } else {
+      // 已审核，只更新 actionList（问答数据），保护 activityFeature（好事数据）
+      updateData.actionList =
+        (parsed.actionItems && parsed.actionItems.length > 0) || (parsed.questions && parsed.questions.length > 0)
+          ? JSON.stringify({
+              actionItems: parsed.actionItems || [],
+              questions: parsed.questions || [],
+            })
+          : null;
+      console.log(`[PROTECTED] Report ${reportId} is verified, skipping activityFeature/goodNewsCount update`);
+    }
+
     await db()
       .update(communityDailyReport)
-      .set({
-        messageCount: parsed.messageCount,
-        questionCount: parsed.questionCount,
-        avgResponseTime: parsed.avgResponseTime ? Math.round(parsed.avgResponseTime) : null,
-        resolutionRate: parsed.resolutionRate ? Math.round(parsed.resolutionRate) : null,
-        goodNewsCount: parsed.goodNewsCount,
-        activityFeature: parsed.goodNews && parsed.goodNews.length > 0 ? JSON.stringify(parsed.goodNews) : null,
-        actionList:
-          (parsed.actionItems && parsed.actionItems.length > 0) || (parsed.questions && parsed.questions.length > 0)
-            ? JSON.stringify({
-                actionItems: parsed.actionItems || [],
-                questions: parsed.questions || [],
-              })
-            : null,
-        fullReport: parsed.fullText,
-        updatedAt: new Date(),
-      })
+      .set(updateData)
       .where(eq(communityDailyReport.id, reportId));
 
-    await db().delete(communityStarStudent).where(eq(communityStarStudent.reportId, reportId));
-    await db().delete(communityKoc).where(eq(communityKoc.reportId, reportId));
+    // 只有未审核时才重建 star students 和 KOCs
+    // @ts-ignore
+    if (!existingReport.isVerified) {
+      await db().delete(communityStarStudent).where(eq(communityStarStudent.reportId, reportId));
+      await db().delete(communityKoc).where(eq(communityKoc.reportId, reportId));
+    } else {
+      console.log(`[PROTECTED] Report ${reportId} is verified, skipping star students and KOCs rebuild`);
+      return { reportId, groupId };
+    }
   } else {
     reportId = nanoid();
     await db().insert(communityDailyReport).values({
@@ -324,6 +352,11 @@ export async function getDashboardStats() {
       goodNewsCount: communityDailyReport.goodNewsCount,
       activityFeature: communityDailyReport.activityFeature,
       actionList: communityDailyReport.actionList,
+      // 新增：审核后的字段
+      activityFeatureVerified: communityDailyReport.activityFeatureVerified,
+      goodNewsCountVerified: communityDailyReport.goodNewsCountVerified,
+      actionListVerified: communityDailyReport.actionListVerified,
+      isVerified: communityDailyReport.isVerified,
       groupName: communityGroup.groupName,
       productLine: communityGroup.productLine,
     })
@@ -334,17 +367,22 @@ export async function getDashboardStats() {
   const allStarStudents = await db().select().from(communityStarStudent);
   const allKocs = await db().select().from(communityKoc);
 
-  const enhancedReports = reports.map((report) => {
-    const myStudents = allStarStudents.filter((s) => s.reportId === report.id);
-    const myKocs = allKocs.filter((k) => k.reportId === report.id);
+  const enhancedReports = reports.map((report: any) => {
+    const myStudents = allStarStudents.filter((s: any) => s.reportId === report.id);
+    const myKocs = allKocs.filter((k: any) => k.reportId === report.id);
 
     let goodNewsParsed: { content: string; author?: string; date: string; group: string }[] = [];
     let questionsParsed: any[] = [];
     let actionItemsParsed: any[] = [];
 
-    if (report.activityFeature) {
+    // 优先使用审核后的数据，如果没有则回退到 LLM 提取的数据
+    const activityFeatureToUse = report.activityFeatureVerified || report.activityFeature;
+    const actionListToUse = report.actionListVerified || report.actionList;
+    const goodNewsCountToUse = report.goodNewsCountVerified ?? report.goodNewsCount;
+
+    if (activityFeatureToUse) {
       try {
-        const parsed = JSON.parse(report.activityFeature);
+        const parsed = JSON.parse(activityFeatureToUse);
         if (Array.isArray(parsed)) {
           goodNewsParsed = parsed.map((item: any) => ({
             content: item.content || '',
@@ -358,9 +396,9 @@ export async function getDashboardStats() {
       }
     }
 
-    if (report.actionList) {
+    if (actionListToUse) {
       try {
-        const parsed = JSON.parse(report.actionList);
+        const parsed = JSON.parse(actionListToUse);
         if (parsed.questions) questionsParsed = parsed.questions;
         if (parsed.actionItems) actionItemsParsed = parsed.actionItems;
       } catch (e) {
@@ -370,6 +408,8 @@ export async function getDashboardStats() {
 
     return {
       ...report,
+      // 使用审核后的 goodNewsCount
+      goodNewsCount: goodNewsCountToUse,
       starStudents: myStudents,
       starStudentCount: myStudents.length,
       kocs: myKocs,
@@ -412,6 +452,11 @@ export async function getReportById(id: string) {
       activityFeature: communityDailyReport.activityFeature,
       actionList: communityDailyReport.actionList,
       fullReport: communityDailyReport.fullReport,
+      // 新增：审核后的字段
+      activityFeatureVerified: communityDailyReport.activityFeatureVerified,
+      goodNewsCountVerified: communityDailyReport.goodNewsCountVerified,
+      actionListVerified: communityDailyReport.actionListVerified,
+      isVerified: communityDailyReport.isVerified,
       groupName: communityGroup.groupName,
       productLine: communityGroup.productLine,
     })
@@ -429,9 +474,14 @@ export async function getReportById(id: string) {
   let questionsParsed: any[] = [];
   let actionItemsParsed: any[] = [];
 
-  if (report.activityFeature) {
+  // 优先使用审核后的数据，如果没有则回退到 LLM 提取的数据
+  const activityFeatureToUse = report.activityFeatureVerified || report.activityFeature;
+  const actionListToUse = report.actionListVerified || report.actionList;
+  const goodNewsCountToUse = report.goodNewsCountVerified ?? report.goodNewsCount;
+
+  if (activityFeatureToUse) {
     try {
-      const parsed = JSON.parse(report.activityFeature);
+      const parsed = JSON.parse(activityFeatureToUse);
       if (Array.isArray(parsed)) {
         goodNewsParsed = parsed.map((item: any) => ({
           content: item.content || '',
@@ -445,9 +495,9 @@ export async function getReportById(id: string) {
     }
   }
 
-  if (report.actionList) {
+  if (actionListToUse) {
     try {
-      const parsed = JSON.parse(report.actionList);
+      const parsed = JSON.parse(actionListToUse);
       if (parsed.questions) questionsParsed = parsed.questions;
       if (parsed.actionItems) actionItemsParsed = parsed.actionItems;
     } catch (e) {
@@ -457,6 +507,8 @@ export async function getReportById(id: string) {
 
   return {
     ...report,
+    // 使用审核后的 goodNewsCount
+    goodNewsCount: goodNewsCountToUse,
     starStudents,
     kocs,
     goodNewsParsed,

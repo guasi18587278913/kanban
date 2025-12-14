@@ -4,21 +4,6 @@ import { parseFilenameMeta, questionRegex } from './community-raw-parser';
 
 type PeriodKey = '一期' | '二期' | '全部';
 
-const COACH_CSV = path.join(process.cwd(), 'private/import/AI产品出海/AI 产品出海 -教练&志愿者名单.csv');
-const STUDENT_CSV = path.join(process.cwd(), 'private/import/AI产品出海/AI 产品出海 -学员名单.csv');
-
-function loadNames(csvPath: string): string[] {
-  if (!fs.existsSync(csvPath)) return [];
-  const raw = fs.readFileSync(csvPath, 'utf-8');
-  return raw
-    .split(/\r?\n/)
-    .slice(1) // skip header
-    .map((line) => line.split(',')[1]?.trim())
-    .filter(Boolean);
-}
-
-const coaches = loadNames(COACH_CSV);
-const students = loadNames(STUDENT_CSV);
 
 function normalizeName(name: string) {
   const noQuote = name.replace(/^"+|"+$/g, '');
@@ -40,20 +25,59 @@ function extractAlias(name: string) {
   return null;
 }
 
-function buildNormalizedSet(list: string[]) {
+function loadNameMap(csvPath: string, roleColIndex: number = 2): Map<string, string> {
+  if (!fs.existsSync(csvPath)) return new Map();
+  const raw = fs.readFileSync(csvPath, 'utf-8');
+  const map = new Map<string, string>();
+  
+  raw.split(/\r?\n/)
+    .slice(1) // skip header
+    .forEach((line) => {
+        const parts = line.split(',');
+        const name = parts[1]?.trim();
+        if (!name) return;
+        
+        // Extract Role
+        const role = parts[roleColIndex]?.trim();
+        
+        if (name) map.set(name, role || '');
+        
+        // Also map normalized name for loose matching
+        const norm = normalizeName(name);
+        if (norm && norm !== name) {
+             if (!map.has(norm)) map.set(norm, role || '');
+        }
+
+        // Map alias if exists
+        const alias = extractAlias(name);
+        if (alias) {
+            map.set(alias, role || '');
+            const startStr = normalizeName(alias);
+            if(startStr && !map.has(startStr)) map.set(startStr, role || '');
+        }
+    });
+    
+  return map;
+}
+
+const COACH_CSV = path.join(process.cwd(), 'private/import/AI产品出海/AI 产品出海 -教练&志愿者名单.csv');
+const STUDENT_CSV = path.join(process.cwd(), 'private/import/AI产品出海/AI 产品出海 -学员名单.csv');
+
+// Load Maps
+const coachMap = loadNameMap(COACH_CSV, 2); 
+const studentMap = loadNameMap(STUDENT_CSV, -1);
+
+function buildNormalizedSet(map: Map<string, string>) {
   const set = new Set<string>();
-  list.forEach((n) => {
-    if (!n) return;
-    set.add(n.trim());
-    set.add(normalizeName(n));
-    const alias = extractAlias(n);
-    if (alias) set.add(normalizeName(alias));
-  });
+  for (const name of map.keys()) {
+      set.add(name);
+      set.add(normalizeName(name));
+  }
   return set;
 }
 
-const coachSet = buildNormalizedSet(coaches);
-const studentSet = buildNormalizedSet(students);
+const coachSet = buildNormalizedSet(coachMap);
+const studentSet = buildNormalizedSet(studentMap);
 
 const BLOCKED = new Set(['桑桑']); // 可扩展黑名单
 
@@ -79,6 +103,7 @@ function shouldCount(name: string) {
 export type RoleStats = {
   name: string;
   count: number;
+  tags?: string[];
 };
 
 export type CoachStudentStats = {
@@ -121,9 +146,11 @@ export function getCoachStudentStats(period: PeriodKey = '全部'): CoachStudent
       if (!speaker || !shouldCount(speaker)) continue;
 
       const normalized = normalizeName(speaker);
+      // Check Coach
       if (coachSet.has(speaker) || coachSet.has(normalized)) {
         coachCounts.set(speaker, (coachCounts.get(speaker) || 0) + 1);
       }
+      // Check Student
       if (studentSet.has(speaker) || studentSet.has(normalized)) {
         studentCounts.set(speaker, (studentCounts.get(speaker) || 0) + 1);
       }
@@ -132,6 +159,7 @@ export function getCoachStudentStats(period: PeriodKey = '全部'): CoachStudent
     // 粗粒度答疑统计：找到含疑问关键词的行，第一条不同说话人的回复视为答疑
     lines.forEach((line, idx) => {
       const asker = speakerCache[idx];
+       // Fixed: Use strict regex to avoid high FP
       if (!asker || !questionRegex.test(line)) return;
 
       for (let j = idx + 1; j < lines.length; j++) {
@@ -147,16 +175,38 @@ export function getCoachStudentStats(period: PeriodKey = '全部'): CoachStudent
     });
   }
 
+  // Helper to get tags
+  const getTags = (name: string, isCoach: boolean) => {
+      const tags: string[] = [];
+      const norm = normalizeName(name);
+      
+      if (isCoach) {
+          // Priority 1: Exact Match
+          let role = coachMap.get(name);
+          // Priority 2: Norm Match
+          if (!role) role = coachMap.get(norm);
+          
+          if (role) tags.push(role);
+      } else {
+          // For students, maybe add '学员'? Or just leave empty to reduce noise
+          // User request implies "Tags in Coach/Volunteer Q&A". 
+          // Volunteers ARE in the Coach list. 
+      }
+      return tags;
+  };
+
   const coachTop = Array.from(coachCounts.entries())
-    .map(([name, count]) => ({ name, count }))
+    .map(([name, count]) => ({ name, count, tags: getTags(name, true) }))
     .sort((a, b) => b.count - a.count)
     .slice(0, 20);
+    
   const coachAnswerTop = Array.from(coachAnswerCounts.entries())
-    .map(([name, count]) => ({ name, count }))
+    .map(([name, count]) => ({ name, count, tags: getTags(name, true) }))
     .sort((a, b) => b.count - a.count)
     .slice(0, 20);
+    
   const studentTop = Array.from(studentCounts.entries())
-    .map(([name, count]) => ({ name, count }))
+    .map(([name, count]) => ({ name, count, tags: getTags(name, false) }))
     .sort((a, b) => b.count - a.count)
     .slice(0, 20);
 

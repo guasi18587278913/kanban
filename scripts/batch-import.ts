@@ -232,17 +232,23 @@ async function processFile(filePath: string) {
     };
 
       const reportId = existingReports[0].id;
-      
+      const existingReport = existingReports[0] as any;
+
+      // 检查是否已审核：isVerified 为 true 时，保护数据不被覆盖
+      const isReportVerified = existingReport.isVerified === true;
+      const shouldProtect = PROTECT_MODE || isReportVerified;
+
       const updateData: any = { ...newValues };
 
-      if (PROTECT_MODE) {
-          // In protect mode, DO NOT overwrite Good News or KOCs
+      if (shouldProtect) {
+          // In protect mode OR if report is verified, DO NOT overwrite Good News or KOCs
           // We only want to backfill Questions (actionList), Response Rates, etc.
           delete updateData.goodNewsCount;
           delete updateData.activityFeature;
           // Keep other stats like messageCount, questionCount, etc.
-          
-          console.log(`  [PROTECT] Updating Report ${reportId} (Skipping GoodNews/KOC overwrite)`);
+
+          const reason = isReportVerified ? 'VERIFIED' : 'PROTECT_MODE';
+          console.log(`  [${reason}] Updating Report ${reportId} (Skipping GoodNews/KOC overwrite)`);
       } else {
           console.log(`  Updating Report ${reportId}`);
       }
@@ -252,13 +258,13 @@ async function processFile(filePath: string) {
         .set(updateData)
         .where(eq(communityDailyReport.id, reportId));
 
-      if (!PROTECT_MODE) {
+      if (!shouldProtect) {
         // Clear and Re-insert children ONLY if NOT protecting
         await db()
             .delete(communityStarStudent)
             .where(eq(communityStarStudent.reportId, reportId));
         await db().delete(communityKoc).where(eq(communityKoc.reportId, reportId));
-        
+
         // Insert new children
         if (parsed.starStudents.length > 0) {
             await db()
@@ -275,7 +281,7 @@ async function processFile(filePath: string) {
                 }))
               );
           }
-      
+
           if (parsed.kocs.length > 0) {
             await db()
               .insert(communityKoc)
@@ -344,7 +350,7 @@ async function main() {
     .from(communityImportLog)
     .where(eq(communityImportLog.status, 'SUCCESS'));
   
-  const successSet = new Set(successLogs.map(l => l.fileName));
+  const successSet = new Set(successLogs.map((l: { fileName: string }) => l.fileName));
   console.log(`Found ${successSet.size} already imported files.`);
 
   let files: string[] = [];
@@ -352,14 +358,14 @@ async function main() {
   if (ONLY_FAILED) {
     // Only retry explicitly failed ones
     const logs = await db().select().from(communityImportLog);
-    const failedNames = Array.from(
-      new Set(logs.filter((l) => l.status === 'FAILED').map((l) => l.fileName))
+    const failedNames: string[] = Array.from(
+      new Set(logs.filter((l: any) => l.status === 'FAILED').map((l: any) => l.fileName as string))
     );
-    
+
     // If it failed before but eventually succeeded (retry succeeded), don't add it back
     // UNLESS FORCE_MODE is on, then we might want to retry even if succeeded?
     // But ONLY_FAILED usually implies intent to fix failures.
-    const realFailedNames = FORCE_MODE ? failedNames : failedNames.filter(n => !successSet.has(n));
+    const realFailedNames: string[] = FORCE_MODE ? failedNames : failedNames.filter((n) => !successSet.has(n));
 
     const pathMap = new Map<string, string>();
     allFiles.forEach((p) => pathMap.set(path.basename(p), p));

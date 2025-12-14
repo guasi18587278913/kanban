@@ -18,7 +18,7 @@ async function main() {
 
   console.log(`Checking ${reports.length} reports...`);
 
-  reports.forEach(r => {
+  reports.forEach((r: any) => {
     console.log(`\nReport: ${r.date.toISOString().split('T')[0]} (ID: ${r.id})`);
     try {
       const parsed = JSON.parse(r.actionList as string);

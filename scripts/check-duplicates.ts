@@ -26,7 +26,7 @@ async function main() {
       console.log("No duplicates found. The counts should match.");
   } else {
       console.log(`Found ${duplicates.length} files with multiple success logs.`);
-      duplicates.forEach(d => console.log(`${d.fileName}: ${d.count}`));
+      duplicates.forEach((d: { fileName: string; count: number }) => console.log(`${d.fileName}: ${d.count}`));
   }
   process.exit(0);
 }

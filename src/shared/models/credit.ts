@@ -159,7 +159,7 @@ export async function consumeCredits({
   const currentTime = new Date();
 
   // consume credits
-  const result = await db().transaction(async (tx) => {
+  const result = await db().transaction(async (tx: any) => {
     // 1. check credits balance
     const [creditsBalance] = await tx
       .select({

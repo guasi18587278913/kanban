@@ -1,9 +1,11 @@
 
 'use client';
 
+
 import { useEffect, useMemo, useState } from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/shared/components/ui/card';
-import { getDashboardStats } from '@/actions/community-actions';
+import { Badge } from '@/shared/components/ui/badge';
+import { getDashboardStatsV2 } from '@/actions/community-v2-actions';
 import { SmartIcon } from '@/shared/blocks/common';
 import { ChartsSection } from './_components/charts-section';
 import { KnowledgeWall } from './_components/knowledge-wall';
@@ -28,12 +30,12 @@ export default function CommunityDashboardPage() {
   const [csLoading, setCsLoading] = useState(false);
   const [period, setPeriod] = useState<'一期' | '二期' | '全部'>('全部');
   const [coachStudent, setCoachStudent] = useState<{
-    coachTop: { name: string; count: number }[];
-    coachAnswerTop?: { name: string; count: number }[];
+    coachTop: { name: string; count: number; tags?: string[] }[];
+    coachAnswerTop?: { name: string; count: number; tags?: string[] }[];
     coachAnswerTotal?: number;
     coachTotal: number;
     coachActive: number;
-    studentTop: { name: string; count: number }[];
+    studentTop: { name: string; count: number; tags?: string[] }[];
     studentTotal: number;
     studentActive: number;
   } | null>(null);
@@ -41,7 +43,7 @@ export default function CommunityDashboardPage() {
   useEffect(() => {
     async function fetchStats() {
       try {
-        const data = await getDashboardStats();
+        const data = await getDashboardStatsV2();
         // Stats in Overview need dates normalized for charts? 
         // ChartsSection expects reportDate string. getDashboardStats returns it.
         setStats(data.map((d: any) => ({
@@ -171,20 +173,22 @@ export default function CommunityDashboardPage() {
                 norm,
                 name: base.find((b) => normalizeName(b.name) === norm)?.name || norm,
                 answerCount: count,
+                tags: base.find((b) => normalizeName(b.name) === norm)?.tags
               }));
 
               // merge message counts + answer counts
-              const mergedMap = new Map<string, { name: string; messageCount?: number; answerCount?: number }>();
+              const mergedMap = new Map<string, { name: string; messageCount?: number; answerCount?: number; tags?: string[] }>();
               base.forEach((b) => {
                 const norm = normalizeName(b.name);
-                mergedMap.set(norm, { name: b.name, messageCount: b.count, answerCount: 0 });
+                mergedMap.set(norm, { name: b.name, messageCount: b.count, answerCount: 0, tags: b.tags });
               });
               fromAnswers.forEach((a) => {
                 const existing = mergedMap.get(a.norm);
                 if (existing) {
                   existing.answerCount = a.answerCount;
+                  if (a.tags && a.tags.length > 0) existing.tags = a.tags; // prefer answer source tags if available? Actually base usually has better tags
                 } else {
-                  mergedMap.set(a.norm, { name: a.name, messageCount: 0, answerCount: a.answerCount });
+                  mergedMap.set(a.norm, { name: a.name, messageCount: 0, answerCount: a.answerCount, tags: a.tags });
                 }
               });
 
@@ -202,6 +206,7 @@ export default function CommunityDashboardPage() {
             items={() => (coachStudent?.studentTop || []).map((item) => ({
               name: item.name,
               messageCount: item.count,
+              tags: item.tags
             }))}
             icon="Users"
             linkPrefix="/community/student"
@@ -241,7 +246,7 @@ function RoleCard({
   total: number;
   answerTotal?: number;
   active: number;
-  items: { name: string; messageCount?: number; answerCount?: number }[] | (() => { name: string; messageCount?: number; answerCount?: number }[]);
+  items: { name: string; messageCount?: number; answerCount?: number; tags?: string[] }[] | (() => { name: string; messageCount?: number; answerCount?: number; tags?: string[] }[]);
   loading: boolean;
   icon: string;
   linkPrefix?: string;
@@ -279,6 +284,14 @@ function RoleCard({
                     </Link>
                   ) : (
                     <span className="text-sm font-medium">{item.name}</span>
+                  )}
+                  {/* render tags */}
+                  {item.tags && item.tags.length > 0 && (
+                      <div className="flex gap-1">
+                          {item.tags.map(t => (
+                              <Badge key={t} variant="secondary" className="text-[10px] h-4 px-1">{t}</Badge>
+                          ))}
+                      </div>
                   )}
                 </div>
                 <div className="text-xs text-muted-foreground flex gap-2">

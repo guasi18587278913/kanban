@@ -14,9 +14,13 @@ export interface ParsedReport {
   activeUserCount?: number;
   questionCount: number;
   questions?: {
-      content: string;
-      author?: string;
-      reply?: string;
+    content: string;
+    author?: string;
+    reply?: string;
+    answeredBy?: string;
+    status?: string; // resolved | unresolved
+    waitMins?: number;
+    resolved?: boolean;
   }[];
   avgResponseTime?: number; // minutes
   resolutionRate?: number; // percentage 0-100
@@ -35,7 +39,7 @@ export interface ParsedReport {
     highlight?: string;
     suggestion?: string;
   }[];
-  
+
   kocs: {
     name: string;
     type?: string;
@@ -48,16 +52,6 @@ export interface ParsedReport {
     category: string; // unresolved, risk, todo, followup
     description: string;
     relatedTo?: string; // question or user
-  }[];
-
-  questions?: {
-    content: string;
-    author?: string;
-    answeredBy?: string;
-    reply?: string;
-    status?: string; // resolved | unresolved
-    waitMins?: number;
-    resolved?: boolean;
   }[];
 
   fullText: string;
