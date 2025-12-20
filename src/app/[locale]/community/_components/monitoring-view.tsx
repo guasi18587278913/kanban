@@ -21,7 +21,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue, SelectGr
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/shared/components/ui/card";
 import { Badge } from "@/shared/components/ui/badge";
 import { cn } from "@/shared/lib/utils";
-import { getDashboardStats } from "@/actions/community-actions";
+import { getDashboardStatsV2 as getDashboardStats } from "@/actions/community-v2-actions";
 import { SmartIcon } from "@/shared/blocks/common";
 import { ChartsSection } from "./charts-section";
 
@@ -46,6 +46,7 @@ export interface Report {
 export interface MonitoringViewProps {
   initialProductLine?: string;
   title?: string;
+  hideHeader?: boolean;
 }
 
 type RichDailyInsight = any;
@@ -71,7 +72,7 @@ function sortGroupNames(a: string, b: string) {
 // Mock Data
 const MOCKED_INSIGHTS: Record<string, any> = {};
 
-export function MonitoringView({ initialProductLine, title }: MonitoringViewProps) {
+export function MonitoringView({ initialProductLine, title, hideHeader }: MonitoringViewProps) {
   const [stats, setStats] = useState<Report[]>([]);
   const [loading, setLoading] = useState(true);
   const [selectedProductLine, setSelectedProductLine] = useState<string>(initialProductLine || 'all');
@@ -392,6 +393,7 @@ export function MonitoringView({ initialProductLine, title }: MonitoringViewProp
   return (
     <div className="flex flex-col gap-6 p-8">
       {/* Header & Filter */}
+      {!hideHeader && (
       <div className="flex flex-col gap-6">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-4">
@@ -515,6 +517,7 @@ export function MonitoringView({ initialProductLine, title }: MonitoringViewProp
             </div>
           </div>
       </div>
+      )}
       {/* 1. Historical Charts (Top Priority) */}
 
 
@@ -662,53 +665,7 @@ export function MonitoringView({ initialProductLine, title }: MonitoringViewProp
            </div>
        )}
 
-      {/* 7. Table (Always Visible) */}
-      <Card>
-        <CardHeader>
-          <CardTitle>群组明细数据</CardTitle>
-        </CardHeader>
-        <CardContent>
-            {loading ? (
-                <div className="py-6 text-center text-muted-foreground">加载中…</div>
-            ) : filteredReports.length === 0 ? (
-                <div className="py-6 text-center text-muted-foreground">暂无数据。</div>
-            ) : (
-                <div className="relative w-full overflow-auto">
-                <table className="w-full caption-bottom text-sm text-left">
-                    <thead className="[&_tr]:border-b">
-                    <tr className="border-b transition-colors">
-                        <th className="h-12 px-4 align-middle font-medium text-muted-foreground">群组</th>
-                        <th className="h-12 px-4 align-middle font-medium text-muted-foreground">消息</th>
-                        <th className="h-12 px-4 align-middle font-medium text-muted-foreground">提问</th>
-                        <th className="h-12 px-4 align-middle font-medium text-muted-foreground">均响</th>
-                        <th className="h-12 px-4 align-middle font-medium text-muted-foreground">解决率</th>
-                        <th className="h-12 px-4 align-middle font-medium text-muted-foreground">好事</th>
-                    </tr>
-                    </thead>
-                    <tbody className="[&_tr:last-child]:border-0">
-                    {filteredReports.map((r) => (
-                        <tr key={r.id} className="border-b">
-                        <td className="px-4 py-2 align-middle">
-                            <div className="font-medium">{r.groupName}</div>
-                            {selectedProductLine === 'all' && <div className="text-xs text-muted-foreground">{r.productLine}</div>}
-                        </td>
-                        <td className="px-4 py-2 align-middle">{r.messageCount}</td>
-                        <td className="px-4 py-2 align-middle">{r.questionCount}</td>
-                        <td className="px-4 py-2 align-middle">{r.avgResponseTime ?? '-'}</td>
-                        <td className="px-4 py-2 align-middle">
-                            <span className={cn((r.resolutionRate ?? 100) < 80 ? "text-red-500 font-medium" : "")}>
-                                {r.resolutionRate ?? 0}%
-                            </span>
-                        </td>
-                        <td className="px-4 py-2 align-middle">{r.goodNewsCount}</td>
-                        </tr>
-                    ))}
-                    </tbody>
-                </table>
-                </div>
-            )}
-        </CardContent>
-      </Card>
+      {/* 群组明细数据表：隐藏 */}
     </div>
   );
 }

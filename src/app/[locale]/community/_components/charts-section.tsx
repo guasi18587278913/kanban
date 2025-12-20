@@ -225,13 +225,14 @@ export function ChartsSection({
         const { cx, cy, payload, stroke } = props;
         if (payload.date === lastDate) {
             return (
-                <g>
+                <g key={payload.date}>
                     <circle cx={cx} cy={cy} r={4} fill={stroke} stroke="#fff" strokeWidth={2} />
                     <circle cx={cx} cy={cy} r={8} stroke={stroke} strokeOpacity={0.3} strokeWidth={1} fill="none" />
                 </g>
             );
         }
-        return <></>;
+        // return an empty element with a stable key to satisfy React/Recharts
+        return <g key={payload.date} />;
     };
 
     return { 

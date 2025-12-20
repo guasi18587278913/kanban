@@ -9,6 +9,7 @@ import { getDashboardStatsV2 } from '@/actions/community-v2-actions';
 import { SmartIcon } from '@/shared/blocks/common';
 import { ChartsSection } from './_components/charts-section';
 import { KnowledgeWall } from './_components/knowledge-wall';
+import { MonitoringView } from './_components/monitoring-view';
 import { Link } from '@/core/i18n/navigation';
 
 function normalizeName(name: string) {
@@ -212,6 +213,11 @@ export default function CommunityDashboardPage() {
             linkPrefix="/community/student"
           />
         </div>
+      </div>
+
+      {/* 运营看板（嵌入昨日复盘视图） */}
+      <div className="pt-6 space-y-4">
+        <MonitoringView initialProductLine="AI产品出海" hideHeader />
       </div>
 
     </div>
