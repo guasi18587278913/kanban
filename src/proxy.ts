@@ -9,6 +9,13 @@ const intlMiddleware = createIntlMiddleware(routing);
 export async function proxy(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
+  // Redirect root to the community dashboard
+  if (pathname === '/' || pathname === '/zh' || pathname === '/en') {
+    const url = request.nextUrl.clone();
+    url.pathname = '/zh/community';
+    return NextResponse.redirect(url);
+  }
+
   // Handle internationalization first
   const intlResponse = intlMiddleware(request);
 
