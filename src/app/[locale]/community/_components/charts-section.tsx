@@ -333,9 +333,9 @@ export function ChartsSection({
                     />
                     <ChartLegend content={<ChartLegendContent className="text-[10px] whitespace-nowrap" />} />
                     
-                    {chartData.keys.map(({ safe, raw }) => (
+                    {chartData.keys.map(({ safe, raw }, idx) => (
                         <Line 
-                            key={safe}
+                            key={`${safe}-message-${idx}`}
                             dataKey={`${safe}_message`}
                             name={raw as string}
                             type="monotone" 
@@ -385,9 +385,9 @@ export function ChartsSection({
                     />
                     <ChartLegend content={<ChartLegendContent className="text-[10px] whitespace-nowrap" />} />
                     
-                    {chartData.keys.map(({ safe, raw }) => (
+                    {chartData.keys.map(({ safe, raw }, idx) => (
                          <Line 
-                            key={safe}
+                            key={`${safe}-question-${idx}`}
                             dataKey={`${safe}_question`}
                             name={raw as string}
                             type="monotone" 
@@ -437,9 +437,9 @@ export function ChartsSection({
                     />
                     <ChartLegend content={<ChartLegendContent className="text-[10px] whitespace-nowrap" />} />
                     
-                     {chartData.keys.map(({ safe, raw }) => (
+                     {chartData.keys.map(({ safe, raw }, idx) => (
                          <Line 
-                            key={safe}
+                            key={`${safe}-time-${idx}`}
                             dataKey={`${safe}_time`}
                             name={raw as string}
                             type="monotone" 
@@ -489,9 +489,9 @@ export function ChartsSection({
                     />
                     <ChartLegend content={<ChartLegendContent className="text-[10px] whitespace-nowrap" />} />
                     
-                     {chartData.keys.map(({ safe, raw }) => (
+                     {chartData.keys.map(({ safe, raw }, idx) => (
                          <Line 
-                            key={safe}
+                            key={`${safe}-rate-${idx}`}
                             dataKey={`${safe}_rate`}
                             name={raw as string}
                             type="monotone" 

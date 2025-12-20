@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { importRawChatLogWithLLM, clearCommunityData } from '@/actions/community-actions';
+import { importRawChatLogWithLLM, clearCommunityData, retryFailedImports } from '@/actions/community-actions';
 import { Button } from '@/shared/components/ui/button';
 import { Textarea } from '@/shared/components/ui/textarea';
 import { Input } from '@/shared/components/ui/input';
@@ -9,10 +9,10 @@ import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/sha
 import { toast } from 'sonner';
 
 export default function DailyReportImportPage() {
-  const [mode] = useState<'raw-llm'>('raw-llm');
   const [filename, setFilename] = useState('');
   const [content, setContent] = useState('');
   const [isSubmitting, setIsSubmitting] = useState(false);
+  const [isRetrying, setIsRetrying] = useState(false);
 
   const handleSubmit = async () => {
     if (!filename || !content) {
@@ -55,6 +55,24 @@ export default function DailyReportImportPage() {
     }
   };
 
+   const handleRetry = async () => {
+    setIsRetrying(true);
+    try {
+      const res = await retryFailedImports();
+      const success = res.filter(r => r.status === 'success').length;
+      if (success > 0) {
+        toast.success(`重试成功: ${success} 个任务`);
+      } else {
+        toast.info('没有待处理的失败任务');
+      }
+    } catch (e) {
+      toast.error('重试失败');
+      console.error(e);
+    } finally {
+      setIsRetrying(false);
+    }
+  };
+
   const handleFileUpload = async (file?: File | null) => {
     if (!file) return;
     setFilename(file.name);
@@ -71,7 +89,10 @@ export default function DailyReportImportPage() {
             上传原始群聊记录（.txt），系统将自动解析日期、产品线、群号并生成日报。
             文件名格式示例：&quot;深海圈丨产品线_YYYY-MM-DD.txt&quot;
           </CardDescription>
-          <div className="absolute top-6 right-6">
+          <div className="absolute top-6 right-6 flex gap-2">
+            <Button variant="outline" size="sm" onClick={handleRetry} disabled={isRetrying}>
+              {isRetrying ? '重试中...' : '重试失败任务'}
+            </Button>
             <Button variant="destructive" size="sm" onClick={handleClearData} disabled={isSubmitting}>
               清空所有数据
             </Button>

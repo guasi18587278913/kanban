@@ -192,7 +192,7 @@ export function parseMessages(
       const second = parseInt(match[7], 10);
 
       // 构建完整时间戳
-      const timestamp = new Date(chatDate);
+      const timestamp = chatDate instanceof Date ? new Date(chatDate.getTime()) : new Date(chatDate);
       timestamp.setMonth(month - 1);
       timestamp.setDate(day);
       timestamp.setHours(hour, minute, second, 0);

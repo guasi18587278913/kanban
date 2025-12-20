@@ -509,14 +509,17 @@ export async function getDashboardStatsV2() {
     .from(dailyStats)
     .orderBy(asc(dailyStats.statsDate));
 
-  // 获取所有好事
-  const allGoodNews = await db().select().from(goodNews);
+  // 获取所有好事（仅已审核）
+  const allGoodNews = (await db().select().from(goodNews)).filter((g) => g.isVerified);
 
   // 获取所有 KOC
   const allKocs = await db().select().from(kocRecord);
 
   // 获取所有标杆学员
   const allStarStudents = await db().select().from(starStudent);
+
+  // 获取所有问答
+  const allQa = await db().select().from(qaRecord);
 
   // 按来源 ID 分组好事
   const goodNewsBySource = new Map<string, typeof allGoodNews>();
@@ -526,6 +529,16 @@ export async function getDashboardStatsV2() {
       goodNewsBySource.set(key, []);
     }
     goodNewsBySource.get(key)!.push(n);
+  }
+
+  // 按来源 ID 分组问答
+  const qaBySource = new Map<string, typeof allQa>();
+  for (const q of allQa) {
+    const key = q.sourceLogId;
+    if (!qaBySource.has(key)) {
+      qaBySource.set(key, []);
+    }
+    qaBySource.get(key)!.push(q);
   }
 
   // 按来源 ID 分组 KOC
@@ -575,9 +588,22 @@ export async function getDashboardStatsV2() {
     const dayGoodNews = goodNewsBySource.get(sourceLogId) || [];
     const dayKocs = kocsBySource.get(sourceLogId) || [];
     const dayStars = starsBySource.get(sourceLogId) || [];
+    const dayQa = qaBySource.get(sourceLogId) || [];
 
     // 构建 groupName
     const groupName = `${stat.productLine}${stat.period}期${stat.groupNumber}群`;
+
+    // Action items from daily_stats (if present)
+    const actionListToUse = (stat as any).actionListVerified || (stat as any).actionList;
+    let actionItems: any[] = [];
+    if (actionListToUse) {
+      try {
+        const parsed = JSON.parse(actionListToUse as any);
+        actionItems = Array.isArray(parsed) ? parsed : parsed.actionItems || [];
+      } catch (e) {
+        actionItems = [];
+      }
+    }
 
     return {
       id: stat.id,
@@ -612,8 +638,18 @@ export async function getDashboardStatsV2() {
         group: groupName,
       })),
       // 兼容字段
-      questions: [],
-      actionItems: [],
+      questions: dayQa.map((q: any) => ({
+        q: q.questionContent,
+        content: q.questionContent,
+        author: q.askerName,
+        answeredBy: q.answererName,
+        a: q.answerContent || '',
+        reply: q.answerContent,
+        waitMins: q.responseMinutes,
+        resolved: q.isResolved,
+        status: q.isResolved ? 'resolved' : 'unresolved',
+      })),
+      actionItems,
     };
   });
 

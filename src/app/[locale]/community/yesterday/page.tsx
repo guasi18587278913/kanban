@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState, useRef } from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/shared/components/ui/card';
-import { getDashboardStats } from '@/actions/community-actions';
+import { getDashboardStatsV2 } from '@/actions/community-v2-actions';
 import { Badge } from '@/shared/components/ui/badge';
 import { SmartIcon } from '@/shared/blocks/common';
 import { useSearchParams } from 'next/navigation';
@@ -39,7 +39,7 @@ export default function YesterdayMonitoringPage() {
   useEffect(() => {
     async function fetchStats() {
       try {
-        const data = await getDashboardStats();
+        const data = await getDashboardStatsV2();
         setStats(
           data.map((d: any) => ({
             ...d,

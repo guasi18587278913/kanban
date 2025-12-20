@@ -21,9 +21,10 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue, SelectGr
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/shared/components/ui/card";
 import { Badge } from "@/shared/components/ui/badge";
 import { cn } from "@/shared/lib/utils";
-import { getDashboardStats } from "@/actions/community-actions";
+import { getDashboardStatsV2 } from "@/actions/community-v2-actions";
 import { SmartIcon } from "@/shared/blocks/common";
 import { ChartsSection } from "./charts-section";
+import useSWR from "swr";
 
 // Define Interfaces
 export interface Report {
@@ -49,7 +50,6 @@ export interface MonitoringViewProps {
 }
 
 type RichDailyInsight = any;
-
 // Helper Functions
 function sortGroupNames(a: string, b: string) {
   const matchA = a.match(/(\d+)期(\d+)群/);
@@ -71,12 +71,17 @@ function sortGroupNames(a: string, b: string) {
 // Mock Data
 const MOCKED_INSIGHTS: Record<string, any> = {};
 
+const fetcher = (url: string) => fetch(url, { cache: 'no-store' }).then(res => res.json());
+
 export function MonitoringView({ initialProductLine, title }: MonitoringViewProps) {
   const [stats, setStats] = useState<Report[]>([]);
   const [loading, setLoading] = useState(true);
   const [selectedProductLine, setSelectedProductLine] = useState<string>(initialProductLine || 'all');
   const [selectedGroup, setSelectedGroup] = useState<string>('all');
   const [selectedDate, setSelectedDate] = useState<Date | undefined>(undefined);
+  const { data: unresolvedData } = useSWR('/api/community/reports/unresolved', fetcher);
+  const { data: goodNewsData } = useSWR('/api/community/reports/good-news?limit=50&verified=true', fetcher);
+  const { data: actionItemsData } = useSWR('/api/community/reports/action-items', fetcher);
 
   // Extract Groups & Structure based on current Product Line
   const { availableGroups, periodGroups, periods } = useMemo(() => {
@@ -119,7 +124,7 @@ export function MonitoringView({ initialProductLine, title }: MonitoringViewProp
   useEffect(() => {
       async function fetchStats() {
         try {
-          const data = await getDashboardStats();
+          const data = await getDashboardStatsV2();
           setStats(
             data.map((d: any) => ({
               ...d,
@@ -136,7 +141,7 @@ export function MonitoringView({ initialProductLine, title }: MonitoringViewProp
   }, []);
 
   // Compute Metrics
-  const { targetDate, filteredReports, anomalies, kpis, unresolvedQuestions, highlights, historicalReports, richInsight } = useMemo(() => {
+  const { targetDate, filteredReports, anomalies, kpis, unresolvedQuestions, highlights, actionItems, historicalReports, richInsight } = useMemo(() => {
     if (!stats.length) {
       return { 
           targetDate: null, 
@@ -145,6 +150,7 @@ export function MonitoringView({ initialProductLine, title }: MonitoringViewProp
           kpis: { messages: 0, questions: 0, goodNews: 0, resolutionRate: 0, msgChange: 0 },
           unresolvedQuestions: [],
           highlights: [],
+          actionItems: [],
           historicalReports: [],
           richInsight: null
       };
@@ -283,6 +289,15 @@ export function MonitoringView({ initialProductLine, title }: MonitoringViewProp
         }
     });
 
+    // Merge unresolved from API (fallback) to surface more items even when reports缺失
+    const unresolvedFromApi = (unresolvedData?.items || []).map((q: any) => ({
+        group: q.productLine ? `${q.productLine}${q.period ? `${q.period}期` : ''}` : '未知',
+        question: q.content || '未获取到问题内容',
+        author: q.asker || '未知',
+        date: q.questionTime,
+    }));
+    const unresolvedQuestions = [...unresolved, ...unresolvedFromApi];
+
     // Deduplicate highlights across groups on the same day
     const normalizeContent = (str: string) =>
       (str || '')
@@ -358,7 +373,29 @@ export function MonitoringView({ initialProductLine, title }: MonitoringViewProp
         }
     });
 
+    // Append verified good news from API to highlights (if not already present)
+    (goodNewsData?.items || []).forEach((g: any) => {
+        mergeHighlight({
+            type: 'good_news',
+            content: (g.content || '').trim(),
+            group: `${g.productLine || ''}${g.period ? `${g.period}期` : ''}`.trim() || '未知',
+            date: g.date ? new Date(g.date).toISOString().split('T')[0] : target.toISOString().split('T')[0],
+            _normContent: normalizeContent(g.content || ''),
+            _authorKey: normalizeAuthor(g.author || ''),
+        });
+    });
+
     const highlightItems = highlightList;
+
+    // Action items from API (LLM/规则产出) fallback
+    const actionItems = (actionItemsData?.items || []).map((it: any) => ({
+        title: it.category || '待跟进',
+        description: it.description || '',
+        related: it.relatedTo,
+        date: it.date,
+        productLine: it.productLine,
+        period: it.period,
+    }));
 
     // Check for Rich Insight
     let insight = null;
@@ -380,12 +417,13 @@ export function MonitoringView({ initialProductLine, title }: MonitoringViewProp
         filteredReports: yReports,
         anomalies: anomaliesList,
         kpis: kpi,
-        unresolvedQuestions: unresolved,
+        unresolvedQuestions,
         highlights: highlightItems,
+        actionItems,
         historicalReports: currentReports,
         richInsight: insight
     };
-  }, [stats, selectedProductLine, selectedGroup, selectedDate]); // Added selectedDate to dep
+  }, [stats, selectedProductLine, selectedGroup, selectedDate, selectedPeriod, periodGroups, unresolvedData, goodNewsData, actionItemsData]); // Added missing deps and API data
 
   const displayTitle = title || (selectedProductLine === 'all' ? '全站昨日监测' : `${selectedProductLine} - 数据看板`);
 
@@ -609,6 +647,48 @@ export function MonitoringView({ initialProductLine, title }: MonitoringViewProp
                                             <div className="text-foreground/90 pl-1">
                                                 {q.question}
                                             </div>
+                                        </div>
+                                    ))}
+                                </div>
+                            )}
+                        </CardContent>
+                    </Card>
+
+                    {/* Action Items */}
+                    <Card>
+                        <CardHeader>
+                            <CardTitle className="flex items-center gap-2">
+                                <SmartIcon name="ListChecks" className="h-5 w-5 text-green-500" />
+                                运营清单 ({actionItems.length})
+                            </CardTitle>
+                            <CardDescription>来自分析/规则的待办建议</CardDescription>
+                        </CardHeader>
+                        <CardContent>
+                            {actionItems.length === 0 ? (
+                                <div className="text-sm text-muted-foreground">暂无待办。</div>
+                            ) : (
+                                <div className="space-y-3 max-h-[280px] overflow-y-auto pr-2">
+                                    {actionItems.map((it: any, idx: number) => (
+                                        <div key={idx} className="p-3 border rounded text-sm bg-muted/10">
+                                            <div className="flex justify-between items-start gap-2 mb-1">
+                                                <div className="flex items-center gap-2 flex-wrap">
+                                                    <Badge variant="secondary">{it.title}</Badge>
+                                                    {(it.productLine || it.period) && (
+                                                        <span className="text-xs text-muted-foreground">
+                                                            {it.productLine} {it.period ? `${it.period}期` : ''}
+                                                        </span>
+                                                    )}
+                                                </div>
+                                                {it.date && (
+                                                    <span className="text-[11px] text-muted-foreground shrink-0">
+                                                        {new Date(it.date).toLocaleDateString()}
+                                                    </span>
+                                                )}
+                                            </div>
+                                            <div className="text-foreground/90">{it.description || '暂无描述'}</div>
+                                            {it.related && (
+                                                <div className="text-xs text-muted-foreground mt-1">关联：{it.related}</div>
+                                            )}
                                         </div>
                                     ))}
                                 </div>

@@ -656,3 +656,6 @@ export const communityImportLog = pgTable('community_import_log', {
   message: text('message'),
   importDate: timestamp('import_date').defaultNow().notNull(),
 });
+
+// Export V2 Community Tables
+export * from './schema-community-v2';

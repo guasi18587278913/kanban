@@ -51,6 +51,7 @@ export const rawChatLog = pgTable(
     // 处理状态
     status: text('status').notNull().default('pending'), // pending/processed/failed
     processedAt: timestamp('processed_at'),            // 处理时间
+    statusReason: text('status_reason'),
 
     // 时间戳
     createdAt: timestamp('created_at').defaultNow().notNull(),
@@ -140,6 +141,24 @@ export const member = pgTable(
   ]
 );
 
+/**
+ * 成员别名表
+ * 记录历史昵称/弱指纹映射
+ */
+export const memberAlias = pgTable(
+  'member_alias',
+  {
+    id: text('id').primaryKey(),
+    memberId: text('member_id').notNull(),
+    alias: text('alias').notNull(),
+    createdAt: timestamp('created_at').defaultNow().notNull(),
+  },
+  (table) => [
+    index('idx_member_alias_member').on(table.memberId),
+    uniqueIndex('idx_member_alias_unique').on(table.alias),
+  ]
+);
+
 // ============================================
 // 分析数据层 (Derived Layer)
 // ============================================
@@ -174,6 +193,10 @@ export const dailyStats = pgTable(
     // 时段分布 (JSON)
     hourlyDistribution: text('hourly_distribution'),
 
+    // 运营清单 (JSON)
+    actionList: text('action_list'),
+    actionListVerified: text('action_list_verified'),
+
     // 时间戳
     createdAt: timestamp('created_at').defaultNow().notNull(),
     updatedAt: timestamp('updated_at').defaultNow().notNull(),
@@ -205,6 +228,11 @@ export const goodNews = pgTable(
     sourceLogId: text('source_log_id').notNull(),      // 来源记录ID
     memberId: text('member_id'),                       // 成员ID
 
+    // 维度
+    productLine: text('product_line'),                 // 产品线
+    period: text('period'),                            // 期数
+    groupNumber: integer('group_number'),              // 群号
+
     // 内容
     authorName: text('author_name').notNull(),         // 作者昵称
     content: text('content').notNull(),                // 好事内容
@@ -220,6 +248,7 @@ export const goodNews = pgTable(
     // 置信度和审核
     confidence: text('confidence'),                    // high/medium/low
     isVerified: boolean('is_verified').default(false),
+    status: text('status').default('active'),
 
     // 时间戳
     createdAt: timestamp('created_at').defaultNow().notNull(),
@@ -228,6 +257,7 @@ export const goodNews = pgTable(
     index('idx_good_news_source').on(table.sourceLogId),
     index('idx_good_news_date').on(table.eventDate),
     index('idx_good_news_member').on(table.memberId),
+    index('idx_good_news_product_period').on(table.productLine, table.period),
   ]
 );
 
@@ -243,6 +273,11 @@ export const kocRecord = pgTable(
     sourceLogId: text('source_log_id').notNull(),      // 来源记录ID
     memberId: text('member_id'),                       // 成员ID
 
+    // 维度
+    productLine: text('product_line'),
+    period: text('period'),
+    groupNumber: integer('group_number'),
+
     // 内容
     kocName: text('koc_name').notNull(),
     contribution: text('contribution').notNull(),      // 贡献内容
@@ -254,6 +289,8 @@ export const kocRecord = pgTable(
 
     // 审核
     isVerified: boolean('is_verified').default(false),
+    confidence: text('confidence'),
+    status: text('status').default('active'),
 
     // 时间戳
     createdAt: timestamp('created_at').defaultNow().notNull(),
@@ -262,6 +299,7 @@ export const kocRecord = pgTable(
     index('idx_koc_record_source').on(table.sourceLogId),
     index('idx_koc_record_date').on(table.recordDate),
     index('idx_koc_record_member').on(table.memberId),
+    index('idx_koc_product_period').on(table.productLine, table.period),
   ]
 );
 
@@ -275,6 +313,11 @@ export const qaRecord = pgTable(
 
     // 关联
     sourceLogId: text('source_log_id').notNull(),      // 来源记录ID
+
+    // 维度
+    productLine: text('product_line'),
+    period: text('period'),
+    groupNumber: integer('group_number'),
 
     // 提问者
     askerId: text('asker_id'),
@@ -292,6 +335,9 @@ export const qaRecord = pgTable(
     // 统计
     responseMinutes: integer('response_minutes'),      // 响应时间(分钟)
     isResolved: boolean('is_resolved').default(false),
+    confidence: text('confidence'),
+    isVerified: boolean('is_verified').default(false),
+    status: text('status').default('active'),
 
     // 时间戳
     createdAt: timestamp('created_at').defaultNow().notNull(),
@@ -300,6 +346,7 @@ export const qaRecord = pgTable(
     index('idx_qa_record_source').on(table.sourceLogId),
     index('idx_qa_record_date').on(table.questionTime),
     index('idx_qa_record_asker').on(table.askerId),
+    index('idx_qa_product_period').on(table.productLine, table.period),
   ]
 );
 
@@ -315,6 +362,11 @@ export const starStudent = pgTable(
     sourceLogId: text('source_log_id').notNull(),      // 来源记录ID
     memberId: text('member_id'),                       // 成员ID
 
+    // 维度
+    productLine: text('product_line'),
+    period: text('period'),
+    groupNumber: integer('group_number'),
+
     // 内容
     studentName: text('student_name').notNull(),
     type: text('type').notNull(),                      // 里程碑/变现
@@ -326,6 +378,8 @@ export const starStudent = pgTable(
 
     // 审核
     isVerified: boolean('is_verified').default(false),
+    confidence: text('confidence'),
+    status: text('status').default('active'),
 
     // 时间戳
     createdAt: timestamp('created_at').defaultNow().notNull(),
@@ -334,5 +388,159 @@ export const starStudent = pgTable(
     index('idx_star_student_source').on(table.sourceLogId),
     index('idx_star_student_date').on(table.recordDate),
     index('idx_star_student_member').on(table.memberId),
+    index('idx_star_product_period').on(table.productLine, table.period),
+  ]
+);
+
+// ============================================
+// CRM 数据层 (Personal Dashboard)
+// ============================================
+
+/**
+ * 成员消息记录表
+ * 存储每个成员的所有消息及其上下文
+ * 用于个人 CRM 看板展示
+ */
+export const memberMessage = pgTable(
+  'member_message',
+  {
+    id: text('id').primaryKey(),
+
+    // 关联
+    memberId: text('member_id'),                       // 成员ID (如匹配到)
+    sourceLogId: text('source_log_id').notNull(),      // 来源记录ID
+
+    // 消息信息
+    authorName: text('author_name').notNull(),         // 发言者昵称
+    authorNormalized: text('author_normalized'),       // 标准化昵称
+    messageContent: text('message_content').notNull(), // 消息内容
+    messageTime: timestamp('message_time').notNull(),  // 发言时间
+    messageIndex: integer('message_index').notNull(),  // 在当日聊天中的序号
+
+    // 消息分类
+    messageType: text('message_type').notNull(),       // question/answer/good_news/share/encouragement/normal
+
+    // 关联信息
+    relatedQaId: text('related_qa_id'),                // 关联的问答ID (如果是问题或回答)
+    relatedGoodNewsId: text('related_good_news_id'),   // 关联的好事ID
+    relatedKocId: text('related_koc_id'),              // 关联的KOC贡献ID
+
+    // 上下文 (JSON 数组，存储前后各 2 条消息)
+    contextBefore: text('context_before'),             // [{author, content, time}]
+    contextAfter: text('context_after'),               // [{author, content, time}]
+
+    // 元数据
+    productLine: text('product_line').notNull(),
+    period: text('period').notNull(),
+    groupNumber: integer('group_number').notNull(),
+
+    // 状态
+    status: text('status').default('active'),
+
+    // 时间戳
+    createdAt: timestamp('created_at').defaultNow().notNull(),
+  },
+  (table) => [
+    // 按成员查询 (CRM 看板主查询)
+    index('idx_member_message_member').on(table.memberId),
+    // 按成员+时间查询 (时间线展示)
+    index('idx_member_message_timeline').on(table.memberId, table.messageTime),
+    // 按来源查询 (用于重新处理)
+    index('idx_member_message_source').on(table.sourceLogId),
+    // 按消息类型查询 (筛选特定类型消息)
+    index('idx_member_message_type').on(table.memberId, table.messageType),
+    // 按昵称查询 (未匹配成员的查询)
+    index('idx_member_message_author').on(table.authorNormalized),
+  ]
+);
+
+/**
+ * 成员统计汇总表
+ * 缓存每个成员的统计数据，避免每次查询都重新计算
+ */
+export const memberStats = pgTable(
+  'member_stats',
+  {
+    id: text('id').primaryKey(),
+
+    // 成员信息
+    memberId: text('member_id').notNull().unique(),    // 成员ID
+    productLine: text('product_line').notNull(),
+    period: text('period'),
+
+    // 消息统计
+    totalMessages: integer('total_messages').notNull().default(0),
+    questionCount: integer('question_count').notNull().default(0),
+    answerCount: integer('answer_count').notNull().default(0),
+    goodNewsCount: integer('good_news_count').notNull().default(0),
+    shareCount: integer('share_count').notNull().default(0),
+    encouragementCount: integer('encouragement_count').notNull().default(0),
+
+    // 教练/志愿者专属统计
+    avgResponseMinutes: integer('avg_response_minutes'), // 平均响应时间
+    resolvedCount: integer('resolved_count'),            // 解决问题数
+    helpedStudents: integer('helped_students'),          // 帮助学员数
+
+    // 活跃度
+    activeDays: integer('active_days').notNull().default(0),
+    lastActiveDate: timestamp('last_active_date'),
+    firstActiveDate: timestamp('first_active_date'),
+
+    // KOC 指标
+    kocContributions: integer('koc_contributions').notNull().default(0),
+    totalHelpedCount: integer('total_helped_count').notNull().default(0),
+
+    // 时间戳
+    createdAt: timestamp('created_at').defaultNow().notNull(),
+    updatedAt: timestamp('updated_at').defaultNow().notNull(),
+  },
+  (table) => [
+    // 按产品线查询排行榜
+    index('idx_member_stats_product').on(table.productLine, table.period),
+    // 按消息数排序
+    index('idx_member_stats_messages').on(table.totalMessages),
+    // 按回答数排序 (教练排行)
+    index('idx_member_stats_answers').on(table.answerCount),
+    // 按活跃天数排序
+    index('idx_member_stats_active').on(table.activeDays),
+  ]
+);
+
+/**
+ * 成员标签表
+ * 存储成员的各类标签，支持动态扩展
+ */
+export const memberTag = pgTable(
+  'member_tag',
+  {
+    id: text('id').primaryKey(),
+
+    memberId: text('member_id').notNull(),             // 成员ID
+
+    // 标签信息
+    tagCategory: text('tag_category').notNull(),       // identity/progress/achievement/behavior
+    tagName: text('tag_name').notNull(),               // 标签名称
+    tagValue: text('tag_value'),                       // 标签值（可选）
+
+    // 来源
+    source: text('source').notNull(),                  // manual/auto/llm
+    sourceLogId: text('source_log_id'),                // 自动生成时的来源记录
+
+    // 置信度 (自动标签)
+    confidence: text('confidence'),                    // high/medium/low
+
+    // 时间戳
+    createdAt: timestamp('created_at').defaultNow().notNull(),
+    updatedAt: timestamp('updated_at').defaultNow().notNull(),
+  },
+  (table) => [
+    // 按成员查询所有标签
+    index('idx_member_tag_member').on(table.memberId),
+    // 按类别查询
+    index('idx_member_tag_category').on(table.memberId, table.tagCategory),
+    // 按标签名查询 (查找所有拥有某标签的成员)
+    index('idx_member_tag_name').on(table.tagName),
+    // 唯一索引：同一成员同一标签只能有一个
+    uniqueIndex('idx_member_tag_unique').on(table.memberId, table.tagCategory, table.tagName),
   ]
 );

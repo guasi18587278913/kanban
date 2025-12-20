@@ -8,6 +8,10 @@ if (
 ) {
   try {
     const dotenv = require('dotenv');
+    // 兼容本地脚本运行（pnpm tsx / node），优先读取 .env.local
+    // - 不覆盖 shell 已设置的环境变量
+    // - 允许 .env / .env.development 补齐缺失项
+    dotenv.config({ path: '.env.local', override: false });
     dotenv.config({ path: '.env.development' });
     dotenv.config({ path: '.env', override: false });
   } catch (e) {
@@ -28,4 +32,5 @@ export const envConfigs = {
   db_singleton_enabled: process.env.DB_SINGLETON_ENABLED || 'false',
   auth_url: process.env.AUTH_URL || process.env.NEXT_PUBLIC_APP_URL || '',
   auth_secret: process.env.AUTH_SECRET ?? '', // openssl rand -base64 32
+  privacy_mode_enabled: process.env.NEXT_PUBLIC_PRIVACY_MODE === 'true',
 };
