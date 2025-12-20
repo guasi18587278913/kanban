@@ -1,6 +1,7 @@
 import { useMemo } from 'react';
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/shared/components/ui/card';
 import { Badge } from '@/shared/components/ui/badge';
+import { Link } from '@/core/i18n/navigation';
 import { ScrollArea } from '@/shared/components/ui/scroll-area';
 import { Trophy, Medal, Award, Star, TrendingUp, Quote } from 'lucide-react';
 
@@ -234,6 +235,11 @@ export function KnowledgeWall({ data }: KnowledgeWallProps) {
                     <CardTitle>好事发生墙</CardTitle>
                 </div>
                 <CardDescription>记录社群里的每一个高光时刻</CardDescription>
+                <div className="flex justify-end">
+                  <Link href="/community/good-news-review" className="text-xs text-primary hover:underline">
+                    好事审核
+                  </Link>
+                </div>
             </CardHeader>
             <CardContent>
                 <ScrollArea className="h-[500px] w-full pr-4">

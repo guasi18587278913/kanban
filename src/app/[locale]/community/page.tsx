@@ -11,6 +11,7 @@ import { ChartsSection } from './_components/charts-section';
 import { KnowledgeWall } from './_components/knowledge-wall';
 import { MonitoringView } from './_components/monitoring-view';
 import { Link } from '@/core/i18n/navigation';
+import { CoachCrmEmbed, StudentCrmEmbed } from './_components/crm-embed';
 
 function normalizeName(name: string) {
   return name
@@ -111,6 +112,9 @@ export default function CommunityDashboardPage() {
             实时监测社群活跃度、服务质量与高价值产出。
           </p>
         </div>
+        <Link href="/community/good-news-review" className="text-xs text-primary hover:underline">
+          好事审核
+        </Link>
       </div>
 
       {/* KPI Cards */}
@@ -158,60 +162,8 @@ export default function CommunityDashboardPage() {
         </div>
 
         <div className="grid gap-6 lg:grid-cols-2">
-          <RoleCard
-            title="教练/志愿者答疑"
-            loading={csLoading}
-            total={coachStudent?.coachTotal || 0}
-            answerTotal={
-              Array.from(answeredByCounts.values()).reduce((a, b) => a + b, 0) ||
-              coachStudent?.coachAnswerTotal ||
-              0
-            }
-            active={coachStudent?.coachActive || 0}
-            items={() => {
-              const base = coachStudent?.coachTop || [];
-              const fromAnswers = Array.from(answeredByCounts.entries()).map(([norm, count]) => ({
-                norm,
-                name: base.find((b) => normalizeName(b.name) === norm)?.name || norm,
-                answerCount: count,
-                tags: base.find((b) => normalizeName(b.name) === norm)?.tags
-              }));
-
-              // merge message counts + answer counts
-              const mergedMap = new Map<string, { name: string; messageCount?: number; answerCount?: number; tags?: string[] }>();
-              base.forEach((b) => {
-                const norm = normalizeName(b.name);
-                mergedMap.set(norm, { name: b.name, messageCount: b.count, answerCount: 0, tags: b.tags });
-              });
-              fromAnswers.forEach((a) => {
-                const existing = mergedMap.get(a.norm);
-                if (existing) {
-                  existing.answerCount = a.answerCount;
-                  if (a.tags && a.tags.length > 0) existing.tags = a.tags; // prefer answer source tags if available? Actually base usually has better tags
-                } else {
-                  mergedMap.set(a.norm, { name: a.name, messageCount: 0, answerCount: a.answerCount, tags: a.tags });
-                }
-              });
-
-              // sort by messageCount desc as primary
-              return Array.from(mergedMap.values()).sort((a, b) => (b.messageCount || 0) - (a.messageCount || 0));
-            }}
-            icon="UserCheck2"
-            linkPrefix="/community/coach"
-          />
-          <RoleCard
-            title="学员发言"
-            loading={csLoading}
-            total={coachStudent?.studentTotal || 0}
-            active={coachStudent?.studentActive || 0}
-            items={() => (coachStudent?.studentTop || []).map((item) => ({
-              name: item.name,
-              messageCount: item.count,
-              tags: item.tags
-            }))}
-            icon="Users"
-            linkPrefix="/community/student"
-          />
+          <CoachCrmEmbed />
+          <StudentCrmEmbed />
         </div>
       </div>
 
