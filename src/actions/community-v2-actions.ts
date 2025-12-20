@@ -509,8 +509,10 @@ export async function getDashboardStatsV2() {
     .from(dailyStats)
     .orderBy(asc(dailyStats.statsDate));
 
-  // 获取所有好事
-  const allGoodNews = await db().select().from(goodNews);
+  // 获取所有好事（仅已审核）
+  const allGoodNews = (
+    await db().select().from(goodNews)
+  ).filter((g: typeof goodNews.$inferSelect) => g.isVerified);
 
   // 获取所有 KOC
   const allKocs = await db().select().from(kocRecord);
