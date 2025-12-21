@@ -113,7 +113,16 @@ export function StudentCrmEmbed() {
         {error && <div className="text-sm text-red-500 mb-2">加载失败：{error}</div>}
         <ScrollArea className="h-[720px] w-full">
           <div className="min-w-[960px] pr-2">
-          <table className="w-full text-sm">
+          <table className="w-full text-sm table-fixed">
+            <colgroup>
+              <col className="w-[40px]" />
+              <col className="w-[220px]" />
+              <col className="w-[70px]" />
+              <col className="w-[70px]" />
+              <col className="w-[70px]" />
+              <col className="w-[80px]" />
+              <col className="w-[200px]" />
+            </colgroup>
             <thead className="text-xs text-muted-foreground border-b sticky top-0 bg-background">
               <tr>
                 <th className="py-2 pr-2 text-left w-6">#</th>
