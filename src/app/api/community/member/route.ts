@@ -72,7 +72,7 @@ export async function GET(req: Request) {
       .limit(pageSize)
       .offset(offset);
 
-    const ids = rows.map((r) => r.id);
+    const ids = rows.map((r: { id: string }) => r.id);
     const tagsMap = new Map<string, { category: string; name: string }[]>();
     if (ids.length > 0) {
       const tagRows = await db()
@@ -95,7 +95,7 @@ export async function GET(req: Request) {
       total,
       page,
       pageSize,
-      items: rows.map((r) => ({
+      items: rows.map((r: any) => ({
         ...r,
         tags: tagsMap.get(r.id) || [],
       })),
