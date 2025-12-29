@@ -1,0 +1,339 @@
+[dotenv@17.2.2] injecting env (14) from .env.local -- tip: ⚙️  suppress all logs with { quiet: true }
+[dotenv@17.2.2] injecting env (0) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+[dotenv@17.2.2] injecting env (0) from .env.development -- tip: 📡 version env with Radar: https://dotenvx.com/radar
+[dotenv@17.2.2] injecting env (0) from .env -- tip: 📡 version env with Radar: https://dotenvx.com/radar
+启动 LLM 标签回填...
+选项: { missingOnly: true, dryRun: false, limit: undefined }
+
+╔════════════════════════════════════════╗
+║      LLM 标签回填启动                  ║
+╚════════════════════════════════════════╝
+时间: 2025/12/29 10:50:53
+选项: missingOnly=true, limit=undefined, dryRun=false
+[Pipeline] Loaded 1427 member mappings
+
+找到 33 条需要回填的记录
+
+[3%] 1/33 - 深海圈丨AI产品出海1期1群_2025-05-30.txt          
+[1/33] 深海圈丨AI产品出海1期1群_2025-05-30.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海1期1群_2025-05-30.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海1期1群_2025-05-30.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning System: To turn off warning logging, set the AI_SDK_LOG_WARNINGS global to false.
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 2 questions, 0 good news
+[LLM Analyzer] Analysis complete: 2 questions, 0 good news, 1 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海1期1群_2025-05-30.txt: 0 tags
+[6%] 2/33 - 深海圈丨AI产品出海1期2群_2025-07-19.txt          
+[2/33] 深海圈丨AI产品出海1期2群_2025-07-19.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海1期2群_2025-07-19.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海1期2群_2025-07-19.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 5 questions, 2 good news
+[LLM Analyzer] Analysis complete: 5 questions, 2 good news, 2 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海1期2群_2025-07-19.txt: 1 tags
+[9%] 3/33 - 深海圈丨AI产品出海1期1群_2025-08-28.txt          
+[3/33] 深海圈丨AI产品出海1期1群_2025-08-28.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海1期1群_2025-08-28.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海1期1群_2025-08-28.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 5 questions, 1 good news
+[LLM Analyzer] Analysis complete: 5 questions, 1 good news, 1 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海1期1群_2025-08-28.txt: 1 tags
+[12%] 4/33 - 深海圈丨AI产品出海1期2群_2025-09-06.txt          
+[4/33] 深海圈丨AI产品出海1期2群_2025-09-06.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海1期2群_2025-09-06.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海1期2群_2025-09-06.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 3 questions, 1 good news
+[LLM Analyzer] Analysis complete: 3 questions, 1 good news, 1 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海1期2群_2025-09-06.txt: 3 tags
+[15%] 5/33 - 深海圈丨AI产品出海1期2群_2025-10-05.txt          
+[5/33] 深海圈丨AI产品出海1期2群_2025-10-05.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海1期2群_2025-10-05.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海1期2群_2025-10-05.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 0 questions, 0 good news
+[LLM Analyzer] Analysis complete: 0 questions, 0 good news, 0 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海1期2群_2025-10-05.txt: 0 tags
+[18%] 6/33 - 深海圈丨AI产品出海1期2群_2025-10-07.txt          
+[6/33] 深海圈丨AI产品出海1期2群_2025-10-07.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海1期2群_2025-10-07.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海1期2群_2025-10-07.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 1 questions, 0 good news
+[LLM Analyzer] Analysis complete: 1 questions, 0 good news, 0 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海1期2群_2025-10-07.txt: 1 tags
+[21%] 7/33 - 深海圈丨AI产品出海1期2群_2025-10-23.txt          
+[7/33] 深海圈丨AI产品出海1期2群_2025-10-23.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海1期2群_2025-10-23.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海1期2群_2025-10-23.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 3 questions, 0 good news
+[LLM Analyzer] Analysis complete: 3 questions, 0 good news, 2 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海1期2群_2025-10-23.txt: 0 tags
+[24%] 8/33 - 深海圈丨AI产品出海2期2群_2025-11-15.txt          
+[8/33] 深海圈丨AI产品出海2期2群_2025-11-15.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海2期2群_2025-11-15.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海2期2群_2025-11-15.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 5 questions, 1 good news
+[LLM Analyzer] Analysis complete: 5 questions, 1 good news, 1 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海2期2群_2025-11-15.txt: 3 tags
+[27%] 9/33 - 深海圈丨AI产品出海1期2群_2025-11-16.txt          
+[9/33] 深海圈丨AI产品出海1期2群_2025-11-16.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海1期2群_2025-11-16.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海1期2群_2025-11-16.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 1 questions, 0 good news
+[LLM Analyzer] Analysis complete: 1 questions, 0 good news, 0 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海1期2群_2025-11-16.txt: 1 tags
+[30%] 10/33 - 深海圈丨AI产品出海1期2群_2025-11-17.txt          
+[10/33] 深海圈丨AI产品出海1期2群_2025-11-17.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海1期2群_2025-11-17.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海1期2群_2025-11-17.txt
+[LLM Analyzer] Split into 0 chunks
+[LLM Analyzer] Analysis complete: 0 questions, 0 good news, 0 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海1期2群_2025-11-17.txt: 0 tags
+[33%] 11/33 - 深海圈丨AI产品出海2期2群_2025-11-21.txt          
+[11/33] 深海圈丨AI产品出海2期2群_2025-11-21.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海2期2群_2025-11-21.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海2期2群_2025-11-21.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 3 questions, 1 good news
+[LLM Analyzer] Analysis complete: 3 questions, 1 good news, 1 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海2期2群_2025-11-21.txt: 1 tags
+[36%] 12/33 - 深海圈丨AI产品出海2期1群_2025-11-26.txt          
+[12/33] 深海圈丨AI产品出海2期1群_2025-11-26.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海2期1群_2025-11-26.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海2期1群_2025-11-26.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 2 questions, 1 good news
+[LLM Analyzer] Analysis complete: 2 questions, 1 good news, 1 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海2期1群_2025-11-26.txt: 2 tags
+[39%] 13/33 - 深海圈丨AI产品出海2期1群_2025-11-27.txt          
+[13/33] 深海圈丨AI产品出海2期1群_2025-11-27.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海2期1群_2025-11-27.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海2期1群_2025-11-27.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 3 questions, 0 good news
+[LLM Analyzer] Analysis complete: 3 questions, 0 good news, 0 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海2期1群_2025-11-27.txt: 0 tags
+[42%] 14/33 - 深海圈丨AI产品出海2期1群_2025-11-29.txt          
+[14/33] 深海圈丨AI产品出海2期1群_2025-11-29.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海2期1群_2025-11-29.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海2期1群_2025-11-29.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 1 questions, 0 good news
+[LLM Analyzer] Analysis complete: 1 questions, 0 good news, 0 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海2期1群_2025-11-29.txt: 1 tags
+[45%] 15/33 - 深海圈丨AI产品出海1期2群_2025-12-04.txt          
+[15/33] 深海圈丨AI产品出海1期2群_2025-12-04.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海1期2群_2025-12-04.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海1期2群_2025-12-04.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 1 questions, 1 good news
+[LLM Analyzer] Analysis complete: 1 questions, 1 good news, 0 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海1期2群_2025-12-04.txt: 0 tags
+[48%] 16/33 - 深海圈丨AI产品出海2期2群_2025-12-06.txt          
+[16/33] 深海圈丨AI产品出海2期2群_2025-12-06.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海2期2群_2025-12-06.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海2期2群_2025-12-06.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 1 questions, 0 good news
+[LLM Analyzer] Analysis complete: 1 questions, 0 good news, 0 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海2期2群_2025-12-06.txt: 0 tags
+[52%] 17/33 - 深海圈丨AI产品出海2期1群_2025-12-07.txt          
+[17/33] 深海圈丨AI产品出海2期1群_2025-12-07.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海2期1群_2025-12-07.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海2期1群_2025-12-07.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 2 questions, 1 good news
+[LLM Analyzer] Analysis complete: 2 questions, 1 good news, 1 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海2期1群_2025-12-07.txt: 0 tags
+[55%] 18/33 - 深海圈丨AI产品出海2期1群_2025-12-08.txt          
+[18/33] 深海圈丨AI产品出海2期1群_2025-12-08.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海2期1群_2025-12-08.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海2期1群_2025-12-08.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 3 questions, 0 good news
+[LLM Analyzer] Analysis complete: 3 questions, 0 good news, 0 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海2期1群_2025-12-08.txt: 0 tags
+[58%] 19/33 - 深海圈丨AI产品出海1期2群_2025-12-09.txt          
+[19/33] 深海圈丨AI产品出海1期2群_2025-12-09.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海1期2群_2025-12-09.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海1期2群_2025-12-09.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 1 questions, 0 good news
+[LLM Analyzer] Analysis complete: 1 questions, 0 good news, 0 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海1期2群_2025-12-09.txt: 0 tags
+[61%] 20/33 - 深海圈丨AI产品出海1期2群_2025-12-10.txt          
+[20/33] 深海圈丨AI产品出海1期2群_2025-12-10.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海1期2群_2025-12-10.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海1期2群_2025-12-10.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 0 questions, 0 good news
+[LLM Analyzer] Analysis complete: 0 questions, 0 good news, 0 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海1期2群_2025-12-10.txt: 0 tags
+[64%] 21/33 - 深海圈丨AI产品出海1期1群_2025-12-11.txt          
+[21/33] 深海圈丨AI产品出海1期1群_2025-12-11.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海1期1群_2025-12-11.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海1期1群_2025-12-11.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 2 questions, 0 good news
+[LLM Analyzer] Analysis complete: 2 questions, 0 good news, 1 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海1期1群_2025-12-11.txt: 2 tags
+[67%] 22/33 - 深海圈丨AI产品出海1期2群_2025-12-13.txt          
+[22/33] 深海圈丨AI产品出海1期2群_2025-12-13.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海1期2群_2025-12-13.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海1期2群_2025-12-13.txt
+[LLM Analyzer] Split into 0 chunks
+[LLM Analyzer] Analysis complete: 0 questions, 0 good news, 0 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海1期2群_2025-12-13.txt: 0 tags
+[70%] 23/33 - 深海圈丨AI产品出海1期2群_2025-12-14.txt          
+[23/33] 深海圈丨AI产品出海1期2群_2025-12-14.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海1期2群_2025-12-14.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海1期2群_2025-12-14.txt
+[LLM Analyzer] Split into 0 chunks
+[LLM Analyzer] Analysis complete: 0 questions, 0 good news, 0 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海1期2群_2025-12-14.txt: 0 tags
+[73%] 24/33 - 深海圈丨AI产品出海2期2群_2025-12-14.txt          
+[24/33] 深海圈丨AI产品出海2期2群_2025-12-14.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海2期2群_2025-12-14.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海2期2群_2025-12-14.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 2 questions, 0 good news
+[LLM Analyzer] Analysis complete: 2 questions, 0 good news, 0 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海2期2群_2025-12-14.txt: 0 tags
+[76%] 25/33 - 深海圈丨AI产品出海2期2群_2025-12-16.txt          
+[25/33] 深海圈丨AI产品出海2期2群_2025-12-16.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海2期2群_2025-12-16.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海2期2群_2025-12-16.txt
+[LLM Analyzer] Split into 0 chunks
+[LLM Analyzer] Analysis complete: 0 questions, 0 good news, 0 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海2期2群_2025-12-16.txt: 0 tags
+[79%] 26/33 - 深海圈丨AI产品出海2期2群_2025-12-17.txt          
+[26/33] 深海圈丨AI产品出海2期2群_2025-12-17.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海2期2群_2025-12-17.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海2期2群_2025-12-17.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 0 questions, 0 good news
+[LLM Analyzer] Analysis complete: 0 questions, 0 good news, 0 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海2期2群_2025-12-17.txt: 0 tags
+[82%] 27/33 - 深海圈丨AI产品出海2期1群_2025-12-17.txt          
+[27/33] 深海圈丨AI产品出海2期1群_2025-12-17.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海2期1群_2025-12-17.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海2期1群_2025-12-17.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 4 questions, 1 good news
+[LLM Analyzer] Analysis complete: 4 questions, 1 good news, 1 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海2期1群_2025-12-17.txt: 0 tags
+[85%] 28/33 - 深海圈丨AI产品出海1期2群_2025-12-18.txt          
+[28/33] 深海圈丨AI产品出海1期2群_2025-12-18.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海1期2群_2025-12-18.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海1期2群_2025-12-18.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 0 questions, 0 good news
+[LLM Analyzer] Analysis complete: 0 questions, 0 good news, 0 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海1期2群_2025-12-18.txt: 0 tags
+[88%] 29/33 - 深海圈丨AI产品出海1期2群_2025-12-20.txt          
+[29/33] 深海圈丨AI产品出海1期2群_2025-12-20.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海1期2群_2025-12-20.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海1期2群_2025-12-20.txt
+[LLM Analyzer] Split into 0 chunks
+[LLM Analyzer] Analysis complete: 0 questions, 0 good news, 0 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海1期2群_2025-12-20.txt: 0 tags
+[91%] 30/33 - 深海圈丨AI产品出海2期2群_2025-12-20.txt          
+[30/33] 深海圈丨AI产品出海2期2群_2025-12-20.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海2期2群_2025-12-20.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海2期2群_2025-12-20.txt
+[LLM Analyzer] Split into 0 chunks
+[LLM Analyzer] Analysis complete: 0 questions, 0 good news, 0 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海2期2群_2025-12-20.txt: 0 tags
+[94%] 31/33 - 深海圈丨AI产品出海1期2群_2025-12-22.txt          
+[31/33] 深海圈丨AI产品出海1期2群_2025-12-22.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海1期2群_2025-12-22.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海1期2群_2025-12-22.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 0 questions, 0 good news
+[LLM Analyzer] Analysis complete: 0 questions, 0 good news, 0 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海1期2群_2025-12-22.txt: 0 tags
+[97%] 32/33 - 深海圈丨AI产品出海2期1群_2025-12-23.txt          
+[32/33] 深海圈丨AI产品出海2期1群_2025-12-23.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海2期1群_2025-12-23.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海2期1群_2025-12-23.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 5 questions, 1 good news
+[LLM Analyzer] Analysis complete: 5 questions, 1 good news, 1 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海2期1群_2025-12-23.txt: 2 tags
+[100%] 33/33 - 深海圈丨AI产品出海1期1群_2025-12-24.txt          
+[33/33] 深海圈丨AI产品出海1期1群_2025-12-24.txt
+[Pipeline] Tags-only analyzing 深海圈丨AI产品出海1期1群_2025-12-24.txt...
+[LLM Analyzer] Starting analysis for 深海圈丨AI产品出海1期1群_2025-12-24.txt
+[LLM Analyzer] Split into 1 chunks
+[LLM Analyzer] Processing chunk 1/1...
+AI SDK Warning: The "temperature" setting is not supported by this model - temperature is not supported for reasoning models
+[LLM Analyzer] Chunk 1 done: 1 questions, 1 good news
+[LLM Analyzer] Analysis complete: 1 questions, 1 good news, 0 KOCs
+[Pipeline] ✅ 深海圈丨AI产品出海1期1群_2025-12-24.txt: 2 tags
+
+════════════════════════════════════════
+回填完成: 33 成功, 0 失败
+新增标签: 20
+
+
+=== 回填完成 ===
+成功: 33
+失败: 0
+新增标签: 20

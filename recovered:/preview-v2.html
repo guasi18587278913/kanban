@@ -1,0 +1,367 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>V2 数据预览</title>
+  <style>
+    :root {
+      --bg: #f6f3ed;
+      --bg-2: #e7f2f0;
+      --card: rgba(255, 255, 255, 0.86);
+      --ink: #1c1c1c;
+      --muted: #5d5d5d;
+      --accent: #0f766e;
+      --accent-2: #e07a5f;
+      --border: rgba(15, 118, 110, 0.2);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "STKaiti", "Kaiti SC", "KaiTi", "Songti SC", serif;
+      color: var(--ink);
+      background: radial-gradient(circle at top left, #fff4e0 0%, transparent 35%),
+                  radial-gradient(circle at 20% 80%, #e7f2f0 0%, transparent 40%),
+                  linear-gradient(135deg, var(--bg), var(--bg-2));
+      min-height: 100vh;
+    }
+    header {
+      padding: 32px 28px 18px;
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: 28px;
+      letter-spacing: 1px;
+    }
+    .subtitle {
+      color: var(--muted);
+      font-size: 14px;
+    }
+    main {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 18px;
+      padding: 0 24px 40px;
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 18px;
+      box-shadow: 0 12px 30px rgba(15, 118, 110, 0.12);
+      animation: floatIn 0.5s ease both;
+    }
+    .card:nth-child(2n) { animation-delay: 0.08s; }
+    .card:nth-child(3n) { animation-delay: 0.16s; }
+    .card:nth-child(4n) { animation-delay: 0.24s; }
+    .card-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: flex-start;
+      margin-bottom: 12px;
+    }
+    .badge {
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 999px;
+      background: rgba(15, 118, 110, 0.12);
+      color: var(--accent);
+      font-size: 12px;
+      font-weight: 700;
+    }
+    h2 {
+      margin: 6px 0 0;
+      font-size: 16px;
+      font-weight: 600;
+    }
+    .stat-pill {
+      background: #fff;
+      border: 1px dashed var(--accent-2);
+      padding: 6px 10px;
+      border-radius: 999px;
+      font-size: 12px;
+      color: var(--accent-2);
+      white-space: nowrap;
+    }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 8px;
+      margin-bottom: 12px;
+    }
+    .stats div {
+      background: rgba(15, 118, 110, 0.06);
+      border-radius: 10px;
+      padding: 8px 10px;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+    .stats span {
+      font-size: 11px;
+      color: var(--muted);
+    }
+    .stats strong {
+      font-size: 16px;
+    }
+    details {
+      background: rgba(255, 255, 255, 0.6);
+      border-radius: 12px;
+      padding: 8px 10px;
+      margin-bottom: 10px;
+    }
+    summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: var(--accent);
+    }
+    ol {
+      margin: 10px 0 0 18px;
+      padding: 0;
+      font-size: 13px;
+      line-height: 1.5;
+    }
+    pre {
+      white-space: pre-wrap;
+      background: #111827;
+      color: #f9fafb;
+      padding: 10px;
+      border-radius: 12px;
+      font-size: 12px;
+    }
+    .muted {
+      color: var(--muted);
+      font-size: 12px;
+    }
+    footer {
+      padding: 0 28px 32px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+    @keyframes floatIn {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>V2 数据预览（测试样本）</h1>
+    <div class="subtitle">生成时间：2025/12/25 11:55:16 · 仅展示 4 份测试群聊记录</div>
+  </header>
+  <main>
+    
+      <section class="card">
+        <div class="card-head">
+          <div>
+            <div class="badge">AI产品出海2期2群</div>
+            <h2>2025-12-09 · 深海圈丨AI产品出海2期2群_2025-12-09.txt</h2>
+          </div>
+          <div class="stat-pill">原始消息: 5</div>
+        </div>
+        <div class="stats">
+          <div><span>统计消息</span><strong>5</strong></div>
+          <div><span>问答数</span><strong>1</strong></div>
+          <div><span>好事数</span><strong>0</strong></div>
+          <div><span>KOC</span><strong>0</strong></div>
+          <div><span>解决率</span><strong>-</strong></div>
+          <div><span>平均响应</span><strong>0 分钟</strong></div>
+        </div>
+        <details open>
+          <summary>问答（1）</summary>
+          <ol><li><strong>无念</strong>：方法，一直显示不满18，搞的美国地址<br/><span class="muted">答：— · 未解决 · -</span></li></ol>
+        </details>
+        <details>
+          <summary>好事（0）</summary>
+          <ol><li class="muted">暂无</li></ol>
+        </details>
+        <details>
+          <summary>KOC（0）</summary>
+          <ol><li class="muted">暂无</li></ol>
+        </details>
+        <details>
+          <summary>原始聊天片段（前 20 行）</summary>
+          <pre>桑桑@生财 11:00:25
+今日 12.9 学习进度提醒（11/15）
+
+桑桑@生财 11:00:26
+昨天群聊主题很统一：排雷、排雷、再排雷
+
+桑桑@生财 11:00:29
+[图片]
+
+无念 17:14:23
+有可以登陆antigravity
+
+无念 17:14:47
+方法，一直显示不满18，搞的美国地址</pre>
+        </details>
+      </section>
+    
+
+      <section class="card">
+        <div class="card-head">
+          <div>
+            <div class="badge">AI产品出海2期1群</div>
+            <h2>2025-12-09 · 深海圈丨AI产品出海2期1群_2025-12-09.txt</h2>
+          </div>
+          <div class="stat-pill">原始消息: 129</div>
+        </div>
+        <div class="stats">
+          <div><span>统计消息</span><strong>129</strong></div>
+          <div><span>问答数</span><strong>4</strong></div>
+          <div><span>好事数</span><strong>1</strong></div>
+          <div><span>KOC</span><strong>2</strong></div>
+          <div><span>解决率</span><strong>100%</strong></div>
+          <div><span>平均响应</span><strong>11 分钟</strong></div>
+        </div>
+        <details open>
+          <summary>问答（4）</summary>
+          <ol><li><strong>邦比</strong>：#举手 海外ai saas 产品，接stripe 推荐注册香港公司还是美国公司？<br/><span class="muted">答：刘小排 · 已解决 · 0 分钟</span></li><li><strong>包子_上海</strong>：大家好，我要用到 openai api 和 google cloud 的api，这个2个是不是这边都不好付款？<br/><span class="muted">答：前行 · 已解决 · 10 分钟</span></li><li><strong>剑廿三-重庆</strong>：我感觉自己方向选错了[捂脸]做那种对话聊天式的似乎要解决的问题很多很复杂...涉及到短中长期记忆、涉及知识库...新手面对这些东西有点手足无措，有没有同样遇到我这样的问题的圈友一起交流下<br/><span class="muted">答：我不是廖梓鉴 · 已解决 · 29 分钟</span></li><li><strong>李小伟</strong>：想咨询一下，正式接入creem的步骤是一定先要通过申请之后，才可以进行代码接入？<br/><span class="muted">答：黄松松 · 已解决 · 3 分钟</span></li></ol>
+        </details>
+        <details>
+          <summary>好事（1）</summary>
+          <ol><li><strong>袁锐钦（PNG部落）</strong>：国内第一单[让我看看]<br/><span class="muted">high · 已审核</span></li></ol>
+        </details>
+        <details>
+          <summary>KOC（2）</summary>
+          <ol><li><strong>我不是廖梓鉴</strong>：模型: 技术极客/效率狂人<br/>核心事迹: 分享Agent框架Voltagent并深入讲解LLM上下文记忆处理方案<br/>高光语录: 试试这个框架吧，比langgraphql简单很多。新手友好...我已经用这个框架跑生产一个多月了。<br/>推荐选题: 新手友好的Agent开发：从LangGraph迁移到Voltagent的实战经验<br/>入选理由: 提供了具体的生产级框架建议，纠正了关于API无状态的误解，并给出了Redis/RAG结合的显性知识，具有极强的可复现性和结果验证。<br/>评分: 复现3/稀缺2/验证3 (总分 8)<br/><span class="muted">技术极客/效率狂人</span></li><li><strong>袁锐钦（PNG部落）</strong>：模型: 技术极客/效率狂人<br/>核心事迹: 提出通过API自动化管理支付平台产品信息的SOP<br/>高光语录: 最简单的方法就是把creem所有的api参考文档都拷贝下来。扔给cc去扫描一遍，然后让他做个产品管理的后台就行了<br/>推荐选题: 告别手动配置：利用API和Cursor构建可视化产品管理后台<br/>入选理由: 分享了利用AI辅助快速构建支付管理后台的高效率工作流，解决了初学者在支付配置上的痛点。<br/>评分: 复现3/稀缺2/验证2 (总分 7)<br/><span class="muted">技术极客/效率狂人</span></li></ol>
+        </details>
+        <details>
+          <summary>原始聊天片段（前 20 行）</summary>
+          <pre>邦比 08:43:36
+#举手 海外ai saas 产品，接stripe 推荐注册香港公司还是美国公司？
+
+黄松松 08:49:00
+&gt; 刘小排 11-14 15:51:58
+&gt; 中国人启用stripe，最最省事并且规范的方法是用Stripe Atlas服务， 花点钱，但是它可以帮你搞定注册美国公司、正正规规的使用Stripe
+小排老师的原话
+
+小枫哥 08:49:55
+@志愿者-宁王 收
+
+桑桑 11:00:30
+昨天群聊主题很统一：排雷、排雷、再排雷
+
+桑桑 11:00:29
+今日 12.9 学习进度提醒（11/15）
+
+桑桑 11:00:32
+[图片]
+</pre>
+        </details>
+      </section>
+    
+
+      <section class="card">
+        <div class="card-head">
+          <div>
+            <div class="badge">AI产品出海2期1群</div>
+            <h2>2025-12-10 · 深海圈丨AI产品出海2期1群_2025-12-10.txt</h2>
+          </div>
+          <div class="stat-pill">原始消息: 41</div>
+        </div>
+        <div class="stats">
+          <div><span>统计消息</span><strong>41</strong></div>
+          <div><span>问答数</span><strong>2</strong></div>
+          <div><span>好事数</span><strong>0</strong></div>
+          <div><span>KOC</span><strong>1</strong></div>
+          <div><span>解决率</span><strong>100%</strong></div>
+          <div><span>平均响应</span><strong>12 分钟</strong></div>
+        </div>
+        <details open>
+          <summary>问答（2）</summary>
+          <ol><li><strong>榛小白-天津</strong>：@Ruiqin袁锐钦 这个后台有必要搞个域名吗？还是说本地启动就可以了？<br/><span class="muted">答：新侠 · 已解决 · 14 分钟</span></li><li><strong>Frank</strong>：请教个问题：creem在等待审核状态，还能把 Test Mode打开吗？还是必须要保持Test Mode关闭？<br/><span class="muted">答：袁锐钦（PNG部落） · 已解决 · 9 分钟</span></li></ol>
+        </details>
+        <details>
+          <summary>好事（0）</summary>
+          <ol><li class="muted">暂无</li></ol>
+        </details>
+        <details>
+          <summary>KOC（1）</summary>
+          <ol><li><strong>Home</strong>：模型: 技术极客/效率狂人<br/>核心事迹: 开发并分享了一个免费的“口喷代码”工具<br/>高光语录: 做了一个口喷代码的工具，有没有感兴趣的，完全免费<br/>推荐选题: 如何自研工具提升开发效率：口喷代码实战分享<br/>入选理由: Home展示了独立开发工具的能力，并在群内分享了视频演示，具有较强的结果验证和稀缺性。<br/>评分: 复现1/稀缺2/验证2 (总分 5)<br/><span class="muted">技术极客/效率狂人</span></li></ol>
+        </details>
+        <details>
+          <summary>原始聊天片段（前 20 行）</summary>
+          <pre>榛小白-天津 08:57:46
+@Ruiqin袁锐钦 这个后台有必要搞个域名吗？还是说本地启动就可以了？
+
+新侠 09:11:36
+后台一般就是/admin
+
+新侠 09:11:51
+生产环境
+
+榛小白-天津 09:13:02
+哦哦，起个新路由是吧
+
+新侠 09:15:00
+嗯，把那些设置映射到数据库，admin 可以直接改数据库
+
+新侠 09:15:19
+这是我的理解
+
+袁锐钦（PNG部落） 09:16:00
+对</pre>
+        </details>
+      </section>
+    
+
+      <section class="card">
+        <div class="card-head">
+          <div>
+            <div class="badge">AI产品出海2期2群</div>
+            <h2>2025-12-10 · 深海圈丨AI产品出海2期2群_2025-12-10.txt</h2>
+          </div>
+          <div class="stat-pill">原始消息: 7</div>
+        </div>
+        <div class="stats">
+          <div><span>统计消息</span><strong>7</strong></div>
+          <div><span>问答数</span><strong>2</strong></div>
+          <div><span>好事数</span><strong>0</strong></div>
+          <div><span>KOC</span><strong>1</strong></div>
+          <div><span>解决率</span><strong>50%</strong></div>
+          <div><span>平均响应</span><strong>13 分钟</strong></div>
+        </div>
+        <details open>
+          <summary>问答（2）</summary>
+          <ol><li><strong>林国洋</strong>： @刘小排 老师，我们也想看看，怎么办啊，文章价格不便宜啊[调皮]<br/><span class="muted">答：包子（回复慢） · 已解决 · 26 分钟</span></li><li><strong>杨大柱子-北京</strong>：同问有必要买不，和课程有无区别<br/><span class="muted">答：— · 未解决 · -</span></li></ol>
+        </details>
+        <details>
+          <summary>好事（0）</summary>
+          <ol><li class="muted">暂无</li></ol>
+        </details>
+        <details>
+          <summary>KOC（1）</summary>
+          <ol><li><strong>包子（回复慢）</strong>：模型: 避坑指南/问题终结者<br/>核心事迹: 分享通过上万元实测成本换来的AI实战方法论价值<br/>高光语录: 我自己干了好几个月，浪费了上万的成本才慢慢领悟<br/>推荐选题: 价值万元的AI实战避坑心得：从浪费成本到领悟SOP<br/>入选理由: 具备强结果验证（上万成本投入）和稀缺性（个人实操领悟的非公开经验），能为群友提供极高的决策参考价值。<br/>评分: 复现2/稀缺2/验证3 (总分 7)<br/><span class="muted">避坑指南/问题终结者</span></li></ol>
+        </details>
+        <details>
+          <summary>原始聊天片段（前 20 行）</summary>
+          <pre>林国洋 09:22:01
+[链接|复杂需求如何让AI一次写对？面对复杂需求，这是我实战沉淀的Vibe Coding终极SOP](https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&amp;mid=2247499915&amp;idx=1&amp;sn=3c27ef4939e22a9cf8ac1a8781a79ddf&amp;chksm=e83e688ed2c6c6d9bf2a2f5c8cadad5011514686fed3e86b24a12034481d0b67e1917325d924&amp;mpshare=1&amp;scene=1&amp;srcid=1210ZHgF0R6fLmWkIy9LYLLm&amp;sharer_shareinfo=40289778cf5dbc7292c1ba4ea5c4c3c1&amp;sharer_shareinfo_first=40289778cf5dbc7292c1ba4ea5c4c3c1#rd)
+
+林国洋 09:23:03
+@刘小排 老师，我们也想看看，怎么办啊，文章价格不便宜啊[调皮]
+
+包子（回复慢） 09:49:28
+这里面实战方法，我自己干了好几个月，浪费了上万的成本才慢慢领悟，这才一个红包的价格就公开了，实在是太划算了[破涕为笑]
+
+欢迎-北京 10:26:29
+[破涕为笑]刚试了一下，买微信豆，苹果还要抽一波，只能等下班回家找个android机再看了[捂脸]
+
+杨大柱子-北京 10:27:17
+同问有必要买不，和课程有无区别
+
+桑桑@生财 10:34:04
+12.9群聊精华的讨论核心：怎么少踩坑、少走弯路
+
+桑桑@生财 10:34:05
+[图片]</pre>
+        </details>
+      </section>
+    
+  </main>
+  <footer>数据来自 V2 分析管道，仅用于快速预览。</footer>
+</body>
+</html>

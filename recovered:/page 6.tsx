@@ -1,0 +1,327 @@
+
+'use client';
+
+
+import { useEffect, useMemo, useState } from 'react';
+import { Card, CardContent, CardHeader, CardTitle } from '@/shared/components/ui/card';
+import { Badge } from '@/shared/components/ui/badge';
+import { Popover, PopoverContent, PopoverTrigger } from '@/shared/components/ui/popover';
+import { Button } from '@/shared/components/ui/button';
+import { getDashboardStatsV2 } from '@/actions/community-v2-actions';
+import { SmartIcon } from '@/shared/blocks/common';
+import { ChartsSection } from './_components/charts-section';
+import { KnowledgeWall } from './_components/knowledge-wall';
+import { MonitoringView } from './_components/monitoring-view';
+import { Link } from '@/core/i18n/navigation';
+import { CoachCrmEmbed, StudentCrmEmbed } from './_components/crm-embed';
+
+function normalizeName(name: string) {
+  return name
+    .replace(/（.*?）|\(.*?\)|【.*?】|\[.*?\]/g, '')
+    .replace(/[-_—–·•‧·].*$/, '')
+    .replace(/\s+/g, '')
+    .trim()
+    .toLowerCase();
+}
+
+function slugifyName(name: string) {
+  return normalizeName(name).replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+}
+
+export default function CommunityDashboardPage() {
+  const [stats, setStats] = useState<any[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [csLoading, setCsLoading] = useState(false);
+  const [period, setPeriod] = useState<'一期' | '二期' | '全部'>('全部');
+  const [coachStudent, setCoachStudent] = useState<{
+    coachTop: { name: string; count: number; tags?: string[] }[];
+    coachAnswerTop?: { name: string; count: number; tags?: string[] }[];
+    coachAnswerTotal?: number;
+    coachTotal: number;
+    coachActive: number;
+    studentTop: { name: string; count: number; tags?: string[] }[];
+    studentTotal: number;
+    studentActive: number;
+  } | null>(null);
+  const [issueSummary, setIssueSummary] = useState<{ total: number } | null>(null);
+
+  useEffect(() => {
+    async function fetchStats() {
+      try {
+        const data = await getDashboardStatsV2();
+        // Stats in Overview need dates normalized for charts? 
+        // ChartsSection expects reportDate string. getDashboardStats returns it.
+        setStats(data.map((d: any) => ({
+            ...d,
+            reportDate: d.reportDate,
+        })));
+      } catch (e) {
+        console.error(e);
+      } finally {
+        setLoading(false);
+      }
+    }
+    fetchStats();
+  }, []);
+
+  useEffect(() => {
+    async function fetchCs() {
+      setCsLoading(true);
+      try {
+        const res = await fetch(`/api/community/coach-student?period=${period}`);
+        if (res.ok) {
+          const data = await res.json();
+          setCoachStudent(data);
+        }
+      } catch (e) {
+        console.error(e);
+      } finally {
+        setCsLoading(false);
+      }
+    }
+    fetchCs();
+  }, [period]);
+
+  useEffect(() => {
+    let cancelled = false;
+    async function fetchIssueSummary() {
+      try {
+        const res = await fetch('/api/community/import-issues/summary');
+        if (!res.ok) return;
+        const data = await res.json();
+        if (!cancelled) setIssueSummary(data);
+      } catch {
+        // ignore
+      }
+    }
+    fetchIssueSummary();
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  // Simple aggregation for the overview cards
+  const totalMessages = stats.reduce((acc, curr) => acc + curr.messageCount, 0);
+  const totalQuestions = stats.reduce((acc, curr) => acc + curr.questionCount, 0);
+  const totalGoodNews = stats.reduce((acc, curr) => acc + curr.goodNewsCount, 0);
+  
+  // Calculate average resolution rate safely
+  const validResolutionStats = stats.filter(s => s.resolutionRate != null);
+  const avgResolutionRate = validResolutionStats.length > 0
+    ? Math.round(validResolutionStats.reduce((acc, curr) => acc + (curr.resolutionRate || 0), 0) / validResolutionStats.length)
+    : 0;
+
+  // answeredBy counts from parsed questions（LLM 输出）
+  const answeredByCounts = useMemo(() => {
+    const map = new Map<string, number>();
+    (stats || []).forEach((report) => {
+      (report.questions || []).forEach((q: any) => {
+        if (!q?.answeredBy) return;
+        const key = normalizeName(q.answeredBy);
+        map.set(key, (map.get(key) || 0) + 1);
+      });
+    });
+    return map;
+  }, [stats]);
+
+  return (
+    <div className="flex flex-col gap-10 px-10 py-8">
+      <div className="flex items-center justify-between">
+        <div>
+          <h1 className="text-3xl font-bold tracking-tight">社群运营看板</h1>
+          <p className="text-muted-foreground mt-2">
+            实时监测社群活跃度、服务质量与高价值产出。
+          </p>
+        </div>
+        <div className="relative">
+          <Popover>
+            <PopoverTrigger asChild>
+              <Button variant="ghost" size="sm" className="text-xs">
+                运维中心
+              </Button>
+            </PopoverTrigger>
+            <PopoverContent align="end" className="w-64 text-sm space-y-3">
+              <div className="space-y-1">
+                <div className="text-xs text-muted-foreground uppercase">导入</div>
+                <div className="flex flex-col gap-2">
+                  <Link href="/community/upload-chat" className="hover:text-primary">
+                    上传聊天记录
+                  </Link>
+                  <Link href="/community/upload-members" className="hover:text-primary">
+                    上传学员名单
+                  </Link>
+                  <Link href="/community/member-admin" className="hover:text-primary">
+                    学员管理
+                  </Link>
+                </div>
+              </div>
+              <div className="space-y-1">
+                <div className="text-xs text-muted-foreground uppercase">审核/异常</div>
+                <div className="flex flex-col gap-2">
+                  <Link href="/community/good-news-review" className="hover:text-primary">
+                    好事审核
+                  </Link>
+                  <Link href="/community/import-issues" className="hover:text-primary">
+                    <span className="inline-flex items-center gap-2">
+                      异常处理
+                      {issueSummary?.total ? (
+                        <span className="inline-flex h-5 min-w-[20px] items-center justify-center rounded-full bg-red-500 px-1 text-[10px] font-semibold text-white">
+                          {issueSummary.total}
+                        </span>
+                      ) : null}
+                    </span>
+                  </Link>
+                </div>
+              </div>
+            </PopoverContent>
+          </Popover>
+        </div>
+      </div>
+
+      {/* KPI Cards */}
+      <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
+        <KpiCard title="累计活跃消息" value={totalMessages} icon="MessageSquare" />
+        <KpiCard title="累计提问数量" value={totalQuestions} icon="HelpCircle" />
+        <KpiCard title="平均解决率" value={`${avgResolutionRate}%`} icon="CheckCircle2" />
+        <KpiCard title="累计好事" value={totalGoodNews} icon="Trophy" />
+      </div>
+
+      {/* Visualizations: Value Trend ONLY (for Overview) */}
+      {!loading && stats.length > 0 && (
+          <ChartsSection 
+            data={stats} 
+            showTrends={false} 
+            showValue={true} 
+            // fixedProductLine (unspecified implies 'all' or filtering allowed)
+            // User: "Aggregated 3 SKU total". We can default to 'all' and user can filter if they want, 
+            // OR if the requirement is STRICTLY total, we could hide filters. 
+            // Given "Aggregated" context, I will leave filters enabled so user *can* drill down if they wish, 
+            // but the default 'all' view gives the total.
+          />
+      )}
+
+      {/* Knowledge Wall (Personas & Outcomes) */}
+      <KnowledgeWall data={stats} />
+
+      {/* Coach & Student Panels */}
+      <div className="flex flex-col gap-4">
+        <div className="flex items-center gap-3">
+          <p className="text-sm text-muted-foreground">期数筛选：</p>
+          <div className="flex gap-2">
+            {(['全部', '一期', '二期'] as const).map((p) => (
+              <button
+                key={p}
+                onClick={() => setPeriod(p)}
+                className={`px-3 py-1 rounded-full text-sm border ${
+                  period === p ? 'bg-primary text-white border-primary' : 'border-border'
+                }`}
+              >
+                {p}
+              </button>
+            ))}
+          </div>
+        </div>
+
+        <div className="grid gap-6 lg:grid-cols-2">
+          <CoachCrmEmbed />
+          <StudentCrmEmbed />
+        </div>
+      </div>
+
+      {/* 运营看板（嵌入昨日复盘视图） */}
+      <div className="pt-6 space-y-4">
+        <MonitoringView hideHeader />
+      </div>
+
+    </div>
+  );
+}
+
+function KpiCard({ title, value, icon }: { title: string, value: string | number, icon: string }) {
+  return (
+    <Card>
+      <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
+        <CardTitle className="text-sm font-medium">{title}</CardTitle>
+        <SmartIcon name={icon} className="h-4 w-4 text-muted-foreground" />
+      </CardHeader>
+      <CardContent>
+        <div className="text-2xl font-bold">{value}</div>
+      </CardContent>
+    </Card>
+  );
+}
+
+function RoleCard({
+  title,
+  total,
+  answerTotal,
+  active,
+  items,
+  loading,
+  icon,
+  linkPrefix,
+}: {
+  title: string;
+  total: number;
+  answerTotal?: number;
+  active: number;
+  items: { name: string; messageCount?: number; answerCount?: number; tags?: string[] }[] | (() => { name: string; messageCount?: number; answerCount?: number; tags?: string[] }[]);
+  loading: boolean;
+  icon: string;
+  linkPrefix?: string;
+}) {
+  const resolvedItems = typeof items === 'function' ? items() : items;
+
+  return (
+    <Card className="h-full">
+      <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
+        <div>
+          <CardTitle className="text-base font-semibold">{title}</CardTitle>
+          <p className="text-xs text-muted-foreground mt-1">
+            总计 {total} 条{answerTotal !== undefined ? ` · 答疑 ${answerTotal} 条` : ''} · 活跃 {active} 人
+          </p>
+        </div>
+        <SmartIcon name={icon} className="h-5 w-5 text-muted-foreground" />
+      </CardHeader>
+      <CardContent className="max-h-[460px] overflow-y-auto pr-2">
+        {loading ? (
+          <div className="py-6 text-sm text-muted-foreground">加载中...</div>
+        ) : resolvedItems.length === 0 ? (
+          <div className="py-6 text-sm text-muted-foreground">暂无数据</div>
+        ) : (
+          <div className="flex flex-col gap-3">
+            {resolvedItems.map((item, idx) => (
+              <div key={item.name + idx} className="flex items-center justify-between border-b pb-2 last:border-b-0 last:pb-0">
+                <div className="flex items-center gap-2">
+                  <span className="text-muted-foreground text-xs w-6 text-right">{idx + 1}</span>
+                  {linkPrefix ? (
+                    <Link
+                      href={`${linkPrefix}/${slugifyName(item.name)}`}
+                      className="text-sm font-medium text-primary hover:underline"
+                    >
+                      {item.name}
+                    </Link>
+                  ) : (
+                    <span className="text-sm font-medium">{item.name}</span>
+                  )}
+                  {/* render tags */}
+                  {item.tags && item.tags.length > 0 && (
+                      <div className="flex gap-1">
+                          {item.tags.map(t => (
+                              <Badge key={t} variant="secondary" className="text-[10px] h-4 px-1">{t}</Badge>
+                          ))}
+                      </div>
+                  )}
+                </div>
+                <div className="text-xs text-muted-foreground flex gap-2">
+                  <span>消息 {item.messageCount ?? 0}</span>
+                  {item.answerCount !== undefined && <span className="text-green-600">答疑 {item.answerCount}</span>}
+                </div>
+              </div>
+            ))}
+          </div>
+        )}
+      </CardContent>
+    </Card>
+  );
+}
