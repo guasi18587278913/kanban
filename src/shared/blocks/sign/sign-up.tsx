@@ -32,6 +32,7 @@ export function SignUp({
 }) {
   const router = useRouter();
   const t = useTranslations('common.sign');
+  const locale = useLocale();
 
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
@@ -44,15 +45,13 @@ export function SignUp({
     configs.email_auth_enabled !== 'false' ||
     (!isGoogleAuthEnabled && !isGithubAuthEnabled); // no social providers enabled, auto enable email auth
 
-  if (callbackUrl) {
-    const locale = useLocale();
-    if (
-      locale !== defaultLocale &&
-      callbackUrl.startsWith('/') &&
-      !callbackUrl.startsWith(`/${locale}`)
-    ) {
-      callbackUrl = `/${locale}${callbackUrl}`;
-    }
+  if (
+    callbackUrl &&
+    locale !== defaultLocale &&
+    callbackUrl.startsWith('/') &&
+    !callbackUrl.startsWith(`/${locale}`)
+  ) {
+    callbackUrl = `/${locale}${callbackUrl}`;
   }
 
   const reportAffiliate = ({

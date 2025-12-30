@@ -604,6 +604,22 @@ export async function getDashboardStatsV2() {
         id: k.id,
         kocName: k.kocName,
         contribution: k.contribution,
+        model: k.model,
+        coreAchievement: k.coreAchievement,
+        highlightQuote: k.highlightQuote,
+        suggestedTitle: k.suggestedTitle,
+        title: k.suggestedTitle,
+        tags: k.tags,
+        reason: k.reason,
+        score: k.scoreTotal != null || k.scoreReproducibility != null || k.scoreScarcity != null || k.scoreValidation != null
+          ? {
+              reproducibility: k.scoreReproducibility ?? undefined,
+              scarcity: k.scoreScarcity ?? undefined,
+              validation: k.scoreValidation ?? undefined,
+              total: k.scoreTotal ?? undefined,
+            }
+          : null,
+        recordDate: k.recordDate,
       })),
       kocCount: dayKocs.length,
       // 好事（解析后的格式）

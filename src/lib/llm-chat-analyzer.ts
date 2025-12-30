@@ -111,12 +111,10 @@ export interface GoodNewsItem {
 export interface KOCContribution {
   messageIndex: number;
   author: string;
-  model: '实战派/赚钱大神' | '技术极客/效率狂人' | '避坑指南/问题终结者' | '深度思考/认知输出者';
-  coreAchievement: string;
-  highlightQuote: string;
-  suggestedTitle: string;
+  title: string;
+  tags: string[];
   reason: string;
-  score: {
+  score?: {
     reproducibility: number;
     scarcity: number;
     validation: number;
@@ -197,7 +195,7 @@ const SYSTEM_PROMPT = `你是一位资深的社群运营分析专家，拥有 10
 【核心能力】
 1. 精准识别问题和回答的配对关系
 2. 区分真正的"好事"（如出单、里程碑）与普通的正面表达
-3. 识别潜力作者（10万阅读量潜力）
+3. 识别可写稿候选（直接可写稿的人）
 4. 理解上下文语境，避免误判
 5. 为成员打上标签（赛道/阶段/意图/活跃度）并标注情绪与风险信号
 
@@ -225,37 +223,30 @@ const SYSTEM_PROMPT = `你是一位资深的社群运营分析专家，拥有 10
   - 计划或意向（准备做、打算试试）
   - 转发他人的成果
 
-■ 潜力作者（10万阅读量）识别：
-- 目标是挖掘可产出“最佳实践”的作者，而非水群活跃者
-- 必须至少满足以下价值判断中的 2 项：可复现性、稀缺性、结果验证
+■ 可写稿候选识别：
+- 目标是筛出“可直接写成文章”的人，而非单纯水群活跃者
+- 必须至少满足以下价值判断中的 2 项：人设反差、清晰方法论、结果验证、高频痛点
 - 仅在证据充分时入选，不要为了凑数
-- 可复现性：别人照着做也能复现结果
-- 稀缺性：官方文档或常识里没有的隐性知识
-- 结果验证：方法已跑通并产生真实结果
+- 人设反差：年龄/背景/零基础/跨界等反差感强
+- 清晰方法论：可复现的步骤/工作流/SOP
+- 结果验证：上线、出单、过审、增长等明确结果
+- 高频痛点：多数人会踩坑或常见问题的解法
 
-【四类模型】
-1) 实战派/赚钱大神：带结果、可验证的战报或闭环
-2) 技术极客/效率狂人：长文本、流程/工具/对比/工作流
-3) 避坑指南/问题终结者：提问-自答闭环，带完整排查链路
-4) 深度思考/认知输出者：高密度“小作文”、深度认知/复盘
+【标签体系（固定 + 可补充）】
+- 固定标签：新手逆袭 / 硬核实操 / 避坑指南 / 流量获取 / 变现闭环 / 认知输出
+- tags 必须至少包含 1 个固定标签；允许额外补充 0-1 个自定义标签
 
-【关键词雷达（辅助判断，不是硬规则）】
-- 实战派/赚钱大神：出单/第一单/入账/美金/闭环/跑通/过审/通过/注册量/付费
-- 技术极客/效率狂人：实测/对比/工作流/SOP/自动化/GitHub/工具/插件/新模型
-- 避坑指南/问题终结者：踩坑/避坑/血泪/原来是/发现是/排查/搞定/解决
-- 深度思考/认知输出者：复盘/心得/感悟/本质/底层逻辑/长期主义/认知
-
-【行为信号（优先级高）】
-- 实战派/赚钱大神：明确结果 + 可验证证据 + 群友强反馈（恭喜/接好运）
-- 技术极客/效率狂人：长文本解释步骤/原理 + 分享链接或工具
-- 避坑指南/问题终结者：同一人“提问-自答”闭环，给出完整解决链路
-- 深度思考/认知输出者：小作文 + 复盘/模型化表达 + 结合自身背景
+【标题要求】
+- 标题使用《》包裹，突出“人设/痛点/方法/结果”中的至少两个要素
+- 标题要具体、有信息密度，不要空泛
 
 【输出要求】
 - 只输出 JSON，不要其他文字
 - 所有文本内容保持原样，不要翻译或改写
 - 时间格式：HH:MM:SS
 - messageIndex 必须引用 [#数字] 的编号
+- title 必须用《》包裹
+- tags 必须是数组，至少 1 个固定标签，可额外补充 0-1 个自定义标签
 
 【标签/情绪/风险规则】
 - niche/赛道：SaaS、工具、内容号、AI应用等；stage/阶段：MVP/上线/变现/增长；intent：求反馈/求资源/报错；activity：高活跃/中活跃/低活跃；sentiment：positive/neutral/negative；risk：churn_risk（流失风险）、escalation_needed（需升级处理）
@@ -312,11 +303,9 @@ function buildAnalysisPrompt(rawContent: string, meta: { fileName: string; chatD
     {
       "messageIndex": 消息序号（必须来自 [#数字]）,
       "author": "候选人昵称",
-      "model": "实战派/赚钱大神 | 技术极客/效率狂人 | 避坑指南/问题终结者 | 深度思考/认知输出者",
-      "coreAchievement": "一句话概括核心事迹",
-      "highlightQuote": "候选人原话",
-      "suggestedTitle": "推荐选题标题",
-      "reason": "基于可复现/稀缺/结果验证的入选理由",
+      "title": "《标题》",
+      "tags": ["固定标签1", "可选自定义标签"],
+      "reason": "入选理由（分点描述）",
       "score": { "reproducibility": 0-3, "scarcity": 0-3, "validation": 0-3, "total": 0-9 }
     }
   ],
@@ -349,6 +338,7 @@ function buildAnalysisPrompt(rawContent: string, meta: { fileName: string; chatD
 【重要提示】
 - 消息以 [#序号] 开头，序号即 messageIndex，必须引用该编号
 - 如当天没有候选人，kocContributions 返回空数组，不要强行生成
+- score 仅用于内部筛选与去重，仍需输出
 
 【群聊记录】
 ${rawContent}`;
@@ -388,10 +378,8 @@ interface LLMRawResponse {
   kocContributions?: Array<{
     messageIndex?: number;
     author?: string;
-    model?: string;
-    coreAchievement?: string;
-    highlightQuote?: string;
-    suggestedTitle?: string;
+    title?: string;
+    tags?: string[] | string;
     reason?: string;
     score?: {
       reproducibility?: number;
@@ -462,6 +450,18 @@ function normalizeIndex(value: unknown): number | undefined {
     return Number.isFinite(parsed) ? parsed : undefined;
   }
   return undefined;
+}
+
+function normalizeTagList(input: unknown): string[] {
+  const raw = Array.isArray(input)
+    ? input
+    : typeof input === 'string'
+      ? input.split(/[，,\/、|｜]/)
+      : [];
+  const cleaned = raw
+    .map((tag) => (typeof tag === 'string' ? tag.trim() : ''))
+    .filter(Boolean);
+  return Array.from(new Set(cleaned));
 }
 
 // ============================================
@@ -713,10 +713,8 @@ export async function analyzeChatWithLLM(
   const normalizedKocContributions = (merged.kocContributions || []).map((koc) => ({
     messageIndex: normalizeIndex(koc.messageIndex) ?? -1,
     author: koc.author || '',
-    model: (koc.model as KOCContribution['model']) || '实战派/赚钱大神',
-    coreAchievement: koc.coreAchievement || '',
-    highlightQuote: koc.highlightQuote || '',
-    suggestedTitle: koc.suggestedTitle || '',
+    title: koc.title || '',
+    tags: normalizeTagList(koc.tags),
     reason: koc.reason || '',
     score: {
       reproducibility: koc.score?.reproducibility ?? 0,

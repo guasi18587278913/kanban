@@ -44,7 +44,7 @@ export function ChatBox({
     if (initialChat) {
       setChat(initialChat);
     }
-  }, [initialChat]);
+  }, [initialChat, setChat]);
 
   return (
     <div className="flex h-screen flex-col overflow-hidden">

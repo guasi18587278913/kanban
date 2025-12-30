@@ -47,41 +47,36 @@ export function ChatLibrary({}) {
   const [page, setPage] = useState(1);
   const [limit, setLimit] = useState(10);
 
-  const fetchChats = async ({
-    page,
-    limit,
-  }: {
-    page: number;
-    limit: number;
-  }) => {
-    try {
-      const resp = await fetch('/api/chat/list', {
-        method: 'POST',
-        body: JSON.stringify({ page, limit }),
-      });
-      if (!resp.ok) {
-        throw new Error(`fetch chats failed with status: ${resp.status}`);
-      }
-      const { code, message, data } = await resp.json();
-      if (code !== 0) {
-        throw new Error(message);
-      }
-
-      const { list, hasMore } = data;
-
-      setChats(list);
-      setHasMore(hasMore);
-    } catch (e: any) {
-      console.log('fetch chats failed:', e);
-      return [];
-    }
-  };
-
   useEffect(() => {
-    if (user) {
-      fetchChats({ page, limit });
+    if (!user) {
+      return;
     }
-  }, [user]);
+
+    const fetchChats = async () => {
+      try {
+        const resp = await fetch('/api/chat/list', {
+          method: 'POST',
+          body: JSON.stringify({ page, limit }),
+        });
+        if (!resp.ok) {
+          throw new Error(`fetch chats failed with status: ${resp.status}`);
+        }
+        const { code, message, data } = await resp.json();
+        if (code !== 0) {
+          throw new Error(message);
+        }
+
+        const { list, hasMore } = data;
+
+        setChats(list);
+        setHasMore(hasMore);
+      } catch (e: any) {
+        console.log('fetch chats failed:', e);
+      }
+    };
+
+    fetchChats();
+  }, [user, page, limit, setChats]);
 
   return (
     <SidebarGroup className="group-data-[collapsible=icon]:hidden">

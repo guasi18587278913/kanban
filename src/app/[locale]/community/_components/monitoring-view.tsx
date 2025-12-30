@@ -386,7 +386,14 @@ export function MonitoringView({ initialProductLine, title, hideHeader }: Monito
         historicalReports: currentReports,
         richInsight: insight
     };
-  }, [stats, selectedProductLine, selectedGroup, selectedDate]); // Added selectedDate to dep
+  }, [
+    stats,
+    selectedProductLine,
+    selectedGroup,
+    selectedDate,
+    periodGroups,
+    selectedPeriod,
+  ]);
 
   const displayTitle = title || (selectedProductLine === 'all' ? '全站昨日监测' : `${selectedProductLine} - 数据看板`);
 

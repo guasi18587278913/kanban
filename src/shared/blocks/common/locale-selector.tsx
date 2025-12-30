@@ -1,6 +1,5 @@
 'use client';
 
-import { useEffect, useState } from 'react';
 import { Check, Globe, Languages } from 'lucide-react';
 import { useLocale } from 'next-intl';
 
@@ -14,6 +13,7 @@ import {
   DropdownMenuTrigger,
 } from '@/shared/components/ui/dropdown-menu';
 import { cacheSet } from '@/shared/lib/cache';
+import { useIsMounted } from '@/shared/hooks/use-mounted';
 
 export function LocaleSelector({
   type = 'icon',
@@ -23,11 +23,7 @@ export function LocaleSelector({
   const currentLocale = useLocale();
   const router = useRouter();
   const pathname = usePathname();
-  const [mounted, setMounted] = useState(false);
-
-  useEffect(() => {
-    setMounted(true);
-  }, []);
+  const mounted = useIsMounted();
 
   const handleSwitchLanguage = (value: string) => {
     if (value !== currentLocale) {

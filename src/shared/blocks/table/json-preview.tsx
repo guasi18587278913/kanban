@@ -22,10 +22,17 @@ export function JsonPreview({
     return <div className={className}>{value}</div>;
   }
 
+  let formatted: string | null = null;
   try {
     const json = JSON.parse(value);
-    return <pre className={className}>{JSON.stringify(json, null, 2)}</pre>;
+    formatted = JSON.stringify(json, null, 2);
   } catch (error) {
-    return <div className={className}>{value}</div>;
+    formatted = null;
   }
+
+  if (formatted) {
+    return <pre className={className}>{formatted}</pre>;
+  }
+
+  return <div className={className}>{value}</div>;
 }

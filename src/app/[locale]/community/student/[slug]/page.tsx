@@ -22,6 +22,14 @@ function slugifyName(name: string) {
   return normalizeName(name).replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
 }
 
+function safeDecode(value: string) {
+  try {
+    return decodeURIComponent(value);
+  } catch {
+    return value;
+  }
+}
+
 function formatDate(value?: string | null) {
   if (!value) return '-';
   const d = new Date(value);
@@ -219,7 +227,7 @@ export default function StudentCrmDetailPage() {
     fetchData();
   }, [slug]);
 
-  const displayName = data?.member?.nickname || (slug ? decodeURIComponent(String(slug)) : '');
+  const displayName = data?.member?.nickname || (slug ? safeDecode(String(slug)) : '');
   const stats = data?.stats;
   const tagGroups = useMemo(() => {
     const grouped = new Map<string, MemberTag[]>();
@@ -503,7 +511,7 @@ export default function StudentCrmDetailPage() {
                 {(data?.qa || []).map((q: any, idx: number) => (
                   <div key={idx} className="rounded border p-3">
                     <div className="flex flex-wrap items-center gap-2 text-xs text-muted-foreground mb-2">
-                      <span>{q.date}</span>
+                      <span>{formatDate(q.questionTime)}</span>
                       <span>·</span>
                       <span>{q.productLine}</span>
                       <span>·</span>

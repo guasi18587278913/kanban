@@ -26,6 +26,7 @@ import {
   NavigationMenuTrigger as RawNavigationMenuTrigger,
 } from '@/shared/components/ui/navigation-menu';
 import { useMedia } from '@/shared/hooks/use-media';
+import { useIsMounted } from '@/shared/hooks/use-mounted';
 import { cn } from '@/shared/lib/utils';
 import { NavItem } from '@/shared/types/blocks/common';
 import { Header as HeaderType } from '@/shared/types/blocks/landing';
@@ -34,10 +35,7 @@ import { Header as HeaderType } from '@/shared/types/blocks/landing';
 function NavigationMenuTrigger(
   props: React.ComponentProps<typeof RawNavigationMenuTrigger>
 ) {
-  const [mounted, setMounted] = useState(false);
-  useEffect(() => {
-    setMounted(true);
-  }, []);
+  const mounted = useIsMounted();
   // Only render after client has mounted, to avoid SSR/client render id mismatch
   if (!mounted) return null;
   return <RawNavigationMenuTrigger {...props} />;

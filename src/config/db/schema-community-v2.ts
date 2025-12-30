@@ -283,6 +283,16 @@ export const kocRecord = pgTable(
     kocName: text('koc_name').notNull(),
     contribution: text('contribution').notNull(),      // 贡献内容
     contributionType: text('contribution_type'),       // share/help/resource/atmosphere
+    model: text('model'),
+    coreAchievement: text('core_achievement'),
+    highlightQuote: text('highlight_quote'),
+    suggestedTitle: text('suggested_title'),
+    tags: text('tags').array(),                       // 选题标签
+    reason: text('reason'),
+    scoreReproducibility: integer('score_reproducibility'),
+    scoreScarcity: integer('score_scarcity'),
+    scoreValidation: integer('score_validation'),
+    scoreTotal: integer('score_total'),
     helpedCount: integer('helped_count'),              // 帮助人数
 
     // 时间

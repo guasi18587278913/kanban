@@ -1,9 +1,8 @@
 'use client';
 
-import { useEffect, useState } from 'react';
 import { ChevronRight } from 'lucide-react';
 
-import { Link, usePathname, useRouter } from '@/core/i18n/navigation';
+import { Link, usePathname } from '@/core/i18n/navigation';
 import { SmartIcon } from '@/shared/blocks/common/smart-icon';
 import {
   Collapsible,
@@ -22,15 +21,11 @@ import {
   SidebarMenuSubItem,
 } from '@/shared/components/ui/sidebar';
 import { NavItem, type Nav as NavType } from '@/shared/types/blocks/common';
+import { useIsMounted } from '@/shared/hooks/use-mounted';
 
 export function Nav({ nav, className }: { nav: NavType; className?: string }) {
   const pathname = usePathname();
-  const router = useRouter();
-  const [mounted, setMounted] = useState(false);
-
-  useEffect(() => {
-    setMounted(true);
-  }, []);
+  const mounted = useIsMounted();
 
   return (
     <SidebarGroup className={className}>

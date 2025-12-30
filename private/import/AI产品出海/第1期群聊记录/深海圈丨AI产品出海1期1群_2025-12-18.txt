@@ -1,0 +1,178 @@
+银河星游（每天提醒，转发） 09:05:32
+> 袁智翔 12-17 21:54:57
+> 今晚再观察下，到明天都没问题的话就确定是他们的 bug 了
+牛逼，我自己代码也改了下优化了性能放弃了安全性
+
+银河星游（每天提醒，转发） 09:05:52
+兄弟们gemini 3 flash 出了！
+
+银河星游（每天提醒，转发） 09:06:11
+[链接|Gemini 3 Flash闪电来袭：智力竟反超Pro！速度快3倍，全球免费](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652655794&idx=1&sn=1d15737f03ead2b04e793e6f476a6813&chksm=f0805f69d46b8a64dae575a4fc06e0ccf0eaa6d9922b7a01a26d78dfef625e21b83e76f2c73e&mpshare=1&scene=1&srcid=1218HdgBw5TyGe9wvt50aox2&sharer_shareinfo=639e781925eaf1a989d304cf74f431c2&sharer_shareinfo_first=639e781925eaf1a989d304cf74f431c2#rd)
+
+桑桑@生财 10:27:07
+昨日群聊重点围绕三件事展开：
+
+桑桑@生财 10:27:15
+[图片]
+
+桑桑@生财 10:28:46
+[链接|二期【深海圈丨AI 产品出海】高强度学习期结营](https://appamvpb5mq9834.h5.xet.citv.cn/v4/course/alive/l_694127cee4b0694ca159d152?app_id=appamvpb5mq9834&alive_mode=0&pro_id=p_68f21a10e4b0694c5b3e1ed9&type=2&state=a0764775f06a82a1be51e50e4c9795d2_YL0Ydr&resource_id=l_694127cee4b0694ca159d152&resource_type=4&payment_type=&product_id=p_68f21a10e4b0694c5b3e1ed9&available=1&available_product=0&share_user_id=u_67ac0a821387b_VkWuJRXn8f&share_type=5&scene=%E5%88%86%E4%BA%AB&share_scene=1&entry=2&entry_type=2002)
+
+桑桑@生财 10:28:48
+今晚20:00二期深海圈【高强度学习期】结营直播，小排老师现场点评作品，也会聊「纯新手做什么好」，记得来～
+
+银河星游（每天提醒，转发） 11:26:14
+我感觉gemini 3 flash会改变很多东西，感觉很多实时的东西都可以上他了
+
+土豆君 16:37:54
+为什么我觉得反重力里面用 gemini3 很难沟通，不太适合讨论需求。我感觉就是执行比较方便，可以一直慢慢跑
+[破涕为笑]
+相比opus4.5 我觉得我很难跟gemini3pro对齐颗粒度，很容易误解意思，另外我觉得确实gemini3很喜欢改代码强调多少次都还是可能直接改
+
+刘小排 16:38:26
+如果用惯了codex-5.2，会觉得其他都挺垃圾的哈哈哈哈
+
+土豆君 16:39:08
+Code5.2。我还是用来做review审核员[破涕为笑]
+
+土豆君 16:39:27
+讨论需求写的很简略
+
+土豆君 16:41:58
+我现在还是opus讨论需求为主，另外引入了技术预研
+
+土豆君 16:45:07
+不知道是不是就我这么觉得
+
+GavinHawk-成都 16:45:29
+> 土豆君 12-18 16:37:54
+> 为什么我觉得反重力里面用 gemini3 很难沟通，不太适合讨论需求。我感觉就是执行比较方便，可以一直慢慢跑
+> [破涕为笑]
+> 相比opus4.5 我觉得我很难跟gemini3pro对齐颗粒度，很容易误解意思，另外我觉得确实gemini3很喜欢改代码强调多少次都还是可能直接改
+gemini3确实很难沟通，还是会动不动执行，说不听的。
+
+GavinHawk-成都 16:46:49
+但是codex是真的慢[捂脸]
+思考部分可以交给他，干活还是gemini 3 flash挺快的…
+
+简单 16:48:35
+https://github.com/GuDaStudio/skills
+
+简单 16:48:41
+这个你们试过没
+
+袁气森林 16:49:34
+[图片]
+
+袁气森林 16:49:49
+> 刘小排 12-18 16:38:26
+> 如果用惯了codex-5.2，会觉得其他都挺垃圾的哈哈哈哈
+小排老师的意思是 5.2 比 5.1-codex-max 还强么？
+
+土豆君 16:50:46
+我突然发现我好像没切过5.2还是用的5.1max[破涕为笑]
+
+前行-深圳龙华 16:52:09
+5.2太慢了
+
+袁气森林 16:52:24
+我切一下试试看
+
+土豆君 16:54:31
+> 简单 12-18 16:48:41
+> 这个你们试过没
+没有，我就基本没用skill[破涕为笑] 还得听你们多分享一下实际使用经验
+
+武晓亮 16:55:54
+> 简单 12-18 16:48:35
+> https://github.com/GuDaStudio/skills
+这个没弄明白怎么用
+
+简单 17:00:17
+我就是没用过 才问你们啊 哈哈哈 最近忙的没时间折腾这个
+
+银河星游（每天提醒，转发） 17:33:55
+给大家分享下我自己的测试用例集哦，我自己有一个谜题回答的正确率的测试
+grok 4 fast 是70.5%，开thinking是 85.7%
+字节跳动的seed 1.6 正确率在78%，开thinking是82.5%
+gemini 2.5 pro是 88.5%，flash是83.6%，lite是61.8%
+DeepSeek 是 73.6%
+
+鲲鹏 17:34:40
+90
+
+银河星游（每天提醒，转发） 17:37:29
+> 鲲鹏 12-18 17:34:40
+> 90
+gemini 3 flash正确率达到了惊人的 94% Amazing！
+我前面还在纠结要不要上gemini 2.5 pro，结果gemini 3 flash直接就超过了2.5pro！而且超过了很多！
+这样大部分场景我的用户再也不会抱怨AI回答错误导致他们思考谜题被误导了！
+
+银河星游（每天提醒，转发） 17:37:50
+我前面还想过要不要上字节训练平台，然后自己微调模型，或者上RAG数据库
+结果躺平啥都不干，模型自己就努力提升效果了！
+
+tothegump-上海 17:42:09
+> 刘小排 12-18 16:38:26
+> 如果用惯了codex-5.2，会觉得其他都挺垃圾的哈哈哈哈
+我用 codex 有几个比较痛苦的点：
+1. 讨论问题表达不清楚，不如其他两个清晰明了，详细
+2. 实现的时候代码自己过度封装，review 困难。有时候会偷懒，实现功能要么简化处理，要么 mock 实现
+3. 非常慢
+[撇嘴][撇嘴]
+
+土豆君 17:46:41
+反重力卡死了，mcg mini直接重启了[破涕为笑]
+
+土豆君 17:47:24
+反重力每次ai改代码的时候就发现ui很卡[破涕为笑]
+
+简单 17:47:52
+直接给我2api 给cc用
+
+简单 17:47:56
+组个家庭组
+
+简单 17:48:01
+5小时1500次
+
+简单 17:48:06
+还不够你爽么
+
+简单 17:48:21
+> 简单 12-18 17:47:51
+> 直接给我2api 给cc用
+给他
+
+刘小排 17:50:39
+@土豆君 你没升级
+
+刘小排 17:50:47
+@土豆君 今天凌晨新更新的版本性能优化了很多
+
+土豆君 17:52:00
+喔我没自己去点升级，刚才mac重启了，它好像已经升级了
+
+桑桑@生财 18:27:38
+今晚20:00是第二期【高强度学习期】最后一次直播。
+
+桑桑@生财 18:28:00
+[链接|二期【深海圈丨AI 产品出海】高强度学习期结营](https://appamvpb5mq9834.h5.xet.citv.cn/v4/course/alive/l_694127cee4b0694ca159d152?app_id=appamvpb5mq9834&alive_mode=0&pro_id=p_68f21a10e4b0694c5b3e1ed9&type=2&state=a0764775f06a82a1be51e50e4c9795d2_YL0Ydr&resource_id=l_694127cee4b0694ca159d152&resource_type=4&payment_type=&product_id=p_68f21a10e4b0694c5b3e1ed9&available=1&available_product=0&share_user_id=u_67ac0a821387b_VkWuJRXn8f&share_type=5&scene=%E5%88%86%E4%BA%AB&share_scene=1&entry=2&entry_type=2002)
+
+Moore 助教 22:11:51
+[链接|王不见王？横向评测GPT Images 1.5 / nano-banana：输赢只在毫厘！](https://mp.weixin.qq.com/s?__biz=MzIwMTE5MzIxMQ==&mid=2649569471&idx=1&sn=2d734e98b9a502a7ce2cdbfdde905de3&chksm=8f19d51b164cad5c038267ebebb321a7f6afc85cca65cbe45b1f1cb05d34ed1bf1152714fae3&mpshare=1&scene=1&srcid=1218kbr5Lb6OhUeU0dnWnbrC&sharer_shareinfo=4815223bd24553fc6fe8bf368cf4c0c7&sharer_shareinfo_first=4815223bd24553fc6fe8bf368cf4c0c7#rd)
+
+浙大吴美律 23:16:31
+Gemini现在超敏感，跟他讨论网站需求也频繁出现这句话：
+
+GavinHawk-成都 23:42:28
+> 浙大吴美律 12-18 23:16:31
+> Gemini现在超敏感，跟他讨论网站需求也频繁出现这句话：
+> 请尝试其他话题。当话题似乎存在危害或会造成不妥时，我无法为您提供帮助。
+> 有啥办法吗？
+用 GPT 。我暂时抛弃了 Gemini ，有个需求让它优化了2天没有我想要的效果，用GPT终于搞出来了…
+
+GavinHawk-成都 23:42:44
+> 张柯Ker｜尽量24 小时内回复信息 12-17 11:31:36
+> [图片]
+这个

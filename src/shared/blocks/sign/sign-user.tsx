@@ -1,6 +1,5 @@
 'use client';
 
-import { useEffect, useState } from 'react';
 import { Fragment } from 'react/jsx-runtime';
 import { Coins, LayoutDashboard, Loader2, LogOut, User } from 'lucide-react';
 import { useTranslations } from 'next-intl';
@@ -23,6 +22,7 @@ import {
 import { useAppContext } from '@/shared/contexts/app';
 import { cn } from '@/shared/lib/utils';
 import { NavItem, UserNav } from '@/shared/types/blocks/common';
+import { useIsMounted } from '@/shared/hooks/use-mounted';
 
 import { SmartIcon } from '../common/smart-icon';
 import { SignModal } from './sign-modal';
@@ -40,10 +40,7 @@ export function SignUser({
   const { isCheckSign, user, setIsShowSignModal } = useAppContext();
   const router = useRouter();
 
-  const [mounted, setMounted] = useState(false);
-  useEffect(() => {
-    setMounted(true);
-  }, []);
+  const mounted = useIsMounted();
 
   return (
     <>

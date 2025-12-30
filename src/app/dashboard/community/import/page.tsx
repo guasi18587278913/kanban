@@ -43,7 +43,7 @@ export default function DailyReportImportPage() {
           <CardTitle>Import Daily Report</CardTitle>
           <CardDescription>
             Paste the daily report text content and provide the filename to import data.
-            Filename format: "深海圈丨ProductLine_YYYY-MM-DD.txt"
+            Filename format: &quot;深海圈丨ProductLine_YYYY-MM-DD.txt&quot;
           </CardDescription>
         </CardHeader>
         <CardContent className="space-y-4">

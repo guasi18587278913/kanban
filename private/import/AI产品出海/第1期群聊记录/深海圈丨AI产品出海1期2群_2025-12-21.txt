@@ -1,0 +1,8 @@
+Moore 助教 13:27:03
+https://www.youtube.com/watch?v=CkRikmJxowI
+
+深圳-小陈老师 18:00:09
+codex 能去创建skill 吗  有人试过吗
+
+橙 18:15:08
+有这个功能，没有试过。打个 /，就能看到skill命令

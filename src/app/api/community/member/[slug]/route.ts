@@ -160,7 +160,6 @@ export async function GET(
 
   // 互动时间规律统计（近 60 天）
   const summaryDays = 60;
-  const summaryLimit = 5000;
   const summaryStart = new Date();
   summaryStart.setDate(summaryStart.getDate() - (summaryDays - 1));
   summaryStart.setHours(0, 0, 0, 0);
@@ -179,8 +178,7 @@ export async function GET(
         )
       )
     )
-    .orderBy(desc(memberMessage.messageTime))
-    .limit(summaryLimit);
+    ;
 
   const dailyCounts = new Map<string, number>();
   const hourlyCounts = Array.from({ length: 24 }, () => 0);

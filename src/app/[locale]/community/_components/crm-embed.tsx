@@ -20,7 +20,8 @@ function normalizeName(name: string) {
 }
 
 function buildMemberSlug(item: { id?: string; nickname?: string; nicknameNormalized?: string | null }) {
-  return item.id || item.nicknameNormalized || normalizeName(item.nickname || '');
+  const raw = item.id || item.nicknameNormalized || normalizeName(item.nickname || '');
+  return encodeURIComponent(raw);
 }
 
 const TAG_CATEGORY_LABELS: Record<string, string> = {

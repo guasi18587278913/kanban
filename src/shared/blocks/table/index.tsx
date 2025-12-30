@@ -66,6 +66,7 @@ export function Table({
                   if (column.type === 'image') {
                     cellContent = (
                       <Image
+                        alt={column.metadata?.alt || column.title || String(value || '')}
                         placeholder={column.placeholder}
                         value={value}
                         metadata={column.metadata}

@@ -100,12 +100,14 @@ async function loadMemberLookup(): Promise<Map<string, { id: string; role: strin
 }
 
 function normalizeNickname(name: string): string {
-  return name
+  const normalized = name
     .replace(/（.*?）|\(.*?\)|【.*?】|\[.*?\]/g, '')
     .replace(/[-_—–·•‧·｜|].*$/, '')
     .replace(/\s+/g, '')
     .trim()
     .toLowerCase();
+  if (normalized) return normalized;
+  return name.replace(/\s+/g, '').trim().toLowerCase();
 }
 
 function findMember(authorName: string): { id: string; role: string } | null {
@@ -454,8 +456,8 @@ async function writeKOCRecords(
 
   // 过滤无效记录
   const validKocList = kocList.filter((koc) => {
-    if (!koc.author || !koc.coreAchievement) {
-      console.warn(`[Pipeline] Skipping KOC: missing author or coreAchievement`);
+    if (!koc.author || !koc.title) {
+      console.warn(`[Pipeline] Skipping KOC: missing author or title`);
       return false;
     }
     return true;
@@ -475,11 +477,11 @@ async function writeKOCRecords(
     const scoreDetail = koc.score
       ? `评分: 复现${koc.score.reproducibility}/稀缺${koc.score.scarcity}/验证${koc.score.validation} (总分 ${koc.score.total})`
       : '';
+    const tags = koc.tags || [];
+    const tagsText = tags.length > 0 ? `标签: ${tags.join(' / ')}` : '';
     const contribution = [
-      `模型: ${koc.model}`,
-      `核心事迹: ${koc.coreAchievement}`,
-      koc.highlightQuote ? `高光语录: ${koc.highlightQuote}` : '',
-      koc.suggestedTitle ? `推荐选题: ${koc.suggestedTitle}` : '',
+      `标题: ${koc.title}`,
+      tagsText,
       koc.reason ? `入选理由: ${koc.reason}` : '',
       scoreDetail,
     ]
@@ -496,7 +498,17 @@ async function writeKOCRecords(
       groupNumber: logMeta.groupNumber,
       kocName: koc.author,
       contribution: contribution.slice(0, 2000),
-      contributionType: koc.model,
+      contributionType: 'share',
+      model: null,
+      coreAchievement: null,
+      highlightQuote: null,
+      suggestedTitle: koc.title || null,
+      tags: tags.length > 0 ? tags : null,
+      reason: koc.reason || null,
+      scoreReproducibility: koc.score?.reproducibility ?? null,
+      scoreScarcity: koc.score?.scarcity ?? null,
+      scoreValidation: koc.score?.validation ?? null,
+      scoreTotal: koc.score?.total ?? null,
       recordDate: recordTime,
       isVerified: false,
       confidence,

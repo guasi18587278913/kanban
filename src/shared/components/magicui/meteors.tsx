@@ -1,5 +1,7 @@
 "use client";
 
+/* eslint-disable react-hooks/set-state-in-effect */
+
 import { cn } from "@/shared/lib/utils";
 import React, { useEffect, useState } from "react";
 

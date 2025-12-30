@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useRef, useState } from 'react';
+import { useCallback, useEffect, useRef, useState } from 'react';
 import Image from 'next/image';
 import {
   CheckCircle,
@@ -116,7 +116,7 @@ export function MusicGenerator({ className, srOnlyTitle }: SongGeneratorProps) {
   }, []);
 
   // Task polling
-  const pollTaskStatus = async (taskId: string) => {
+  const pollTaskStatus = useCallback(async (taskId: string) => {
     try {
       // Check timeout (3 minutes = 180000ms)
       if (generationStartTime) {
@@ -228,7 +228,7 @@ export function MusicGenerator({ className, srOnlyTitle }: SongGeneratorProps) {
 
       return true; // Stop polling on error
     }
-  };
+  }, [fetchUserCredits, generationStartTime]);
 
   // Start task polling
   useEffect(() => {
@@ -242,7 +242,7 @@ export function MusicGenerator({ className, srOnlyTitle }: SongGeneratorProps) {
 
       return () => clearInterval(interval);
     }
-  }, [taskId, isGenerating, generationStartTime]);
+  }, [taskId, isGenerating, pollTaskStatus]);
 
   const handleGenerate = async () => {
     if (!user) {

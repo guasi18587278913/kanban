@@ -23,8 +23,6 @@ export function Tabs({
   const [tabName, setTabName] = useState(
     tabs?.find((tab) => tab.is_active)?.name || ''
   );
-  const [tab, setTab] = useState({} as Tab);
-
   useEffect(() => {
     if (tabName) {
       const currentTab =
@@ -34,7 +32,7 @@ export function Tabs({
         // setTab(currentTab);
       }
     }
-  }, [tabName]);
+  }, [router, tabName, tabs]);
 
   return (
     <div className="relative mb-8">

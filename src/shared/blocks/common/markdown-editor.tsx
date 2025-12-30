@@ -21,6 +21,9 @@ export function MarkdownEditor({
   const editorRef = useRef<OverType>(null);
 
   useEffect(() => {
+    if (editorRef.current) {
+      return;
+    }
     const [instance] = OverType.init(ref.current, {
       value,
       onChange,
@@ -31,7 +34,7 @@ export function MarkdownEditor({
     editorRef.current = instance;
 
     return () => editorRef.current?.destroy();
-  }, []);
+  }, [minHeight, onChange, placeholder, showToolbar, value]);
 
   useEffect(() => {
     if (editorRef.current && value !== editorRef.current.getValue()) {

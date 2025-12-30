@@ -12,17 +12,17 @@ export function Time({
   metadata?: Record<string, any>;
   className?: string;
 }) {
+  let locale = useLocale();
+  if (locale === 'zh') {
+    locale = 'zh-cn';
+  }
+
   if (!value) {
     if (placeholder) {
       return <div className={className}>{placeholder}</div>;
     }
 
     return null;
-  }
-
-  let locale = useLocale();
-  if (locale === 'zh') {
-    locale = 'zh-cn';
   }
 
   return (

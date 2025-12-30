@@ -1,6 +1,6 @@
 'use client';
 
-import { Fragment, useEffect, useState } from 'react';
+import { Fragment } from 'react';
 import { ChevronsUpDown, Loader2, LogOut, User } from 'lucide-react';
 import { useTranslations } from 'next-intl';
 
@@ -29,9 +29,9 @@ import {
   SidebarMenuItem,
   useSidebar,
 } from '@/shared/components/ui/sidebar';
-import { useAppContext } from '@/shared/contexts/app';
 import { NavItem } from '@/shared/types/blocks/common';
 import { SidebarUser as SidebarUserType } from '@/shared/types/blocks/dashboard';
+import { useIsMounted } from '@/shared/hooks/use-mounted';
 
 // SSR/CSR hydration bug fix: Avoid rendering session-dependent UI until mounted on client
 export function SidebarUser({ user }: { user: SidebarUserType }) {
@@ -40,13 +40,8 @@ export function SidebarUser({ user }: { user: SidebarUserType }) {
   const { isMobile, open } = useSidebar();
   const router = useRouter();
 
-  const { setIsShowSignModal } = useAppContext();
-
   // This state will ensure rendering only happens after client hydration
-  const [hasMounted, setHasMounted] = useState(false);
-  useEffect(() => {
-    setHasMounted(true);
-  }, []);
+  const hasMounted = useIsMounted();
 
   const handleSignOut = async () => {
     await signOut();

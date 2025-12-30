@@ -6,11 +6,13 @@ export function Image({
   metadata,
   placeholder,
   className,
+  alt,
 }: {
   value: string;
   metadata?: Record<string, any>;
   placeholder?: string;
   className?: string;
+  alt?: string;
 }) {
   if (!value) {
     if (placeholder) {
@@ -26,7 +28,7 @@ export function Image({
   return (
     <LazyImage
       src={value}
-      alt={value}
+      alt={alt || metadata?.alt || value}
       width={width}
       height={height}
       className={cn('shrink-0 rounded-md object-cover', className)}

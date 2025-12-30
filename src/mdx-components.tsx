@@ -32,13 +32,15 @@ const CustomLink = ({
   );
 };
 
+CustomLink.displayName = 'CustomLink';
+
 // Higher-order component to wrap any link component with nofollow logic
 export function withNoFollow(
   LinkComponent: React.ComponentType<
     React.AnchorHTMLAttributes<HTMLAnchorElement>
   >
 ) {
-  return ({
+  const WrappedLink = ({
     href,
     children,
     ...props
@@ -67,6 +69,10 @@ export function withNoFollow(
       </LinkComponent>
     );
   };
+
+  WrappedLink.displayName = `WithNoFollow(${LinkComponent.displayName || LinkComponent.name || 'Component'})`;
+
+  return WrappedLink;
 }
 
 export function getMDXComponents(components?: MDXComponents): MDXComponents {
