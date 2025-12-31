@@ -30,6 +30,16 @@
           "icon": "FileText"
         }
       ]
+    },
+    {
+      "title": "Operations",
+      "items": [
+        {
+          "title": "Tag Catalog",
+          "url": "/admin/tag-catalog",
+          "icon": "Tag"
+        }
+      ]
     }
   ],
   "bottom_nav": {

@@ -3,11 +3,19 @@ import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/sha
 import { Badge } from '@/shared/components/ui/badge';
 import { Link } from '@/core/i18n/navigation';
 import { ScrollArea } from '@/shared/components/ui/scroll-area';
-import { Trophy, Medal, Award, Star, TrendingUp, Quote } from 'lucide-react';
+import { PenLine, TrendingUp, Quote } from 'lucide-react';
 
 interface KnowledgeWallProps {
   data: any[]; // CommunityDailyReport[]
 }
+
+type RawMessage = {
+  authorName?: string;
+  messageContent?: string;
+  messageTime?: string;
+  contextBefore?: Array<{ author?: string; content?: string; time?: string }>;
+  contextAfter?: Array<{ author?: string; content?: string; time?: string }>;
+};
 
 type KocContributionDetail = {
   title?: string;
@@ -105,6 +113,44 @@ function normalizeKocTags(input?: string[] | string) {
   return Array.from(new Set(cleaned));
 }
 
+function pickKocTitle(detail?: KocContributionDetail, summary?: string) {
+  return detail?.title || summary || '暂无标题';
+}
+
+function pickSpotlightContribution<T extends { detail: KocContributionDetail; recordDate?: string | Date }>(
+  contributions: T[]
+) {
+  if (!contributions.length) return null;
+  const sorted = [...contributions].sort((a, b) => {
+    const scoreDiff = (b.detail.scoreTotal ?? 0) - (a.detail.scoreTotal ?? 0);
+    if (scoreDiff !== 0) return scoreDiff;
+    const aTime = a.recordDate ? new Date(a.recordDate).getTime() : 0;
+    const bTime = b.recordDate ? new Date(b.recordDate).getTime() : 0;
+    return bTime - aTime;
+  });
+  return sorted[0];
+}
+
+function buildIdentityLabel(roles: Set<string>, questionCount?: number | null) {
+  const normalizedRoles = new Set(Array.from(roles).filter(Boolean));
+  const isCoach = normalizedRoles.has('coach') || normalizedRoles.has('volunteer');
+  const isStudent = normalizedRoles.has('student') || (questionCount != null && questionCount > 0);
+
+  const labels: string[] = [];
+  if (normalizedRoles.has('coach')) labels.push('教练');
+  if (normalizedRoles.has('volunteer') && !normalizedRoles.has('coach')) labels.push('志愿者');
+  if (!isCoach || isStudent) labels.push('学员');
+
+  if (labels.length === 0) return '学员';
+  return Array.from(new Set(labels)).join('&');
+}
+
+function mergeTags(input: string[] | undefined, fallback: string[] = [], limit = 3) {
+  const base = input && input.length > 0 ? input : fallback;
+  const cleaned = base.map((tag) => tag.trim()).filter(Boolean);
+  return Array.from(new Set(cleaned)).slice(0, limit);
+}
+
 export function KnowledgeWall({ data }: KnowledgeWallProps) {
   
   // Aggregate Personas and Content from reports
@@ -121,9 +167,14 @@ export function KnowledgeWall({ data }: KnowledgeWallProps) {
         recordDate?: string | Date;
         dateLabel: string;
         groupName?: string;
+        messageIndex?: number | null;
+        sourceLogId?: string | null;
       }>;
       contributionKeys: Set<string>;
       tags: Set<string>;
+      roles: Set<string>;
+      expertiseTags: Set<string>;
+      questionCount?: number;
     }>();
     const news: { content: string; date: string; group: string; author?: string }[] = [];
 
@@ -177,6 +228,9 @@ export function KnowledgeWall({ data }: KnowledgeWallProps) {
                   contributions: [],
                   contributionKeys: new Set<string>(),
                   tags: new Set<string>(),
+                  roles: new Set<string>(),
+                  expertiseTags: new Set<string>(),
+                  questionCount: undefined,
                 };
 
                 const parsedDetail = parseKocContribution(rawContribution);
@@ -199,6 +253,14 @@ export function KnowledgeWall({ data }: KnowledgeWallProps) {
                 const dateKey = dateObj && !Number.isNaN(dateObj.getTime()) ? dateObj.toISOString().slice(0, 10) : '';
                 const dateLabel = formatKocDate(recordDate);
                 const contributionKey = `${dateKey}-${summary}`;
+                const messageIndex =
+                  typeof koc === 'object' && typeof koc.messageIndex === 'number'
+                    ? koc.messageIndex
+                    : null;
+                const sourceLogId =
+                  typeof koc === 'object' && typeof koc.sourceLogId === 'string'
+                    ? koc.sourceLogId
+                    : null;
 
                 if (!entry.contributionKeys.has(contributionKey)) {
                   entry.contributionKeys.add(contributionKey);
@@ -209,11 +271,22 @@ export function KnowledgeWall({ data }: KnowledgeWallProps) {
                     recordDate,
                     dateLabel,
                     groupName: group,
+                    messageIndex,
+                    sourceLogId,
                   });
                 }
 
                 (detail.tags || []).forEach((tag) => entry.tags.add(tag));
                 if (group) entry.groups.add(group);
+                if (typeof koc === 'object') {
+                  if (koc.memberRole) entry.roles.add(koc.memberRole);
+                  if (Array.isArray(koc.expertiseTags)) {
+                    koc.expertiseTags.forEach((tag: string) => entry.expertiseTags.add(tag));
+                  }
+                  if (typeof koc.memberQuestionCount === 'number') {
+                    entry.questionCount = Math.max(entry.questionCount || 0, koc.memberQuestionCount);
+                  }
+                }
                 entry.count = entry.contributions.length;
                 kocMap.set(cleanName, entry);
             });
@@ -256,13 +329,18 @@ export function KnowledgeWall({ data }: KnowledgeWallProps) {
             return bTime - aTime;
           });
           const latest = contributions[0];
+          const spotlight = pickSpotlightContribution(contributions) || latest;
           return ({
             name,
             count: data.count,
-            summary: latest?.summary || '',
-            detail: latest?.detail,
+            summary: spotlight?.summary || '',
+            detail: spotlight?.detail,
+            spotlight,
             contributions,
             tags: Array.from(data.tags),
+            roles: Array.from(data.roles),
+            identityLabel: buildIdentityLabel(data.roles, data.questionCount),
+            expertiseTags: mergeTags(Array.from(data.expertiseTags), [], 3),
             groups: Array.from(data.groups).slice(0, 5).join('、') // cap length
           });
         })
@@ -344,39 +422,83 @@ export function KnowledgeWall({ data }: KnowledgeWallProps) {
   }, [data]);
 
   const [selectedKocName, setSelectedKocName] = useState<string | null>(null);
+  const [openRawMap, setOpenRawMap] = useState<Record<string, boolean>>({});
+  const [rawMessages, setRawMessages] = useState<Record<string, { loading: boolean; error?: string; data?: RawMessage }>>({});
   const selectedKoc = useMemo(() => {
     if (kocs.length === 0) return null;
     if (!selectedKocName) return kocs[0];
     return kocs.find((koc) => koc.name === selectedKocName) || kocs[0];
   }, [kocs, selectedKocName]);
   const selectedKocIndex = selectedKoc ? kocs.findIndex((koc) => koc.name === selectedKoc.name) : -1;
-  const kocTags = (selectedKoc?.tags?.length ? selectedKoc.tags : selectedKoc?.detail?.tags || []).slice(0, 4);
-  const recentContributions = selectedKoc?.contributions?.slice(0, 3) ?? [];
-  const moreContributions = recentContributions.slice(1);
+  const selectedExpertiseTags = selectedKoc?.expertiseTags || [];
+  const allContributions = useMemo(() => {
+    if (!selectedKoc?.contributions) return [];
+    return [...selectedKoc.contributions].sort((a, b) => {
+      const scoreDiff = (b.detail.scoreTotal ?? 0) - (a.detail.scoreTotal ?? 0);
+      if (scoreDiff !== 0) return scoreDiff;
+      const aTime = a.recordDate ? new Date(a.recordDate).getTime() : 0;
+      const bTime = b.recordDate ? new Date(b.recordDate).getTime() : 0;
+      return bTime - aTime;
+    });
+  }, [selectedKoc]);
+
+  const toggleRawMessage = async (item: {
+    sourceLogId?: string | null;
+    messageIndex?: number | null;
+  }) => {
+    if (!item.sourceLogId || item.messageIndex == null) return;
+    const key = `${item.sourceLogId}:${item.messageIndex}`;
+    setOpenRawMap((prev) => ({ ...prev, [key]: !prev[key] }));
+    if (rawMessages[key]?.data || rawMessages[key]?.loading) return;
+
+    setRawMessages((prev) => ({ ...prev, [key]: { loading: true } }));
+    try {
+      const res = await fetch(
+        `/api/community/koc-message?sourceLogId=${encodeURIComponent(item.sourceLogId)}&messageIndex=${item.messageIndex}`,
+        { cache: 'no-store' }
+      );
+      if (!res.ok) throw new Error(`加载失败: ${res.status}`);
+      const json = await res.json();
+      setRawMessages((prev) => ({
+        ...prev,
+        [key]: { loading: false, data: json?.message || {} },
+      }));
+    } catch (error) {
+      setRawMessages((prev) => ({
+        ...prev,
+        [key]: {
+          loading: false,
+          error: error instanceof Error ? error.message : String(error),
+        },
+      }));
+    }
+  };
 
   if (data.length === 0) return null;
 
   return (
-    <div className="grid gap-6 md:grid-cols-2">
+    <div className="grid gap-6 md:grid-cols-[minmax(0,1.2fr)_minmax(0,0.8fr)] xl:grid-cols-[minmax(0,1.3fr)_minmax(0,0.7fr)]">
         
         {/* 1. KOC Radar (Community Contributors) */}
         <Card className="col-span-1">
             <CardHeader>
                 <div className="flex items-center gap-2">
-                    <Medal className="h-5 w-5 text-emerald-500" />
-                    <CardTitle>KOC 活跃榜</CardTitle>
+                    <PenLine className="h-5 w-5 text-emerald-500" />
+                    <CardTitle>约稿&航海线索</CardTitle>
                 </div>
-                <CardDescription>社区最活跃的分享官与贡献者</CardDescription>
+                <CardDescription>从高质量贡献中筛选可约稿线索与可复用的方法论</CardDescription>
             </CardHeader>
             <CardContent>
                 {kocs.length === 0 ? (
                   <div className="w-full text-center text-muted-foreground py-8 text-sm">暂无 KOC 数据</div>
                 ) : (
-                  <div className="grid gap-4 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.2fr)]">
+                  <div className="grid gap-4 lg:grid-cols-[minmax(320px,1.1fr)_minmax(0,1fr)]">
                     <ScrollArea className="h-[500px] w-full pr-3">
                       <div className="space-y-2">
                         {kocs.map((koc, index) => {
                           const isActive = selectedKoc?.name === koc.name;
+                          const identityLabel = koc.identityLabel || '学员';
+                          const expertiseTags = mergeTags(koc.expertiseTags, [], 2);
                           return (
                             <button
                               key={koc.name}
@@ -388,23 +510,37 @@ export function KnowledgeWall({ data }: KnowledgeWallProps) {
                                   : 'border-border hover:bg-muted/60'
                               }`}
                             >
-                              <div className="flex items-center gap-2">
-                                <span className={`text-xs font-semibold ${index < 3 ? 'text-emerald-600' : 'text-muted-foreground'}`}>
-                                  #{index + 1}
-                                </span>
-                                <span className="text-sm font-medium">{koc.name}</span>
-                                <Badge
-                                  variant={index < 3 ? 'default' : 'outline'}
-                                  className={index < 3 ? 'ml-auto bg-emerald-500 text-white hover:bg-emerald-600 border-transparent' : 'ml-auto'}
-                                >
-                                  +{koc.count}
+                              <div className="flex items-start justify-between gap-3">
+                                <div className="min-w-0 flex-1">
+                                  <div className="flex flex-wrap items-center gap-2">
+                                    <span className={`text-xs font-semibold ${index < 3 ? 'text-emerald-600' : 'text-muted-foreground'}`}>
+                                      #{index + 1}
+                                    </span>
+                                    <span className="text-sm font-semibold truncate">{koc.name}</span>
+                                    <Badge variant="outline" className="text-[10px] shrink-0">
+                                      {identityLabel}
+                                    </Badge>
+                                  </div>
+                                  <div className="mt-2 flex flex-wrap gap-1.5">
+                                    {expertiseTags.length > 0 ? (
+                                      expertiseTags.map((tag) => (
+                                        <Badge
+                                          key={tag}
+                                          variant="outline"
+                                          className="text-[10px] px-1.5 py-0 max-w-full w-auto whitespace-normal break-words overflow-visible shrink leading-tight"
+                                        >
+                                          {tag}
+                                        </Badge>
+                                      ))
+                                    ) : (
+                                      <span className="text-xs text-muted-foreground">暂无擅长领域</span>
+                                    )}
+                                  </div>
+                                </div>
+                                <Badge variant="secondary" className="text-[10px] shrink-0">
+                                  选题 {koc.count}
                                 </Badge>
                               </div>
-                              {koc.summary && (
-                                <div className="mt-1 text-xs text-muted-foreground line-clamp-2">
-                                  {koc.summary}
-                                </div>
-                              )}
                             </button>
                           );
                         })}
@@ -416,10 +552,15 @@ export function KnowledgeWall({ data }: KnowledgeWallProps) {
                         <>
                           <div className="flex items-start justify-between gap-3">
                             <div>
-                              <div className="text-xs text-muted-foreground">KOC 亮点详情</div>
+                              <div className="text-xs text-muted-foreground">候选人详情</div>
                               <div className="text-lg font-semibold">{selectedKoc.name}</div>
-                              <div className="text-xs text-muted-foreground">
-                                排名 #{selectedKocIndex + 1} · 活跃 +{selectedKoc.count}
+                              <div className="mt-1 flex flex-wrap items-center gap-2">
+                                <Badge variant="outline" className="text-[10px]">
+                                  {selectedKoc.identityLabel || '学员'}
+                                </Badge>
+                                <span className="text-xs text-muted-foreground">
+                                  预计可写选题 {selectedKoc.count} 个 · 排名 #{selectedKocIndex + 1}
+                                </span>
                               </div>
                             </div>
                             {selectedKocIndex >= 0 && selectedKocIndex < 3 && (
@@ -427,57 +568,117 @@ export function KnowledgeWall({ data }: KnowledgeWallProps) {
                             )}
                           </div>
 
-                          <div className="space-y-3 text-sm">
-                            <div>
-                              <div className="text-xs text-muted-foreground mb-1">标签</div>
-                              <div className="flex flex-wrap gap-2">
-                                {kocTags.length > 0 ? (
-                                  kocTags.map((tag) => (
-                                    <Badge key={tag} variant="outline">
-                                      {tag}
-                                    </Badge>
-                                  ))
-                                ) : (
-                                  <Badge variant="outline">待标注</Badge>
-                                )}
-                              </div>
-                            </div>
-
-                            <div>
-                              <div className="text-xs text-muted-foreground mb-1">标题</div>
-                              <div className="text-sm leading-relaxed">
-                                {selectedKoc.detail?.title || selectedKoc.summary || '暂无记录'}
-                              </div>
-                            </div>
-
-                            {selectedKoc.detail?.reason && (
-                              <div>
-                                <div className="text-xs text-muted-foreground mb-1">入选理由</div>
-                                <div className="text-sm leading-relaxed whitespace-pre-line">{selectedKoc.detail.reason}</div>
-                              </div>
-                            )}
-
-                            {moreContributions.length > 0 && (
-                              <div>
-                                <div className="text-xs text-muted-foreground mb-2">更多贡献</div>
-                                <div className="space-y-2">
-                                  {moreContributions.map((item, idx) => (
-                                    <div key={`${item.dateLabel}-${idx}`} className="rounded-md border bg-background px-3 py-2 text-xs text-muted-foreground">
-                                      <div className="flex items-center justify-between">
-                                        <span>{item.dateLabel || '近期'}</span>
-                                      </div>
-                                      <div className="mt-1 text-sm font-medium text-foreground">
-                                      {item.detail.title || item.summary}
-                                    </div>
-                                    {item.detail.reason && (
-                                      <div className="mt-1 line-clamp-2">理由：{item.detail.reason}</div>
-                                    )}
-                                  </div>
-                                ))}
-                              </div>
-                            </div>
+                          <div className="flex flex-wrap gap-2">
+                            {selectedExpertiseTags.length > 0 ? (
+                              selectedExpertiseTags.map((tag) => (
+                                <Badge
+                                  key={tag}
+                                  variant="outline"
+                                  className="max-w-full w-auto whitespace-normal break-words overflow-visible shrink leading-tight"
+                                >
+                                  {tag}
+                                </Badge>
+                              ))
+                            ) : (
+                              <span className="text-xs text-muted-foreground">暂无擅长领域</span>
                             )}
                           </div>
+
+                          {allContributions.length > 0 ? (
+                            <div>
+                              <div className="flex items-center justify-between text-xs text-muted-foreground mb-2">
+                                <span>全部选题（{allContributions.length}）</span>
+                                <span>按评分/时间排序</span>
+                              </div>
+                              <div className="space-y-3 text-sm">
+                                {allContributions.map((item, idx) => {
+                                  const key = item.sourceLogId && item.messageIndex != null
+                                    ? `${item.sourceLogId}:${item.messageIndex}`
+                                    : `${item.dateLabel}-${idx}`;
+                                  const rawState = rawMessages[key];
+                                  const isOpen = !!openRawMap[key];
+                                  const showRaw = item.sourceLogId && item.messageIndex != null;
+                                  return (
+                                    <div key={key} className="rounded-md border bg-background px-3 py-2">
+                                      <div className="flex items-center justify-between text-xs text-muted-foreground">
+                                        <span>{item.dateLabel || '近期'} · {item.groupName || '未知群'}</span>
+                                        <div className="flex items-center gap-2">
+                                          {item.detail.scoreTotal != null && <span>总分 {item.detail.scoreTotal}</span>}
+                                          {item.messageIndex != null && <span>#{item.messageIndex}</span>}
+                                        </div>
+                                      </div>
+                                      <div className="mt-1 text-sm font-medium text-foreground">
+                                        {pickKocTitle(item.detail, item.summary)}
+                                      </div>
+                                      {item.detail.reason && (
+                                        <div className="mt-1 text-xs text-muted-foreground whitespace-pre-line leading-relaxed">
+                                          {item.detail.reason}
+                                        </div>
+                                      )}
+                                      {item.detail.tags && item.detail.tags.length > 0 && (
+                                        <div className="mt-2 flex flex-wrap gap-1">
+                                          {item.detail.tags.slice(0, 4).map((tag) => (
+                                            <Badge
+                                              key={tag}
+                                              variant="outline"
+                                              className="text-[10px] px-1.5 py-0 max-w-full w-auto whitespace-normal break-words overflow-visible shrink leading-tight"
+                                            >
+                                              {tag}
+                                            </Badge>
+                                          ))}
+                                        </div>
+                                      )}
+                                      {showRaw && (
+                                        <button
+                                          type="button"
+                                          onClick={() => toggleRawMessage(item)}
+                                          className="mt-2 text-xs text-primary hover:underline"
+                                        >
+                                          {isOpen ? '收起原文' : '查看原文'}
+                                        </button>
+                                      )}
+                                      {showRaw && isOpen && (
+                                        <div className="mt-2 rounded-md border bg-muted/40 px-2 py-2 text-xs text-muted-foreground space-y-2">
+                                          {rawState?.loading && <div>原文加载中...</div>}
+                                          {rawState?.error && <div>原文加载失败：{rawState.error}</div>}
+                                          {rawState?.data && (
+                                            <>
+                                              {Array.isArray(rawState.data.contextBefore) && rawState.data.contextBefore.length > 0 && (
+                                                <div className="space-y-1">
+                                                  {rawState.data.contextBefore.slice(-2).map((ctx, ctxIndex) => (
+                                                    <div key={`before-${ctxIndex}`}>
+                                                      <span className="font-medium">{ctx.author || '群友'}：</span>
+                                                      {ctx.content}
+                                                    </div>
+                                                  ))}
+                                                </div>
+                                              )}
+                                              <div className="text-foreground">
+                                                <span className="font-medium">{rawState.data.authorName || '群友'}：</span>
+                                                {rawState.data.messageContent || '暂无原文'}
+                                              </div>
+                                              {Array.isArray(rawState.data.contextAfter) && rawState.data.contextAfter.length > 0 && (
+                                                <div className="space-y-1">
+                                                  {rawState.data.contextAfter.slice(0, 2).map((ctx, ctxIndex) => (
+                                                    <div key={`after-${ctxIndex}`}>
+                                                      <span className="font-medium">{ctx.author || '群友'}：</span>
+                                                      {ctx.content}
+                                                    </div>
+                                                  ))}
+                                                </div>
+                                              )}
+                                            </>
+                                          )}
+                                        </div>
+                                      )}
+                                    </div>
+                                  );
+                                })}
+                              </div>
+                            </div>
+                          ) : (
+                            <div className="text-sm text-muted-foreground">暂无亮点记录</div>
+                          )}
                         </>
                       ) : (
                         <div className="text-sm text-muted-foreground">选择左侧成员查看亮点</div>

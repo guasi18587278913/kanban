@@ -44,6 +44,7 @@ const TAG_CATEGORY_LABELS: Record<string, string> = {
   progress: '进度',
   achievement: '成果',
   activity: '活跃',
+  expertise: '擅长',
   stage: '阶段',
   intent: '需求',
   niche: '方向',

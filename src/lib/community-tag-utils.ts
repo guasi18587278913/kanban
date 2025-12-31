@@ -8,6 +8,7 @@ export type TagCategory =
   | 'stage'
   | 'intent'
   | 'niche'
+  | 'expertise'
   | 'sentiment';
 
 export type DerivedTag = {
@@ -177,7 +178,14 @@ export function buildBaseMemberTags(input: MemberTagInput, now = new Date()): De
     } else if (idleDays >= 14) {
       add({
         category: 'action',
-        name: '活跃偏低',
+        name: '14天未发言',
+        level: 'high',
+        evidence: `上次活跃 ${formatDate(lastActiveDate)}`,
+      });
+    } else if (idleDays >= 7) {
+      add({
+        category: 'action',
+        name: '7天未发言',
         level: 'medium',
         evidence: `上次活跃 ${formatDate(lastActiveDate)}`,
       });

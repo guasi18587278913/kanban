@@ -15,6 +15,54 @@ import { useParams } from 'next/navigation';
 import { Loader2 } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
 
+const TAG_SPLIT_REGEX = /[，,\/、|｜]/;
+
+function normalizeTagList(input?: unknown): string[] {
+  if (!input) return [];
+  if (Array.isArray(input)) {
+    return Array.from(
+      new Set(input.map((tag) => String(tag).trim()).filter(Boolean))
+    );
+  }
+  if (typeof input === 'string') {
+    return Array.from(
+      new Set(input.split(TAG_SPLIT_REGEX).map((tag) => tag.trim()).filter(Boolean))
+    );
+  }
+  return [];
+}
+
+function parseKocContribution(raw?: string | null) {
+  const detail: { title?: string; tags?: string[]; reason?: string } = {};
+  if (!raw) return detail;
+
+  raw
+    .split('\n')
+    .map((line) => line.trim())
+    .filter(Boolean)
+    .forEach((line) => {
+      const parts = line.split(/[:：]/);
+      if (parts.length < 2) return;
+      const key = parts.shift()?.trim();
+      const value = parts.join(':').trim();
+      if (!key || !value) return;
+      if (key === '标题') detail.title = value;
+      if (key === '标签') detail.tags = normalizeTagList(value);
+      if (key === '入选理由') detail.reason = value;
+    });
+
+  return detail;
+}
+
+function buildKocDetail(koc: any) {
+  const parsed = parseKocContribution(koc?.contribution);
+  const title = koc?.title || koc?.suggestedTitle || parsed.title || '';
+  const reason = koc?.reason || parsed.reason || '';
+  const tags = normalizeTagList(koc?.tags || parsed.tags);
+  const summary = title || reason || koc?.contribution || '';
+  return { title, reason, tags, summary };
+}
+
 export default function CommunityReportDetailPage() {
   const params = useParams();
   const id = params.id as string;
@@ -109,14 +157,37 @@ export default function CommunityReportDetailPage() {
                 </CardHeader>
                 <CardContent className="grid gap-4">
                     {data.kocs?.length === 0 && <p className="text-muted-foreground">今日无 KOC 分享</p>}
-                    {data.kocs?.map((koc: any) => (
-                        <div key={koc.id} className="border rounded-lg p-4 bg-muted/30">
-                            <div className="flex justify-between items-start mb-2">
-                                <span className="font-semibold text-lg">{koc.kocName}</span>
+                    {data.kocs?.map((koc: any) => {
+                      const detail = buildKocDetail(koc);
+                      const fallback =
+                        detail.reason ||
+                        (detail.summary && detail.summary !== detail.title ? detail.summary : '');
+                      return (
+                        <div key={koc.id} className="border rounded-lg p-4 bg-muted/30 space-y-2">
+                          <div className="flex justify-between items-start gap-3">
+                            <span className="font-semibold text-lg">{koc.kocName}</span>
+                            {koc.messageIndex != null && (
+                              <span className="text-xs text-muted-foreground">
+                                溯源 #{koc.messageIndex}
+                              </span>
+                            )}
+                          </div>
+                          {detail.title && (
+                            <div className="text-sm font-medium">{detail.title}</div>
+                          )}
+                          {detail.tags.length > 0 && (
+                            <div className="flex flex-wrap gap-2">
+                              {detail.tags.map((tag) => (
+                                <Badge key={tag} variant="secondary">{tag}</Badge>
+                              ))}
                             </div>
-                            <p className="text-sm">{koc.contribution}</p>
+                          )}
+                          {fallback && (
+                            <p className="text-sm text-muted-foreground whitespace-pre-line">{fallback}</p>
+                          )}
                         </div>
-                    ))}
+                      );
+                    })}
                 </CardContent>
             </Card>
         </div>

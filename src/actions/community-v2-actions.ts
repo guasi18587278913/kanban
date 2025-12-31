@@ -17,11 +17,14 @@ import { db } from '@/core/db';
 import {
   rawChatLog,
   member,
+  memberStats,
+  memberTag,
   dailyStats,
   goodNews,
   kocRecord,
   qaRecord,
   starStudent,
+  tagCatalog,
 } from '@/config/db/schema-community-v2';
 import { eq, and, gte, lte, sql, desc, asc, like, inArray } from 'drizzle-orm';
 
@@ -517,6 +520,112 @@ export async function getDashboardStatsV2() {
   // 获取所有 KOC
   const allKocs = await db().select().from(kocRecord);
 
+  const normalizeName = (name: string) =>
+    name
+      .replace(/（.*?）|\(.*?\)|【.*?】|\[.*?\]/g, '')
+      .replace(/[-_—–·•‧·｜|].*$/, '')
+      .replace(/\s+/g, '')
+      .trim()
+      .toLowerCase();
+
+  const normalizeTagValue = (value: string) =>
+    value.replace(/\s+/g, '').trim().toLowerCase();
+
+  const weakExpertise = new Set(['技术', '产品', '运营', '增长', '营销', '商务', '综合', '全栈', '默认']);
+  const weakNiche = new Set(['AI工具', 'AI应用', '工具', '工具类', 'AI产品', 'AI']);
+
+  const members = await db()
+    .select({
+      id: member.id,
+      nickname: member.nickname,
+      nicknameNormalized: member.nicknameNormalized,
+      role: member.role,
+      questionCount: memberStats.questionCount,
+    })
+    .from(member)
+    .leftJoin(memberStats, eq(member.id, memberStats.memberId));
+
+  type MemberRow = (typeof members)[number];
+  const memberById = new Map<string, MemberRow>();
+  const memberByNormalized = new Map<string, MemberRow>();
+  members.forEach((m: MemberRow) => {
+    memberById.set(m.id, m);
+    const key = m.nicknameNormalized || normalizeName(m.nickname || '');
+    if (key) {
+      memberByNormalized.set(key, m);
+    }
+  });
+
+  const inactiveTags = await db()
+    .select({
+      category: tagCatalog.category,
+      name: tagCatalog.name,
+    })
+    .from(tagCatalog)
+    .where(eq(tagCatalog.status, 'inactive'));
+  type InactiveTagRow = (typeof inactiveTags)[number];
+  const inactiveSet = new Set(
+    inactiveTags.map((t: InactiveTagRow) => `${t.category}:${normalizeTagValue(t.name || '')}`)
+  );
+
+  const memberTags = await db()
+    .select({
+      memberId: memberTag.memberId,
+      category: memberTag.tagCategory,
+      name: memberTag.tagName,
+      confidence: memberTag.confidence,
+      updatedAt: memberTag.updatedAt,
+    })
+    .from(memberTag)
+    .where(inArray(memberTag.tagCategory, ['expertise', 'niche']));
+
+  type MemberTagRow = (typeof memberTags)[number];
+  const tagByMember = new Map<string, { expertise: typeof memberTags; niche: typeof memberTags }>();
+  memberTags.forEach((tag: MemberTagRow) => {
+    if (!tag.memberId || !tag.name) return;
+    const normalized = normalizeTagValue(tag.name);
+    if (!normalized) return;
+    const inactiveKey = `${tag.category}:${normalized}`;
+    if (inactiveSet.has(inactiveKey)) return;
+    if (tag.category === 'expertise' && weakExpertise.has(normalized)) return;
+    if (tag.category === 'niche' && weakNiche.has(normalized)) return;
+
+    const entry = tagByMember.get(tag.memberId) || { expertise: [], niche: [] };
+    entry[tag.category === 'expertise' ? 'expertise' : 'niche'].push(tag);
+    tagByMember.set(tag.memberId, entry);
+  });
+
+  const confidenceRank = (value?: string | null) =>
+    value === 'high' ? 3 : value === 'medium' ? 2 : value === 'low' ? 1 : 0;
+
+  const pickTags = (tags: typeof memberTags) => {
+    const seen = new Set<string>();
+    return [...tags]
+      .sort((a, b) => {
+        const confidence = confidenceRank(b.confidence) - confidenceRank(a.confidence);
+        if (confidence !== 0) return confidence;
+        const aTime = a.updatedAt ? new Date(a.updatedAt).getTime() : 0;
+        const bTime = b.updatedAt ? new Date(b.updatedAt).getTime() : 0;
+        return bTime - aTime;
+      })
+      .filter((tag) => {
+        const key = normalizeTagValue(tag.name || '');
+        if (seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      })
+      .map((tag) => tag.name || '')
+      .filter(Boolean);
+  };
+
+  const resolveMemberInfo = (koc: any) => {
+    if (koc?.memberId && memberById.has(koc.memberId)) {
+      return memberById.get(koc.memberId) || null;
+    }
+    const key = normalizeName(koc?.kocName || '');
+    return memberByNormalized.get(key) || null;
+  };
+
   // 获取所有标杆学员
   const allStarStudents = await db().select().from(starStudent);
 
@@ -600,7 +709,14 @@ export async function getDashboardStatsV2() {
       })),
       starStudentCount: dayStars.length,
       // KOC（兼容旧格式）
-      kocs: dayKocs.map((k: any) => ({
+      kocs: dayKocs.map((k: any) => {
+        const memberInfo = resolveMemberInfo(k);
+        const memberId = memberInfo?.id || k.memberId || null;
+        const tagEntry = memberId ? tagByMember.get(memberId) : null;
+        const expertiseTags = tagEntry ? pickTags(tagEntry.expertise).slice(0, 3) : [];
+        const nicheTags = tagEntry ? pickTags(tagEntry.niche).slice(0, 3) : [];
+        const resolvedExpertise = expertiseTags.length > 0 ? expertiseTags : nicheTags;
+        return {
         id: k.id,
         kocName: k.kocName,
         contribution: k.contribution,
@@ -608,6 +724,12 @@ export async function getDashboardStatsV2() {
         coreAchievement: k.coreAchievement,
         highlightQuote: k.highlightQuote,
         suggestedTitle: k.suggestedTitle,
+        messageIndex: k.messageIndex,
+        sourceLogId: k.sourceLogId,
+        memberId,
+        memberRole: memberInfo?.role || null,
+        memberQuestionCount: memberInfo?.questionCount ?? null,
+        expertiseTags: resolvedExpertise,
         title: k.suggestedTitle,
         tags: k.tags,
         reason: k.reason,
@@ -620,7 +742,8 @@ export async function getDashboardStatsV2() {
             }
           : null,
         recordDate: k.recordDate,
-      })),
+      };
+      }),
       kocCount: dayKocs.length,
       // 好事（解析后的格式）
       goodNewsParsed: dayGoodNews.map((n: any) => ({

@@ -140,7 +140,7 @@ export interface MemberSummary {
 
   // AI 标签
   tags?: Array<{
-    category: 'niche' | 'stage' | 'intent' | 'activity' | 'sentiment' | 'risk';
+    category: 'niche' | 'stage' | 'intent' | 'achievement' | 'expertise' | 'activity' | 'sentiment' | 'risk';
     value: string;
     confidence?: 'high' | 'medium' | 'low';
   }>;
@@ -249,8 +249,18 @@ const SYSTEM_PROMPT = `你是一位资深的社群运营分析专家，拥有 10
 - tags 必须是数组，至少 1 个固定标签，可额外补充 0-1 个自定义标签
 
 【标签/情绪/风险规则】
-- niche/赛道：SaaS、工具、内容号、AI应用等；stage/阶段：MVP/上线/变现/增长；intent：求反馈/求资源/报错；activity：高活跃/中活跃/低活跃；sentiment：positive/neutral/negative；risk：churn_risk（流失风险）、escalation_needed（需升级处理）
-- 标签挑最确定的 1-3 个，置信度 high/medium/low
+【学员标签】
+- 仅输出以下类别：stage/阶段、intent/需求、niche/方向、achievement/成果
+- 至少 2 个、最多 4 个标签，必须具体可行动（避免“积极/乐于助人/不错”）
+- 每个标签必须在 highlights 中给出证据原句（可摘录原话）
+
+【教练/志愿者标签】
+- 仅输出 expertise/擅长领域（2-4 个），必须非常具体且强业务关联
+- 示例（仅供参考）：SEO推广、小程序开发、前端页面美化、需求挖掘、Creem 报错排查、Vercel 部署、支付接入、RAG/Agent、增长投放
+- 每个标签必须在 highlights 中给出证据原句（可摘录原话）
+
+【情绪/风险（可选）】
+- sentiment：positive/neutral/negative；risk：churn_risk（流失风险）、escalation_needed（需升级处理）
 - 情绪/风险按消息语气和上下文判断，谨慎输出`;
 
 function buildAnalysisPrompt(rawContent: string, meta: { fileName: string; chatDate: string }): string {
@@ -322,7 +332,8 @@ function buildAnalysisPrompt(rawContent: string, meta: { fileName: string; chatD
         { "category": "niche", "value": "SaaS出海", "confidence": "high" },
         { "category": "stage", "value": "MVP/上线", "confidence": "medium" },
         { "category": "intent", "value": "求反馈", "confidence": "medium" },
-        { "category": "activity", "value": "高活跃", "confidence": "high" },
+        { "category": "achievement", "value": "首单/上线/过审", "confidence": "high" },
+        { "category": "expertise", "value": "SEO推广/Creem报错排查", "confidence": "high" },
         { "category": "sentiment", "value": "positive" },
         { "category": "risk", "value": "churn_risk" }
       ],
@@ -339,6 +350,7 @@ function buildAnalysisPrompt(rawContent: string, meta: { fileName: string; chatD
 - 消息以 [#序号] 开头，序号即 messageIndex，必须引用该编号
 - 如当天没有候选人，kocContributions 返回空数组，不要强行生成
 - score 仅用于内部筛选与去重，仍需输出
+- 学员与教练/志愿者标签规则不同，必须按角色输出
 
 【群聊记录】
 ${rawContent}`;

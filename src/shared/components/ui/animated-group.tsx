@@ -1,7 +1,6 @@
 "use client";
-import { ReactNode } from "react";
+import React, { ReactNode } from "react";
 import { motion, Variants } from "motion/react";
-import React from "react";
 
 export type PresetType =
   | "fade"
@@ -23,8 +22,8 @@ export type AnimatedGroupProps = {
     item?: Variants;
   };
   preset?: PresetType;
-  as?: keyof JSX.IntrinsicElements;
-  asChild?: keyof JSX.IntrinsicElements;
+  as?: keyof React.JSX.IntrinsicElements;
+  asChild?: keyof React.JSX.IntrinsicElements;
 };
 
 const defaultContainerVariants: Variants = {

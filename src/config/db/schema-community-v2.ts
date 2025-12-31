@@ -283,6 +283,7 @@ export const kocRecord = pgTable(
     kocName: text('koc_name').notNull(),
     contribution: text('contribution').notNull(),      // 贡献内容
     contributionType: text('contribution_type'),       // share/help/resource/atmosphere
+    messageIndex: integer('message_index'),            // 来源消息序号
     model: text('model'),
     coreAchievement: text('core_achievement'),
     highlightQuote: text('highlight_quote'),
@@ -553,5 +554,27 @@ export const memberTag = pgTable(
     index('idx_member_tag_name').on(table.tagName),
     // 唯一索引：同一成员同一标签只能有一个
     uniqueIndex('idx_member_tag_unique').on(table.memberId, table.tagCategory, table.tagName),
+  ]
+);
+
+/**
+ * 标签字典表
+ * 统一管理可展示标签名称与别名
+ */
+export const tagCatalog = pgTable(
+  'tag_catalog',
+  {
+    id: text('id').primaryKey(),
+    category: text('category').notNull(),
+    name: text('name').notNull(),
+    aliases: text('aliases').array(),
+    status: text('status').default('active'),
+    createdAt: timestamp('created_at').defaultNow().notNull(),
+    updatedAt: timestamp('updated_at').defaultNow().notNull(),
+  },
+  (table) => [
+    uniqueIndex('idx_tag_catalog_unique').on(table.category, table.name),
+    index('idx_tag_catalog_category').on(table.category),
+    index('idx_tag_catalog_status').on(table.status),
   ]
 );

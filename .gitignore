@@ -54,12 +54,23 @@ wrangler.toml
 .wrangler
 src/shared/types/cloudflare.d.ts
 
-src/config/db/migrations
-
 .debug 
 .test
 
 *.sql
+!src/config/db/migrations/
+!src/config/db/migrations/**
+!src/config/db/migrations/**/*.sql
 .source
 
 .chats
+
+# local recovery/backups
+recovered*
+* 2.ts
+* 2.tsx
+* 2.json
+* 3.ts
+* 3.tsx
+* 3.json
+* 4.json

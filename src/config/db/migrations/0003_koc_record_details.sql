@@ -1,0 +1,9 @@
+ALTER TABLE "koc_record" ADD COLUMN "model" text;
+ALTER TABLE "koc_record" ADD COLUMN "core_achievement" text;
+ALTER TABLE "koc_record" ADD COLUMN "highlight_quote" text;
+ALTER TABLE "koc_record" ADD COLUMN "suggested_title" text;
+ALTER TABLE "koc_record" ADD COLUMN "reason" text;
+ALTER TABLE "koc_record" ADD COLUMN "score_reproducibility" integer;
+ALTER TABLE "koc_record" ADD COLUMN "score_scarcity" integer;
+ALTER TABLE "koc_record" ADD COLUMN "score_validation" integer;
+ALTER TABLE "koc_record" ADD COLUMN "score_total" integer;

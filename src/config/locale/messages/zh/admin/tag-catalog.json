@@ -1,0 +1,44 @@
+{
+  "fields": {
+    "category": "类别",
+    "name": "标签",
+    "aliases": "别名",
+    "status": "状态",
+    "created_at": "创建时间",
+    "updated_at": "更新时间"
+  },
+  "list": {
+    "title": "标签管理",
+    "crumbs": {
+      "admin": "管理后台",
+      "tags": "标签管理"
+    },
+    "buttons": {
+      "add": "新增标签",
+      "edit": "编辑标签",
+      "disable": "停用标签"
+    }
+  },
+  "add": {
+    "title": "新增标签",
+    "crumbs": {
+      "admin": "管理后台",
+      "tags": "标签管理",
+      "add": "新增标签"
+    },
+    "buttons": {
+      "submit": "新增标签"
+    }
+  },
+  "edit": {
+    "title": "编辑标签",
+    "crumbs": {
+      "admin": "管理后台",
+      "tags": "标签管理",
+      "edit": "编辑标签"
+    },
+    "buttons": {
+      "submit": "保存修改"
+    }
+  }
+}

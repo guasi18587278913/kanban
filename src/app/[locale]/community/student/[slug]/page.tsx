@@ -54,6 +54,16 @@ type DerivedTag = {
   level?: 'high' | 'medium' | 'low';
 };
 
+type KocHighlight = {
+  id: string;
+  title?: string | null;
+  messageIndex?: number | null;
+  tags?: string[] | string | null;
+  reason?: string | null;
+  recordDate?: string | null;
+  scoreTotal?: number | null;
+};
+
 type ActivitySummary = {
   rangeDays: number;
   rangeStart: string;
@@ -298,6 +308,11 @@ export default function StudentCrmDetailPage() {
     return grouped;
   }, [data]);
 
+  const kocHighlights = useMemo(() => {
+    if (!Array.isArray(data?.kocHighlights)) return [];
+    return data.kocHighlights as KocHighlight[];
+  }, [data]);
+
   const actionTags = [
     ...(derivedTagGroups.get('action') || []),
     ...(derivedTagGroups.get('risk') || []),
@@ -306,7 +321,31 @@ export default function StudentCrmDetailPage() {
     ...(derivedTagGroups.get('progress') || []),
     ...(derivedTagGroups.get('activity') || []),
   ];
-  const achievementTags = derivedTagGroups.get('achievement') || [];
+  const achievementTags = useMemo(
+    () => derivedTagGroups.get('achievement') || [],
+    [derivedTagGroups]
+  );
+  const llmAchievementTags = useMemo(() => {
+    const tags = Array.isArray(data?.tags) ? (data.tags as MemberTag[]) : [];
+    return tags
+      .filter((tag) => tag.tagCategory === 'achievement')
+      .filter((tag) => tag.tagName && tag.tagValue)
+      .map((tag) => ({
+        category: 'achievement',
+        name: tag.tagName,
+        evidence: tag.tagValue || null,
+        level: (tag.confidence as 'high' | 'medium' | 'low' | null) || 'medium',
+      })) as DerivedTag[];
+  }, [data]);
+  const mergedAchievementTags = useMemo(() => {
+    const merged = new Map<string, DerivedTag>();
+    [...achievementTags, ...llmAchievementTags].forEach((tag) => {
+      const key = `${tag.category}:${tag.name}`;
+      if (merged.has(key)) return;
+      merged.set(key, tag);
+    });
+    return Array.from(merged.values());
+  }, [achievementTags, llmAchievementTags]);
 
   const activitySummary = useMemo(() => {
     if (data?.activitySummary) return data.activitySummary as ActivitySummary;
@@ -368,7 +407,7 @@ export default function StudentCrmDetailPage() {
         </CardHeader>
         <CardContent>
           <p className="text-xs text-muted-foreground mb-3">
-            优先展示可执行的运营信号与阶段/成果标签，AI 标签仅作为辅助参考。
+            优先展示可执行的运营信号与阶段/成果标签。
           </p>
           {loading ? (
             <div className="py-4 text-sm text-muted-foreground">加载中...</div>
@@ -409,11 +448,11 @@ export default function StudentCrmDetailPage() {
 
               <div className="rounded border p-3">
                 <div className="text-xs text-muted-foreground mb-2">进度 / 成果</div>
-                {[...progressTags, ...achievementTags].length === 0 ? (
+                {[...progressTags, ...mergedAchievementTags].length === 0 ? (
                   <div className="text-xs text-muted-foreground">暂无进度/成果标签</div>
                 ) : (
                   <div className="space-y-2">
-                    {[...progressTags, ...achievementTags].map((tag, idx) => {
+                    {[...progressTags, ...mergedAchievementTags].map((tag, idx) => {
                       const evidence = buildEvidence(tag.evidence || undefined);
                       const priority = formatPriority(tag.level);
                       return (
@@ -439,55 +478,124 @@ export default function StudentCrmDetailPage() {
                   </div>
                 )}
               </div>
+            </div>
+          )}
+        </CardContent>
+      </Card>
 
-              <div className="rounded border p-3 md:col-span-2">
-                <div className="text-xs text-muted-foreground mb-2">AI 洞察标签</div>
-                {tagGroups.length === 0 ? (
-                  <div className="text-xs text-muted-foreground">暂无高置信 AI 标签</div>
-                ) : (
-                  <div className="grid gap-3 md:grid-cols-2">
-                    {tagGroups.map(([cat, list]) => (
-                      <div key={cat} className="rounded border p-3">
-                        <div className="text-xs text-muted-foreground mb-2">
-                          {LLM_TAG_CATEGORY_LABELS[cat] || cat}
-                        </div>
-                        <div className="space-y-2">
-                          {list.map((t) => {
-                            const normalizedTag = normalizeTagValue(t.tagName || '').toLowerCase();
-                            const normalizedEvidence = normalizeTagValue(t.tagValue || '').toLowerCase();
-                            const evidence =
-                              normalizedTag && normalizedEvidence.includes(normalizedTag)
-                                ? buildEvidence(t.tagValue)
-                                : null;
-                            const confidence = formatConfidence(t.confidence);
-                            return (
-                              <div key={t.id} className="rounded border px-3 py-2">
-                                <div className="flex flex-wrap items-center gap-2">
-                                  <Badge variant="secondary" className="text-[11px]">
-                                    {t.tagName}
-                                  </Badge>
-                                  {confidence && (
-                                    <Badge variant="outline" className="text-[10px]">
-                                      {confidence}
-                                    </Badge>
-                                  )}
-                                </div>
-                                {evidence ? (
-                                  <div className="text-xs text-muted-foreground mt-1" title={evidence.full}>
-                                    {evidence.short}
-                                  </div>
-                                ) : (
-                                  <div className="text-xs text-muted-foreground mt-1">暂无引用</div>
-                                )}
-                              </div>
-                            );
-                          })}
-                        </div>
+      <Card>
+        <CardHeader>
+          <CardTitle className="flex items-center gap-2">
+            <SmartIcon name="Sparkles" className="h-5 w-5 text-muted-foreground" />
+            内容潜力（可写稿线索）
+          </CardTitle>
+        </CardHeader>
+        <CardContent>
+          {loading ? (
+            <div className="py-4 text-sm text-muted-foreground">加载中...</div>
+          ) : kocHighlights.length === 0 ? (
+            <div className="py-4 text-sm text-muted-foreground">暂无可写稿线索</div>
+          ) : (
+            <ScrollArea className="h-[320px] pr-3">
+              <div className="space-y-3">
+                {kocHighlights.map((item) => {
+                  const tags = Array.isArray(item.tags)
+                    ? item.tags
+                    : typeof item.tags === 'string'
+                      ? item.tags.split(/[，,\/、|｜]/).map((tag) => tag.trim()).filter(Boolean)
+                      : [];
+                  return (
+                    <div key={item.id} className="rounded border px-3 py-2">
+                      <div className="flex flex-wrap items-center gap-2 text-xs text-muted-foreground mb-1">
+                        <span>{formatDate(item.recordDate || undefined)}</span>
+                        {item.scoreTotal != null && (
+                          <Badge variant="outline" className="text-[10px]">
+                            评分 {item.scoreTotal}
+                          </Badge>
+                        )}
+                        {item.messageIndex != null && (
+                          <Badge variant="outline" className="text-[10px]">
+                            溯源 #{item.messageIndex}
+                          </Badge>
+                        )}
                       </div>
-                    ))}
-                  </div>
-                )}
+                      <div className="text-sm font-medium">{item.title || '未命名选题'}</div>
+                      {tags.length > 0 && (
+                        <div className="mt-2 flex flex-wrap gap-2">
+                          {tags.map((tag) => (
+                            <Badge key={tag} variant="secondary" className="text-[11px]">
+                              {tag}
+                            </Badge>
+                          ))}
+                        </div>
+                      )}
+                      {item.reason && (
+                        <div className="mt-2 text-xs text-muted-foreground whitespace-pre-line">
+                          {item.reason}
+                        </div>
+                      )}
+                    </div>
+                  );
+                })}
               </div>
+            </ScrollArea>
+          )}
+        </CardContent>
+      </Card>
+
+      <Card>
+        <CardHeader>
+          <CardTitle className="flex items-center gap-2">
+            <SmartIcon name="Brain" className="h-5 w-5 text-muted-foreground" />
+            AI 洞察标签
+          </CardTitle>
+        </CardHeader>
+        <CardContent>
+          {loading ? (
+            <div className="py-4 text-sm text-muted-foreground">加载中...</div>
+          ) : tagGroups.length === 0 ? (
+            <div className="py-4 text-sm text-muted-foreground">暂无高置信 AI 标签</div>
+          ) : (
+            <div className="grid gap-3 md:grid-cols-2">
+              {tagGroups.map(([cat, list]) => (
+                <div key={cat} className="rounded border p-3">
+                  <div className="text-xs text-muted-foreground mb-2">
+                    {LLM_TAG_CATEGORY_LABELS[cat] || cat}
+                  </div>
+                  <div className="space-y-2">
+                    {list.map((t) => {
+                      const normalizedTag = normalizeTagValue(t.tagName || '').toLowerCase();
+                      const normalizedEvidence = normalizeTagValue(t.tagValue || '').toLowerCase();
+                      const evidence =
+                        normalizedTag && normalizedEvidence.includes(normalizedTag)
+                          ? buildEvidence(t.tagValue)
+                          : null;
+                      const confidence = formatConfidence(t.confidence);
+                      return (
+                        <div key={t.id} className="rounded border px-3 py-2">
+                          <div className="flex flex-wrap items-center gap-2">
+                            <Badge variant="secondary" className="text-[11px]">
+                              {t.tagName}
+                            </Badge>
+                            {confidence && (
+                              <Badge variant="outline" className="text-[10px]">
+                                {confidence}
+                              </Badge>
+                            )}
+                          </div>
+                          {evidence ? (
+                            <div className="text-xs text-muted-foreground mt-1" title={evidence.full}>
+                              {evidence.short}
+                            </div>
+                          ) : (
+                            <div className="text-xs text-muted-foreground mt-1">暂无引用</div>
+                          )}
+                        </div>
+                      );
+                    })}
+                  </div>
+                </div>
+              ))}
             </div>
           )}
         </CardContent>

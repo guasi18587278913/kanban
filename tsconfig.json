@@ -47,6 +47,10 @@
     "dist",
     "scripts",
     "src/scripts",
+    "recovered",
+    "recovered:",
+    "**/* 2.*",
+    "**/* 3.*",
     "tmp-*.ts",
     "test-*.ts"
   ]

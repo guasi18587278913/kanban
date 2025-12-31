@@ -3,8 +3,8 @@ import { desc, eq, inArray, sql, count } from 'drizzle-orm';
 import { nanoid } from 'nanoid';
 
 import { db } from '@/core/db';
-import { member, memberStats, memberTag } from '@/config/db/schema-community-v2';
-import { buildBaseMemberTags, mergeTags } from '@/lib/community-tag-utils';
+import { member, memberStats, memberTag, tagCatalog } from '@/config/db/schema-community-v2';
+import { buildBaseMemberTags, mergeTags, type DerivedTag, type TagCategory } from '@/lib/community-tag-utils';
 
 type RoleParam = 'student' | 'coach' | 'volunteer' | 'all' | 'coach-volunteer';
 
@@ -19,6 +19,10 @@ function normalizeName(name: string) {
     .replace(/\s+/g, '')
     .trim()
     .toLowerCase();
+}
+
+function normalizeTagValue(value: string) {
+  return value.replace(/\s+/g, '').trim().toLowerCase();
 }
 
 function parseDate(value?: string | null) {
@@ -106,9 +110,21 @@ export async function GET(req: Request) {
       .limit(pageSize)
       .offset(offset);
 
-    const ids = rows.map((r: { id: string }) => r.id);
-    const tagsMap = new Map<string, { category: string; name: string }[]>();
-    if (ids.length > 0) {
+  const ids = rows.map((r: { id: string }) => r.id);
+  const tagsMap = new Map<string, DerivedTag[]>();
+  if (ids.length > 0) {
+      const inactiveTags = await db()
+        .select({
+          category: tagCatalog.category,
+          name: tagCatalog.name,
+        })
+        .from(tagCatalog)
+        .where(eq(tagCatalog.status, 'inactive'));
+      type InactiveTagRow = (typeof inactiveTags)[number];
+      const inactiveSet = new Set(
+        inactiveTags.map((t: InactiveTagRow) => `${t.category}:${normalizeTagValue(t.name || '')}`)
+      );
+
       const tagRows = await db()
         .select({
           memberId: memberTag.memberId,
@@ -118,9 +134,14 @@ export async function GET(req: Request) {
         .from(memberTag)
         .where(inArray(memberTag.memberId, ids));
 
-      tagRows.forEach((t) => {
+      type TagRow = (typeof tagRows)[number];
+      tagRows.forEach((t: TagRow) => {
+        if (!t.category || !t.name) return;
+        const category = t.category as TagCategory;
+        const key = `${category}:${normalizeTagValue(t.name || '')}`;
+        if (inactiveSet.has(key)) return;
         const list = tagsMap.get(t.memberId) || [];
-        list.push({ category: t.category, name: t.name });
+        list.push({ category, name: t.name });
         tagsMap.set(t.memberId, list);
       });
     }

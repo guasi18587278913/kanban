@@ -1,0 +1,44 @@
+{
+  "fields": {
+    "category": "Category",
+    "name": "Tag",
+    "aliases": "Aliases",
+    "status": "Status",
+    "created_at": "Created At",
+    "updated_at": "Updated At"
+  },
+  "list": {
+    "title": "Tag Catalog",
+    "crumbs": {
+      "admin": "Admin",
+      "tags": "Tag Catalog"
+    },
+    "buttons": {
+      "add": "Add Tag",
+      "edit": "Edit Tag",
+      "disable": "Disable Tag"
+    }
+  },
+  "add": {
+    "title": "Add Tag",
+    "crumbs": {
+      "admin": "Admin",
+      "tags": "Tag Catalog",
+      "add": "Add Tag"
+    },
+    "buttons": {
+      "submit": "Add Tag"
+    }
+  },
+  "edit": {
+    "title": "Edit Tag",
+    "crumbs": {
+      "admin": "Admin",
+      "tags": "Tag Catalog",
+      "edit": "Edit Tag"
+    },
+    "buttons": {
+      "submit": "Save Changes"
+    }
+  }
+}

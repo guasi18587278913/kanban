@@ -22,6 +22,7 @@ import {
   memberMessage,
   memberStats,
   memberTag,
+  tagCatalog,
 } from '@/config/db/schema-community-v2';
 import {
   analyzeChatWithLLM,
@@ -32,7 +33,7 @@ import {
 } from './llm-chat-analyzer';
 import { parseMessages, setMemberLookup } from './analysis/preprocessor';
 
-type TagCategory = 'niche' | 'stage' | 'intent' | 'activity' | 'sentiment' | 'risk';
+type TagCategory = 'niche' | 'stage' | 'intent' | 'achievement' | 'expertise' | 'activity' | 'sentiment' | 'risk';
 
 // ============================================
 // 类型定义
@@ -42,6 +43,8 @@ export interface PipelineOptions {
   force?: boolean;           // 强制重新处理已处理的记录
   limit?: number;            // 限制处理数量
   dryRun?: boolean;          // 仅分析不写入
+  workers?: number;          // 并发处理数量
+  delayMs?: number;          // 每条记录间隔（毫秒）
   onProgress?: (current: number, total: number, fileName: string) => void;
 }
 
@@ -59,6 +62,8 @@ export interface TagBackfillOptions {
   limit?: number;
   dryRun?: boolean;
   missingOnly?: boolean;
+  workers?: number;
+  delayMs?: number;
   onProgress?: (current: number, total: number, fileName: string) => void;
 }
 
@@ -75,6 +80,7 @@ export interface TagBackfillResult {
 // ============================================
 
 let memberLookup: Map<string, { id: string; role: string; nickname: string }> | null = null;
+let tagCatalogLookup: Map<string, Map<string, string>> | null = null;
 
 async function loadMemberLookup(): Promise<Map<string, { id: string; role: string; nickname: string }>> {
   if (memberLookup) return memberLookup;
@@ -114,6 +120,48 @@ function findMember(authorName: string): { id: string; role: string } | null {
   if (!memberLookup) return null;
   const normalized = normalizeNickname(authorName);
   return memberLookup.get(normalized) || null;
+}
+
+function normalizeTagKey(value: string): string {
+  return value.replace(/\s+/g, '').trim().toLowerCase();
+}
+
+async function loadTagCatalogLookup(): Promise<Map<string, Map<string, string>>> {
+  if (tagCatalogLookup) return tagCatalogLookup;
+  const rows = await db()
+    .select()
+    .from(tagCatalog)
+    .where(eq(tagCatalog.status, 'active'));
+
+  const lookup = new Map<string, Map<string, string>>();
+  type TagCatalogRow = (typeof rows)[number];
+  rows.forEach((row: TagCatalogRow) => {
+    if (!row.category || !row.name) return;
+    const category = row.category;
+    const map = lookup.get(category) || new Map<string, string>();
+    const nameKey = normalizeTagKey(row.name);
+    if (nameKey) {
+      map.set(nameKey, row.name);
+    }
+    const aliases = Array.isArray(row.aliases) ? (row.aliases as string[]) : [];
+    aliases.forEach((alias: string) => {
+      const aliasKey = normalizeTagKey(alias);
+      if (aliasKey) {
+        map.set(aliasKey, row.name);
+      }
+    });
+    lookup.set(category, map);
+  });
+  tagCatalogLookup = lookup;
+  return lookup;
+}
+
+function normalizeTagWithCatalog(category: string, value: string): string {
+  if (!value) return value;
+  const lookup = tagCatalogLookup?.get(category);
+  if (!lookup) return value;
+  const key = normalizeTagKey(value);
+  return (key && lookup.get(key)) || value;
 }
 
 function getErrorMessage(error: unknown): string {
@@ -473,6 +521,10 @@ async function writeKOCRecords(
 
     const author = findMember(koc.author);
     const recordTime = parseTimeToDate(chatDate, '00:00:00');
+    const messageIndex =
+      typeof koc.messageIndex === 'number' && koc.messageIndex >= 0
+        ? koc.messageIndex
+        : null;
     const score = koc.score?.total ?? 0;
     const scoreDetail = koc.score
       ? `评分: 复现${koc.score.reproducibility}/稀缺${koc.score.scarcity}/验证${koc.score.validation} (总分 ${koc.score.total})`
@@ -499,6 +551,7 @@ async function writeKOCRecords(
       kocName: koc.author,
       contribution: contribution.slice(0, 2000),
       contributionType: 'share',
+      messageIndex,
       model: null,
       coreAchievement: null,
       highlightQuote: null,
@@ -859,6 +912,7 @@ function collectMemberTags(result: ChatAnalysisResult, sourceLogId: string): Tag
       const matched = normalizedEvidencePool.find((item) => item.normalized.includes(normalized));
       return matched ? matched.raw.slice(0, 160) : null;
     };
+    const fallbackEvidence = evidencePool[0] ? evidencePool[0].slice(0, 160) : null;
     const confidenceRank = (value?: string | null) =>
       value === 'high' ? 3 : value === 'medium' ? 2 : value === 'low' ? 1 : 0;
 
@@ -866,28 +920,50 @@ function collectMemberTags(result: ChatAnalysisResult, sourceLogId: string): Tag
       if (!value) return;
       const normalized = normalizeTagValue(value);
       if (!normalized) return;
+      const evidence = findEvidenceForTag(value) || fallbackEvidence || null;
+      const canonical = normalizeTagWithCatalog(category, value);
       records.push({
         memberId: target.id,
         tagCategory: category,
-        tagName: value,
-        tagValue: findEvidenceForTag(value),
+        tagName: canonical,
+        tagValue: evidence,
         confidence: confidence || null,
         sourceLogId,
       });
     };
 
+    const memberRole = (m.role as string | undefined) || target.role;
+    const isCoach = memberRole === 'coach' || memberRole === 'volunteer';
+
     const tags = m.tags || [];
     const filteredTags = tags.filter((t) => t.value && confidenceRank(t.confidence) >= 2);
 
     const weakNiche = new Set(['AI工具', 'AI应用', '工具', '工具类', 'AI产品', 'AI']);
+    const weakExpertise = new Set(['技术', '产品', '运营', '增长', '营销', '商务', '综合', '全栈', '默认']);
+
+    const normalizeCategory = (value?: string | null): TagCategory | null => {
+      if (!value) return null;
+      const category = value as TagCategory;
+      if (isCoach) {
+        if (category === 'expertise' || category === 'niche') return 'expertise';
+        return null;
+      }
+      if (category === 'stage' || category === 'intent' || category === 'niche' || category === 'achievement') {
+        return category;
+      }
+      if (category === 'sentiment' || category === 'risk') return category;
+      return null;
+    };
 
     const pickTags = (category: TagCategory, limit: number) => {
       const list = filteredTags
-        .filter((t) => (t.category as TagCategory) === category)
+        .map((t) => ({ ...t, category: normalizeCategory(t.category as string) }))
+        .filter((t) => t.category === category)
         .filter((t) => {
           if (!t.value) return false;
           const normalized = normalizeTagValue(t.value);
           if (category === 'niche' && weakNiche.has(normalized)) return false;
+          if (category === 'expertise' && weakExpertise.has(normalized)) return false;
           if (category === 'sentiment' && normalized === 'neutral') return false;
           return true;
         })
@@ -903,17 +979,22 @@ function collectMemberTags(result: ChatAnalysisResult, sourceLogId: string): Tag
       }
     };
 
-    pickTags('stage', 1);
-    pickTags('intent', 2);
-    pickTags('niche', 2);
+    if (isCoach) {
+      pickTags('expertise', 4);
+    } else {
+      pickTags('stage', 1);
+      pickTags('intent', 2);
+      pickTags('niche', 2);
+      pickTags('achievement', 2);
 
-    if (m.sentiment && m.sentiment !== 'neutral') {
-      pushTag('sentiment', m.sentiment, 'medium');
-    }
+      if (m.sentiment && m.sentiment !== 'neutral') {
+        pushTag('sentiment', m.sentiment, 'medium');
+      }
 
-    if (m.riskFlags) {
-      const uniqueRisks = Array.from(new Set(m.riskFlags)).slice(0, 2);
-      uniqueRisks.forEach((r) => pushTag('risk', r, 'medium'));
+      if (m.riskFlags) {
+        const uniqueRisks = Array.from(new Set(m.riskFlags)).slice(0, 2);
+        uniqueRisks.forEach((r) => pushTag('risk', r, 'medium'));
+      }
     }
   }
 
@@ -1193,10 +1274,13 @@ export async function runLLMAnalysisPipeline(options: PipelineOptions = {}): Pro
   console.log('║      LLM 分析管道启动                  ║');
   console.log('╚════════════════════════════════════════╝');
   console.log(`时间: ${new Date().toLocaleString()}`);
-  console.log(`选项: force=${options.force}, limit=${options.limit}, dryRun=${options.dryRun}`);
+  const workerCount = Math.max(1, Math.floor(options.workers ?? 1));
+  const delayMs = Math.max(0, Math.floor(options.delayMs ?? 1000));
+  console.log(`选项: force=${options.force}, limit=${options.limit}, dryRun=${options.dryRun}, workers=${workerCount}, delayMs=${delayMs}`);
 
   // 加载成员映射
   await loadMemberLookup();
+  await loadTagCatalogLookup();
 
   // 获取待处理记录
   let query = db()
@@ -1239,37 +1323,55 @@ export async function runLLMAnalysisPipeline(options: PipelineOptions = {}): Pro
     errors: [],
   };
 
-  for (let i = 0; i < logs.length; i++) {
-    const log = logs[i];
+  let cursor = 0;
+  let completed = 0;
+  const total = logs.length;
 
-    if (options.onProgress) {
-      options.onProgress(i + 1, logs.length, log.fileName);
-    }
+  const delay = async () => {
+    if (delayMs <= 0) return;
+    await new Promise((resolve) => setTimeout(resolve, delayMs));
+  };
 
-    console.log(`\n[${i + 1}/${logs.length}] ${log.fileName}`);
+  const worker = async (workerId: number) => {
+    while (true) {
+      const index = cursor;
+      cursor += 1;
+      if (index >= total) break;
 
-    const processResult = await processSingleLog(log, options);
+      const log = logs[index];
+      console.log(`\n[${index + 1}/${total}] ${log.fileName}`);
 
-    if (processResult.success) {
-      result.processed++;
-      if (processResult.stats) {
-        result.totalQA += processResult.stats.qa;
-        result.totalGoodNews += processResult.stats.goodNews;
-        result.totalKOC += processResult.stats.koc;
+      const processResult = await processSingleLog(log, options);
+
+      if (processResult.success) {
+        result.processed++;
+        if (processResult.stats) {
+          result.totalQA += processResult.stats.qa;
+          result.totalGoodNews += processResult.stats.goodNews;
+          result.totalKOC += processResult.stats.koc;
+        }
+      } else {
+        result.failed++;
+        result.errors.push({
+          fileName: log.fileName,
+          error: processResult.error || 'Unknown error',
+        });
       }
-    } else {
-      result.failed++;
-      result.errors.push({
-        fileName: log.fileName,
-        error: processResult.error || 'Unknown error',
-      });
-    }
 
-    // 避免 API 速率限制
-    if (i < logs.length - 1) {
-      await new Promise((resolve) => setTimeout(resolve, 1000));
+      completed += 1;
+      if (options.onProgress) {
+        options.onProgress(completed, total, log.fileName);
+      }
+
+      if (completed < total) {
+        await delay();
+      }
     }
-  }
+    console.log(`[Pipeline] Worker ${workerId} done.`);
+  };
+
+  const workers = Array.from({ length: workerCount }, (_, i) => worker(i + 1));
+  await Promise.all(workers);
 
   // 汇总
   console.log('\n════════════════════════════════════════');
@@ -1291,9 +1393,12 @@ export async function runLLMTagBackfill(options: TagBackfillOptions = {}): Promi
   console.log('║      LLM 标签回填启动                  ║');
   console.log('╚════════════════════════════════════════╝');
   console.log(`时间: ${new Date().toLocaleString()}`);
-  console.log(`选项: missingOnly=${options.missingOnly !== false}, limit=${options.limit}, dryRun=${options.dryRun}`);
+  const workerCount = Math.max(1, Math.floor(options.workers ?? 1));
+  const delayMs = Math.max(0, Math.floor(options.delayMs ?? 1000));
+  console.log(`选项: missingOnly=${options.missingOnly !== false}, limit=${options.limit}, dryRun=${options.dryRun}, workers=${workerCount}, delayMs=${delayMs}`);
 
   await loadMemberLookup();
+  await loadTagCatalogLookup();
 
   const missingOnly = options.missingOnly !== false;
   const conditions = [eq(rawChatLog.status, 'processed')];
@@ -1325,33 +1430,53 @@ export async function runLLMTagBackfill(options: TagBackfillOptions = {}): Promi
     errors: [],
   };
 
-  for (let i = 0; i < logs.length; i++) {
-    const log = logs[i];
+  let cursor = 0;
+  let completed = 0;
+  const total = logs.length;
 
-    if (options.onProgress) {
-      options.onProgress(i + 1, logs.length, log.fileName);
-    }
+  const delay = async () => {
+    if (delayMs <= 0) return;
+    await new Promise((resolve) => setTimeout(resolve, delayMs));
+  };
 
-    console.log(`\n[${i + 1}/${logs.length}] ${log.fileName}`);
-    const processResult = await processSingleLogTagsOnly(log, options);
+  const worker = async (workerId: number) => {
+    while (true) {
+      const index = cursor;
+      cursor += 1;
+      if (index >= total) break;
 
-    if (processResult.success) {
-      result.processed++;
-      if (processResult.stats) {
-        result.totalTags += processResult.stats.tags;
+      const log = logs[index];
+
+      console.log(`\n[${index + 1}/${total}] ${log.fileName}`);
+      const processResult = await processSingleLogTagsOnly(log, options);
+
+      if (processResult.success) {
+        result.processed++;
+        if (processResult.stats) {
+          result.totalTags += processResult.stats.tags;
+        }
+      } else {
+        result.failed++;
+        result.errors.push({
+          fileName: log.fileName,
+          error: processResult.error || 'Unknown error',
+        });
       }
-    } else {
-      result.failed++;
-      result.errors.push({
-        fileName: log.fileName,
-        error: processResult.error || 'Unknown error',
-      });
-    }
 
-    if (i < logs.length - 1) {
-      await new Promise((resolve) => setTimeout(resolve, 1000));
+      completed += 1;
+      if (options.onProgress) {
+        options.onProgress(completed, total, log.fileName);
+      }
+
+      if (completed < total) {
+        await delay();
+      }
     }
-  }
+    console.log(`[Pipeline] Tag worker ${workerId} done.`);
+  };
+
+  const workers = Array.from({ length: workerCount }, (_, i) => worker(i + 1));
+  await Promise.all(workers);
 
   console.log('\n════════════════════════════════════════');
   console.log(`回填完成: ${result.processed} 成功, ${result.failed} 失败`);

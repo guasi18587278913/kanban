@@ -9,6 +9,8 @@ import {
   memberMessage,
   qaRecord,
   goodNews,
+  kocRecord,
+  tagCatalog,
 } from '@/config/db/schema-community-v2';
 import {
   buildActionTagsFromRecords,
@@ -27,6 +29,10 @@ function normalizeName(name: string) {
     .replace(/\s+/g, '')
     .trim()
     .toLowerCase();
+}
+
+function normalizeTagValue(value: string) {
+  return value.replace(/\s+/g, '').trim().toLowerCase();
 }
 
 function safeDecode(value: string) {
@@ -84,11 +90,29 @@ export async function GET(
     .limit(1);
 
   // tags
-  const tags = await db()
+  const inactiveTags = await db()
+    .select({
+      category: tagCatalog.category,
+      name: tagCatalog.name,
+    })
+    .from(tagCatalog)
+    .where(eq(tagCatalog.status, 'inactive'));
+  type InactiveTagRow = (typeof inactiveTags)[number];
+  const inactiveSet = new Set(
+    inactiveTags.map((t: InactiveTagRow) => `${t.category}:${normalizeTagValue(t.name || '')}`)
+  );
+
+  const rawTags = await db()
     .select()
     .from(memberTag)
     .where(eq(memberTag.memberId, targetMember.id))
     .orderBy(memberTag.tagCategory, memberTag.tagName);
+
+  type RawTagRow = (typeof rawTags)[number];
+  const tags = rawTags.filter((tag: RawTagRow) => {
+    const key = `${tag.tagCategory}:${normalizeTagValue(tag.tagName || '')}`;
+    return !inactiveSet.has(key);
+  });
 
   // QA：以 asker 为主
   const qaList = await db()
@@ -113,6 +137,7 @@ export async function GET(
     )
     .orderBy(desc(qaRecord.questionTime))
     .limit(50);
+  type QaRow = (typeof qaList)[number];
 
   // 好事
   const goodNewsList = await db()
@@ -136,6 +161,28 @@ export async function GET(
     )
     .orderBy(desc(goodNews.eventDate))
     .limit(50);
+  type GoodNewsRow = (typeof goodNewsList)[number];
+
+  // KOC 内容潜力
+  const kocHighlights = await db()
+    .select({
+      id: kocRecord.id,
+      title: kocRecord.suggestedTitle,
+      messageIndex: kocRecord.messageIndex,
+      tags: kocRecord.tags,
+      reason: kocRecord.reason,
+      recordDate: kocRecord.recordDate,
+      scoreTotal: kocRecord.scoreTotal,
+    })
+    .from(kocRecord)
+    .where(
+      or(
+        eq(kocRecord.memberId, targetMember.id),
+        eq(sql<string>`lower(${kocRecord.kocName})`, normalized)
+      )
+    )
+    .orderBy(desc(kocRecord.scoreTotal), desc(kocRecord.recordDate))
+    .limit(10);
 
   // 消息时间线
   const messages = await db()
@@ -183,7 +230,8 @@ export async function GET(
   const dailyCounts = new Map<string, number>();
   const hourlyCounts = Array.from({ length: 24 }, () => 0);
 
-  summaryRows.forEach((row) => {
+  type SummaryRow = (typeof summaryRows)[number];
+  summaryRows.forEach((row: SummaryRow) => {
     const dateObj = toDate(row.time);
     if (!dateObj) return;
     const key = formatDate(dateObj);
@@ -233,14 +281,14 @@ export async function GET(
   });
 
   const actionTags = buildActionTagsFromRecords({
-    qaList: qaList.map((q) => ({
+    qaList: qaList.map((q: QaRow) => ({
       question: q.question,
       questionTime: q.questionTime,
       isResolved: q.isResolved,
       waitMinutes: q.responseMinutes ?? null,
       askerName: targetMember.nickname,
     })),
-    goodNewsList: goodNewsList.map((g) => ({
+    goodNewsList: goodNewsList.map((g: GoodNewsRow) => ({
       content: g.content,
       date: g.date,
     })),
@@ -253,6 +301,7 @@ export async function GET(
     derivedTags: mergeTags(baseTags, actionTags),
     qa: qaList,
     goodNews: goodNewsList,
+    kocHighlights,
     messages,
     activitySummary,
   }, { headers: DETAIL_CACHE_HEADERS });

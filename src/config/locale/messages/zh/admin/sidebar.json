@@ -45,6 +45,16 @@
           "icon": "FileText"
         }
       ]
+    },
+    {
+      "title": "运维中心",
+      "items": [
+        {
+          "title": "标签管理",
+          "url": "/admin/tag-catalog",
+          "icon": "Tag"
+        }
+      ]
     }
   ],
   "bottom_nav": {

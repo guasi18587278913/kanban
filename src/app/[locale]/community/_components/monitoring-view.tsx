@@ -69,6 +69,46 @@ function sortGroupNames(a: string, b: string) {
   return a.localeCompare(b);
 }
 
+function normalizeKocTags(input?: unknown): string[] {
+  if (!input) return [];
+  const list = Array.isArray(input) ? input : String(input).split(/[，,\/、|｜]/);
+  return Array.from(new Set(list.map((tag) => String(tag).trim()).filter(Boolean)));
+}
+
+function parseKocContribution(raw?: string | null) {
+  const detail: { title?: string; tags?: string[]; reason?: string } = {};
+  if (!raw) return detail;
+  raw
+    .split("\n")
+    .map((line) => line.trim())
+    .filter(Boolean)
+    .forEach((line) => {
+      const parts = line.split(/[:：]/);
+      if (parts.length < 2) return;
+      const key = parts.shift()?.trim();
+      const value = parts.join(":").trim();
+      if (!key || !value) return;
+      if (key === "标题") detail.title = value;
+      if (key === "标签") detail.tags = normalizeKocTags(value);
+      if (key === "入选理由") detail.reason = value;
+    });
+  return detail;
+}
+
+function getKocSummary(koc: any) {
+  const parsed = parseKocContribution(koc?.contribution);
+  const title = koc?.title || koc?.suggestedTitle || parsed.title || "";
+  const reason = koc?.reason || parsed.reason || "";
+  const summary =
+    title ||
+    reason ||
+    koc?.contribution ||
+    koc?.value ||
+    koc?.summary ||
+    "";
+  return summary.trim();
+}
+
 // Mock Data
 const MOCKED_INSIGHTS: Record<string, any> = {};
 
@@ -346,7 +386,8 @@ export function MonitoringView({ initialProductLine, title, hideHeader }: Monito
         }
         if (r.kocs) {
              r.kocs.forEach((k: any) => {
-                const normalized = `${k.kocName}: ${k.contribution}`.trim();
+                const summary = getKocSummary(k);
+                const normalized = summary ? `${k.kocName}: ${summary}`.trim() : `${k.kocName || ''}`.trim();
                 mergeHighlight({
                     type: 'koc',
                     content: normalized,
@@ -844,7 +885,7 @@ function DailyDetailedReview({ insight }: { insight: RichDailyInsight }) {
                                         <span className="font-medium">{k.name}</span>
                                         <span className="text-xs px-1.5 py-0.5 bg-amber-50 text-amber-700 rounded border border-amber-200">{k.role}</span>
                                     </div>
-                                    <div className="text-sm text-muted-foreground">{k.contribution}</div>
+                                    <div className="text-sm text-muted-foreground">{getKocSummary(k)}</div>
                                 </div>
                             </div>
                         ))}

@@ -2,7 +2,8 @@ import { NextResponse } from 'next/server';
 import { desc, eq, or, sql } from 'drizzle-orm';
 
 import { db } from '@/core/db';
-import { member, memberStats, qaRecord } from '@/config/db/schema-community-v2';
+import { member, memberStats, memberTag, qaRecord, tagCatalog } from '@/config/db/schema-community-v2';
+import { buildBaseMemberTags, mergeTags } from '@/lib/community-tag-utils';
 
 const DETAIL_CACHE_HEADERS = {
   'Cache-Control': 's-maxage=30, stale-while-revalidate=60',
@@ -15,6 +16,10 @@ function normalizeName(name: string) {
     .replace(/\s+/g, '')
     .trim()
     .toLowerCase();
+}
+
+function normalizeTagValue(value: string) {
+  return value.replace(/\s+/g, '').trim().toLowerCase();
 }
 
 function safeDecode(value: string) {
@@ -59,6 +64,29 @@ export async function GET(
     .where(eq(memberStats.memberId, targetMember.id))
     .limit(1);
 
+  const inactiveTags = await db()
+    .select({
+      category: tagCatalog.category,
+      name: tagCatalog.name,
+    })
+    .from(tagCatalog)
+    .where(eq(tagCatalog.status, 'inactive'));
+  type InactiveTagRow = (typeof inactiveTags)[number];
+  const inactiveSet = new Set(
+    inactiveTags.map((t: InactiveTagRow) => `${t.category}:${normalizeTagValue(t.name || '')}`)
+  );
+
+  const rawTags = await db()
+    .select()
+    .from(memberTag)
+    .where(eq(memberTag.memberId, targetMember.id))
+    .orderBy(memberTag.tagCategory, memberTag.tagName);
+  type RawTagRow = (typeof rawTags)[number];
+  const tags = rawTags.filter((tag: RawTagRow) => {
+    const key = `${tag.tagCategory}:${normalizeTagValue(tag.tagName || '')}`;
+    return !inactiveSet.has(key);
+  });
+
   const qaList = await db()
     .select({
       id: qaRecord.id,
@@ -83,18 +111,37 @@ export async function GET(
     .orderBy(desc(qaRecord.questionTime))
     .limit(200);
 
+  type QaRow = (typeof qaList)[number];
   const answeredCount = qaList.length;
-  const resolvedCount = qaList.filter((q) => q.isResolved).length;
+  const resolvedCount = qaList.filter((q: QaRow) => q.isResolved).length;
   const unresolvedCount = answeredCount - resolvedCount;
   const waitValues = qaList
-    .map((q) => (typeof q.responseMinutes === 'number' ? q.responseMinutes : null))
-    .filter((value): value is number => value !== null);
+    .map((q: QaRow) => (typeof q.responseMinutes === 'number' ? q.responseMinutes : null))
+    .filter((value: number | null): value is number => value !== null);
   const avgWait =
-    waitValues.reduce((acc, value) => acc + value, 0) / (waitValues.length || 1);
+    waitValues.reduce((acc: number, value: number) => acc + value, 0) / (waitValues.length || 1);
 
   return NextResponse.json({
     member: targetMember,
     stats: stats || null,
+    tags,
+    derivedTags: mergeTags(
+      buildBaseMemberTags({
+        productLine: targetMember.productLine,
+        role: targetMember.role,
+        activityLevel: targetMember.activityLevel,
+        progressAiProduct: targetMember.progressAiProduct,
+        progressYoutube: targetMember.progressYoutube,
+        progressBilibili: targetMember.progressBilibili,
+        revenueLevel: targetMember.revenueLevel,
+        milestones: targetMember.milestones,
+        expireDate: targetMember.expireDate,
+        status: targetMember.status,
+        wechatId: targetMember.wechatId,
+        lastActiveDate: stats?.lastActiveDate,
+        avgResponseMinutes: stats?.avgResponseMinutes,
+      }),
+    ),
     qa: qaList,
     summary: {
       answeredCount,
