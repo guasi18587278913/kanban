@@ -2,17 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { format, isSameDay } from "date-fns";
-import { 
-  CalendarIcon, 
-  AlertTriangle, 
-  User, 
-  Lightbulb, 
-  TrendingUp,
-  MessageSquare,
-  HelpCircle,
-  CheckCircle2,
-  Trophy
-} from "lucide-react";
+import { CalendarIcon, TrendingUp } from "lucide-react";
 
 import { Calendar } from "@/shared/components/ui/calendar";
 import { Popover, PopoverContent, PopoverTrigger } from "@/shared/components/ui/popover";
@@ -50,6 +40,36 @@ export interface MonitoringViewProps {
 }
 
 type RichDailyInsight = any;
+
+type BriefQuestion = {
+  group: string;
+  question: string;
+  author?: string;
+  date?: string | Date;
+  waitMins?: number | null;
+};
+
+type BriefKocLead = {
+  id?: string;
+  name: string;
+  title: string;
+  tags: string[];
+  score?: number | null;
+  group: string;
+};
+
+type BriefGoodNews = {
+  content: string;
+  author?: string;
+  group: string;
+};
+
+type BriefSignal = {
+  title: string;
+  detail?: string;
+  action?: string;
+  level?: 'high' | 'medium' | 'low';
+};
 
 // Helper Functions
 function sortGroupNames(a: string, b: string) {
@@ -177,7 +197,7 @@ export function MonitoringView({ initialProductLine, title, hideHeader }: Monito
   }, []);
 
   // Compute Metrics
-  const { targetDate, filteredReports, anomalies, kpis, unresolvedQuestions, highlights, historicalReports, richInsight } = useMemo(() => {
+  const { targetDate, historicalReports, actionBrief } = useMemo(() => {
     if (!stats.length) {
       return { 
           targetDate: null, 
@@ -187,7 +207,15 @@ export function MonitoringView({ initialProductLine, title, hideHeader }: Monito
           unresolvedQuestions: [],
           highlights: [],
           historicalReports: [],
-          richInsight: null
+          richInsight: null,
+          actionBrief: {
+            dateLabel: '',
+            questions: [],
+            kocLeads: [],
+            goodNews: [],
+            signals: [],
+            hasValue: false,
+          }
       };
     }
 
@@ -308,16 +336,19 @@ export function MonitoringView({ initialProductLine, title, hideHeader }: Monito
         }
     });
 
-    const unresolved: any[] = [];
+    const unresolved: BriefQuestion[] = [];
     yReports.forEach(r => {
         if (r.questions) {
             r.questions.forEach(q => {
-               if (!q.a || q.a.length < 2) {
+               const answerText = typeof q.a === 'string' ? q.a : '';
+               const resolved = q.isResolved === true || answerText.trim().length > 0;
+               if (!resolved) {
                    unresolved.push({
                        group: r.groupName,
                        question: q.content || q.q || q.text || '未获取到问题内容',
                        author: q.author || '未知',
-                       date: r.reportDate
+                       date: q.questionTime || r.reportDate,
+                       waitMins: typeof q.waitMins === 'number' ? q.waitMins : null,
                    });
                }
             });
@@ -401,10 +432,107 @@ export function MonitoringView({ initialProductLine, title, hideHeader }: Monito
     });
 
     const highlightItems = highlightList;
+    const targetDateStr = target.toISOString().split('T')[0];
+
+    const briefQuestions: BriefQuestion[] = unresolved.map((q) => ({
+      group: q.group,
+      question: q.question,
+      author: q.author,
+      date: q.date,
+      waitMins: typeof q.waitMins === 'number' ? q.waitMins : null,
+    }));
+
+    const kocLeads: BriefKocLead[] = [];
+    const kocSeen = new Set<string>();
+    yReports.forEach((r) => {
+      (r.kocs || []).forEach((k: any) => {
+        const title = getKocSummary(k);
+        if (!title) return;
+        const name = k.kocName || k.author || '匿名';
+        const key = `${normalizeAuthor(name)}:${normalizeContent(title)}`;
+        if (kocSeen.has(key)) return;
+        kocSeen.add(key);
+        kocLeads.push({
+          id: k.id,
+          name,
+          title,
+          tags: normalizeKocTags(k.tags || k.detail?.tags || []),
+          score: k.score?.total ?? k.scoreTotal ?? null,
+          group: r.groupName,
+        });
+      });
+    });
+    kocLeads.sort((a, b) => (b.score ?? 0) - (a.score ?? 0));
+
+    const goodNewsItems: BriefGoodNews[] = [];
+    const goodNewsSeen = new Set<string>();
+    yReports.forEach((r) => {
+      (r.goodNewsParsed || []).forEach((g: any) => {
+        const content = String(g.content || '').trim();
+        if (!content) return;
+        const author = String(g.author || '').trim();
+        const key = `${normalizeAuthor(author)}:${normalizeContent(content)}`;
+        if (goodNewsSeen.has(key)) return;
+        goodNewsSeen.add(key);
+        goodNewsItems.push({
+          content,
+          author: author || undefined,
+          group: r.groupName,
+        });
+      });
+    });
+
+    const signals: BriefSignal[] = [];
+    const avgWindowDays = 7;
+    const windowStart = new Date(target);
+    windowStart.setDate(windowStart.getDate() - avgWindowDays);
+    const lastWindow = currentReports.filter((r) => {
+      const d = new Date(r.reportDate);
+      return d < target && d >= windowStart;
+    });
+    const avgMessages =
+      lastWindow.length > 0
+        ? Math.round(lastWindow.reduce((sum, r) => sum + r.messageCount, 0) / lastWindow.length)
+        : 0;
+    if (avgMessages > 0 && agg.messages < avgMessages * 0.6) {
+      signals.push({
+        title: '活跃度下滑',
+        detail: `昨日 ${agg.messages} 条，近${avgWindowDays}日均值 ${avgMessages} 条`,
+        action: '建议发起话题/活动拉活跃',
+        level: 'medium',
+      });
+    }
+    if (kpi.questions > 0 && kpi.resolutionRate < 80) {
+      signals.push({
+        title: '解决率偏低',
+        detail: `昨日解决率 ${kpi.resolutionRate}%`,
+        action: '补充答疑或提醒教练跟进',
+        level: 'high',
+      });
+    }
+    if (kpi.goodNews === 0) {
+      signals.push({
+        title: '昨日无已审核好事',
+        action: '检查好事审核或引导学员分享',
+        level: 'low',
+      });
+    }
+
+    const actionBrief = {
+      dateLabel: targetDateStr,
+      questions: briefQuestions.slice(0, 8),
+      kocLeads: kocLeads.slice(0, 8),
+      goodNews: goodNewsItems.slice(0, 8),
+      signals,
+      hasValue:
+        briefQuestions.length > 0 ||
+        kocLeads.length > 0 ||
+        goodNewsItems.length > 0 ||
+        signals.length > 0,
+    };
 
     // Check for Rich Insight
     let insight = null;
-    const targetDateStr = target.toISOString().split('T')[0];
     if (selectedGroup && selectedGroup !== 'all') {
          // Try exact match
          const key = `${selectedGroup}-${targetDateStr}`;
@@ -425,7 +553,8 @@ export function MonitoringView({ initialProductLine, title, hideHeader }: Monito
         unresolvedQuestions: unresolved,
         highlights: highlightItems,
         historicalReports: currentReports,
-        richInsight: insight
+        richInsight: insight,
+        actionBrief
     };
   }, [
     stats,
@@ -437,6 +566,9 @@ export function MonitoringView({ initialProductLine, title, hideHeader }: Monito
   ]);
 
   const displayTitle = title || (selectedProductLine === 'all' ? '全站昨日监测' : `${selectedProductLine} - 数据看板`);
+  if (hideHeader && !actionBrief.hasValue) {
+    return null;
+  }
 
   return (
     <div className="flex flex-col gap-6 p-8">
@@ -566,144 +698,145 @@ export function MonitoringView({ initialProductLine, title, hideHeader }: Monito
           </div>
       </div>
       )}
-      {/* 1. Historical Charts (Top Priority) */}
-
-
-      {/* 2. Yesterday Detail Header */}
       <div className="flex items-center gap-2 mt-4 pb-2 border-b">
         <SmartIcon name="Activity" className="w-5 h-5 text-primary" />
-        <h2 className="text-xl font-semibold tracking-tight">昨日详细复盘</h2>
+        <h2 className="text-xl font-semibold tracking-tight">每日行动简报</h2>
+        {actionBrief.dateLabel && (
+          <span className="text-xs text-muted-foreground">
+            {actionBrief.dateLabel}
+          </span>
+        )}
       </div>
 
-      {/* 3. Rich Insight Display (If available) OR Fallback */}
-      {richInsight ? (
-          <DailyDetailedReview insight={richInsight} />
+      {actionBrief.hasValue ? (
+        <div className="grid gap-6 lg:grid-cols-2">
+          {actionBrief.questions.length > 0 && (
+            <Card>
+              <CardHeader>
+                <CardTitle className="flex items-center gap-2">
+                  <SmartIcon name="ListTodo" className="h-5 w-5 text-blue-500" />
+                  待跟进问题 ({actionBrief.questions.length})
+                </CardTitle>
+                <CardDescription>需要运营/教练跟进的未闭环提问</CardDescription>
+              </CardHeader>
+              <CardContent className="space-y-3 max-h-[360px] overflow-y-auto pr-2">
+                {actionBrief.questions.map((q, idx) => (
+                  <div key={idx} className="rounded border p-3 text-sm bg-muted/20">
+                    <div className="flex flex-wrap items-center gap-2 text-xs text-muted-foreground mb-2">
+                      <Badge variant="outline" className="text-blue-600 bg-blue-50 border-blue-200">
+                        {q.group}
+                      </Badge>
+                      <span>{q.author || '未知'}</span>
+                      {q.waitMins != null && <span>等待 {q.waitMins} 分钟</span>}
+                    </div>
+                    <div className="text-foreground/90">{q.question}</div>
+                  </div>
+                ))}
+              </CardContent>
+            </Card>
+          )}
+
+          {actionBrief.kocLeads.length > 0 && (
+            <Card>
+              <CardHeader>
+                <CardTitle className="flex items-center gap-2">
+                  <SmartIcon name="Sparkles" className="h-5 w-5 text-amber-500" />
+                  可约稿线索 ({actionBrief.kocLeads.length})
+                </CardTitle>
+                <CardDescription>优先联系可产出内容的人选</CardDescription>
+              </CardHeader>
+              <CardContent className="space-y-3 max-h-[360px] overflow-y-auto pr-2">
+                {actionBrief.kocLeads.map((koc, idx) => (
+                  <div key={`${koc.name}-${idx}`} className="rounded border p-3 text-sm">
+                    <div className="flex items-center justify-between text-xs text-muted-foreground mb-1">
+                      <span>{koc.name}</span>
+                      {koc.score != null && <span>评分 {koc.score}</span>}
+                    </div>
+                    <div className="text-foreground/90 font-medium">{koc.title}</div>
+                    {koc.tags.length > 0 && (
+                      <div className="mt-2 flex flex-wrap gap-1.5">
+                        {koc.tags.slice(0, 4).map((tag) => (
+                          <Badge key={tag} variant="outline" className="text-[10px] px-1.5 py-0">
+                            {tag}
+                          </Badge>
+                        ))}
+                      </div>
+                    )}
+                    <div className="mt-2 text-xs text-muted-foreground">{koc.group}</div>
+                  </div>
+                ))}
+              </CardContent>
+            </Card>
+          )}
+
+          {actionBrief.goodNews.length > 0 && (
+            <Card>
+              <CardHeader>
+                <CardTitle className="flex items-center gap-2">
+                  <SmartIcon name="Trophy" className="h-5 w-5 text-rose-500" />
+                  已审核好事 ({actionBrief.goodNews.length})
+                </CardTitle>
+                <CardDescription>适合扩散的高光案例</CardDescription>
+              </CardHeader>
+              <CardContent className="space-y-3 max-h-[360px] overflow-y-auto pr-2">
+                {actionBrief.goodNews.map((gn, idx) => (
+                  <div key={`${gn.content}-${idx}`} className="rounded border p-3 text-sm">
+                    <div className="flex items-center justify-between text-xs text-muted-foreground mb-1">
+                      <span>{gn.author || '未注明'}</span>
+                      <span>{gn.group}</span>
+                    </div>
+                    <div className="text-foreground/90">{gn.content}</div>
+                  </div>
+                ))}
+              </CardContent>
+            </Card>
+          )}
+
+          {actionBrief.signals.length > 0 && (
+            <Card>
+              <CardHeader>
+                <CardTitle className="flex items-center gap-2">
+                  <SmartIcon name="AlertTriangle" className="h-5 w-5 text-orange-500" />
+                  健康提醒 ({actionBrief.signals.length})
+                </CardTitle>
+                <CardDescription>需要运营介入的风险信号</CardDescription>
+              </CardHeader>
+              <CardContent className="space-y-3">
+                {actionBrief.signals.map((signal, idx) => (
+                  <div key={`${signal.title}-${idx}`} className="rounded border p-3 text-sm bg-orange-50/40">
+                    <div className="flex items-center gap-2 font-medium text-orange-700">
+                      <span>{signal.title}</span>
+                      {signal.level && (
+                        <Badge variant="outline" className="text-[10px] text-orange-600 border-orange-200">
+                          {signal.level === 'high' ? '高优先' : signal.level === 'medium' ? '中优先' : '低优先'}
+                        </Badge>
+                      )}
+                    </div>
+                    {signal.detail && <div className="mt-1 text-xs text-muted-foreground">{signal.detail}</div>}
+                    {signal.action && <div className="mt-2 text-xs text-primary">建议：{signal.action}</div>}
+                  </div>
+                ))}
+              </CardContent>
+            </Card>
+          )}
+        </div>
       ) : (
-          /* Fallback to Standard Grid */
-            <>
-            <div className="grid gap-4 md:grid-cols-4">
-                <KpiCard title="昨日消息" value={kpis.messages} sub={kpis.msgChange ? `${kpis.msgChange > 0 ? '+' : ''}${kpis.msgChange}% 环比` : undefined} icon="MessageSquare" />
-                <KpiCard title="昨日提问" value={kpis.questions} icon="HelpCircle" />
-                <KpiCard title="解决率" value={`${kpis.resolutionRate}%`} icon="CheckCircle2" color={kpis.resolutionRate < 80 ? 'text-red-500' : 'text-green-500'} />
-                <KpiCard title="好事发生" value={kpis.goodNews} icon="Trophy" />
-            </div>
-
-            <div className="grid md:grid-cols-3 gap-6">
-                {/* Anomalies & Action */}
-                <div className="col-span-2 space-y-6">
-                    <Card>
-                        <CardHeader>
-                            <CardTitle className="flex items-center gap-2">
-                                <SmartIcon name="AlertTriangle" className="h-5 w-5 text-orange-500"/>
-                                异常与行动建议
-                            </CardTitle>
-                            <CardDescription>需重点关注的群组健康度异常</CardDescription>
-                        </CardHeader>
-                        <CardContent className="space-y-4">
-                            {anomalies.length === 0 && <div className="text-muted-foreground text-sm">昨日无明显异常，运行平稳。</div>}
-                            {anomalies.map((a, idx) => (
-                                <div key={idx} className="flex items-start justify-between p-3 border rounded-lg bg-orange-50/50 dark:bg-orange-950/20">
-                                    <div>
-                                        <div className="flex items-center gap-2">
-                                            <Badge variant="outline" className="text-orange-600 border-orange-200">{a.title}</Badge>
-                                            <span className="font-medium text-sm">{a.group}</span>
-                                            <span className="text-xs text-muted-foreground">({a.value})</span>
-                                        </div>
-                                        <div className="text-sm mt-1 text-muted-foreground">
-                                            原因：{a.desc}
-                                            {a.example && (
-                                                <div className="mt-1 text-xs bg-white/50 p-1 rounded border border-orange-100 truncate max-w-[300px]">
-                                                    {a.example}
-                                                </div>
-                                            )}
-                                        </div>
-                                    </div>
-                                    <div className="text-right">
-                                        <div className="text-xs font-medium text-primary bg-primary/10 px-2 py-1 rounded whitespace-nowrap">
-                                            建议：{a.action}
-                                        </div>
-                                    </div>
-                                </div>
-                            ))}
-                        </CardContent>
-                    </Card>
-
-                    {/* Unresolved */}
-                    <Card>
-                        <CardHeader>
-                            <CardTitle className="flex items-center gap-2">
-                                <SmartIcon name="ListTodo" className="h-5 w-5 text-blue-500" />
-                                待跟进提问 ({unresolvedQuestions.length})
-                            </CardTitle>
-                        </CardHeader>
-                        <CardContent>
-                            {unresolvedQuestions.length === 0 ? (
-                                <div className="text-sm text-muted-foreground">所有提问均已闭环。</div>
-                            ) : (
-                                <div className="space-y-3 max-h-[300px] overflow-y-auto pr-2">
-                                    {unresolvedQuestions.map((q, idx) => (
-                                        <div key={idx} className="p-3 border rounded text-sm bg-muted/20">
-                                            <div className="flex justify-between items-start mb-2">
-                                                <div className="flex items-center gap-2 flex-wrap">
-                                                    <Badge variant="outline" className="text-blue-600 bg-blue-50 border-blue-200">
-                                                        {q.group}
-                                                    </Badge>
-                                                    <span className="text-xs font-semibold text-muted-foreground flex items-center gap-1">
-                                                        <SmartIcon name="User" className="w-3 h-3" />
-                                                        {q.author}
-                                                    </span>
-                                                </div>
-                                                <span className="text-xs text-muted-foreground shrink-0">
-                                                    {new Date(q.date).toLocaleDateString()}
-                                                </span>
-                                            </div>
-                                            <div className="text-foreground/90 pl-1">
-                                                {q.question}
-                                            </div>
-                                        </div>
-                                    ))}
-                                </div>
-                            )}
-                        </CardContent>
-                    </Card>
-                </div>
-
-                <div className="space-y-6">
-                    {/* Highlights */}
-                    <Card className="h-full">
-                        <CardHeader>
-                            <CardTitle className="flex items-center gap-2">
-                                <SmartIcon name="Sparkles" className="h-5 w-5 text-yellow-500" />
-                                昨日高光
-                            </CardTitle>
-                        </CardHeader>
-                        <CardContent className="space-y-4">
-                            {highlights.length === 0 && <div className="text-sm text-muted-foreground">暂无高光时刻。</div>}
-                            {highlights.slice(0, 10).map((h, idx) => (
-                                <div key={idx} className="text-sm border-b pb-2 last:border-0">
-                                    <div className="flex justify-between items-center mb-1">
-                                            <Badge variant="secondary" className="text-[10px] h-5">{h.group}</Badge>
-                                            <span className="text-[10px] text-muted-foreground uppercase">{h.type === 'koc' ? 'KOC' : 'Good News'}</span>
-                                    </div>
-                                    <div className="line-clamp-2 text-foreground/80">
-                                        {h.content.replace(/^\*\*/, '').replace(/\*\*$/, '')}
-                                    </div>
-                                </div>
-                            ))}
-                        </CardContent>
-                    </Card>
-                </div>
-             </div>
-             </>
-       )}
+        !hideHeader && (
+          <Card>
+            <CardContent className="py-6 text-sm text-muted-foreground">
+              暂无需要处理的行动项。
+            </CardContent>
+          </Card>
+        )
+      )}
 
        {/* 1. Historical Charts (Moved to Bottom) */}
-       {!loading && historicalReports.length > 0 && (
+       {!hideHeader && !loading && historicalReports.length > 0 && (
            <div className="pt-8 border-t mb-8">
                <div className="flex items-center gap-2 mb-4">
                     <TrendingUp className="w-5 h-5 text-muted-foreground" />
                     <h2 className="text-lg font-semibold tracking-tight text-muted-foreground">数据趋势参考 (近30天)</h2>
-               </div>
+                </div>
                <ChartsSection 
                  data={historicalReports} 
                  fixedProductLine={initialProductLine || selectedProductLine} 

@@ -520,6 +520,9 @@ export async function getDashboardStatsV2() {
   // 获取所有 KOC
   const allKocs = await db().select().from(kocRecord);
 
+  // 获取所有问答
+  const allQa = await db().select().from(qaRecord);
+
   const normalizeName = (name: string) =>
     name
       .replace(/（.*?）|\(.*?\)|【.*?】|\[.*?\]/g, '')
@@ -649,6 +652,16 @@ export async function getDashboardStatsV2() {
     kocsBySource.get(key)!.push(k);
   }
 
+  // 按来源 ID 分组问答
+  const qaBySource = new Map<string, typeof allQa>();
+  for (const q of allQa) {
+    const key = q.sourceLogId;
+    if (!qaBySource.has(key)) {
+      qaBySource.set(key, []);
+    }
+    qaBySource.get(key)!.push(q);
+  }
+
   // 按来源 ID 分组标杆学员
   const starsBySource = new Map<string, typeof allStarStudents>();
   for (const s of allStarStudents) {
@@ -686,9 +699,12 @@ export async function getDashboardStatsV2() {
     const dayGoodNews = goodNewsBySource.get(sourceLogId) || [];
     const dayKocs = kocsBySource.get(sourceLogId) || [];
     const dayStars = starsBySource.get(sourceLogId) || [];
+    const dayQa = qaBySource.get(sourceLogId) || [];
 
     // 构建 groupName
     const groupName = `${stat.productLine}${stat.period}期${stat.groupNumber}群`;
+
+    const verifiedGoodNewsCount = dayGoodNews.length;
 
     return {
       id: stat.id,
@@ -697,7 +713,7 @@ export async function getDashboardStatsV2() {
       questionCount: stat.questionCount,
       avgResponseTime: stat.avgResponseMinutes,
       resolutionRate: stat.resolutionRate,
-      goodNewsCount: stat.goodNewsCount,
+      goodNewsCount: verifiedGoodNewsCount,
       groupName,
       productLine: stat.productLine,
       // 标杆学员（兼容旧格式）
@@ -753,7 +769,18 @@ export async function getDashboardStatsV2() {
         group: groupName,
       })),
       // 兼容字段
-      questions: [],
+      questions: dayQa.map((q: any) => ({
+        id: q.id,
+        content: q.questionContent,
+        author: q.askerName,
+        answer: q.answerContent,
+        a: q.answerContent,
+        waitMins: q.responseMinutes,
+        isResolved: q.isResolved,
+        questionTime: q.questionTime,
+        answerTime: q.answerTime,
+        answerer: q.answererName,
+      })),
       actionItems: [],
     };
   });
