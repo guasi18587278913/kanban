@@ -25,6 +25,14 @@ export const shareRegex = /(分享|教程|文档|指南|链接|prompt|提示词|
 export const resolutionRegex = /(解决|搞定|修复|好了|可以了|ok了|OK了|没问题了|隐藏掉|处理了|已退款|已补|闭环|done|fixed|ok)/i;
 export const thanksRegex = /(谢谢|感谢|辛苦了|赞|牛|可以了|好了|行了|搞定)/;
 
+function normalizeFilenameForMatch(value: string) {
+  return value
+    .toLowerCase()
+    .replace(/[_\-\s丨|]/g, '')
+    .replace(/[【】\[\]()（）]/g, '')
+    .replace(/[^a-z0-9\u4e00-\u9fff]/g, '');
+}
+
 export function parseFilenameMeta(filename: string) {
   // Canonical Group Names List (as defined by User)
   // Mapping Strategy: Multiple patterns can map to the SAME canonical name.
@@ -36,6 +44,13 @@ export function parseFilenameMeta(filename: string) {
     { name: 'AI产品出海1期-2群', keywords: ['AI产品出海', '1期', '2群'] },
     { name: 'AI产品出海1期-2群', keywords: ['AI产品出海', '12群'] }, // Shorthand
 
+    // AI Product Line - Period 1 (深海圈别名)
+    { name: 'AI产品出海1期-1群', keywords: ['深海圈', '1期', '1群'] },
+    { name: 'AI产品出海1期-2群', keywords: ['深海圈', '1期', '2群'] },
+
+    // AI Product Line - Period 1 (海外AI产品别名)
+    { name: 'AI产品出海1期-1群', keywords: ['海外AI产品', '1群'] },
+    { name: 'AI产品出海1期-2群', keywords: ['海外AI产品', '2群'] },
     
     // AI Product Line - Period 2 (Standard)
     { name: 'AI产品出海2期-1群', keywords: ['AI产品出海', '2期', '1群'] },
@@ -43,6 +58,10 @@ export function parseFilenameMeta(filename: string) {
     
     { name: 'AI产品出海2期-2群', keywords: ['AI产品出海', '2期', '2群'] },
     { name: 'AI产品出海2期-2群', keywords: ['AI产品出海', '22群'] }, // Shorthand
+
+    // AI Product Line - Period 2 (深海圈别名)
+    { name: 'AI产品出海2期-1群', keywords: ['深海圈', '2期', '1群'] },
+    { name: 'AI产品出海2期-2群', keywords: ['深海圈', '2期', '2群'] },
     
     // AI Product Line - Period 2 (Variant: 新人营 -> Map to Standard)
     { name: 'AI产品出海2期-1群', keywords: ['新人营', '2期', '1群'] }, 
@@ -65,14 +84,14 @@ export function parseFilenameMeta(filename: string) {
 
   // 1. Semantic Matching
   // Normalize checking: remove punctuation, lowercase
-  const searchStr = filename.toLowerCase().replace(/[_\-\s丨|]/g, '');
+  const searchStr = normalizeFilenameForMatch(filename);
 
   let matchedGroup = null;
 
   for (const group of CANONICAL_GROUPS) {
       // Check if ALL keywords are present
       const allExist = group.keywords.every(kw => {
-          const kwClean = kw.toLowerCase().replace(/[_\-\s]/g, '');
+          const kwClean = normalizeFilenameForMatch(kw);
           return searchStr.includes(kwClean);
       });
       
@@ -114,7 +133,7 @@ export function parseFilenameMeta(filename: string) {
   }
 
   // Fallback to original logic if no semantic match (e.g. for unknown new files)
-  const prefixPattern = /(?:深海圈[丨|])\s*/;
+  const prefixPattern = /(?:深海圈[丨|]?)\s*/;
   const m =
     filename.match(new RegExp(`${prefixPattern.source}(.+?)(\\d+期)?\\s?(\\d+群)?_(\\d{4}-\\d{2}-\\d{2})`)) ||
     filename.match(new RegExp(`${prefixPattern.source}(.+?)_(\\d{4}-\\d{2}-\\d{2})`));
@@ -143,10 +162,17 @@ export function parseFilenameMeta(filename: string) {
     };
   }
   
-  const productLine = (m[1] || '').replace(/(\d+期)?(\d+群)?$/, '').trim();
+  let productLine = (m[1] || '').replace(/(\d+期)?(\d+群)?$/, '').trim();
   const period = m[2]?.replace('期', '');
   const groupNumber = m[3]?.replace('群', '') || '1';
   // dateStr already calculated above
+
+  if (!productLine && filename.includes('深海圈')) {
+    productLine = 'AI产品出海';
+  }
+  if (productLine.includes('海外AI产品')) {
+    productLine = 'AI产品出海';
+  }
 
   return { productLine, period, groupNumber, dateStr };
 }
@@ -156,7 +182,7 @@ function normalizeAuthor(raw: string) {
   return raw.replace(/[|｜].*$/, '').trim();
 }
 
-function parseMessages(rawText: string): ParsedMessage[] {
+export function parseMessages(rawText: string): ParsedMessage[] {
   const lines = rawText.split(/\r?\n/);
   const messages: ParsedMessage[] = [];
   let current: ParsedMessage | null = null;

@@ -112,9 +112,14 @@ export default function CommunityDashboardPage() {
             实时监测社群活跃度、服务质量与高价值产出。
           </p>
         </div>
-        <Link href="/community/good-news-review" className="text-xs text-primary hover:underline">
-          好事审核
-        </Link>
+        <div className="flex items-center gap-4">
+          <Link href="/community/import" className="text-xs text-primary hover:underline">
+            数据导入
+          </Link>
+          <Link href="/community/good-news-review" className="text-xs text-primary hover:underline">
+            好事审核
+          </Link>
+        </div>
       </div>
 
       {/* KPI Cards */}

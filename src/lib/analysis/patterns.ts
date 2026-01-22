@@ -9,6 +9,10 @@
 
 // 消息头部模式: 昵称(wxid) MM-DD HH:MM:SS
 export const MESSAGE_HEADER_PATTERN = /^(.+?)\s*\(([^)]+)\)\s+(\d{2})-(\d{2})\s+(\d{2}):(\d{2}):(\d{2})/;
+// 消息头部模式: 昵称 MM-DD HH:MM:SS
+export const MESSAGE_HEADER_PATTERN_NO_WXID = /^(.+?)\s+(\d{2})-(\d{2})\s+(\d{2}):(\d{2}):(\d{2})/;
+// 消息头部模式: 昵称 HH:MM:SS（无日期）
+export const MESSAGE_HEADER_PATTERN_TIME_ONLY = /^(.+?)\s+(\d{2}):(\d{2}):(\d{2})$/;
 
 // 时间模式
 export const TIME_PATTERN = /(\d{2}):(\d{2}):(\d{2})/;

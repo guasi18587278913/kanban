@@ -27,6 +27,11 @@ import {
   tagCatalog,
 } from '@/config/db/schema-community-v2';
 import { eq, and, gte, lte, sql, desc, asc, like, inArray } from 'drizzle-orm';
+import { revalidatePath } from 'next/cache';
+import { nanoid } from 'nanoid';
+import crypto from 'crypto';
+import { parseFilenameMeta } from '@/lib/community-raw-parser';
+import { processSingleChatLog } from '@/lib/llm-analysis-pipeline';
 
 // ============================================
 // 成员相关
@@ -786,4 +791,197 @@ export async function getDashboardStatsV2() {
   });
 
   return enhancedReports;
+}
+
+// ============================================
+// V2 导入功能
+// ============================================
+
+export interface ImportResult {
+  success: boolean;
+  message: string;
+  data?: {
+    logId?: string;
+    stats?: {
+      qa: number;
+      goodNews: number;
+      koc: number;
+    };
+  };
+}
+
+/**
+ * 安全地调用 revalidatePath
+ */
+async function safeRevalidate(path: string) {
+  try {
+    await revalidatePath(path);
+  } catch (e) {
+    console.warn('[V2 Import] Revalidate skipped:', e);
+  }
+}
+
+/**
+ * 计算文件内容的 MD5 哈希
+ */
+function getFileHash(content: string): string {
+  return crypto.createHash('md5').update(content).digest('hex');
+}
+
+/**
+ * 统计消息数（简单按消息格式行数估算）
+ */
+function countMessages(content: string): number {
+  // 匹配消息格式: 昵称 日期 时间 或 昵称(wxid) 日期 时间
+  const messagePattern = /^.+\s+\d{2}:\d{2}:\d{2}/gm;
+  const matches = content.match(messagePattern);
+  return matches ? matches.length : 0;
+}
+
+/**
+ * V2 版本的导入函数
+ *
+ * 流程：
+ * 1. 解析文件名获取元信息
+ * 2. 写入 rawChatLog 表（保存原始数据）
+ * 3. 调用 LLM 分析管道处理
+ * 4. 分析结果写入新表（dailyStats, goodNews, kocRecord, qaRecord 等）
+ */
+export async function importRawChatLogV2(
+  filename: string,
+  fileContent: string,
+  dateOverride?: string
+): Promise<ImportResult> {
+  try {
+    console.log(`[V2 Import] Starting import: ${filename}`);
+
+    // 1. 解析文件名
+    const meta = parseFilenameMeta(filename);
+    const chatDateStr = dateOverride || meta.dateStr;
+    const chatDate = new Date(chatDateStr);
+
+    // 提取期数（去掉"期"字）
+    let period = meta.period;
+    if (period && period.endsWith('期')) {
+      period = period.replace('期', '');
+    }
+
+    // 提取群号
+    let groupNumber = parseInt(meta.groupNumber || '1', 10);
+    if (isNaN(groupNumber)) groupNumber = 1;
+
+    console.log(`[V2 Import] Parsed meta:`, {
+      productLine: meta.productLine,
+      period,
+      groupNumber,
+      chatDate: chatDateStr,
+    });
+
+    // 2. 计算文件哈希
+    const fileHash = getFileHash(fileContent);
+    const messageCount = countMessages(fileContent);
+
+    // 3. 检查是否已存在
+    const existing = await db()
+      .select()
+      .from(rawChatLog)
+      .where(
+        and(
+          eq(rawChatLog.productLine, meta.productLine),
+          eq(rawChatLog.period, period || '1'),
+          eq(rawChatLog.groupNumber, groupNumber),
+          eq(rawChatLog.chatDate, chatDate)
+        )
+      );
+
+    let logId: string;
+
+    if (existing.length > 0) {
+      // 检查内容是否有变化
+      if (existing[0].fileHash === fileHash) {
+        console.log(`[V2 Import] Content unchanged, skipping: ${filename}`);
+        // 内容没变，但仍然需要触发分析（如果之前失败了）
+        if (existing[0].status === 'processed') {
+          return {
+            success: true,
+            message: '文件内容无变化，已跳过',
+            data: { logId: existing[0].id },
+          };
+        }
+      }
+
+      // 更新现有记录
+      logId = existing[0].id;
+      await db()
+        .update(rawChatLog)
+        .set({
+          rawContent: fileContent,
+          fileHash,
+          messageCount,
+          fileName: filename,
+          status: 'pending', // 重置状态，需要重新分析
+          updatedAt: new Date(),
+        })
+        .where(eq(rawChatLog.id, logId));
+
+      console.log(`[V2 Import] Updated existing record: ${logId}`);
+    } else {
+      // 新增记录
+      logId = nanoid();
+      await db().insert(rawChatLog).values({
+        id: logId,
+        productLine: meta.productLine,
+        period: period || '1',
+        groupNumber,
+        chatDate,
+        fileName: filename,
+        fileHash,
+        rawContent: fileContent,
+        messageCount,
+        status: 'pending',
+      });
+
+      console.log(`[V2 Import] Created new record: ${logId}`);
+    }
+
+    // 4. 调用 LLM 分析管道
+    console.log(`[V2 Import] Starting LLM analysis for: ${logId}`);
+    const analysisSuccess = await processSingleChatLog(logId);
+
+    if (!analysisSuccess) {
+      // 分析失败，更新状态
+      await db()
+        .update(rawChatLog)
+        .set({
+          status: 'failed',
+          statusReason: 'LLM analysis failed',
+          updatedAt: new Date(),
+        })
+        .where(eq(rawChatLog.id, logId));
+
+      return {
+        success: false,
+        message: 'LLM 分析失败，请检查日志',
+        data: { logId },
+      };
+    }
+
+    // 5. 刷新缓存
+    await safeRevalidate('/community');
+
+    console.log(`[V2 Import] Successfully imported: ${filename}`);
+
+    return {
+      success: true,
+      message: '导入成功（V2 流程）',
+      data: { logId },
+    };
+  } catch (error) {
+    console.error('[V2 Import] Error:', error);
+    const errorMessage = error instanceof Error ? error.message : String(error);
+    return {
+      success: false,
+      message: `导入失败: ${errorMessage}`,
+    };
+  }
 }

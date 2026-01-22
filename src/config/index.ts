@@ -8,6 +8,8 @@ if (
 ) {
   try {
     const dotenv = require('dotenv');
+    // Prefer .env.local for scripts, then fall back to .env.development and .env
+    dotenv.config({ path: '.env.local' });
     dotenv.config({ path: '.env.development' });
     dotenv.config({ path: '.env', override: false });
   } catch (e) {

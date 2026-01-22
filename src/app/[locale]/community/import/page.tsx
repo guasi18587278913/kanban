@@ -1,7 +1,8 @@
 'use client';
 
 import { useState } from 'react';
-import { importRawChatLogWithLLM, clearCommunityData } from '@/actions/community-actions';
+import { clearCommunityData } from '@/actions/community-actions';
+import { importRawChatLogV2 } from '@/actions/community-v2-actions';
 import { Button } from '@/shared/components/ui/button';
 import { Textarea } from '@/shared/components/ui/textarea';
 import { Input } from '@/shared/components/ui/input';
@@ -22,15 +23,16 @@ export default function DailyReportImportPage() {
 
     setIsSubmitting(true);
     try {
-      const result = await importRawChatLogWithLLM(filename, content);
+      const result = await importRawChatLogV2(filename, content);
       if (result.success) {
-        toast.success(result.message === 'Report imported successfully' ? '导入成功！' : result.message);
+        toast.success(result.message);
         setFilename('');
         setContent('');
       } else {
         toast.error(result.message);
       }
     } catch (error) {
+      console.error('Import error:', error);
       toast.error('导入失败，请重试');
     } finally {
       setIsSubmitting(false);

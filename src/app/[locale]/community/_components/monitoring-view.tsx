@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { format, isSameDay } from "date-fns";
-import { CalendarIcon, TrendingUp } from "lucide-react";
+import { AlertTriangle, CalendarIcon, Lightbulb, TrendingUp, User } from "lucide-react";
 
 import { Calendar } from "@/shared/components/ui/calendar";
 import { Popover, PopoverContent, PopoverTrigger } from "@/shared/components/ui/popover";

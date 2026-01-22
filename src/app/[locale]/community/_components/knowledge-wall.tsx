@@ -106,6 +106,19 @@ function formatKocDate(value: unknown) {
   return date.toLocaleDateString('zh-CN', { month: '2-digit', day: '2-digit' });
 }
 
+function formatMessageTime(value?: string | null) {
+  if (!value) return '';
+  if (/^\d{2}:\d{2}(:\d{2})?$/.test(value)) return value;
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return '';
+  return date.toLocaleTimeString('zh-CN', {
+    hour12: false,
+    hour: '2-digit',
+    minute: '2-digit',
+    second: '2-digit',
+  });
+}
+
 function normalizeKocTags(input?: string[] | string) {
   if (!input) return [];
   const raw = Array.isArray(input) ? input : input.split(/[，,\/、|｜]/);
@@ -423,7 +436,7 @@ export function KnowledgeWall({ data }: KnowledgeWallProps) {
 
   const [selectedKocName, setSelectedKocName] = useState<string | null>(null);
   const [openRawMap, setOpenRawMap] = useState<Record<string, boolean>>({});
-  const [rawMessages, setRawMessages] = useState<Record<string, { loading: boolean; error?: string; data?: RawMessage }>>({});
+  const [rawMessages, setRawMessages] = useState<Record<string, { loading: boolean; error?: string; data?: RawMessage; debug?: any; debugText?: string }>>({});
   const selectedKoc = useMemo(() => {
     if (kocs.length === 0) return null;
     if (!selectedKocName) return kocs[0];
@@ -457,11 +470,47 @@ export function KnowledgeWall({ data }: KnowledgeWallProps) {
         `/api/community/koc-message?sourceLogId=${encodeURIComponent(item.sourceLogId)}&messageIndex=${item.messageIndex}`,
         { cache: 'no-store' }
       );
-      if (!res.ok) throw new Error(`加载失败: ${res.status}`);
-      const json = await res.json();
+      const resText = await res.text();
+      let json: any = null;
+      try {
+        json = resText ? JSON.parse(resText) : null;
+      } catch {
+        json = null;
+      }
+      const contentType = res.headers.get('content-type') || '';
+      const debugText = !json && resText ? resText.slice(0, 500) : undefined;
+      if (!res.ok) {
+        setRawMessages((prev) => ({
+          ...prev,
+          [key]: {
+            loading: false,
+            error: json?.error || `加载失败: ${res.status}`,
+            debug: json?.debug,
+            debugText: debugText ? `content-type=${contentType}\n${debugText}` : `content-type=${contentType}`,
+          },
+        }));
+        return;
+      }
+      if (!json?.message) {
+        setRawMessages((prev) => ({
+          ...prev,
+          [key]: {
+            loading: false,
+            error: '原文暂不可用（缺少消息内容）',
+            debug: json?.debug,
+            debugText: debugText ? `content-type=${contentType}\n${debugText}` : `content-type=${contentType}`,
+          },
+        }));
+        return;
+      }
       setRawMessages((prev) => ({
         ...prev,
-        [key]: { loading: false, data: json?.message || {} },
+        [key]: {
+          loading: false,
+          data: json.message || {},
+          debug: json?.debug,
+          debugText: debugText ? `content-type=${contentType}\n${debugText}` : `content-type=${contentType}`,
+        },
       }));
     } catch (error) {
       setRawMessages((prev) => ({
@@ -640,29 +689,82 @@ export function KnowledgeWall({ data }: KnowledgeWallProps) {
                                       {showRaw && isOpen && (
                                         <div className="mt-2 rounded-md border bg-muted/40 px-2 py-2 text-xs text-muted-foreground space-y-2">
                                           {rawState?.loading && <div>原文加载中...</div>}
-                                          {rawState?.error && <div>原文加载失败：{rawState.error}</div>}
+                                          {rawState?.error && (
+                                            <div className="rounded-md border border-rose-200/60 bg-rose-50/60 px-2 py-2 text-rose-600">
+                                              <div className="text-xs font-semibold">原文加载失败</div>
+                                              <div className="mt-1 text-xs">{rawState.error}</div>
+                                              <div className="mt-2 text-[11px] text-muted-foreground">
+                                                诊断信息：
+                                                {item.sourceLogId ? (
+                                                  <>
+                                                    {' '}sourceLogId=
+                                                    <span className="font-medium">{item.sourceLogId}</span>
+                                                  </>
+                                                ) : (
+                                                  ' sourceLogId=缺失'
+                                                )}
+                                                {item.messageIndex != null ? (
+                                                  <>
+                                                    {' '}· messageIndex=
+                                                    <span className="font-medium">{item.messageIndex}</span>
+                                                  </>
+                                                ) : (
+                                                  ' · messageIndex=缺失'
+                                                )}
+                                                {item.groupName ? <> · 群={item.groupName}</> : null}
+                                                {item.dateLabel ? <> · 日期={item.dateLabel}</> : null}
+                                              </div>
+                                              {rawState.debug && (
+                                                <div className="mt-2 text-[10px] text-muted-foreground whitespace-pre-wrap">
+                                                  详细诊断：{typeof rawState.debug === 'string'
+                                                    ? rawState.debug
+                                                    : JSON.stringify(rawState.debug)}
+                                                </div>
+                                              )}
+                                              {rawState.debugText && (
+                                                <div className="mt-2 text-[10px] text-muted-foreground whitespace-pre-wrap">
+                                                  响应片段：{rawState.debugText}
+                                                </div>
+                                              )}
+                                            </div>
+                                          )}
                                           {rawState?.data && (
                                             <>
                                               {Array.isArray(rawState.data.contextBefore) && rawState.data.contextBefore.length > 0 && (
                                                 <div className="space-y-1">
                                                   {rawState.data.contextBefore.slice(-2).map((ctx, ctxIndex) => (
-                                                    <div key={`before-${ctxIndex}`}>
+                                                    <div key={`before-${ctxIndex}`} className="flex flex-wrap items-start gap-1.5">
+                                                      {formatMessageTime(ctx.time) && (
+                                                        <span className="text-[10px] text-muted-foreground shrink-0">
+                                                          {formatMessageTime(ctx.time)}
+                                                        </span>
+                                                      )}
                                                       <span className="font-medium">{ctx.author || '群友'}：</span>
-                                                      {ctx.content}
+                                                      <span className="text-muted-foreground">{ctx.content}</span>
                                                     </div>
                                                   ))}
                                                 </div>
                                               )}
-                                              <div className="text-foreground">
+                                              <div className="flex flex-wrap items-start gap-1.5 text-foreground">
+                                                {formatMessageTime(rawState.data.messageTime) && (
+                                                  <span className="text-[10px] text-muted-foreground shrink-0">
+                                                    {formatMessageTime(rawState.data.messageTime)}
+                                                  </span>
+                                                )}
                                                 <span className="font-medium">{rawState.data.authorName || '群友'}：</span>
-                                                {rawState.data.messageContent || '暂无原文'}
+                                                <span>{rawState.data.messageContent || '暂无原文'}</span>
                                               </div>
                                               {Array.isArray(rawState.data.contextAfter) && rawState.data.contextAfter.length > 0 && (
                                                 <div className="space-y-1">
                                                   {rawState.data.contextAfter.slice(0, 2).map((ctx, ctxIndex) => (
-                                                    <div key={`after-${ctxIndex}`}>
+                                                    <div key={`after-${ctxIndex}`} className="flex flex-wrap items-start gap-1.5">
+                                                      {formatMessageTime(ctx.time) && (
+                                                        <span className="text-[10px] text-muted-foreground shrink-0">
+                                                          {formatMessageTime(ctx.time)}
+                                                        </span>
+                                                      )}
                                                       <span className="font-medium">{ctx.author || '群友'}：</span>
-                                                      {ctx.content}
+                                                      <span className="text-muted-foreground">{ctx.content}</span>
                                                     </div>
                                                   ))}
                                                 </div>

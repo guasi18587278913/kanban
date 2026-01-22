@@ -5,6 +5,8 @@
 
 import {
   MESSAGE_HEADER_PATTERN,
+  MESSAGE_HEADER_PATTERN_NO_WXID,
+  MESSAGE_HEADER_PATTERN_TIME_ONLY,
   IMAGE_PATTERN,
   LINK_PATTERN,
   FILE_PATTERN,
@@ -177,19 +179,33 @@ export function parseMessages(
     if (!trimmed) continue;
 
     // 尝试匹配消息头部
-    const match = trimmed.match(MESSAGE_HEADER_PATTERN);
+    const matchFull = trimmed.match(MESSAGE_HEADER_PATTERN);
+    const matchNoWxid = matchFull ? null : trimmed.match(MESSAGE_HEADER_PATTERN_NO_WXID);
+    const matchTimeOnly = matchFull || matchNoWxid ? null : trimmed.match(MESSAGE_HEADER_PATTERN_TIME_ONLY);
 
-    if (match) {
+    if (matchFull || matchNoWxid || matchTimeOnly) {
       // 先保存上一条消息
       flushCurrentMessage();
 
-      const author = match[1].trim();
-      const wxId = match[2];
-      const month = parseInt(match[3], 10);
-      const day = parseInt(match[4], 10);
-      const hour = parseInt(match[5], 10);
-      const minute = parseInt(match[6], 10);
-      const second = parseInt(match[7], 10);
+      const author = (matchFull?.[1] || matchNoWxid?.[1] || matchTimeOnly?.[1] || '').trim();
+      const wxId = matchFull?.[2];
+      const month = matchFull ? parseInt(matchFull[3], 10) : matchNoWxid ? parseInt(matchNoWxid[2], 10) : chatDate.getMonth() + 1;
+      const day = matchFull ? parseInt(matchFull[4], 10) : matchNoWxid ? parseInt(matchNoWxid[3], 10) : chatDate.getDate();
+      const hour = matchFull
+        ? parseInt(matchFull[5], 10)
+        : matchNoWxid
+          ? parseInt(matchNoWxid[4], 10)
+          : parseInt(matchTimeOnly?.[2] || '0', 10);
+      const minute = matchFull
+        ? parseInt(matchFull[6], 10)
+        : matchNoWxid
+          ? parseInt(matchNoWxid[5], 10)
+          : parseInt(matchTimeOnly?.[3] || '0', 10);
+      const second = matchFull
+        ? parseInt(matchFull[7], 10)
+        : matchNoWxid
+          ? parseInt(matchNoWxid[6], 10)
+          : parseInt(matchTimeOnly?.[4] || '0', 10);
 
       // 构建完整时间戳
       const timestamp = new Date(chatDate);
@@ -216,7 +232,11 @@ export function parseMessages(
         wxId,
         memberId,
         memberRole,
-        time: `${match[5]}:${match[6]}:${match[7]}`,
+        time: matchFull
+          ? `${matchFull[5]}:${matchFull[6]}:${matchFull[7]}`
+          : matchNoWxid
+            ? `${matchNoWxid[4]}:${matchNoWxid[5]}:${matchNoWxid[6]}`
+            : `${matchTimeOnly?.[2] || '00'}:${matchTimeOnly?.[3] || '00'}:${matchTimeOnly?.[4] || '00'}`,
         hour,
         minute,
         timestamp,
